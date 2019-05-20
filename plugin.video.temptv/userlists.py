@@ -7,5 +7,5 @@ List2 = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u
 List3 = 'https://textuploader.com/du2y3/rev/136'
 List4 = 'https://textuploader.com/1dop6/raw'
 english = 'https://textuploader.com/1do8j/raw'
-hour24 = 'https://textuploader.com/1doe5/raw'
-kids = 'https://raw.githubusercontent.com/Tempest0580/Temptv/kids'
+hour24 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/Lists/27-7.txt'
+kids = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/Lists/kids.txt'
