@@ -44,9 +44,11 @@ def MAIN():
     addDir('Refresh', '', 6, AddonIcon, Folder=False)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
+def laguages():
+    addDir('Afghanistan', ChannelzList, 1, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 def MORELISTS():
-    ###########
     addDir('MenuList', MenuList, 2, AddonIcon)
     addDir('ChannelzList', ChannelzList, 1, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
