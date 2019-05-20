@@ -1,0 +1,45 @@
+
+=Fluxus IPTV=https://pastebin.com/raw/0AxHuqZv=
+=Fluxus Cinema=https://raw.githubusercontent.com/jewbmx/xml/master/lists/FluxusCinema.txt=
+=Fluxus Radio=https://pastebin.com/raw/M4Z9AbGR=
+=Fluxus CCTV=https://pastebin.com/raw/9SN2c6ii=
+=Fluxus Faith TV=https://pastebin.com/raw/YcT6F9Sr=
+=Fluxus Lust=https://pastebin.com/raw/EFjBwC9e=
+
+=PandaSat=http://www.pandasat.info/iptv/kodi=
+
+=SlyNet - WebCams=http://iptv.slynet.tv/FreeWebCamsWorld.m3u=
+=SlyNet - FreeWorldTV=http://iptv.slynet.tv/FreeWorldTV.m3u=
+=SlyNet - PeersTVSlyNet=http://iptv.slynet.tv/PeerstvSlyNet.m3u=
+=SlyNet - 3G BolshoeTVSlyNet Low Quality for mobile=http://iptv.slynet.tv/3gSlyNet.m3u=
+=SlyNet - AdultsSlyNet=http://iptv.slynet.tv/AdultsSlyNet.m3u=
+=SlyNet - KinodromSlyNet=http://iptv.slynet.tv/KinodromSlyNet.m3u=
+=SlyNet - RadioSlyNet=http://iptv.slynet.tv/RadioSlyNet.m3u=
+
+=AchoTV - Lists M3U updated 1438 free channels=https://www.achoapps.com/listas/lista3.m3u=
+=AchoTV - Updated list 1500 channels=https://www.achotv.com/listas/acho.m3u=
+=AchoTV - Updated list=https://www.achotv.com/listas/achotv2019.m3u=
+=AchoTV - More than 4 thousand remote channels=https://www.achotv.com/listas/achotv2018.m3u=
+=AchoTV - Remote channels=https://www.achotv.com/listas/canales.m3u=
+=AchoTV - Remote movies=https://www.achotv.com/listas/peliculas.m3u=
+=AchoTV - CCTV=https://www.achotv.com/listas/cctv.m3u=
+=AchoTV - Channels by remote countries=https://www.achotv.com/listas/paises.m3u=
+=AchoTV - Movies in English and VO=https://www.achotv.com/listas/peliculas-ingles.m3u=
+=AchoTV - Adult porn channels xxx=https://www.achotv.com/listas/canales-x.m3u=
+=AchoTV - List m3u PORTUGAL=https://www.achotv.com/listas/portugal.m3u=
+
+=RadiosArgentina - IPTV US=http://www.radiosargentina.com.ar/TVUS.m3u=
+
+=RagnarokTv=http://ragnaroktv.com/tv/lista.m3u=
+
+=TecnoTV=http://tecnotv.xyz/lista.m3u=
+=TecnoTV2=http://tecnotv.xyz/lista2.m3u=
+
+=SrRegio=http://srregio.xyz/IPTV/regiotv.m3u=
+=SrRegio - Flix=http://srregio.xyz/IPTV/regioflix.m3u=
+=SrRegio - TV=http://srregio.xyz/IPTV/tv.m3u=
+=SrRegio - Deportes=http://srregio.xyz/IPTV/deportes.m3u=
+=SrRegio - Alterna=http://srregio.xyz/IPTV/alterna.m3u=
+=SrRegio - Alterna2=http://srregio.xyz/IPTV/alterna2.m3u=
+=SrRegio - Spain=http://srregio.xyz/IPTV/spain.m3u=
+

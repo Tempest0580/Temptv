@@ -1,0 +1,37 @@
+# Addon Name: TempTV
+# Addon id: plugin.video.temptv
+# Addon Provider: Tempest, JewBMX
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: TempTV\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-03-10 12:00+0000\n"
+"Last-Translator: JewBMX\n"
+"Language-Team: English (http://www.google.com/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30002"
+msgid "Set Default Playback"
+msgstr ""
+
+msgctxt "#30003"
+msgid "F4mProxy"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Direct"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Playback"
+msgstr ""
+
+msgctxt "#30006"
+msgid "General"
+msgstr ""
+
