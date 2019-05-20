@@ -11,3 +11,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b2694
 
 #EXTINF:0 tvg-logo="http://mediad.publicbroadcasting.net/p/krwg/files/styles/x_large/public/201703/kids_0.jpg" group-title="Cartoons",PBS Kids Channel
 https://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/By8OGzZ.png" group-title="USA/Canada",Nick Radio (Opt-2)
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8

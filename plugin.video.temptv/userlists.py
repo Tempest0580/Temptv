@@ -1,11 +1,11 @@
 
 # EXTM3U
-# Source  https://www.en.m3uiptv.com/iptv-links-free-m3u-playlist-11-04-2019-2/
 
-List1 = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/us.m3u'
+english = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/english.txt'
+hour24 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/24-7.txt'
+kids = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kids.txt'
+sports = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/sports.txt'
+news = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/news.txt'
 List2 = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
-List3 = 'https://textuploader.com/du2y3/rev/136'
-List4 = 'https://textuploader.com/1dop6/raw'
-english = 'https://textuploader.com/1do8j/raw'
-hour24 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/Lists/27-7.txt'
-kids = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/Lists/kids.txt'
+music = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/music.txt'
+adult = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/adult.txt'
