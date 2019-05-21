@@ -9,6 +9,48 @@ https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News (HD)
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="NEWS",ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/index_100_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News [720p]
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 11 [720p]
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 2 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 3 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 4 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.pngl" group-title="News",ABC News Digital 5 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 6 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 7 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 8 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital 9 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/abc-news-logo.png" group-title="News",ABC News Digital [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1020357967265390592/y_hxRslu.jpg" group-title="News",ABC News Live [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/955830377733545984/JhptxLYU_400x400.jpg" group-title="News",Action News Now (KNVN) [432p]
+http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS 4 News [360p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
@@ -188,3 +230,9 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WGN 9 NEWS CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/placeholder-16x9_1532051234409_12382778_ver1.0_320_180.png" group-title="USA LOCAL",Boston 25 News (Massachusetts)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="USA LOCAL",NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8

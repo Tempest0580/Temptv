@@ -31,9 +31,10 @@ DayPro = 'https://textuploader.com/1ds64/raw'
 
 def MAIN():
     addDir('English', userlists.english, 2, AddonIcon)
-    addDir('27/7', userlists.hour24, 2, AddonIcon)
+    addDir('Movies', userlists.movies, 2, AddonIcon)
     addDir('Kids', userlists.kids, 2, AddonIcon)
     addDir('Sports', userlists.sports, 2, AddonIcon)
+    addDir('27/7', userlists.hour24, 2, AddonIcon)
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
