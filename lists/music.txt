@@ -24,43 +24,43 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" group-title="USA-SERVER1",CMT (Country Music Television)
 http://espn.tmedia.me/cache/cmt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing [540p]
 http://www.djing.com/tv/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Animation [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Animation [540p]
 http://www.djing.com/tv/animation.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Avicii [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Avicii [720p]
 http://www.djing.com/tv/session_avicii.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Classic [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Classic [540p]
 http://www.djing.com/tv/classics.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Dance Floor [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Dance Floor [540p]
 http://djing.com/tv/dancefloor.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Electro rock [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Electro rock [540p]
 https://www.djing.com/tv/session_electro-rock.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing French touch [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing French touch [540p]
 https://www.djing.com/tv/session_french-touch.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Hedonist [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Hedonist [720p]
 http://www.djing.com/tv/session_hedonist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Hits [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Hits [540p]
 http://www.djing.com/tv/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Hot Hot Hot [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Hot Hot Hot [720p]
 http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Karaoke [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Karaoke [540p]
 https://www.djing.com/tv/karaoke.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Summer Vibes [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Summer Vibes [720p]
 http://www.djing.com/tv/session_summer-vibes.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DJing Underground [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJing Underground [540p]
 http://www.djing.com/tv/underground.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mctvohio.com/uploads/mc-black-beveledstyle.jpg" group-title="USA",Music Choice

@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",ESPN [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sport",ESPN [720p]
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnews-269x151.png" group-title="USA-SERVER1",ESPN News
 http://espn.tmedia.me/cache/espnews.m3u8
 
-#EXTINF:-1,SPORT HD
+#EXTINF:-1 tvg-logo="https://asad1.com/wp-content/uploads/2018/12/Sport-HD-Wallpaper-267-324x160.jpg" group-title="Sports",SPORT HD
 http://161.0.157.6/PLTV/88888888/224/3221227040/index.m3u8
 
-#EXTINF:-1,SPORTSMAX 2
+#EXTINF:-1 tvg-logo="https://scheduler.sportsmax.tv/img/sm2.png" group-title="Sports",SPORTSMAX 2
 http://161.0.157.6/PLTV/88888888/224/3221226777/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",CCX Sports [1080p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/809859306954723328/ldxBUVVT.jpg" group-title="Sport",CCX Sports [1080p]
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Cheddar Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-images-1.medium.com/max/1200/1*DMNlsTRvfufYNY53H_Al6g.png" group-title="Sport",Cheddar Sports
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="American Sports",Olympic

@@ -1,25 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Penthouse HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/08/penthouse_hd.png" group-title="XXX",Penthouse HD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Jasmin TV [720p]
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.babestation.tv/cams/_nuxt/img/15f4392.png" group-title="- IPTV",Babestation
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
@@ -2859,6 +2841,24 @@ http://admin.fetishbox.com/_content/ultimatesurrender/2845_isis_sarah_md.mp4
 http://admin.fetishbox.com/_content/waterbondage/5106_wenona_md.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/20xbVnU.png" group-title="KINK",Kink - VOD 107 Ultimate Surrender - Dragon + Nina
 http://admin.fetishbox.com/_content/ultimatesurrender/3011_dragon_Nina_md.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dealood.com/content/uploads/images/April2019/32769d66723f9006fa979cb262ed9b58-medium.jpg" group-title="XXX",Jasmin TV [720p]
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/20xbVnU.png" group-title="KINK",Kink - VOD 108 Ultimate Surrender - Christina + Dragon
 http://admin.fetishbox.com/_content/ultimatesurrender/3186_christina_dragon_md.mp4
