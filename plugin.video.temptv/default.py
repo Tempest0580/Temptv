@@ -36,7 +36,7 @@ def MAIN():
     addDir('Sports', userlists.sports, 2, AddonIcon)
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
-    addDir('UK', userlists.List2, 2, AddonIcon)
+    addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
     #addDir('MORELISTS', '', 5, AddonIcon)
@@ -46,6 +46,7 @@ def MAIN():
 
 
 def MORELISTS():
+    ###########
     addDir('MenuList', MenuList, 2, AddonIcon)
     addDir('ChannelzList', ChannelzList, 1, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))

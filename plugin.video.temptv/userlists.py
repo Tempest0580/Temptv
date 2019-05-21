@@ -9,4 +9,4 @@ news = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/news.t
 music = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/music.txt'
 adult = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/adult.txt'
 
-Uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
+uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
