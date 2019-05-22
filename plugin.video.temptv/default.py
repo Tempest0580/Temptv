@@ -63,18 +63,18 @@ def addDir(name, url, mode, iconimage, Folder=True):
     else:
         u = (sys.argv[0] + "?url=" + urllib.quote_plus(url) + "&mode=" + str(mode) + "&name=" + urllib.quote_plus(name))
     ok = True
-    status = ""
-    try:
-        siteup = requests.get(url, timeout=1)
-        if siteup.status_code == 200:
-            status = " [COLOR green]online[/COLOR]"
-        elif siteup.status_code == 404:
-            status = " [COLOR red]offline[/COLOR]"
-    except:
-        status = " [COLOR red]offline[/COLOR]"
-    if mode == 4 or mode == 5 or mode == 6:
-        status = ""
-    liz = xbmcgui.ListItem(name+status, iconImage="DefaultFolder.png", thumbnailImage=iconimage)
+    #status = ""
+    #try:
+    #    siteup = requests.get(url, timeout=1)
+    #    if siteup.status_code == 200:
+    #        status = " [COLOR green]online[/COLOR]"
+    #    elif siteup.status_code == 404:
+    #        status = " [COLOR red]offline[/COLOR]"
+    #except:
+    #    status = " [COLOR red]offline[/COLOR]"
+    #if mode == 4 or mode == 5 or mode == 6:
+    #    status = ""
+    liz = xbmcgui.ListItem(name, iconImage="DefaultFolder.png", thumbnailImage=iconimage)
     liz.setArt({'thumb': iconimage, 'icon': iconimage})
     liz.setArt({'fanart': AddonFanArt})
     liz.setInfo(type="Video", infoLabels={"Title": name})
