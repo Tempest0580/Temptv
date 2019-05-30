@@ -23,3 +23,6 @@ https://videoserver2.org/live/joILiWWyD8nDhHlhuM7OjQ/1559251220/9dd94bf630bc30dc
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24/7" ,The Simpsons
 https://videoserver1.org/live/RUWIXsdbfE5AynwEPvv5ug/1559252372/3691308f2a4c2f6983f2880d32e29c84.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24/7" ,Family Guy
+https://videoserver1.org/live/1eH2bS36Fw8SlVkbF8BH9g/1559253224/3d4044d65abdda407a92991f1300ec97.m3u8
