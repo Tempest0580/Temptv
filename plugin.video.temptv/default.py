@@ -1,8 +1,8 @@
 ﻿# -*- coding: UTF-8 -*-
-# Based on Ultimate IPTV by Whitecream.
 
 import re, os, sys, urllib, urllib2, requests, socket, gzip
 import xbmc, xbmcaddon, xbmcgui, xbmcplugin
+import userlists
 
 Addon = xbmcaddon.Addon
 AddonInfo = Addon().getAddonInfo
@@ -19,18 +19,13 @@ addon_handle = int(sys.argv[1])
 socket.setdefaulttimeout(10)
 urlopen = urllib2.urlopen
 Request = urllib2.Request
-USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
+USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
 headers = {'User-Agent': USER_AGENT, 'Accept': '*/*', 'Connection': 'keep-alive'}
 adult = addon.getSetting('Show_Adult')
 
-import userlists
-MenuList = 'https://textuploader.com/1dsk7/raw'
-ChannelzList = 'https://textuploader.com/1d90b/raw'
-DayPro = 'https://textuploader.com/1ds64/raw'
-
 
 def MAIN():
-    addDir('English', userlists.english, 2, AddonIcon)
+    addDir('Entertainment', userlists.english, 2, AddonIcon)
     addDir('Movies', userlists.movies, 2, AddonIcon)
     addDir('Kids', userlists.kids, 2, AddonIcon)
     addDir('Sports', userlists.sports, 2, AddonIcon)
@@ -47,9 +42,7 @@ def MAIN():
 
 
 def MORELISTS():
-    ###########
     addDir('Testing', userlists.testing, 2, AddonIcon)
-    addDir('ChannelzList', ChannelzList, 1, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -63,17 +56,6 @@ def addDir(name, url, mode, iconimage, Folder=True):
     else:
         u = (sys.argv[0] + "?url=" + urllib.quote_plus(url) + "&mode=" + str(mode) + "&name=" + urllib.quote_plus(name))
     ok = True
-    #status = ""
-    #try:
-    #    siteup = requests.get(url, timeout=1)
-    #    if siteup.status_code == 200:
-    #        status = " [COLOR green]online[/COLOR]"
-    #    elif siteup.status_code == 404:
-    #        status = " [COLOR red]offline[/COLOR]"
-    #except:
-    #    status = " [COLOR red]offline[/COLOR]"
-    #if mode == 4 or mode == 5 or mode == 6:
-    #    status = ""
     liz = xbmcgui.ListItem(name, iconImage="DefaultFolder.png", thumbnailImage=iconimage)
     liz.setArt({'thumb': iconimage, 'icon': iconimage})
     liz.setArt({'fanart': AddonFanArt})
@@ -121,11 +103,6 @@ def parsem3u(html):
     count = 0
     for channelicon, name, url in match:
         url = url.replace('\r', '')
-        #status = ""
-        # try:
-        #    siteup = urllib.urlopen(url).getcode()
-        #    status = " [COLOR red]offline[/COLOR]" if siteup != 200 else " [COLOR green]online[/COLOR]"
-        # except: status = " [COLOR red]offline[/COLOR]"
         addPlayLink(name, url, 3, channelicon)
         count += 1
     return count
@@ -135,11 +112,6 @@ def PAGE(url):
     html = getHtml(url)
     iptvlinks = re.compile("=(.+?)=(.+?)=", re.DOTALL | re.IGNORECASE).findall(html)
     for name, link in iptvlinks:
-        #status = ""
-        # try:
-            # siteup = urllib.urlopen(link).getcode()
-            # status = " [COLOR red]offline[/COLOR]" if siteup != 200 else " [COLOR green]online[/COLOR]"
-        # except: status = " [COLOR red]offline[/COLOR]"
         addDir(name, link, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
