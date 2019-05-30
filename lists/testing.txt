@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="",Hallmark Movies and Mysteries
+http://185.246.209.249:25461/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/77089.m3u8?token=SkdcWEsKFl9DUA8DUlMCUgRSDAMEXApSA1dWWVRVDgQFUFYPCgNQVllDG0cSFkQGA1xrDwFHCFZSVF5YG0dDRFQXa1BcQA5HUFIOUFVXFE9ARV0LAEcIUUlGFghTRwwVA1MADglXFklDBE8RBBBYAg5uUAMTDFEER14IFFsJGhVeC2tdXQ9VCwVDDUdRQBpBC0JERF9HczVDMEYiWBdGGRNJFltRFkYEFQQVX0NRAVdQExhEBgpHDxEWH0MNR2NkE0kWXEAWUQsSCFgLQ1gUDlFEDERJR1sSOhYDEkMXU1ZcAEYbAkAER01DWgQZPVUMDF9RBREMXQ8WRlxDBkcaFVwKWlBMDUY6EQhTR1tAB1BbBABSRxg=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="" ,TLC
+https://videoserver1.org/live/fUE5T-zdsL_nOgUqTMy51A/1559250161/1e845dcb477e13f00b5b202a3dbffbde.m3u8
+
+#EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/the-walking-dead-920x584.png" group-title="" ,Walking Dead
+https://videoserver1.org/live/EkVdn8omz_slW2kvFklfGg/1559247696/d13095dcbff14ac6ed2b701ed4a771a2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png" group-title="24/7" ,Marvel
+https://videoserver1.org/live/_Fw5mjwvkIQdccgUCRxQRQ/1559249885/e285c9b6ec9b1704a1563b3adebda52f.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI2MjIzN2ItZDg0OS00MTlhLWIzMTMtYWI4ZTA0NGE4NDJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="24/7" ,Two and a Half Men
+https://videoserver1.org/live/qt_h4RteZSA4LuqWLvOSFw/1559250977/65f3a12d1dc82d6cd205f62101ee521c.m3u8
+
+#EXTINF:-1 tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24/7" ,House MD
+https://videoserver2.org/live/vgDvgh3Ai5O5_cSLqjqQsA/1559251136/2ca63cddd54f9490efad22421891a9d1.m3u8
+
+#EXTINF:-1 tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UV0007-NPVA37437_CN-0000000000074236/1557385877000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" group-title="24/7" ,StarGate Atlantis
+https://videoserver2.org/live/joILiWWyD8nDhHlhuM7OjQ/1559251220/9dd94bf630bc30dc2abf457575095b37.m3u8

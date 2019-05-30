@@ -40,7 +40,7 @@ def MAIN():
     addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
-    #addDir('MORELISTS', '', 5, AddonIcon)
+    addDir('MORELISTS', '', 5, AddonIcon)
     addDir('[B] Settings [/B]', 'url', 4, AddonIcon, Folder=False)
     addDir('Refresh', '', 6, AddonIcon, Folder=False)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
@@ -48,7 +48,7 @@ def MAIN():
 
 def MORELISTS():
     ###########
-    addDir('MenuList', MenuList, 2, AddonIcon)
+    addDir('Testing', userlists.testing, 2, AddonIcon)
     addDir('ChannelzList', ChannelzList, 1, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
@@ -121,12 +121,12 @@ def parsem3u(html):
     count = 0
     for channelicon, name, url in match:
         url = url.replace('\r', '')
-        status = ""
+        #status = ""
         # try:
         #    siteup = urllib.urlopen(url).getcode()
         #    status = " [COLOR red]offline[/COLOR]" if siteup != 200 else " [COLOR green]online[/COLOR]"
         # except: status = " [COLOR red]offline[/COLOR]"
-        addPlayLink(name+status, url, 3, channelicon)
+        addPlayLink(name, url, 3, channelicon)
         count += 1
     return count
 
@@ -135,12 +135,12 @@ def PAGE(url):
     html = getHtml(url)
     iptvlinks = re.compile("=(.+?)=(.+?)=", re.DOTALL | re.IGNORECASE).findall(html)
     for name, link in iptvlinks:
-        status = ""
+        #status = ""
         # try:
             # siteup = urllib.urlopen(link).getcode()
             # status = " [COLOR red]offline[/COLOR]" if siteup != 200 else " [COLOR green]online[/COLOR]"
         # except: status = " [COLOR red]offline[/COLOR]"
-        addDir(name+status, link, 2, AddonIcon)
+        addDir(name, link, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
