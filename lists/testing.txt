@@ -33,8 +33,11 @@ https://videoserver1.org/live/RUWIXsdbfE5AynwEPvv5ug/1559252372/3691308f2a4c2f69
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24/7" ,Family Guy
 https://videoserver1.org/live/1eH2bS36Fw8SlVkbF8BH9g/1559253224/3d4044d65abdda407a92991f1300ec97.m3u8
 
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/17-story-netflixchristmasmovies-1540493070.jpg?crop=1.00xw:1.00xh;0,0&resize=480:*" group-title="24/7" ,Christmas Movies
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/merry-christmas-calligraphy-with-baubles_1262-7024.jpg" group-title="24/7" ,Christmas Movies
 https://videoserver2.org/live/b3UKrKDjfB6OumVfqAfH6g/1559255942/17d6b59f16d493db84234ade495c6ce6.m3u8
 
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/cms/2018/12/DisneyParallaxNew.jpg" group-title="24/7" ,Disney Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kThuJfZfXGsyjHVnlHUN03xOALTAdZoa0wU9O2zaL8d25Xh2_w" group-title="24/7" ,Disney Movies
 https://videoserver1.org/live/fNzFa6Pw_06y8I5ENug_Pg/1559256039/f4e5ac94a94ed1c0cc8b4d4256e2bee3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/2400/1*gXgR2uZK6UKpG72tYKXsMw.jpeg" group-title="24/7" ,Pixar Movies
+https://videoserver1.org/live/MTEvqAQsDu2gK36nGMLHSw/1559256178/6eaace34908ca3047f39e18c26fe0eab.m3u8
