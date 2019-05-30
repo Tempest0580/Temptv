@@ -20,3 +20,6 @@ https://videoserver2.org/live/vgDvgh3Ai5O5_cSLqjqQsA/1559251136/2ca63cddd54f9490
 
 #EXTINF:-1 tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UV0007-NPVA37437_CN-0000000000074236/1557385877000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000" group-title="24/7" ,StarGate Atlantis
 https://videoserver2.org/live/joILiWWyD8nDhHlhuM7OjQ/1559251220/9dd94bf630bc30dc2abf457575095b37.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24/7" ,The Simpsons
+https://videoserver1.org/live/RUWIXsdbfE5AynwEPvv5ug/1559252372/3691308f2a4c2f6983f2880d32e29c84.m3u8
