@@ -1,9 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2017/01/abc-logo.jpg?w=1000" group-title="Entertainment",ABC
+https://videoserver2.org/live/j06zCsac-1cQ5ppSCddcgA/1559255561/aca0a31d14c85e19f7023c9a3889f37a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzMzI3NTIxNDk4NDQ4/freeformlogoresized-bcjpg.jpg" group-title="Entertainment",FreeForm
+https://videoserver1.org/live/o3-8rxi94Y-h1b2tAXEOpw/1559255672/654bc354612eeefee71cd611b175730c.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="",Hallmark Movies and Mysteries
 http://185.246.209.249:25461/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/77089.m3u8?token=SkdcWEsKFl9DUA8DUlMCUgRSDAMEXApSA1dWWVRVDgQFUFYPCgNQVllDG0cSFkQGA1xrDwFHCFZSVF5YG0dDRFQXa1BcQA5HUFIOUFVXFE9ARV0LAEcIUUlGFghTRwwVA1MADglXFklDBE8RBBBYAg5uUAMTDFEER14IFFsJGhVeC2tdXQ9VCwVDDUdRQBpBC0JERF9HczVDMEYiWBdGGRNJFltRFkYEFQQVX0NRAVdQExhEBgpHDxEWH0MNR2NkE0kWXEAWUQsSCFgLQ1gUDlFEDERJR1sSOhYDEkMXU1ZcAEYbAkAER01DWgQZPVUMDF9RBREMXQ8WRlxDBkcaFVwKWlBMDUY6EQhTR1tAB1BbBABSRxg=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="" ,TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Entertainment" ,TLC
 https://videoserver1.org/live/fUE5T-zdsL_nOgUqTMy51A/1559250161/1e845dcb477e13f00b5b202a3dbffbde.m3u8
 
 #EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/the-walking-dead-920x584.png" group-title="" ,Walking Dead
