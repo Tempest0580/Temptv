@@ -42,5 +42,4 @@ https://videoserver1.org/live/fNzFa6Pw_06y8I5ENug_Pg/1559256039/f4e5ac94a94ed1c0
 #EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/2400/1*gXgR2uZK6UKpG72tYKXsMw.jpeg" group-title="24/7" ,Pixar Movies
 https://videoserver1.org/live/MTEvqAQsDu2gK36nGMLHSw/1559256178/6eaace34908ca3047f39e18c26fe0eab.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="",Lifetime
-http://w7.11223344.host/live/lifetime/chunks.m3u8
+
