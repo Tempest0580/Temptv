@@ -45,7 +45,7 @@ http://voxtv.dynns.com:8000/live/USA/USA/2273.m3u8
 #EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="Movies",CINEMAX EAST
 http://voxtv.dynns.com:8000/live/USA/USA/2274.m3u8
 
-#EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="Movies",CINEMAX MOREMAX
+#EXTINF:-1 tvg-log="https://vignette.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20160721191425" group-title="Movies",CINEMAX MOREMAX
 http://voxtv.dynns.com:8000/live/USA/USA/2275.m3u8
 
 #EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/hbo-comedy.png" group-title="Movies",HBO COMEDY
@@ -54,7 +54,7 @@ http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
 #EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO EAST
 http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
 
-#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO HD
+#EXTINF:-1 tvg-log="http://hbosouthasia.com/assets/img/core/hbo-hd-logo-3d.png" group-title="Movies",HBO HD
 http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
 
 #EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE
