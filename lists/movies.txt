@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="Movies", American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-log="http://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="USA",HBO (Latino)
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
 
@@ -35,3 +32,54 @@ http://161.0.157.91/PLTV/88888888/224/3221227042/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="", FOX HD
 http://161.0.157.9/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1 tvg-log="https://www.andytvbox.com/wp-content/uploads/2017/11/Cinemax-5-Star.png" group-title="Movies",CINEMAX 5
+http://voxtv.dynns.com:8000/live/USA/USA/2271.m3u8
+
+#EXTINF:-1 tvg-log="http://ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="Movies",CINEMAX ACTION HD
+http://voxtv.dynns.com:8000/live/USA/USA/2272.m3u8
+
+#EXTINF:-1 tvg-log="http://ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="Movies",CINEMAX ACTIONMAX EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2273.m3u8
+
+#EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="Movies",CINEMAX EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2274.m3u8
+
+#EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/cinemax.png" group-title="Movies",CINEMAX MOREMAX
+http://voxtv.dynns.com:8000/live/USA/USA/2275.m3u8
+
+#EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/hbo-comedy.png" group-title="Movies",HBO COMEDY
+http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO EAST
+http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO HD
+http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
+
+#EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE
+http://voxtv.dynns.com:8000/live/USA/USA/2306.m3u8
+
+#EXTINF:-1 tvg-log="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movies",HBO ZONE
+http://voxtv.dynns.com:8000/live/USA/USA/2307.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/Showtime/Sho%202.jpg" group-title="Movies",SHOWTIME 2
+http://voxtv.dynns.com:8000/live/USA/USA/2332.m3u8
+
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=78319568" group-title="Movies",SHOW TIME HD
+http://voxtv.dynns.com:8000/live/USA/USA/2333.m3u8
+
+#EXTINF:-1 tvg-logo="https://4vector.com/i/free-vector-showtime-west_052878_showtime-west.png" group-title="Movies",SHOWTIME WEST
+http://voxtv.dynns.com:8000/live/USA/USA/2334.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_cinema.png" group-title="Movies",STARZ CINEMA
+http://voxtv.dynns.com:8000/live/USA/USA/2337.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzcomedy.png" group-title="Movies",STARZ COMEDY
+http://voxtv.dynns.com:8000/live/USA/USA/2338.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/746.png" group-title="Movies",STARZ EDGE HD
+http://voxtv.dynns.com:8000/live/USA/USA/2339.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore.png" group-title="Movies",STARZ ENCORE
+http://voxtv.dynns.com:8000/live/USA/USA/2340.m3u8

@@ -1,7 +1,7 @@
 <settings>
     <category label="30006">
         <setting type="lsep" label="30005" />
-        <setting id="playmode" type="enum" label="30002" lvalues="30003|30004" default="1" />
+        <setting id="playmode" type="enum" label="30002" lvalues="30003|30004" default="0" />
         <setting type="sep" />
         <setting id="Show_Adult" type="bool" label="Show Adult Section" defult="false" />
         <setting id="sep" />
