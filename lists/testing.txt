@@ -26,10 +26,3 @@ https://videoserver1.org/live/RUWIXsdbfE5AynwEPvv5ug/1559252372/3691308f2a4c2f69
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24/7" ,Family Guy
 https://videoserver1.org/live/1eH2bS36Fw8SlVkbF8BH9g/1559253224/3d4044d65abdda407a92991f1300ec97.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="Kids" ,Nick Jr
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/3063648/playlist.m3u8?terminate=false&deviceId=2325edc5-f931-45f0-8e1d-2c6d52dc02b6&deviceVersion=74.0.3729.169&appVersion=2.6.3-0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceType=web&deviceMake=Chrome&sid=5725493f-335d-438a-9e6b-a4688a8001ff&advertisingId=&deviceLat=37.751&deviceLon=-97.822&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=&serverSideAds=true&architecture=
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1545113a3b8271a7c889ff89e8e6263524d8e7538aeecda401bbedc4d088ba0b.png" group-title="Kids" ,Classic Toons
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/3063648/playlist.m3u8?terminate=false&deviceId=2325edc5-f931-45f0-8e1d-2c6d52dc02b6&deviceVersion=74.0.3729.169&appVersion=2.6.3-0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceType=web&deviceMake=Chrome&sid=41bf5e9c-cec5-4282-bdec-a4540d0ff015&advertisingId=&deviceLat=37.751&deviceLon=-97.822&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=&serverSideAds=true&architecture=
-
