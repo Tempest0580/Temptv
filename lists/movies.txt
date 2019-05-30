@@ -54,7 +54,7 @@ http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
 #EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies",HBO EAST
 http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
 
-#EXTINF:-1 tvg-log="http://chinatvinc.com/tv/wp-content/uploads/2015/03/HBO_HD_logo.jpg" group-title="Movies",HBO HD
+#EXTINF:-1 tvg-log="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="Movies",HBO HD
 http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
 
 #EXTINF:-1 tvg-log="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE
