@@ -13,7 +13,7 @@ http://185.246.209.249:25461/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/77089.m3u8?toke
 https://videoserver1.org/live/fUE5T-zdsL_nOgUqTMy51A/1559250161/1e845dcb477e13f00b5b202a3dbffbde.m3u8
 
 #EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/10/the-walking-dead-920x584.png" group-title="" ,Walking Dead
-https://videoserver1.org/live/EkVdn8omz_slW2kvFklfGg/1559247696/d13095dcbff14ac6ed2b701ed4a771a2.m3u8
+https://videoserver2.org/live/2bXTRNEQFfIsjA33pYR0aQ/1559259413/d13095dcbff14ac6ed2b701ed4a771a2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png" group-title="24/7" ,Marvel
 https://videoserver1.org/live/_Fw5mjwvkIQdccgUCRxQRQ/1559249885/e285c9b6ec9b1704a1563b3adebda52f.m3u8
