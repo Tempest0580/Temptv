@@ -33,6 +33,7 @@ def MAIN():
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('27/7', userlists.hour24, 2, AddonIcon)
     addDir('On Demand Movies', '', 7, AddonIcon)
+    addDir('On Demand Shows', '', 11, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
