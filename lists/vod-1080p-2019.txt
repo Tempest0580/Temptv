@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel
+http://dl5.upfdl.com/files/Film/2019/Captain%20Marvel%202019/Captain%20Marvel.2019.1080p.HD.WEB.DL.AC3.EVO.Farda.DL.mkv
