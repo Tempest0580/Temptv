@@ -31,7 +31,7 @@ def MAIN():
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('27/7', userlists.hour24, 2, AddonIcon)
-    addDir('Pluto.TV', userlists.pluto, 2, AddonIcon)
+    addDir('Pluto TV', userlists.pluto, 2, AddonIcon)
     addDir('1 Click Movies', '', 7, AddonIcon)
     addDir('1 Click Shows', '', 11, AddonIcon)
     addDir('On Demand Movies', '', 12, AddonIcon)

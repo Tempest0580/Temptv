@@ -1,4 +1,5 @@
 #EXTM3U
 
-
+#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="VOD",House 24-7
+https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/house.m3u8
 
