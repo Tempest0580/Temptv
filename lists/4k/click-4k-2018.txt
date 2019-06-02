@@ -38,3 +38,24 @@ http://86.28.138.203:88/4K%20Films/The%20Meg%20%282018%29.mkv
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wXPkqb1IL._SX342_.jpg" group-title="VOD",The House with a Clock in Its Walls
 http://86.28.138.203:88/4K%20Films/The%20House%20with%20a%20Clock%20in%20Its%20Walls%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91ZNHHO8rUL._SX342_.jpg" group-title="VOD",Bad Times at the EL Royale
+http://86.28.138.203:88/4K%20Films/Bad%20Times%20at%20the%20EL%20Royale%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images.static-bluray.com/movies/covers/202960_large.jpg" group-title="VOD",Early Man
+http://86.28.138.203:88/4K%20Films/Early%20Man%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71%2Bok5%2BFpYL._SX342_.jpg" group-title="VOD",First Man
+http://86.28.138.203:88/4K%20Films/First%20Man%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6310/6310480_so.jpg" group-title="VOD",Halloween
+http://86.28.138.203:88/4K%20Films/Halloween%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81BQkEv0soL._SX342_.jpg" group-title="VOD",Higher Power
+http://86.28.138.203:88/4K%20Films/Higher%20Power%20%282018%29.mp4
+
+#EXTINF:-1, tvg-logo="https://resizing.flixster.com/1e8OhuiNz795UjhEqXQFESqN5Aw=/206x305/v1.bTsxMjgyNTUyMjtqOzE4MTAzOzEyMDA7MTUwMDsyMjIy" group-title="VOD",Hold The Dark
+http://86.28.138.203:88/4K%20Films/Hold%20The%20Dark%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6293/6293792_sa.jpg;maxHeight=640;maxWidth=550" group-title="VOD",Hotel Artemis
+http://86.28.138.203:88/4K%20Films/Hotel%20Artemis%20%282018%29.mkv

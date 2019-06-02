@@ -1,36 +1,58 @@
 #EXTM3U8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E01
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E01.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E01.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E02
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E02.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E02.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E03
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E03.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E03.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E04
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E04.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E04.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E05
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E05.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E05.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E06
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E06.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E06.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E07
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E07.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E07.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E08
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E08.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E08.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E09
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E09.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E09.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E010
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E10.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E10.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E011
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E11.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E11.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E012
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E12.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E12.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E013
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E13.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E13.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E014
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E14.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E14.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E015
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E15.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E15.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E016
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E16.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E16.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E017
-http://dl.lavinmovie.net/series/Smallville/S01/720p/Smallville.S01E17.720p.WEB.DL.Pahe.LavinMovie.mkv
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E17.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E018
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E18.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E019
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E19.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E020
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E20.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E021
+http://dl.lavinmovie.net/series/Smallville/S01/720p%20x265/Smallville.S01E21.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E01
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E01.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E02
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E02.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E03
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E03.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E04
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E04.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E05
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E05.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+#EXTINF:-1 tvg-logo="https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg" group-title="",S02E06
+http://dl.lavinmovie.net/series/Smallville/S02/720p%20x265/Smallville.S02E06.720p.AMZN.WEB.DL.HEVC.x265.HET.LavinMovie.mkv
+
