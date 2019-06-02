@@ -33,7 +33,7 @@ def MAIN():
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
-    addDir(VOD, userlists.fourk, 2, AddonIcon)
+    addDir('On Demand Movies', '', 7, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
     addDir('MORELISTS', '', 5, AddonIcon)
@@ -42,8 +42,21 @@ def MAIN():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
+def VOD_4k():
+    addDir('2019', userlists.vod_4k_2019, 2, AddonIcon)
+    addDir('1993', userlists.vod_4k_1993, 2, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def VOD_1080():
+    addDir('2019', userlists.vod_1080p_2019, 2, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
 def VOD():
-    addDir('VOD', '', 2, AddonIcon)
+    addDir('4K', '', 8, AddonIcon)
+    addDir('1080p', '', 9, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
 def MORELISTS():
