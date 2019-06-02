@@ -10,7 +10,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="",Hallmark Movies and Mysteries
-http://185.246.209.249:25461/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/77089.m3u8?token=SkdcWEsKFl9DUA8DUlMCUgRSDAMEXApSA1dWWVRVDgQFUFYPCgNQVllDG0cSFkQGA1xrDwFHCFZSVF5YG0dDRFQXa1BcQA5HUFIOUFVXFE9ARV0LAEcIUUlGFghTRwwVA1MADglXFklDBE8RBBBYAg5uUAMTDFEER14IFFsJGhVeC2tdXQ9VCwVDDUdRQBpBC0JERF9HczVDMEYiWBdGGRNJFltRFkYEFQQVX0NRAVdQExhEBgpHDxEWH0MNR2NkE0kWXEAWUQsSCFgLQ1gUDlFEDERJR1sSOhYDEkMXU1ZcAEYbAkAER01DWgQZPVUMDF9RBREMXQ8WRlxDBkcaFVwKWlBMDUY6EQhTR1tAB1BbBABSRxg=
+http://185.246.209.249:25461/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/77089.m3u8
 
 #EXTINF:-1, tvg-logo="//images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png" group-title="General",TV Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
@@ -18,3 +18,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 
 #EXTINF:-1, tvg-logo="//images.pluto.tv/channels/564b9ed65fbbbca07e8d09d2/logo.png" group-title="General",Pluto TV Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-logo="//images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png" group-title="General",TV Spotlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=bf3fd711-a6bf-41bb-9fd3-894ec55d0d5a&deviceId=4e0180fd-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=74.0.3729.169&appVersion=2.6.3-
+0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
