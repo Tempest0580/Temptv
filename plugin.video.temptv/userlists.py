@@ -11,6 +11,7 @@ adult = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/adult
 movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/movies.txt'
 testing = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/testing.txt'
 vod_4k_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/vod-4k-2019.txt'
+vod_4k_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/vod-4k-2018.txt'
 vod_4k_1993 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/vod-4k-1993.txt'
 vod_1080p_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1800/vod-1080p-2019.txt'
 

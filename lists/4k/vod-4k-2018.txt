@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="MOD",Avengers Infinity War
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="VOD",Avengers Infinity War
 http://5.135.183.133/torrent/public_html/downloaded/Avengers%20Infinity%20War%20-%202018%20-%20BluRay%204K%20HEVC%202160p%2010Bit%20HDR%20MULTi%20(VF2)%20TrueHD%20Atmos%207.1%20-%20PARISTOCAT/Avengers%20Infinity%20War%20-%202018%20-%20HDR%202160p%20-%20PARISTOCAT.mkv
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" group-title="MOD",Ant-Man and the Wasp
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" group-title="VOD",Ant-Man and the Wasp
 http://86.28.138.203:88/4K%20Films/Ant-Man%20and%20the%20Wasp%20%282018%29.mkv
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Alpha_%28film%29.jpg/220px-Alpha_%28film%29.jpg" group-title="MOD",Alpha
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Alpha_%28film%29.jpg/220px-Alpha_%28film%29.jpg" group-title="VOD",Alpha
 http://86.28.138.203:88/4K%20Films/Alpha%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Bird_Box_%28film%29.png/220px-Bird_Box_%28film%29.png" group-title="VOD",Bird Box
+http://86.28.138.203:88/4K%20Films/Bird%20Box%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_.jpg" group-title="VOD",BlacKkKlansman
+http://86.28.138.203:88/4K%20Films/BlacKkKlansman%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_.jpg" group-title="VOD",Bumblebee
+http://86.28.138.203:88/4K%20Films/Bumblebee%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Iu26BgsGL._SX522_.jpg" group-title="VOD",Deadpool Super Duper Cut UNRATED
+http://86.28.138.203:88/4K%20Films/Deadpool%202%20Super%20Duper%20Cut%20UNRATED%20%282018%29.mkv

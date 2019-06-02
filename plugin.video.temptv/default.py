@@ -44,6 +44,7 @@ def MAIN():
 
 def VOD_4k():
     addDir('2019', userlists.vod_4k_2019, 2, AddonIcon)
+    addDir('2018', userlists.vod_4k_2018, 2, AddonIcon)
     addDir('1993', userlists.vod_4k_1993, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
