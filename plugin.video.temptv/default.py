@@ -33,12 +33,17 @@ def MAIN():
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
+    addDir(VOD, userlists.fourk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
     addDir('MORELISTS', '', 5, AddonIcon)
     addDir('[B] Settings [/B]', 'url', 4, AddonIcon, Folder=False)
     addDir('Refresh', '', 6, AddonIcon, Folder=False)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def VOD():
+    addDir('VOD', '', 2, AddonIcon)
 
 
 def MORELISTS():
