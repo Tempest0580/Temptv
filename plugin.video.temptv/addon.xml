@@ -8,8 +8,8 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">Simple Free Light IPTV.</summary>
-        <description lang="en">Simple Free Light IPTV.</description>
+        <summary lang="en">Simple Free Light IPTV and Video on Demand.</summary>
+        <description lang="en">Simple Free Light IPTV and Video on Demand.</description>
         <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
         <license>Free the People!, Free the World!!</license>
         <platform>all</platform>

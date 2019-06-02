@@ -1,12 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="General",Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="General",Nick Jr.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 #EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/logo.png" group-title="General",Pluto TV Spotlight
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
@@ -17,18 +10,3 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e
 #EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/logo.png" group-title="General",Pluto TV Family
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/logo.png" group-title="General",Term
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cbe33d1b982b19e589e99e9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=df8b6351-124e-41c0-9082-734168123577&deviceId=4e0180fd-
-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=74.0.3729.169&appVersion=2.6.3-
-0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceDNT=0&userId=&advertisingId=&deviceLat=39.7954&deviceLon=-86.2658&app_name=&appName=web&appStoreUrl=&architecture=&buildVersion=&serverSideAds=true
-
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/logo.png" group-title="General",Term
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cbe33d1b982b19e589e99e9/572723/playlist.m3u8?terminate=false&deviceId=4e0180fd-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=74.0.3729.169&appVersion=2.6.3-
-0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceType=web&deviceMake=Chrome&sid=df8b6351-124e-41c0-9082-734168123577&advertisingId=&deviceLat=
-39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
-
-#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel 2019
-http://dl5.upfdl.com/files/Film/2019/Captain%20Marvel%202019/Captain%20Marvel.2019.1080p.HD.WEB.DL.AC3.EVO.Farda.DL.mkv
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="MOD",Avengers Infinity War 2018
-http://5.135.183.133/torrent/public_html/downloaded/Avengers%20Infinity%20War%20-%202018%20-%20BluRay%204K%20HEVC%202160p%2010Bit%20HDR%20MULTi%20(VF2)%20TrueHD%20Atmos%207.1%20-%20PARISTOCAT/Avengers%20Infinity%20War%20-%202018%20-%20HDR%202160p%20-%20PARISTOCAT.mkv
