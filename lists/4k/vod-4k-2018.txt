@@ -20,3 +20,21 @@ http://86.28.138.203:88/4K%20Films/Bumblebee%20%282018%29.mkv
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Iu26BgsGL._SX522_.jpg" group-title="VOD",Deadpool Super Duper Cut UNRATED
 http://86.28.138.203:88/4K%20Films/Deadpool%202%20Super%20Duper%20Cut%20UNRATED%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wO7jhaN-L._SX342_.jpg" group-title="VOD",Venom
+http://86.28.138.203:88/4K%20Films/Venom%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81tv4MLk8hL._SX342_.jpg" group-title="VOD",Unsane
+http://86.28.138.203:88/4K%20Films/Unsane%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6319/6319796_so.jpg" group-title="VOD",The Nun
+http://86.28.138.203:88/4K%20Films/The%20Nun%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6324/6324857_sa.jpg;maxHeight=640;maxWidth=550" group-title="VOD",The Mule
+http://86.28.138.203:88/4K%20Films/The%20Mule%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-Zmr2VfnL._SX342_.jpg" group-title="VOD",The Meg
+http://86.28.138.203:88/4K%20Films/The%20Meg%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81wXPkqb1IL._SX342_.jpg" group-title="VOD",The House with a Clock in Its Walls
+http://86.28.138.203:88/4K%20Films/The%20House%20with%20a%20Clock%20in%20Its%20Walls%20%282018%29.mkv
