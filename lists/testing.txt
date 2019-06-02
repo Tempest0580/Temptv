@@ -26,3 +26,6 @@ b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=74.0.3729.169&appVersion=2.6.3-
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cbe33d1b982b19e589e99e9/572723/playlist.m3u8?terminate=false&deviceId=4e0180fd-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=74.0.3729.169&appVersion=2.6.3-
 0baf20a6501a4e24b91aeaa2ee6e3e7764e5cae1&deviceType=web&deviceMake=Chrome&sid=df8b6351-124e-41c0-9082-734168123577&advertisingId=&deviceLat=
 39.7954&deviceLon=-86.2658&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
+
+#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel 2019
+http://dl5.upfdl.com/files/Film/2019/Captain%20Marvel%202019/Captain%20Marvel.2019.1080p.HD.WEB.DL.AC3.EVO.Farda.DL.mkv
