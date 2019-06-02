@@ -32,8 +32,10 @@ def MAIN():
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
     addDir('27/7', userlists.hour24, 2, AddonIcon)
-    addDir('On Demand Movies', '', 7, AddonIcon)
-    addDir('On Demand Shows', '', 11, AddonIcon)
+    addDir('1 Click Movies', '', 7, AddonIcon)
+    addDir('1 Click Shows', '', 11, AddonIcon)
+    addDir('On Demand Movies', '', 12, AddonIcon)
+    addDir('On Demand Shows', '', 13, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
@@ -43,31 +45,39 @@ def MAIN():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def SOD():
-    #addDir('Smallville', userlists.smallville, 2, AddonIcon)
+def VOD_MOVIES():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def VOD_4k():
-    addDir('2019', userlists.vod_4k_2019, 2, AddonIcon)
-    addDir('2018', userlists.vod_4k_2018, 2, AddonIcon)
-    addDir('1993', userlists.vod_4k_1993, 2, AddonIcon)
+def VOD_SHOWS():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def VOD_1080():
-    addDir('2019', userlists.vod_1080p_2019, 2, AddonIcon)
-    addDir('2018', userlists.vod_1080p_2018, 2, AddonIcon)
+def CLICK_SHOWS():
+    addDir('Smallville', userlists.smallville, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def VOD_720():
-    addDir('2019', userlists.vod_720_2019, 2, AddonIcon)
-    addDir('2018', userlists.vod_720_2018, 2, AddonIcon)
+def CLICK_4k():
+    addDir('2019', userlists.click_4k_2019, 2, AddonIcon)
+    addDir('2018', userlists.click_4k_2018, 2, AddonIcon)
+    addDir('1993', userlists.click_4k_1993, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def VOD():
+def CLICK_1080():
+    addDir('2019', userlists.click_1080p_2019, 2, AddonIcon)
+    addDir('2018', userlists.click_1080p_2018, 2, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def CLICK_720():
+    addDir('2019', userlists.click_720_2019, 2, AddonIcon)
+    addDir('2018', userlists.click_720_2018, 2, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def CLICK():
     addDir('4K', '', 8, AddonIcon)
     addDir('1080p', '', 9, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
@@ -242,12 +252,17 @@ elif mode == 5:
 elif mode == 6:
     REFRESH()
 elif mode == 7:
-    VOD()
+    CLICK()
 elif mode == 8:
-    VOD_4k()
+    CLICK_4k()
 elif mode == 9:
-    VOD_1080()
+    CLICK_1080()
 elif mode == 10:
-    VOD_720()
+    CLICK_720()
 elif mode == 11:
-    SOD()
+    CLICK_SHOWS()
+elif mode == 12:
+    VOD_MOVIES()
+elif mode == 13:
+    VOD_SHOWS()
+
