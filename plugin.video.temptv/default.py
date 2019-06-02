@@ -29,16 +29,21 @@ def MAIN():
     addDir('Movies', userlists.movies, 2, AddonIcon)
     addDir('Kids', userlists.kids, 2, AddonIcon)
     addDir('Sports', userlists.sports, 2, AddonIcon)
-    addDir('27/7', userlists.hour24, 2, AddonIcon)
     addDir('News', userlists.news, 2, AddonIcon)
     addDir('Music', userlists.music, 2, AddonIcon)
-    addDir('UK', userlists.uk, 2, AddonIcon)
+    addDir('27/7', userlists.hour24, 2, AddonIcon)
     addDir('On Demand Movies', '', 7, AddonIcon)
+    addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)
     addDir('MORELISTS', '', 5, AddonIcon)
     addDir('[B] Settings [/B]', 'url', 4, AddonIcon, Folder=False)
     addDir('Refresh', '', 6, AddonIcon, Folder=False)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def SOD():
+    #addDir('Smallville', userlists.smallville, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -243,3 +248,5 @@ elif mode == 9:
     VOD_1080()
 elif mode == 10:
     VOD_720()
+elif mode == 11:
+    SOD()
