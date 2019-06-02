@@ -51,6 +51,13 @@ def VOD_4k():
 
 def VOD_1080():
     addDir('2019', userlists.vod_1080p_2019, 2, AddonIcon)
+    addDir('2018', userlists.vod_1080_2018, 2, AddonIcon)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def VOD_720():
+    addDir('2019', userlists.vod_720_2019, 2, AddonIcon)
+    addDir('2018', userlists.vod_720_2018, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -228,3 +235,11 @@ elif mode == 5:
     MORELISTS()
 elif mode == 6:
     REFRESH()
+elif mode == 7:
+    VOD()
+elif mode == 8:
+    VOD_4k()
+elif mode == 9:
+    VOD_1080()
+elif mode == 10:
+    VOD_720()
