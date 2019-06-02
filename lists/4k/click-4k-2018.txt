@@ -59,3 +59,12 @@ http://86.28.138.203:88/4K%20Films/Hold%20The%20Dark%20%282018%29.mkv
 
 #EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6293/6293792_sa.jpg;maxHeight=640;maxWidth=550" group-title="VOD",Hotel Artemis
 http://86.28.138.203:88/4K%20Films/Hotel%20Artemis%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/Z6kBX7B/I-Still-See-You.jpg" group-title="VOD",I Stil See You
+http://86.28.138.203:88/4K%20Films/I%20Still%20See%20You%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://images.static-bluray.com/movies/covers/216331_large.jpg" group-title="VOD",Kin
+http://86.28.138.203:88/4K%20Films/Kin%20%282018%29.mkv
+
+#EXTINF:-1, tvg-logo="https://i5.walmartimages.com/asr/77b5ae64-790f-4547-b1fd-685bd6016c36_1.e6695f7ca80de6c38ee7e14b692d5a59.jpeg" group-title="VOD",Mortal Engines
+http://86.28.138.203:88/4K%20Films/Mortal%20Engines%20%282018%29.mkv

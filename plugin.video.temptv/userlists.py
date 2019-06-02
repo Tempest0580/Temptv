@@ -9,6 +9,7 @@ news = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/news.t
 music = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/music.txt'
 adult = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/adult.txt'
 movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/movies.txt'
+pluto = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/pluto.txt'
 testing = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/testing.txt'
 click_4k_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/click-4k-2019.txt'
 click_4k_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/click-4k-2018.txt'

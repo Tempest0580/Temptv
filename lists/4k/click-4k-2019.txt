@@ -5,3 +5,6 @@ http://86.28.138.203:88/4K%20Films/Captain%20Marvel%20%282019%29.mkv
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81lvpg%2Buw5L._SX342_.jpg" group-title="VOD",Glass
 http://dl.srv-dl.com/My30nama/4K%20UHD%202160p%20HDR/2019/Glass.2019.UHD.2160p.HDR.5.1.x265.10bit.PSA.My30nama.Net.mkv
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91lYhS7nhaL._SX342_.jpg" group-title="VOD",How to Train Your Dragon The Hidden World
+http://86.28.138.203:88/4K%20Films/How%20to%20Train%20Your%20Dragon%20The%20Hidden%20World%20%282019%29.mkv
