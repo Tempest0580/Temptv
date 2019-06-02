@@ -29,3 +29,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5cbe33d1b982b19e58
 
 #EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel 2019
 http://dl5.upfdl.com/files/Film/2019/Captain%20Marvel%202019/Captain%20Marvel.2019.1080p.HD.WEB.DL.AC3.EVO.Farda.DL.mkv
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="MOD",Avengers Infinity War 2018
+http://5.135.183.133/torrent/public_html/downloaded/Avengers%20Infinity%20War%20-%202018%20-%20BluRay%204K%20HEVC%202160p%2010Bit%20HDR%20MULTi%20(VF2)%20TrueHD%20Atmos%207.1%20-%20PARISTOCAT/Avengers%20Infinity%20War%20-%202018%20-%20HDR%202160p%20-%20PARISTOCAT.mkv
