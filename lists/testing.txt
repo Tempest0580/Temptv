@@ -4,14 +4,12 @@
 https://hls.dashwalsh.club/m3u8/4bf8d0c63ee361a8668d8505ea6e0a55.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81GfZasnt9L._SL1371_.jpg" group-title="6-4-19",Avengers Infinity War
-https://md.srvo.host/file/01/gAAAAABc9vhwWyxi6VztSxDYGrzwPUFNHX2tTaHjdh29KnI5bg5H0pdFQCJzHP5eMm7IGXOgwyLkApcOppzBe2jyS2hxcFm05Hlhw0JrRkpB2EKmGh7Ws4u0lJdBAdLHeTWWdtpKB8eogu6L_osIXsuPFIgnARHfQN6Vwh9BpMUhyy8BpNIlqZ7hLSJgW719IHVWcnstWFzkrEW-
-tevcuhwFdqSg4vSvbA==/q480p.m3u8?key=3282c009cf98a8de5f7853e51976a6b6073c82c2
+https://hls.dashwalsh.club/m3u8/45a225ee77d870a1c61cb990fefd6a22.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg" group-title="6-4-19",Avengers End Game
-https://sd.srvo.host/file/01/gAAAAABc9vpxpN__ZeN8VkVIcm8N5rQgUqDhAFYlxj9vIpqA4MddCYjdAbgDK3U9FfvQQ1HtBdZE4xSBREmJO_1IBiFRLAaXFRrX5St-gZUi3I7yCf_R-oLOZfxnIdeVS2y4T3ucEVP6T4DqdTMk5aJP7IraRRJlOznNRTxewO5FUXfMU-l15mNjuQC4GRTDMa4UminPR60Bastet6hB0dlPtlknu9aNTg==/q380p.m3u8?key=5866bb6960292c53b4a06c04922dc5f91ff80a15
+https://hls.dashwalsh.club/m3u8/5295bdb289fc3b1d14bb2aa4747ec9a5.m3u8
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
-https://i.srvo.host/hls/gAAAAABc9vfNkJvHhMw2fh8rub2KSGT6plKEipxLVwWjiEbjMjK0JfbstsNxkJ3ZxUQJshjLquL7nKIf4t_qPmWIhBbcYmAlHDPjDlEXESFn5smqPJtYQDxudoZ6N4BYW8di5wWrc-UV5aQSzhFvXJ-SzEZFs8ioLks0H84FUufEX7yDNs7ndqn92ZXUaXXWDkbBUX6Dj9_8wBIviiUgrvvj-TsNmfXhaQ==/master.m3u8?key=e0d3f5ac9e40b429a988cf5c37d287437b60098b
+https://hls.dashwalsh.club/m3u8/32cab704f8033dae4bc85bef3e69111b.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xOK7N_EZmelAlOQeMqOowOnKx0QDR0xrc1tQ3Z8wrxzgUdq7" group-title="6-4-19",John Wick 3
-https://n-adele.betterstream.co/abrplayback/8e/f0/f94a9351b5231ba32c8bd0ce823381d5887641c1ff3658077b2278322a8656032e8fea7f8890078383228bff9d463e20846f4b5fc9f5819168ccfbba974a353178727357e044f80c8bece390390e70c861a833ef491de1a8347ab9626ab9c6dab7c42b323cd0870041055c3faff0467f80ba39698f3d3d21059e31d41115c3bc08af39f159fec26ca3da9f287f5d3d519387996f98aec8e217c0af0058e94efe/playlist.m3u8?q=r&token=rbf961b8e65141dc48f8c6c3ff300c76e
+
