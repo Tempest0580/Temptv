@@ -1,5 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="6-3-19",The Simpsons
-#EXTVLCOPT:http-referrer=https://www.stream4free.live/simpsons-2019
 https://sv2.data-stream.top/18fa4c1f5694ba2c649fa7c82ef0ab19fc03c3cdef9c837d130d0a72979f5a4a/hls/simpsons.m3u8
