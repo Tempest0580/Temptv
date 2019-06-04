@@ -5,10 +5,11 @@ https://sd.srvo.host/file/01/gAAAAABc9vcwRU8YXWrGITA-0mwNJWdaDpx9xiSKCAVOXhhtXk8
 3eyAnuyza6HGgBs8MJtl0a6IUY_0m5XFsz6Kdc65aFUeTV2H_EOm00b-x8S60w7zHp3A==/q380p.m3u8?key=0d58fc0e3f89764bdc475dfd7310d6fb3aab48ba
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81GfZasnt9L._SL1371_.jpg" group-title="6-4-19",Avengers Infinity War
-https://i.srvo.host/hls/gAAAAABc9vhu-1K71428Wus8cKHgfaWO_WurnkbzJnhdsIbyc9YJE4WNDS_BjudFq_78sf_UNQjs1DtWXgmL6YZ8x7E3QhZlB90m347ZUn2lkBbnZD2EsJbuukAvkFTactDNTj1N9x2VtObqsoFiaImc368AFhRmPWtpdceW0EkGXPPeZGHmT9DsY-gvNu3m5w2P-HwECT--I4mg9SkVyLxV11tpxgeaSg==/master.m3u8?key=fcec5f4783fdbd449605b9844ccc509ac02c1d22
+https://md.srvo.host/file/01/gAAAAABc9vhwWyxi6VztSxDYGrzwPUFNHX2tTaHjdh29KnI5bg5H0pdFQCJzHP5eMm7IGXOgwyLkApcOppzBe2jyS2hxcFm05Hlhw0JrRkpB2EKmGh7Ws4u0lJdBAdLHeTWWdtpKB8eogu6L_osIXsuPFIgnARHfQN6Vwh9BpMUhyy8BpNIlqZ7hLSJgW719IHVWcnstWFzkrEW-
+tevcuhwFdqSg4vSvbA==/q480p.m3u8?key=3282c009cf98a8de5f7853e51976a6b6073c82c2
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg" group-title="6-4-19",Avengers End Game
-https://i.srvo.host/hls/gAAAAABc9vgFcri8Hf2cZv2XhQolk363pTU0Q19pTOy7t8gKZ2UPAkOJQOTm0_zIdYSnXFkCgF_rszeXK2NJM2tVrRG_fv6BcHQ85JeS12FNQk61Ooc6wGT8yE8eoBqlG9Vb0f760S18Mepvgjvs5h2A3C9UmG3OURkYIRbdXv1KcxouLZ1PV2qHtRyLhP7KxbSlbTlP0xjhChF5QyZR1q8jvPqB0cQS5Q==/master.m3u8?key=54f6e0b237b514d0675588b8ff0877249f113d0a
+https://sd.srvo.host/file/01/gAAAAABc9vpxpN__ZeN8VkVIcm8N5rQgUqDhAFYlxj9vIpqA4MddCYjdAbgDK3U9FfvQQ1HtBdZE4xSBREmJO_1IBiFRLAaXFRrX5St-gZUi3I7yCf_R-oLOZfxnIdeVS2y4T3ucEVP6T4DqdTMk5aJP7IraRRJlOznNRTxewO5FUXfMU-l15mNjuQC4GRTDMa4UminPR60Bastet6hB0dlPtlknu9aNTg==/q380p.m3u8?key=5866bb6960292c53b4a06c04922dc5f91ff80a15
 
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
 https://i.srvo.host/hls/gAAAAABc9vfNkJvHhMw2fh8rub2KSGT6plKEipxLVwWjiEbjMjK0JfbstsNxkJ3ZxUQJshjLquL7nKIf4t_qPmWIhBbcYmAlHDPjDlEXESFn5smqPJtYQDxudoZ6N4BYW8di5wWrc-UV5aQSzhFvXJ-SzEZFs8ioLks0H84FUufEX7yDNs7ndqn92ZXUaXXWDkbBUX6Dj9_8wBIviiUgrvvj-TsNmfXhaQ==/master.m3u8?key=e0d3f5ac9e40b429a988cf5c37d287437b60098b
