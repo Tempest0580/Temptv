@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="6-3-19",The Simpsons
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="6-4-19",Venom
 https://prettyfast.to/hls/7o9l7.m3u8?h=MiAH8HbGVaYGTM_CoOqrxQ&e=1559685907&s=f
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
+https://d1.viduplayer.com/hls/,vxokfesgwkalavf4erbivkwnsd2mvk757spk3fklspj7qoww6ek2id46qdma,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xOK7N_EZmelAlOQeMqOowOnKx0QDR0xrc1tQ3Z8wrxzgUdq7" group-title="6-4-19",John Wick 3
+https://n-fabre.betterstream.co/abrplayback/8e/f0/f94a9351b5231ba32c8bd0ce823381d5887641c1ff3658077b2278322a8656032e8fea7f8890078383228bff9d463e20846f4b5fc9f5819168ccfbba974a353178727357e044f80c8bece390390e70c83f4cda3904ba08fbe5c425095c22905a9ba7f8947b2302d2965baff9849be7bf4e8fff34bcb15d694542beb5748ef23aba3b12071c95adcad65709bb75f4b3f35d2305b6ac25f4cd700ef184c9a4ce90/abr.m3u8?q=r&token=bf961b8e65141dc48f8c6c3ff300c76e
