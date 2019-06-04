@@ -84,7 +84,7 @@ def CLICK():
 
 
 def MORELISTS():
-    addDir('Testing', userlists.testing, 2, AddonIcon)
+    addDir('Testing - Test for 24-48Hrs before adding to Main Lists', userlists.testing, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

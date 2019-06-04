@@ -1,19 +1,154 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24-7",DD
-https://vaughn.live/embed/video/lmshows_dd?viewers=true&autoplay=true
+#EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="6-3-19",NICK
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMTkgMjoyMjo0NyBBTSZoYXNoX3ZhbHVlPUZKNURSc2ZDRGJlWjRsUmFVWENkZUE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
-#EXTINF:-1, tvg-logo="https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png" group-title="24-7",House
-https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/house.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL.png" group-title="6-3-19",Nick Junior
+http://dibo.live:8080/live/Antonio1/Antonio/65128.m3u8
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="24-7",Family Guy
-https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/familyguyfr.m3u8
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/516.png" group-title="6-3-19",Nick Junior TOO
+http://dibo.live:8080/live/Antonio1/Antonio/74592.m3u8
 
-#EXTINF:-1, tvg-logo="https://occ-0-987-990.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABb7GsmAgIKKA348jaWVNw31Ipv6wdv4ZZAv1qhepxkvNX3K3AeW1ZnRAzz-wLldMXfdtZz6Zg5AsONKSbvPWyqxGC1MTbteB9w.jpg?r=f97" group-title="24-7",Walking Dead
-https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/xxwalkingdead.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nicktoon/images/a/a2/Collage-2017-11-28_%281%29.png/revision/latest?cb=20171129051254" group-title="6-3-19",Nick Toons HD
+http://dibo.live:8080/live/Antonio1/Antonio/65129.m3u8
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MjEwMTc5N15BMl5BanBnXkFtZTcwNzQ2NjQ4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="24-7",Stargate SG1
-https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/stargate.m3u8
+#EXTINF:-1 tvg-logo="https://pixel.nymag.com/imgs/daily/vulture/2016/08/19/19-cops-logo.w330.h330.jpg" group-title="6-3-19",COPS
+http://dibo.live:8080/live/Antonio1/Antonio/157725.m3u8
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="24-7",The Simpsons
-https://sv2.data-stream.top/0cbdb733007d3d0ccb9325decdc7da9db7b3bbf6f54beb54e48e670be06d2b7c/hls/simpsons.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg" group-title="6-3-19",CRIMINAL MINDS
+http://dibo.live:8080/live/Antonio1/Antonio/157726.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUxOWQ4MzAtMmJjYS00M2U5LWEwZTAtYTc1YmZhNjg2NDRlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="6-3-19",FRESH PRINCE OF BELL AIR
+http://dibo.live:8080/live/Antonio1/Antonio/135435.m3u8
+
+#EXTINF:-1 tvg-logo="https://ib4.hulu.com/user/v3/artwork/29a4727e-6ac4-4b99-9e91-08c8d872c733?base_image_bucket_name=hummus&base_image=4390b92e-29e9-46f0-8c37-ab77bd320d84&size=400x600&format=jpeg" group-title="6-3-19",CURIOUS GEORGE
+http://dibo.live:8080/live/Antonio1/Antonio/157727.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-tv/looney-tunes-56dbb69625120.jpg?itok=I9a_EhSy" group-title="6-3-19",LOONEY TUNES
+http://dibo.live:8080/live/Antonio1/Antonio/149512.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-3-19",FAMILY GUY
+http://dibo.live:8080/live/Antonio1/Antonio/101284.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="6-3-19",The Simpsons
+http://dibo.live:8080/live/Antonio1/Antonio/84514.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nagc.org/sites/default/files/graphics/3-9-16%20WonderYears_290x390.jpg" group-title="6-3-19",The Wonder Years
+http://dibo.live:8080/live/Antonio1/Antonio/125960.m3u8
+
+#EXTINF:-1 tvg-logo="https://ib2.hulu.com/user/v3/artwork/94305a52-e0a4-4c60-94a3-cb5350333b19?base_image_bucket_name=hummus&base_image=e47565db-4b69-4b5c-8e56-adeb53559577&size=400x600&format=jpeg" group-title="6-3-19",MARRIED WITH CHILDREN
+http://dibo.live:8080/live/Antonio1/Antonio/157730.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.corrientelatina.com/wp-content/uploads/2018/11/Cine-Sony-Logo.png?fit=1920%2C665&ssl=1" group-title="6-3-19",Cine Sony
+http://dibo.live:8080/live/Antonio1/Antonio/149932.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 01 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/84375.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 02 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77658.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 03 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77657.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 04 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77656.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 05 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77655.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 06 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/84376.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 07 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77653.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 08 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77652.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 09 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77651.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 10 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77650.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 11 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77649.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 12 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77648.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 13 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77647.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 14 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77646.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 15 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77645.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 16 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77644.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 17 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77643.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 18 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77642.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 19 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77641.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 20 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77640.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 21 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77639.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 22 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77638.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 23 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77637.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 24 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77636.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 26 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77634.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 27 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/102055.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 28 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77632.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 29 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77631.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 30 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77630.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 32 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77628.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 33 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77627.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 35 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77625.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 36 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77624.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 37 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77623.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 38 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77622.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 39 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77621.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mdtc.net/wp-content/uploads/2018/08/PPV-1024x835.png" group-title="6-3-19",Cinema 40 PPV
+http://dibo.live:8080/live/Antonio1/Antonio/77620.m3u8
