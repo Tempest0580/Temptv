@@ -11,3 +11,6 @@ https://prettyfast.to/hls/p9dq2.m3u8?h=lQjYEC79u6a5gdkA_NkwhQ&e=1559688300&s=f
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xOK7N_EZmelAlOQeMqOowOnKx0QDR0xrc1tQ3Z8wrxzgUdq7" group-title="6-4-19",John Wick 3
 https://n-fabre.betterstream.co/abrplayback/8e/f0/f94a9351b5231ba32c8bd0ce823381d5887641c1ff3658077b2278322a8656032e8fea7f8890078383228bff9d463e20846f4b5fc9f5819168ccfbba974a353178727357e044f80c8bece390390e70c83f4cda3904ba08fbe5c425095c22905a9ba7f8947b2302d2965baff9849be7bf4e8fff34bcb15d694542beb5748ef23aba3b12071c95adcad65709bb75f4b3f35d2305b6ac25f4cd700ef184c9a4ce90/abr.m3u8?q=r&token=bf961b8e65141dc48f8c6c3ff300c76e
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51V4Fp58HkL._SY445_.jpg" group-title="6-4-19",Caption America The Winter Soldier
+https://stream28.uploadify.stream/vid/tt1843866.mp4/master.m3u8?secret=ip=71.135.196.252~st=1559688454~exp=1559688514~acl=/vid/*~hmac=91e633cfd9578a26d2390d2056352b11b58c5f072cc2e7fd099e0a18d033f049
