@@ -16,11 +16,14 @@ click_4k_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lis
 click_4k_1993 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/click-4k-1993.txt'
 click_1080p_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/click-1080p-2019.txt'
 click_1080p_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/click-1080p-2018.txt'
+click_1080p_2013 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/click-1080p-2013.txt'
 click_720_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-720p-2019.txt'
 click_720_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-720p-2018.txt'
 vod_movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/vod_movies.txt'
 vod_shows = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/vod_shows.txt'
 
 smallville = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville.txt'
+angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/angermanagment.txt'
+familyguy = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'

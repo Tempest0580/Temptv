@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E01
+https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/an5l4460/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E02
+https://cloudflare.tubi.video/a7c31c0f-dc1a-4875-a744-fc4687fe8fe6/83cv10y9/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E03
+https://cloudflare.tubi.video/0f36cd24-3d2f-46cb-ac8c-91d4a6b3a26a/0aur0aqo/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E04
+https://cloudflare.tubi.video/1ac72850-c505-4eba-83c7-04893a102a20/xxn4xvrs/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E05
+https://cloudflare.tubi.video/5c1b54aa-b2c5-422c-a46e-deec1288ce54/ap2m0xxe/stream.m3u8

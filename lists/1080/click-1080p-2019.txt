@@ -2,3 +2,9 @@
 
 #EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel
 http://dl5.upfdl.com/files/Film/2019/Captain%20Marvel%202019/Captain%20Marvel.2019.1080p.HD.WEB.DL.AC3.EVO.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg" group-title="",Avengers End Game
+https://hls.dashwalsh.club/m3u8/5295bdb289fc3b1d14bb2aa4747ec9a5.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GrIpSGV1L.jpg" group-title="",The Last Boy
+https://cloudflare.tubi.video/ebf413b6-586b-43c3-b688-f10f24cb95f7/ugfdf1ul/stream.m3u8

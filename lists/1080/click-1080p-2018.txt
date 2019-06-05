@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="6-4-19",Venom
+https://hls.dashwalsh.club/m3u8/4bf8d0c63ee361a8668d8505ea6e0a55.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81GfZasnt9L._SL1371_.jpg" group-title="6-4-19",Avengers Infinity War
+https://hls.dashwalsh.club/m3u8/45a225ee77d870a1c61cb990fefd6a22.m3u8
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
+https://hls.dashwalsh.club/m3u8/32cab704f8033dae4bc85bef3e69111b.m3u8
