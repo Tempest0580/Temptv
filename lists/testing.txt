@@ -12,5 +12,8 @@ https://hls.dashwalsh.club/m3u8/5295bdb289fc3b1d14bb2aa4747ec9a5.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
 https://hls.dashwalsh.club/m3u8/32cab704f8033dae4bc85bef3e69111b.m3u8
 
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Anger Managment S1E1
+#EXTINF:-1 tvg-logo="http://www.asset1.net/tv/pictures/movie/anger-management-2003/anger-management-tc.jpg" group-title="6-4-19",Anger Managment S1E1
 https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/an5l4460/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E1
+https://exklb.mcloud.to/25/b32937cd80ba9d61/7ffdc9e38b118551e012f676877f8bc03556bdf770f970b8302e9d1f3bf0d557d6fa2fe578daf831f9129f72085c3af4d4a4b3a9ab109a46955e70e6b24f2237a6bbcfb5ca8832390613bb148b8c0f32021f49e1ca03e61d8a5896fc6528f066/hls/480/480.m3u8
