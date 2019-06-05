@@ -80,3 +80,6 @@ http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
 http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozOToxNiBQTSZoYXNoX3ZhbHVlPWtUanRKc1pLOVlFMXV3b2JRWU9xNXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
+http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTA6MDA6MzcgUE0maGFzaF92YWx1ZT16NUdIK0ZJYTVMbnFqL0NhWHlTZUFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
