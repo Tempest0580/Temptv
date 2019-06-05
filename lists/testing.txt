@@ -30,6 +30,9 @@ https://t9.viduplayer.com/hls/,vxokflv5wkalavf4ercivl4gtpd6d6yhbn6iagiggix6rv2mh
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E3
 https://t9.viduplayer.com/hls/,vxokfjcmwoalavf4ercyv6ooqqsa32wylmvkgdopmc34plj7efakpfvnwioa,.urlset/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E4
+https://t12.viduplayer.com/hls/,vxokfj22woalavf4ercyvoo5tzykigybflor4vjpvmy7brwk55t7sd2fuutq,.urlset/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E1
 https://f1.viduplayer.com/hls/,vxokfwliwoalavf4erbyvouhtgzk54dnnp63p3ox7c4n6ruam5pmq2cb4qda,.urlset/master.m3u8
 
@@ -38,3 +41,6 @@ https://t1.viduplayer.com/hls/,vxokf764wkalavf4ercivngrtuew42dxnflowqrj2vrwcd7lo
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E3
 https://t9.viduplayer.com/hls/,vxokfkvowkalavf4erciv46nqpibr3klmsjzonpswsmjsz4rkiwzfxobv55q,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E4
+https://t12.viduplayer.com/hls/,vxokedthwoalavf4ercyvjwht7lyuvtepr3jecupbrjdhfj22kheedlemmba,.urlset/master.m3u8
