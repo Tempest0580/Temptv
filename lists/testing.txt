@@ -15,5 +15,26 @@ https://hls.dashwalsh.club/m3u8/32cab704f8033dae4bc85bef3e69111b.m3u8
 #EXTINF:-1 tvg-logo="http://www.asset1.net/tv/pictures/movie/anger-management-2003/anger-management-tc.jpg" group-title="6-4-19",Anger Managment S1E1
 https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/an5l4460/stream.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.asset1.net/tv/pictures/movie/anger-management-2003/anger-management-tc.jpg" group-title="6-4-19",Anger Managment S1E2
+https://cloudflare.tubi.video/a7c31c0f-dc1a-4875-a744-fc4687fe8fe6/83cv10y9/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.asset1.net/tv/pictures/movie/anger-management-2003/anger-management-tc.jpg" group-title="6-4-19",Anger Managment S1E3
+https://cloudflare.tubi.video/0f36cd24-3d2f-46cb-ac8c-91d4a6b3a26a/0aur0aqo/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E1
 https://t11.viduplayer.com/hls/,vxokeihcwkalavf4erbyv5o7tjldvkfu6yt44tji7sfndivyatihahtk23qa,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E2
+https://t9.viduplayer.com/hls/,vxokflv5wkalavf4ercivl4gtpd6d6yhbn6iagiggix6rv2mh7tn7pckdbua,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg" group-title="6-4-19",Smallville S1E3
+https://t9.viduplayer.com/hls/,vxokfjcmwoalavf4ercyv6ooqqsa32wylmvkgdopmc34plj7efakpfvnwioa,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E1
+https://f1.viduplayer.com/hls/,vxokfwliwoalavf4erbyvouhtgzk54dnnp63p3ox7c4n6ruam5pmq2cb4qda,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E2
+https://t1.viduplayer.com/hls/,vxokf764wkalavf4ercivngrtuew42dxnflowqrj2vrwcd7lofwf3jkymzza,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S1E3
+https://t9.viduplayer.com/hls/,vxokfkvowkalavf4erciv46nqpibr3klmsjzonpswsmjsz4rkiwzfxobv55q,.urlset/master.m3u8
