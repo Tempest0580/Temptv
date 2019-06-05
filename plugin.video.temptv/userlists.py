@@ -22,8 +22,10 @@ click_720_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/li
 vod_movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/vod_movies.txt'
 vod_shows = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/vod_shows.txt'
 
-smallville = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville.txt'
+smallville1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville1.txt'
+smallville2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville2.txt'
+smallville3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville3.txt'
 angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/angermanagment.txt'
-familyguy = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy.txt'
+familyguy1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy1.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'

@@ -3,6 +3,7 @@
 import re, os, sys, urllib, urllib2, requests, socket, gzip
 import xbmc, xbmcaddon, xbmcgui, xbmcplugin
 import userlists
+import shows
 Addon = xbmcaddon.Addon
 AddonInfo = Addon().getAddonInfo
 AddonID = AddonInfo('id')
@@ -54,9 +55,9 @@ def VOD_SHOWS():
 
 
 def CLICK_SHOWS():
-    addDir('Smallville', userlists.smallville, 2, AddonIcon)
+    addDir('Smallville', '', 14, AddonIcon)
     addDir('Anger Managment', userlists.angermanagment, 2, AddonIcon)
-    addDir('Family Guy', userlists.familyguy, 2, AddonIcon)
+    addDir('Family Guy', '', 15, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
