@@ -12,5 +12,5 @@ https://hls.dashwalsh.club/m3u8/5295bdb289fc3b1d14bb2aa4747ec9a5.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Deadpool 2
 https://hls.dashwalsh.club/m3u8/32cab704f8033dae4bc85bef3e69111b.m3u8
 
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Arrow S1E1
-https://hls21xx.cdnfile.info/videos/hls/CivkzewuY2hXXhiOzdj-mg/1559708811/49240/f19140194768537956dfd5d4bd4517d7/sub.1.720.m3u8
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="6-4-19",Anger Managment S1E1
+https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/an5l4460/stream.m3u8
