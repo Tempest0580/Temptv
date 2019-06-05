@@ -71,3 +71,8 @@ https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=155978
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
 https://ul.cdn574.net:8443/hls/m4hym0dii3y.m3u8?s=yEZ2LweqRo8Z2F8vylmpEg&e=1559790007
+http://w2.11223344.host/live/tnt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
+http://w2.11223344.host/live/tnt/chunks.m3u8
+
