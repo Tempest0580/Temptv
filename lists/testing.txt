@@ -65,3 +65,9 @@ https://t14.viduplayer.com/hls/,vxokea6nwkalavf4ergyvooo37ythn3yextsdcghm57gxi6p
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg" group-title="6-4-19",Family Guy S12E12
 https://t14.viduplayer.com/hls/,vxokexxdwkalavf4erhivn4hqw4rhfbijye5vz63vggxunfkxdydiadmwh3a,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
+https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=1559789891
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
+https://ul.cdn574.net:8443/hls/m4hym0dii3y.m3u8?s=yEZ2LweqRo8Z2F8vylmpEg&e=1559790007
