@@ -64,6 +64,7 @@ def CLICK_SHOWS():
 def CLICK_4k():
     addDir('2019', userlists.click_4k_2019, 2, AddonIcon)
     addDir('2018', userlists.click_4k_2018, 2, AddonIcon)
+    addDir('2017', userlists.click_4k_2017, 2, AddonIcon)
     addDir('1993', userlists.click_4k_1993, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
@@ -71,6 +72,7 @@ def CLICK_4k():
 def CLICK_1080():
     addDir('2019', userlists.click_1080p_2019, 2, AddonIcon)
     addDir('2018', userlists.click_1080p_2018, 2, AddonIcon)
+    addDir('2017', userlists.click_1080p_2017, 2, AddonIcon)
     addDir('2013', userlists.click_1080p_2013, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
