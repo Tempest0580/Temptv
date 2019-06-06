@@ -214,16 +214,18 @@ class EdgeClass():
             print 'GetURL --> url = '+url
             opener = urllib2.build_opener()
             if sessionID and sessionToken:
-                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1' ),
+                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' ),
                                      ('x-Akamai-Streaming-SessionToken', sessionToken ),
                                      ('x-Akamai-Streaming-SessionID', sessionID ),
-                                     ('Content-Type', 'text/xml' )]
+                                     ('Content-Type', 'text/xml' ),
+                                     ('Connection', 'keep-alive']
             elif sessionID:
-                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1' ),
+                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' ),
                                      ('x-Akamai-Streaming-SessionID', sessionID ),
-                                     ('Content-Type', 'text/xml' )]
+                                     ('Content-Type', 'text/xml' )'
+                                     ('Connection', 'keep-alive']
             else:
-                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:14.0) Gecko/20100101 Firefox/14.0.1' )]
+                opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' )]
             
             if not post:
                 usock=opener.open(url)
