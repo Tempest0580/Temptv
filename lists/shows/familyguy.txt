@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E1
-https://s1.viduplayer.com/hls/vxokfwliwoalavf4erbyvouhtgzk54dnnp63p3ox7c4n6ruam5palm2a4qda/index-v1-a1.m3u8
+https://s1.viduplayer.com/hls/,vxokfwliwoalavf4erbyvouhtgzk54dnnp63p3ox7c4n6ruam5pmq2cb4qda,.urlset/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E2
-https://t1.viduplayer.com/hls/vxokf764wkalavf4ercivngrtuew42dxnflowqrj2vrwcd7lofwae72zmzza/index-v1-a1.m3u8
+https://t1.viduplayer.com/hls/,vxokf764wkalavf4ercivngrtuew42dxnflowqrj2vrwcd7lofwf3jkymzza,.urlset/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E3
 https://t9.viduplayer.com/hls/,vxokfkvowkalavf4erciv46nqpibr3klmsjzonpswsmjsz4rkiwzfxobv55q,.urlset/master.m3u8
