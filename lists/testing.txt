@@ -9,6 +9,21 @@ https://fe13.lookmovie.ag/JPGJaC5tf-59qg4bKrjuvg/1559809655/storage5/movies/4154
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://b.unlimitedpeer.ru/storage/hls/940c4a5d999fe1e506b8092810d5a2a9/940c4a5d999fe1e506b8092810d5a2a9.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E12
+https://b.unlimitedpeer.ru/storage/hls/a152a2e66a9acd888c9fc4ff9a61ab0e/a152a2e66a9acd888c9fc4ff9a61ab0e.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E13
+https://b.unlimitedpeer.ru/storage/hls/665588d0b1a6b7f1cc202688a8754cfb/665588d0b1a6b7f1cc202688a8754cfb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E14
+https://b.unlimitedpeer.ru/storage/hls/c545e9f4e87c59d38ec1bed4e1eab35d/c545e9f4e87c59d38ec1bed4e1eab35d.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E15
+https://b.unlimitedpeer.ru/storage/hls/7e93a5b72fb0557df8023edf3e13a674/7e93a5b72fb0557df8023edf3e13a674.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E16
+https://b.unlimitedpeer.ru/storage/hls/1b48b3c1ee6df901c124ddf6e6310b61/1b48b3c1ee6df901c124ddf6e6310b61.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E01
 https://n-adele.betterstream.co/abrplayback/88/60/35492e2f19a9d4e4d6db7c19bbbf94b6d1d1e4db376fc0cf0b9c22f4b272ec300d69f902b431d9f933e0dca9ae90bf7cbe0fc50d40f3a14178720f88bff268062a0042b6da159db6314ab7fcd1af05faa9093ca0e80fc98ca3bfdd5309e70134fa36338e63936987a21e549932c71e86063dd5ab11cd547ab8d73eb04f91d0cd/abr.m3u8?q=73&token=da70e7e0e481c56086f1e436de78d377
 
