@@ -269,4 +269,7 @@ elif mode == 12:
     VOD_MOVIES()
 elif mode == 13:
     VOD_SHOWS()
-
+elif mode == 14:
+    shows.SMALLVILLE()
+elif mode == 15:
+    shows.FAMLIYGUY()

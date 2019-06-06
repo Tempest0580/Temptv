@@ -26,6 +26,6 @@ smallville1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists
 smallville2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville2.txt'
 smallville3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville3.txt'
 angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/angermanagment.txt'
-familyguy1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy1.txt'
+familyguy = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
