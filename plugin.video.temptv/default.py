@@ -88,7 +88,7 @@ def CLICK_720():
 def CLICK():
     addDir('4K', '', 8, AddonIcon)
     addDir('1080p', '', 9, AddonIcon)
-    addDir('720p', '', 10)
+    addDir('720p', '', 10, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
