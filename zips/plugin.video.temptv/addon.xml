@@ -1,4 +1,4 @@
-<addon id="plugin.video.temptv" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX" version="1.0.2d">
+<addon id="plugin.video.temptv" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX" version="1.0.2f">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.video.F4mProxy" />
