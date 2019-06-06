@@ -1,0 +1,4 @@
+#EXTM3U8
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_.jpg" group-title="",The Nut Job
+https://cloudflare.tubi.video/711f6f11-1a8a-40ab-bc91-11cf9b060069/jxkrp0no/stream.m3u8

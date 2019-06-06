@@ -78,6 +78,8 @@ def CLICK_1080():
 def CLICK_720():
     addDir('2019', userlists.click_720_2019, 2, AddonIcon)
     addDir('2018', userlists.click_720_2018, 2, AddonIcon)
+    addDir('2016', userlists.click_720_2016, 2, AddonIcon)
+    addDir('2014', userlists.click_720_2014, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

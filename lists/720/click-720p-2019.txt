@@ -1,0 +1,7 @@
+#EXTM3U8
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M4NzkyYjItNzhjYi00NGE0LTkxNmQtZjg5Zjg5ZmFiNmJhXkEyXkFqcGdeQXVyMzE3MTI4MTU@._V1_UY268_CR36,0,182,268_AL_.jpg" group-title="",The Fearless One
+https://cloudflare.tubi.video/11540216-1d40-4ebc-9048-6fe8366ffce6/5tmgwiyi/stream.m3u8
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE5NjkzNWItOGRlNC00YmUwLThmZGYtZGViY2U0ZjMyYzQ5XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="",Wyvern
+https://cloudflare.tubi.video/e098a1b3-5150-4559-a0f0-376682d3f1d7/xp2s4apu/stream.m3u8

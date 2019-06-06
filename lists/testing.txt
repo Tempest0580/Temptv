@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="MOD",Captain Marvel
+https://fe13.lookmovie.ag/JPGJaC5tf-59qg4bKrjuvg/1559809655/storage5/movies/4154664-captain-marvel-2019-1559305932/1080p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://b.unlimitedpeer.ru/storage/hls/940c4a5d999fe1e506b8092810d5a2a9/940c4a5d999fe1e506b8092810d5a2a9.m3u8|https://b2slave2.ourgoldnewz.com/hls/aed24b2fa5df7633e122d6c35a160799/aed24b2fa5df7633e122d6c35a160799.playlist.m3u8
+https://b.unlimitedpeer.ru/storage/hls/940c4a5d999fe1e506b8092810d5a2a9/940c4a5d999fe1e506b8092810d5a2a9.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E01
+https://n-adele.betterstream.co/abrplayback/88/60/35492e2f19a9d4e4d6db7c19bbbf94b6d1d1e4db376fc0cf0b9c22f4b272ec300d69f902b431d9f933e0dca9ae90bf7cbe0fc50d40f3a14178720f88bff268062a0042b6da159db6314ab7fcd1af05faa9093ca0e80fc98ca3bfdd5309e70134fa36338e63936987a21e549932c71e86063dd5ab11cd547ab8d73eb04f91d0cd/abr.m3u8?q=73&token=da70e7e0e481c56086f1e436de78d377
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://b2slave2.ourgoldnewz.com/hls/aed24b2fa5df7633e122d6c35a160799/aed24b2fa5df7633e122d6c35a160799.playlist.m3u8

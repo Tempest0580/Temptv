@@ -1,0 +1,4 @@
+#EXTM3U8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Fifty_Shades_of_Black_poster.png/220px-Fifty_Shades_of_Black_poster.png" group-title="",Fifty Shades of Black
+https://cloudflare.tubi.video/c1f9b011-8c91-4e56-aa1d-2b35da6aa534/tlhvmn0m/stream.m3u8
