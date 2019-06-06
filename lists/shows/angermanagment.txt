@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E01
-https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/an5l4460/stream.m3u8
+https://cloudflare.tubi.video/15e62960-5145-485e-831f-84ba6522dc7f/g8qs3hsn92.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjAzODQ5NTEsInBsYXRmb3JtIjoid2ViIn0.owXTAw9xYcwI1U0kuGJTL8Mt5CjEhEXsgOAU9t1RQcU
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81UP33LIuOL._RI_.jpg" group-title="",S01E02
 https://cloudflare.tubi.video/a7c31c0f-dc1a-4875-a744-fc4687fe8fe6/83cv10y9/stream.m3u8

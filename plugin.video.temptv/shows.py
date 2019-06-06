@@ -44,6 +44,7 @@ def SMALLVILLE():
 
 
 def FAMLIYGUY():
-    addDir('Season 1', userlists.familyguy, 2, AddonIcon)
+    addDir('Season 1', userlists.familyguy1, 2, AddonIcon)
+    addDir('Season 12', userlists.familyguy12, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 

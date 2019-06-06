@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E06
+https://t14.viduplayer.com/hls/,vxoke7frwkalavf4erfivnmorlhbahffloyzx5hsjjybznuqwr227mjggxsa,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E07
+https://t14.viduplayer.com/hls/,vxokeurbwoalavf4ergivogurqi4nnynel2kteqsu673yzupjpmf4qdsqlpa,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E08
+https://t14.viduplayer.com/hls/,vxokewb7woalavf4erfyvjwutzz5rwttdk2rmt7rns7v53kade5q57ilkrla,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E09
+https://t14.viduplayer.com/hls/,vxoke3z6woalavf4erfyvi6msf6zcyfm5fcsdldwa53ecklh3ra5m7xiebpq,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E10
+https://t14.viduplayer.com/hls/,vxoketqfwoalavf4ergivluk3m7ox6i5uc7svc2ncid4oix57lw6pxk3etiq,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E11
+https://t14.viduplayer.com/hls/,vxokea6nwkalavf4ergyvooo37ythn3yextsdcghm57gxi6pqukw2m3uluiq,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E12
+https://t14.viduplayer.com/hls/,vxokexxdwkalavf4erhivn4hqw4rhfbijye5vz63vggxunfkxdydiadmwh3a,.urlset/master.m3u8
