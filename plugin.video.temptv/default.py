@@ -35,8 +35,8 @@ def MAIN():
     addDir('Pluto TV', userlists.pluto, 2, AddonIcon)
     addDir('1 Click Movies', '', 7, AddonIcon)
     addDir('1 Click Shows', '', 11, AddonIcon)
-    addDir('On Demand Movies', '', 12, AddonIcon)
-    addDir('On Demand Shows', '', 13, AddonIcon)
+    #addDir('On Demand Movies', '', 12, AddonIcon)
+    #addDir('On Demand Shows', '', 13, AddonIcon)
     addDir('UK', userlists.uk, 2, AddonIcon)
     if adult == 'true':
         addDir('Lust', userlists.adult, 2, AddonIcon)

@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
+https://b.unlimitedpeer.ru/storage/hls/940c4a5d999fe1e506b8092810d5a2a9/940c4a5d999fe1e506b8092810d5a2a9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
 https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=1559789891
