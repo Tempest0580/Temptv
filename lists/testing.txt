@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg" group-title="6-5-19",Thor: Ragnarok
-https://fe6.lookmovie.ag/jkBcZALjQJ9VoP1zyZcQkA/1559809887/storage4/movies/3501632-thor-ragnarok-2017-1558563880/1080p/index.m3u8
+https://fe6.lookmovie.ag/jkBcZALjQJ9VoP1zyZcQkA/1559809887/storage4/movies/3501632-thor-ragnarok-2017-1558563880/1080p/index.m3u8|
 
 #EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="6-5-19",Captain Marvel
 https://fe13.lookmovie.ag/JPGJaC5tf-59qg4bKrjuvg/1559809655/storage5/movies/4154664-captain-marvel-2019-1559305932/1080p/index.m3u8
@@ -32,3 +32,6 @@ http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTA6MDA6MzcgUE0maGFzaF92YWx1ZT16NUdIK0ZJYTVMbnFqL0NhWHlTZUFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+#EXTINF:-1 tvg-logo="" group-title="6-5-19",Test
+https://videoserver1.org/live/qRwaWg2bFRyUA7hbXAEJSg/1559794285/893bc56097146cb69a70ad0e9750ace3.m3u8|Referer=www.arconaitv.us
