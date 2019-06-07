@@ -37,8 +37,8 @@ def addDir(name, url, mode, iconimage, Folder=True):
 
 
 def SMALLVILLE():
-    addDir('Season 1', userlists.smallville1, 2, AddonIcon)
-    addDir('Season 2', userlists.smallville2, 2, AddonIcon)
+    addDir('Season 1', userlists.smallville1, 2, "https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg")
+    addDir('Season 2', userlists.smallville2, 2, "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg")
     #addDir('Season 3', userlists.smallville3, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 

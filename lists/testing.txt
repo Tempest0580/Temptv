@@ -66,5 +66,3 @@ http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoyMDozMyBQTSZoYXNoX3ZhbHVlPWNYRC9tdVNZaGl0OUlwNTBqcnd4a3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",Test
-https://sv2.data-stream.top/e0d37e518f90adb325358ebdcccf96be1c012c721d6d3ec41f397866cc46003e/hls/house.m3u8|Referer=https://www.stream4free.live/house-md

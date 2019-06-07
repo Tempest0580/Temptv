@@ -6,4 +6,7 @@
         <setting id="Show_Adult" type="bool" label="Show Adult Section" defult="false" />
         <setting id="sep" />
     </category>
+    <category label="Dev's Area">
+        <setting id="Dev" type="bool" label="Dev Extra's" defult="false" />
+    </category>
 </settings>

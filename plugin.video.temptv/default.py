@@ -22,27 +22,29 @@ Request = urllib2.Request
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
 headers = {'User-Agent': USER_AGENT, 'Accept': '*/*', 'Connection': 'keep-alive'}
 adult = addon.getSetting('Show_Adult')
+dev = addon.getSetting('Dev')
 
 
 def MAIN():
-    addDir('Entertainment', userlists.english, 2, AddonIcon)
-    addDir('Movies', userlists.movies, 2, AddonIcon)
-    addDir('Kids', userlists.kids, 2, AddonIcon)
-    addDir('Sports', userlists.sports, 2, AddonIcon)
-    addDir('News', userlists.news, 2, AddonIcon)
-    addDir('Music', userlists.music, 2, AddonIcon)
-    addDir('27/7', userlists.hour24, 2, AddonIcon)
-    addDir('Pluto TV', userlists.pluto, 2, AddonIcon)
-    addDir('1 Click Movies', '', 7, AddonIcon)
-    addDir('1 Click Shows', '', 11, AddonIcon)
+    addDir('Entertainment', userlists.english, 2, 'https://i2.wp.com/www.somersetcounty4h.org/wp-content/uploads/entertainment-icon.png?fit=567%2C567')
+    addDir('Movies', userlists.movies, 2, 'https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/movies.png')
+    addDir('Kids', userlists.kids, 2, 'https://yt3.ggpht.com/a/AGF-l7-eRsuCOQ43Hj9WVVU1xGY2L6sgA8S1DZLM2w=s900-mo-c-c0xffffffff-rj-k-no')
+    addDir('Sports', userlists.sports, 2, 'https://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg')
+    addDir('News', userlists.news, 2, 'https://esemag.com/wp-content/uploads/2015/11/News-Items.jpg')
+    addDir('Music', userlists.music, 2, 'https://c8.alamy.com/comp/PE2FM5/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music-business-splash-effect-concept-PE2FM5.jpg')
+    addDir('27/7', userlists.hour24, 2, 'https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png')
+    addDir('Pluto TV', userlists.pluto, 2, 'https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png')
+    addDir('1 Click Movies', '', 7, 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c72e2f68-1a1c-48a2-aa5f-edf7eaaf3548/d704h5l-8e40963d-18aa-4982-a412-5c0ef52f6acf.png')
+    addDir('1 Click Shows', '', 11, 'http://chittagongit.com/images/tv-series-icon/tv-series-icon-15.jpg')
     #addDir('On Demand Movies', '', 12, AddonIcon)
     #addDir('On Demand Shows', '', 13, AddonIcon)
-    addDir('UK', userlists.uk, 2, AddonIcon)
+    addDir('UK', userlists.uk, 2, 'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png')
     if adult == 'true':
-        addDir('Lust', userlists.adult, 2, AddonIcon)
-    addDir('MORELISTS', '', 5, AddonIcon)
-    addDir('[B] Settings [/B]', 'url', 4, AddonIcon, Folder=False)
-    addDir('Refresh', '', 6, AddonIcon, Folder=False)
+        addDir('Adult\'s Only', userlists.adult, 2, 'https://previews.123rf.com/images/123vector/123vector1403/123vector140300027/26460698-vector-illustration-of-red-adult-icon-on-white-background.jpg')
+    if dev == 'true':
+        addDir('Testing', '', 5, 'http://icons.iconarchive.com/icons/aaron-sinuhe/series-season-folder/256/extras-icon.png')
+    addDir('[B] Settings [/B]', 'url', 4, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyhtqOw2iVU3-nBZMb1cWTDw_bsR4dkNtLvSkqQn3jsApD1A3', Folder=False)
+    addDir('Refresh', '', 6, 'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png', Folder=False)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -55,9 +57,9 @@ def VOD_SHOWS():
 
 
 def CLICK_SHOWS():
-    addDir('Smallville', '', 14, AddonIcon)
-    addDir('Anger Managment', userlists.angermanagment, 2, AddonIcon)
-    addDir('Family Guy', '', 15, AddonIcon)
+    addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
+    addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
+    addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -90,9 +92,9 @@ def CLICK_720():
 
 
 def CLICK():
-    addDir('4K', '', 8, AddonIcon)
-    addDir('1080p', '', 9, AddonIcon)
-    addDir('720p', '', 10, AddonIcon)
+    addDir('4K', '', 8, 'https://sitejerk.com/images/4k-png-14.png')
+    addDir('1080p', '', 9, 'https://image.flaticon.com/icons/png/512/68/68922.png')
+    addDir('720p', '', 10, 'https://image.flaticon.com/icons/png/512/974/974576.png')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
