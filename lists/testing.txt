@@ -49,7 +49,7 @@ http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTA6MDA6MzcgUE0maGFzaF92YWx1ZT16NUdIK0ZJYTVMbnFqL0NhWHlTZUFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=26034331&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDoxNTozMiBBTSZoYXNoX3ZhbHVlPWk1SzQ5ZnVDL3pUaXRFTis1RkRqeWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",Test
