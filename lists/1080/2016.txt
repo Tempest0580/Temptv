@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png" group-title="",Deadpool
+https://lh3.googleusercontent.com/TxaKk3_o5agjYTlSvk6FyEmxHxJV6ktdEqemzTWD9zwv8l8I4N43--Qh47Y4c8nyl10wbFbTqLk=m37

@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg" group-title="",Blade runner 2049
+https://oqt1p7.oloadcdn.net/dl/l/E8Rx1nb17ziC8j_F/II3NLHQ3YUc/Blade.runner.2049.2017.1080p.br_SeeHD.mp4?mime=true
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_.jpg" group-title="",Fifty Shades Darker
+https://1fgm8rv.oloadcdn.net/dl/l/ERe0EHbQSObY3k5k/QoXhTqBecmg/Fifty+Shades+Darker.2017.bdrip.x264.mkv.mp4?mime=true
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg" group-title="",Thor: Ragnarok
+https://lh3.googleusercontent.com/s7EBIHHetjpvCYpAxjLlSrkxMWIMpcfOwhJrj4f5ht5bWEf7szBBK9eGh-KwWDEe_JIU5pBJFP0=m37
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg" group-title="",Spider-Man: Homecoming
+https://lh3.googleusercontent.com/hAYjlbVthdTf-pfyiPRJiGICB4ODEXV4me_HpYGfuxeXq9PcUIaPbxiZlqsZ7KSDRhKHYIZKuME=m37

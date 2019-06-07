@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="6-4-19",Venom
-https://lh3.googleusercontent.com/ZLBlPbYIiQQYosvmyri0B4MELFOnlwvzd8MZ8ilWtl_ur9IAwLimxxvcXvCiO3oRUkFCoO2V6c0=m37
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://pgli97.oloadcdn.net/dl/l/VCENteu7xLc-uwR7/GCzA0lmPJro/Family+Guy+S01E01+Death+Has+a+Shadow.mp4?mime=true
 

@@ -73,7 +73,11 @@ def CLICK_1080():
     addDir('2019', userlists.click_1080p_2019, 2, AddonIcon)
     addDir('2018', userlists.click_1080p_2018, 2, AddonIcon)
     addDir('2017', userlists.click_1080p_2017, 2, AddonIcon)
+    addDir('2016', userlists.click_1080p_2016, 2, AddonIcon)
+    addDir('2015', userlists.click_1080p_2015, 2, AddonIcon)
     addDir('2013', userlists.click_1080p_2013, 2, AddonIcon)
+    addDir('2012', userlists.click_1080p_2012, 2, AddonIcon)
+    addDir('2011', userlists.click_1080p_2011, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

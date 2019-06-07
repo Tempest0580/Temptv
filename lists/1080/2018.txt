@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="",Venom
+https://lh3.googleusercontent.com/ZLBlPbYIiQQYosvmyri0B4MELFOnlwvzd8MZ8ilWtl_ur9IAwLimxxvcXvCiO3oRUkFCoO2V6c0=m37
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81GfZasnt9L._SL1371_.jpg" group-title="",Avengers Infinity War
+https://lh3.googleusercontent.com/UiQNtcbcq1WI2fbwaby0hh8k_9ZTIMMFgOSV6dSYkxl3qTCiuk-_dSMiCxDvlTIsLy497tHVQP4=m37
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="",Deadpool 2
+https://lh3.googleusercontent.com/Z14gRAOkGlZ1NLCYE4ck4InSOcZyL6O-rhoiRb3stU2a4GyeRfIHZvDDZ5YRnxkSQs5avazTyGw=m37
+
