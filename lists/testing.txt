@@ -56,7 +56,7 @@ https://1fgqfvj.oloadcdn.net/dl/l/3-_C5YEsc6E3SGoX/cpVUQJDMHlo/Smallville+S01E04
 https://ph2dom.oloadcdn.net/dl/l/R9o7z0aibziTLLga/cT_0YS0Ps10/Smallville+S01E05+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
-http://live.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=26052277&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNTowNzowMSBBTSZoYXNoX3ZhbHVlPWFtbmN1RndkQVZzYWVJUVFiUjMzM1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJml|http://ustvgo.tv/cbs-live-streaming-free/
+http://live.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=26052277&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo1MDo1NyBBTSZoYXNoX3ZhbHVlPU5lVHJiNHA0QVZtaEFpNFRHbWRFbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|http://ustvgo.tv/cbs-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
 http://live.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=26046997&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo1MDo1NyBBTSZoYXNoX3ZhbHVlPU5lVHJiNHA0QVZtaEFpNFRHbWRFbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
