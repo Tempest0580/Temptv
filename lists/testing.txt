@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg" group-title="6-5-19",Thor: Ragnarok
-https://fe6.lookmovie.ag/jkBcZALjQJ9VoP1zyZcQkA/1559809887/storage4/movies/3501632-thor-ragnarok-2017-1558563880/1080p/index.m3u8|
-
-#EXTINF:-1, tvg-logo="https://media.comicbook.com/2019/01/the-art-of-captain-marvel-1152650-1280x0.jpeg" group-title="6-5-19",Captain Marvel
-https://fe13.lookmovie.ag/JPGJaC5tf-59qg4bKrjuvg/1559809655/storage5/movies/4154664-captain-marvel-2019-1559305932/1080p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://b.unlimitedpeer.ru/storage/hls/940c4a5d999fe1e506b8092810d5a2a9/940c4a5d999fe1e506b8092810d5a2a9.m3u8
+https://pgli97.oloadcdn.net/dl/l/VCENteu7xLc-uwR7/GCzA0lmPJro/Family+Guy+S01E01+Death+Has+a+Shadow.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
+https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E12
 https://b.unlimitedpeer.ru/storage/hls/a152a2e66a9acd888c9fc4ff9a61ab0e/a152a2e66a9acd888c9fc4ff9a61ab0e.m3u8
@@ -25,7 +23,7 @@ https://b.unlimitedpeer.ru/storage/hls/7e93a5b72fb0557df8023edf3e13a674/7e93a5b7
 https://b.unlimitedpeer.ru/storage/hls/1b48b3c1ee6df901c124ddf6e6310b61/1b48b3c1ee6df901c124ddf6e6310b61.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E01
-https://n-adele.betterstream.co/abrplayback/88/60/35492e2f19a9d4e4d6db7c19bbbf94b6d1d1e4db376fc0cf0b9c22f4b272ec300d69f902b431d9f933e0dca9ae90bf7cbe0fc50d40f3a14178720f88bff268062a0042b6da159db6314ab7fcd1af05faa9093ca0e80fc98ca3bfdd5309e70134fa36338e63936987a21e549932c71e86063dd5ab11cd547ab8d73eb04f91d0cd/abr.m3u8?q=73&token=da70e7e0e481c56086f1e436de78d377
+https://lu1.vcdn.to/p/d0f38ab8ddef95f4/720p.m3u8?ip=71.135.196.252&ex=1559894521&fm=720p&tk=5d6e5ea4dcec4f63bb5f6496d4c802ca
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://b2slave2.ourgoldnewz.com/hls/aed24b2fa5df7633e122d6c35a160799/aed24b2fa5df7633e122d6c35a160799.playlist.m3u8
@@ -37,16 +35,19 @@ https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=155978
 https://ul.cdn574.net:8443/hls/m4hym0dii3y.m3u8?s=yEZ2LweqRo8Z2F8vylmpEg&e=1559790007
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNzoyNiBQTSZoYXNoX3ZhbHVlPVc4VmRtZW4xVHhSSXVoQWpUc2JwTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNzoyNiBQTSZoYXNoX3ZhbHVlPVc4VmRtZW4xVHhSSXVoQWpUc2JwTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="6-5-19",Hallmark Channel
-http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNTozOCBQTSZoYXNoX3ZhbHVlPUVDcXJJQStaTUhOa3NleWcyNGtIalE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNTozOCBQTSZoYXNoX3ZhbHVlPUVDcXJJQStaTUhOa3NleWcyNGtIalE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/hallmark-channel-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
 http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozOToxNiBQTSZoYXNoX3ZhbHVlPWtUanRKc1pLOVlFMXV3b2JRWU9xNXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTA6MDA6MzcgUE0maGFzaF92YWx1ZT16NUdIK0ZJYTVMbnFqL0NhWHlTZUFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+
+
+http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=26034331&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDoxNTozMiBBTSZoYXNoX3ZhbHVlPWk1SzQ5ZnVDL3pUaXRFTis1RkRqeWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",Test
 https://sv2.data-stream.top/e0d37e518f90adb325358ebdcccf96be1c012c721d6d3ec41f397866cc46003e/hls/house.m3u8|Referer=https://www.stream4free.live/house-md|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36
