@@ -20,3 +20,25 @@ https://t14.viduplayer.com/hls/,vxokea6nwkalavf4ergyvooo37ythn3yextsdcghm57gxi6p
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E12
 https://t14.viduplayer.com/hls/,vxokexxdwkalavf4erhivn4hqw4rhfbijye5vz63vggxunfkxdydiadmwh3a,.urlset/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E15
+https://1fgqfm1.oloadcdn.net/dl/l/r4keDkqdNl9czs8h/wWt4nX9hq1I/Family.Guy.S12E15.720p.HDTV.x264-REMARKABLE.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E16
+https://1fhjlu6.oloadcdn.net/dl/l/YwxO-n19GhK5PA03/_d5FYCV1LAI/Family+Guy+S12E16+Herpe+The+Love+Sore+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpgg" group-title="",S12E17
+https://1fhjluw.oloadcdn.net/dl/l/O98wsaO8w7oTpyJq/pd6SLN4symM/Family+Guy+S12E17+The+Most+Interesting+Man+In+The+World+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E18
+https://ph2dqz.oloadcdn.net/dl/l/qOVcJs8XO3sTIUyq/THq9VvFK9ic/Family.Guy.S12E18.720p.HDTV.x264-REMARKABLE.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E19
+https://pgli8f.oloadcdn.net/dl/l/uOyDQ1G7XpSfZnza/9rqPdVtESjg/Family.Guy.S12E19.Meg.Stinks.720p.WEB-DLx264.174B8.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E20
+https://ph2dw8.oloadcdn.net/dl/l/0booBr7ET3dzgVru/AMgcuVCY5sQ/Family.Guy.S12E20.720p.HDTV.X264-DIMENSION.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg" group-title="",S12E21
+https://1fiag15.oloadcdn.net/dl/l/icFyQTM2Y_aO4hbN/GcnjH_MvWMI/Family+Guy+S12E21+Chap+Stewie+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+

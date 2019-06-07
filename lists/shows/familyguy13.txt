@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg" group-title="",S13E01
+https://1fgqfmh.oloadcdn.net/dl/l/U-HYh2CblKMVuRLf/k79jOC_XBvA/Family.Guy.S13E01.The.Simpsons.Guy.720p.WEB-DL.x264.AAC.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg" group-title="",S13E02
+https://oql954.oloadcdn.net/dl/l/a3827pOg1MrJlWvy/Is5dZTwKH0g/Family.Guy.S13E02.Book.of.Joe.720p.WEB-DL.x264.AAC.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg" group-title="",S13E03
+https://1fgm8gt.oloadcdn.net/dl/l/UDBS4S1c4zhWcPrc/7hwF1aZvHUI/Family+Guy+S13E03+Baking+Bad+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true

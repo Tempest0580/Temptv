@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://pgli97.oloadcdn.net/dl/l/VCENteu7xLc-uwR7/GCzA0lmPJro/Family+Guy+S01E01+Death+Has+a+Shadow.mp4?mime=true
+https://linkthis.xyz/embed/GCzA0lmPJro
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E2
 https://1fgm8gd.oloadcdn.net/dl/l/smfCzk48Uq76qA48/uLohjfM8P8Y/Family+Guy+S01E02+I+Never+Met+the+Dead+Man.mp4?mime=true

@@ -37,5 +37,6 @@ smallville3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists
 angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/angermanagment.txt'
 familyguy1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy1.txt'
 familyguy12 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy12.txt'
+familyguy13 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy13.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
