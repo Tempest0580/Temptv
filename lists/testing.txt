@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://pgli97.oloadcdn.net/dl/l/VCENteu7xLc-uwR7/GCzA0lmPJro/Family+Guy+S01E01+Death+Has+a+Shadow.mp4?mime=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E2
+https://1fgm8gd.oloadcdn.net/dl/l/smfCzk48Uq76qA48/uLohjfM8P8Y/Family+Guy+S01E02+I+Never+Met+the+Dead+Man.mp4?mime=true
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
 
@@ -26,7 +29,7 @@ https://b.unlimitedpeer.ru/storage/hls/1b48b3c1ee6df901c124ddf6e6310b61/1b48b3c1
 https://lu1.vcdn.to/p/d0f38ab8ddef95f4/720p.m3u8?ip=71.135.196.252&ex=1559894521&fm=720p&tk=5d6e5ea4dcec4f63bb5f6496d4c802ca
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://b2slave2.ourgoldnewz.com/hls/aed24b2fa5df7633e122d6c35a160799/aed24b2fa5df7633e122d6c35a160799.playlist.m3u8
+https://oqt1pi.oloadcdn.net/dl/l/dBp4m17QPzLAvedM/DNd4fRQSpxI/Smallville+S01E01+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
 https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=1559789891
