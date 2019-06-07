@@ -56,16 +56,16 @@ https://1fgqfvj.oloadcdn.net/dl/l/3-_C5YEsc6E3SGoX/cpVUQJDMHlo/Smallville+S01E04
 https://ph2dom.oloadcdn.net/dl/l/R9o7z0aibziTLLga/cT_0YS0Ps10/Smallville+S01E05+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
-http://live.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=26052277&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo1MDo1NyBBTSZoYXNoX3ZhbHVlPU5lVHJiNHA0QVZtaEFpNFRHbWRFbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|http://ustvgo.tv/cbs-live-streaming-free/
+http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoxODozMSBQTSZoYXNoX3ZhbHVlPVFNN3owL1dKd3Q5dUFMWXI4RWY5UXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|http://ustvgo.tv/cbs-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
-http://live.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=26046997&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo1MDo1NyBBTSZoYXNoX3ZhbHVlPU5lVHJiNHA0QVZtaEFpNFRHbWRFbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
+http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoyMDowNSBQTSZoYXNoX3ZhbHVlPVZiTU81QXFheW1kRCtleDhJTjhNa2c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="6-5-19",Hallmark Channel
-http://live.savitar.tv/Hallmark/myStream/chunks.m3u8?nimblesessionid=26046411&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo0OTowMiBBTSZoYXNoX3ZhbHVlPVFFMk1jL0ZQYzlzNW1jMkl2UU4rYmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/hallmark-channel-live-streaming-free/
+http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoyMTozNSBQTSZoYXNoX3ZhbHVlPUFKSDRJOXI4aWphME5xTkp0UlpjVGc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/hallmark-channel-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
-http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=26034331&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDoxNTozMiBBTSZoYXNoX3ZhbHVlPWk1SzQ5ZnVDL3pUaXRFTis1RkRqeWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
+http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoyMDozMyBQTSZoYXNoX3ZhbHVlPWNYRC9tdVNZaGl0OUlwNTBqcnd4a3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",Test
-https://sv2.data-stream.top/e0d37e518f90adb325358ebdcccf96be1c012c721d6d3ec41f397866cc46003e/hls/house.m3u8|Referer=https://www.stream4free.live/house-md|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36
+https://sv2.data-stream.top/e0d37e518f90adb325358ebdcccf96be1c012c721d6d3ec41f397866cc46003e/hls/house.m3u8|Referer=https://www.stream4free.live/house-md
