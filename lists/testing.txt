@@ -10,44 +10,59 @@ https://1fgm8gd.oloadcdn.net/dl/l/smfCzk48Uq76qA48/uLohjfM8P8Y/Family+Guy+S01E02
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E12
-https://b.unlimitedpeer.ru/storage/hls/a152a2e66a9acd888c9fc4ff9a61ab0e/a152a2e66a9acd888c9fc4ff9a61ab0e.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E13
-https://b.unlimitedpeer.ru/storage/hls/665588d0b1a6b7f1cc202688a8754cfb/665588d0b1a6b7f1cc202688a8754cfb.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E14
-https://b.unlimitedpeer.ru/storage/hls/c545e9f4e87c59d38ec1bed4e1eab35d/c545e9f4e87c59d38ec1bed4e1eab35d.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E15
-https://b.unlimitedpeer.ru/storage/hls/7e93a5b72fb0557df8023edf3e13a674/7e93a5b72fb0557df8023edf3e13a674.m3u8
+https://1fgqfm1.oloadcdn.net/dl/l/r4keDkqdNl9czs8h/wWt4nX9hq1I/Family.Guy.S12E15.720p.HDTV.x264-REMARKABLE.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E16
-https://b.unlimitedpeer.ru/storage/hls/1b48b3c1ee6df901c124ddf6e6310b61/1b48b3c1ee6df901c124ddf6e6310b61.m3u8
+https://1fhjlu6.oloadcdn.net/dl/l/YwxO-n19GhK5PA03/_d5FYCV1LAI/Family+Guy+S12E16+Herpe+The+Love+Sore+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",S01E01
-https://lu1.vcdn.to/p/d0f38ab8ddef95f4/720p.m3u8?ip=71.135.196.252&ex=1559894521&fm=720p&tk=5d6e5ea4dcec4f63bb5f6496d4c802ca
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E17
+https://1fhjluw.oloadcdn.net/dl/l/O98wsaO8w7oTpyJq/pd6SLN4symM/Family+Guy+S12E17+The+Most+Interesting+Man+In+The+World+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://oqt1pi.oloadcdn.net/dl/l/dBp4m17QPzLAvedM/DNd4fRQSpxI/Smallville+S01E01+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E18
+https://ph2dqz.oloadcdn.net/dl/l/qOVcJs8XO3sTIUyq/THq9VvFK9ic/Family.Guy.S12E18.720p.HDTV.x264-REMARKABLE.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E19
+https://pgli8f.oloadcdn.net/dl/l/uOyDQ1G7XpSfZnza/9rqPdVtESjg/Family.Guy.S12E19.Meg.Stinks.720p.WEB-DLx264.174B8.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E20
+https://ph2dw8.oloadcdn.net/dl/l/0booBr7ET3dzgVru/AMgcuVCY5sQ/Family.Guy.S12E20.720p.HDTV.X264-DIMENSION.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E21
+https://1fiag15.oloadcdn.net/dl/l/icFyQTM2Y_aO4hbN/GcnjH_MvWMI/Family+Guy+S12E21+Chap+Stewie+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E01
+https://1fgqfmh.oloadcdn.net/dl/l/U-HYh2CblKMVuRLf/k79jOC_XBvA/Family.Guy.S13E01.The.Simpsons.Guy.720p.WEB-DL.x264.AAC.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E02
+https://oql954.oloadcdn.net/dl/l/a3827pOg1MrJlWvy/Is5dZTwKH0g/Family.Guy.S13E02.Book.of.Joe.720p.WEB-DL.x264.AAC.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E03
+https://1fgm8gt.oloadcdn.net/dl/l/UDBS4S1c4zhWcPrc/7hwF1aZvHUI/Family+Guy+S13E03+Baking+Bad+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E01
+https://oqt1pi.oloadcdn.net/dl/l/7ka8YCiJpDSD7NbZ/QyVXnmYrU8I/Smallville+S01E01+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E02
+https://1fjiw5u.oloadcdn.net/dl/l/BjPu4Yb0PA42qByB/IUa7M1gb2Co/Smallville+S01E02+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E03
+https://1fhjlk3.oloadcdn.net/dl/l/l8rhNCIxccQtAaj4/HWmTrXX5xTE/Smallville+S01E03+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E04
+https://1fgqfvj.oloadcdn.net/dl/l/3-_C5YEsc6E3SGoX/cpVUQJDMHlo/Smallville+S01E04+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E05
+https://ph2dom.oloadcdn.net/dl/l/R9o7z0aibziTLLga/cT_0YS0Ps10/Smallville+S01E05+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
-https://ul.cdn574.net:8443/hls/o67531h9fk.m3u8?s=a46KcZSX8zAlgQY7CqFwRQ&e=1559789891
+http://live.savitar.tv/CBS/myStream/chunks.m3u8?nimblesessionid=26052277&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNTowNzowMSBBTSZoYXNoX3ZhbHVlPWFtbmN1RndkQVZzYWVJUVFiUjMzM1E9PSZ2YWxpZG1pbnV0ZXM9MzYwJml|http://ustvgo.tv/cbs-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
-https://ul.cdn574.net:8443/hls/m4hym0dii3y.m3u8?s=yEZ2LweqRo8Z2F8vylmpEg&e=1559790007
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="6-5-19",TNT
-http://live.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNzoyNiBQTSZoYXNoX3ZhbHVlPVc4VmRtZW4xVHhSSXVoQWpUc2JwTnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
+http://live.savitar.tv/TNT/myStream/chunks.m3u8?nimblesessionid=26046997&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo1MDo1NyBBTSZoYXNoX3ZhbHVlPU5lVHJiNHA0QVZtaEFpNFRHbWRFbkE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tnt/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" group-title="6-5-19",Hallmark Channel
-http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozNTozOCBQTSZoYXNoX3ZhbHVlPUVDcXJJQStaTUhOa3NleWcyNGtIalE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/hallmark-channel-live-streaming-free/
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
-http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgOTozOToxNiBQTSZoYXNoX3ZhbHVlPWtUanRKc1pLOVlFMXV3b2JRWU9xNXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
-http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni81LzIwMTkgMTA6MDA6MzcgUE0maGFzaF92YWx1ZT16NUdIK0ZJYTVMbnFqL0NhWHlTZUFnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://live.savitar.tv/Hallmark/myStream/chunks.m3u8?nimblesessionid=26046411&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDo0OTowMiBBTSZoYXNoX3ZhbHVlPVFFMk1jL0ZQYzlzNW1jMkl2UU4rYmc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/hallmark-channel-live-streaming-free/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/chunks.m3u8?nimblesessionid=26034331&wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgNDoxNTozMiBBTSZoYXNoX3ZhbHVlPWk1SzQ5ZnVDL3pUaXRFTis1RkRqeWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/

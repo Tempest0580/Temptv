@@ -21,6 +21,7 @@ click_1080p_2017 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/
 click_1080p_2013 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/click-1080p-2013.txt'
 click_720_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-720p-2019.txt'
 click_720_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-720p-2018.txt'
+click_720_2017 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-720p-2017.txt'
 click_720_2016 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-2016.txt'
 click_720_2014 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/click-2014.txt'
 vod_movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/vod_movies.txt'
