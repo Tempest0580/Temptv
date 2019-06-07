@@ -4,55 +4,82 @@
 https://oload.website/stream/GCzA0lmPJro~1560013689~71.135.0.0~emcT5lxz?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E2
-https://1fgm8gd.oloadcdn.net/dl/l/smfCzk48Uq76qA48/uLohjfM8P8Y/Family+Guy+S01E02+I+Never+Met+the+Dead+Man.mp4?mime=true
+https://oload.website/stream/uLohjfM8P8Y~1560013798~71.135.0.0~T0B3K7vo?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
 #https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E15
-https://1fgqfm1.oloadcdn.net/dl/l/r4keDkqdNl9czs8h/wWt4nX9hq1I/Family.Guy.S12E15.720p.HDTV.x264-REMARKABLE.mp4?mime=true
+https://oload.website/stream/wWt4nX9hq1I~1560014160~71.135.0.0~r7VY_Y8J?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E16
-https://1fhjlu6.oloadcdn.net/dl/l/YwxO-n19GhK5PA03/_d5FYCV1LAI/Family+Guy+S12E16+Herpe+The+Love+Sore+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+https://oload.website/stream/_d5FYCV1LAI~1560014184~71.135.0.0~z2pu2rZx?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E17
-https://1fhjluw.oloadcdn.net/dl/l/O98wsaO8w7oTpyJq/pd6SLN4symM/Family+Guy+S12E17+The+Most+Interesting+Man+In+The+World+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+https://oload.website/stream/_d5FYCV1LAI~1560014209~71.135.0.0~1_j9yrMg?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E18
-https://ph2dqz.oloadcdn.net/dl/l/qOVcJs8XO3sTIUyq/THq9VvFK9ic/Family.Guy.S12E18.720p.HDTV.x264-REMARKABLE.mp4?mime=true
+https://oload.website/stream/pd6SLN4symM~1560014234~71.135.0.0~8-cu6ZMG?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E19
-https://pgli8f.oloadcdn.net/dl/l/uOyDQ1G7XpSfZnza/9rqPdVtESjg/Family.Guy.S12E19.Meg.Stinks.720p.WEB-DLx264.174B8.mp4?mime=true
+https://oload.website/stream/9rqPdVtESjg~1560014261~71.135.0.0~hJ9dBaWh?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E20
-https://ph2dw8.oloadcdn.net/dl/l/0booBr7ET3dzgVru/AMgcuVCY5sQ/Family.Guy.S12E20.720p.HDTV.X264-DIMENSION.mp4?mime=true
+https://oload.website/stream/9rqPdVtESjg~1560014286~71.135.0.0~I1Lw6OJU?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E21
-https://1fiag15.oloadcdn.net/dl/l/icFyQTM2Y_aO4hbN/GcnjH_MvWMI/Family+Guy+S12E21+Chap+Stewie+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+https://oload.website/stream/GcnjH_MvWMI~1560014311~71.135.0.0~dEjAe-kM?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E01
-https://1fgqfmh.oloadcdn.net/dl/l/U-HYh2CblKMVuRLf/k79jOC_XBvA/Family.Guy.S13E01.The.Simpsons.Guy.720p.WEB-DL.x264.AAC.mp4?mime=true
+https://oload.website/stream/k79jOC_XBvA~1560014335~71.135.0.0~2RUJK8bz?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E02
-https://oql954.oloadcdn.net/dl/l/a3827pOg1MrJlWvy/Is5dZTwKH0g/Family.Guy.S13E02.Book.of.Joe.720p.WEB-DL.x264.AAC.mp4?mime=true
+https://oload.website/stream/Is5dZTwKH0g~1560014355~71.135.0.0~B6QxIH71?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E03
-https://1fgm8gt.oloadcdn.net/dl/l/UDBS4S1c4zhWcPrc/7hwF1aZvHUI/Family+Guy+S13E03+Baking+Bad+1080p+Web+x265+AAC+5.1+Sub+Ch.mp4?mime=true
+https://oload.website/stream/7hwF1aZvHUI~1560014447~71.135.0.0~omU6Pgm0?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E04
+https://oload.website/stream/GTGXM8CDJp4~1560014470~71.135.0.0~lxEHgHAu?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E05
+https://oload.website/stream/53TtGnUTRPs~1560014494~71.135.0.0~IpTx3owL?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E06
+https://oload.website/stream/3mh_O0G7HyE~1560014522~71.135.0.0~X3x6B82r?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E07
+https://oload.website/stream/0Y4gwrHwW50~1560014545~71.135.0.0~nChlxc9T?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E08
+https://oload.website/stream/ZbZe6pTjZGQ~1560014577~71.135.0.0~FTyXRB3N?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E09
+https://oload.website/stream/uv1Q52dPef4~1560014607~71.135.0.0~rw1hS2IQ?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E10
+https://oload.website/stream/4ewUrByugbk~1560014631~71.135.0.0~8s548lwz?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E11
+https://oload.website/stream/xt-M_Pyi2Ek~1560014655~71.135.0.0~lnKIFPQy?mime=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S13E12
+https://oload.website/stream/TgxWNiblgQo~1560014678~71.135.0.0~hszxolTb?mime=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E01
-https://oqt1pi.oloadcdn.net/dl/l/7ka8YCiJpDSD7NbZ/QyVXnmYrU8I/Smallville+S01E01+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+https://oload.website/stream/QyVXnmYrU8I~1560013912~71.135.0.0~bozVkkcC?mime=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E02
-https://1fjiw5u.oloadcdn.net/dl/l/BjPu4Yb0PA42qByB/IUa7M1gb2Co/Smallville+S01E02+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+https://oload.website/stream/IUa7M1gb2Co~1560013954~71.135.0.0~SoZXO70j?mime=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E03
-https://1fhjlk3.oloadcdn.net/dl/l/l8rhNCIxccQtAaj4/HWmTrXX5xTE/Smallville+S01E03+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+https://oload.website/stream/HWmTrXX5xTE~1560013983~71.135.0.0~Jp6vlj6D?mime=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E04
-https://1fgqfvj.oloadcdn.net/dl/l/3-_C5YEsc6E3SGoX/cpVUQJDMHlo/Smallville+S01E04+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+https://oload.website/stream/cpVUQJDMHlo~1560014026~71.135.0.0~Sg5iFxGP?mime=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg" group-title="",Smallville S01E05
-https://ph2dom.oloadcdn.net/dl/l/R9o7z0aibziTLLga/cT_0YS0Ps10/Smallville+S01E05+x265+720p+WEB+DL+30nama+30NAMA.mp4?mime=true
+https://oload.website/stream/cT_0YS0Ps10~1560014114~71.135.0.0~ynwxG7Jp?mime=true
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="6-5-19",CBS
 http://live.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoxODozMSBQTSZoYXNoX3ZhbHVlPVFNN3owL1dKd3Q5dUFMWXI4RWY5UXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|http://ustvgo.tv/cbs-live-streaming-free/
