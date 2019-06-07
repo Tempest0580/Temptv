@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Fifty_Shades_Freed_poster.png" group-title="",Fifty Shades Freed
+https://lh3.googleusercontent.com/JhhVb-3u5RMq5FSOxMfXDorMUg5oirjxoUAkGB9qsBMnL7tB5OSWscL4GyhCrkFW8yJ_rI8CeSg=m22

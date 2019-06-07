@@ -9,3 +9,5 @@ https://lh3.googleusercontent.com/UiQNtcbcq1WI2fbwaby0hh8k_9ZTIMMFgOSV6dSYkxl3qT
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video125/v4/00/15/49/001549fd-0603-18d0-c0cc-39512fe30b7a/pr_source.lsr/268x0w.png" group-title="",Deadpool 2
 https://lh3.googleusercontent.com/Z14gRAOkGlZ1NLCYE4ck4InSOcZyL6O-rhoiRb3stU2a4GyeRfIHZvDDZ5YRnxkSQs5avazTyGw=m37
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Fifty_Shades_Freed_poster.png" group-title="",Fifty Shades Freed
+https://lh3.googleusercontent.com/JhhVb-3u5RMq5FSOxMfXDorMUg5oirjxoUAkGB9qsBMnL7tB5OSWscL4GyhCrkFW8yJ_rI8CeSg=m37

@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Fifty_Shades_of_Black_poster.png/220px-Fifty_Shades_of_Black_poster.png" group-title="",Fifty Shades of Black
+https://lh3.googleusercontent.com/0PpcMHqi5hSRlD6R6fp23vzqGCXqAbE3q7CjK68vjGimhfd6CT5BmmFqLxdl6P91YwHmvDLtUw=m22
+

@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://static1.squarespace.com/static/511eea22e4b06642027a9a99/t/5a3a9cd2e2c483d9690ebf0f/1513790678005/Blade+Runner+-+Final+Cut.jpg" group-title="",Blade runner
+https://lh3.googleusercontent.com/Nghh1amXl6n1yDsEvrW-KuO1wMXboJ3iBpUoIxAVM_iQcEw5QvDS4jA2bdVMkVm2-l1O-N6IXIc=m37
