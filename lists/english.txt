@@ -130,13 +130,7 @@ http://170.250.96.20:8110/cbs.m3u8
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/09/cbs-logo-old.png?w=450&h=253&crop=1" group-title="", CBS
-http://161.0.157.9/PLTV/88888888/224/3221227041/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/09/cbs-logo-old.png?w=450&h=253&crop=1" group-title="", CBS
-http://161.0.157.9/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/09/cbs-logo-old.png?w=450&h=253&crop=1" group-title="", CBS
-http://161.0.157.9/PLTV/88888888/224/3221227041/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/1200px-CBC_Television_2009.svg.png" group-title="", CBC Television
 http://161.0.157.90/PLTV/88888888/224/3221227004/index.m3u8
