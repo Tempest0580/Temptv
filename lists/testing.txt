@@ -93,3 +93,5 @@ http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
 http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni83LzIwMTkgMjoyMDozMyBQTSZoYXNoX3ZhbHVlPWNYRC9tdVNZaGl0OUlwNTBqcnd4a3c9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=|Referer=http://ustvgo.tv/tlc-live-free/
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="6-5-19",TLC
+https://ok.ru/videoembed/1082887708259?nochat=1&autoplay=1
