@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://linkthis.xyz/embed/GCzA0lmPJro
+https://oload.website/stream/GCzA0lmPJro~1560013689~71.135.0.0~emcT5lxz?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E2
 https://1fgm8gd.oloadcdn.net/dl/l/smfCzk48Uq76qA48/uLohjfM8P8Y/Family+Guy+S01E02+I+Never+Met+the+Dead+Man.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
+#https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E15
 https://1fgqfm1.oloadcdn.net/dl/l/r4keDkqdNl9czs8h/wWt4nX9hq1I/Family.Guy.S12E15.720p.HDTV.x264-REMARKABLE.mp4?mime=true
