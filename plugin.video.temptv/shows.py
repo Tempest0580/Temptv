@@ -54,6 +54,7 @@ def FAMLIYGUY():
     addDir('Season 17', userlists.familyguy17, 2, 'https://cdn.watch-series.co/cover/family-guy-season-17.png')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
+
 def SIMPSONS():
     addDir('Season 29', userlists.simpsons29, 2, 'https://i.pinimg.com/736x/10/97/a2/1097a2d8acaab69e35d5f83024805da8.jpg')
     addDir('Season 30', userlists.simpsons30, 2, 'http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663')
