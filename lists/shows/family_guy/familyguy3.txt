@@ -6,7 +6,7 @@ http://dl.upload8.net/Serial/Family%20Guy/S03/family.guy.s03e01.mkv
 http://dl.upload8.net/Serial/Family%20Guy/S03/family.guy.s03e02.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png" group-title="",S03E03: "Mr. Griffin Goes to Washington"
 http://dl.upload8.net/Serial/Family%20Guy/S03/family.guy.s03e03.mkv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png" group-title="",S03E04: "One If by Clam. Two If by Sea"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png" group-title="",S03E04: "One If by Clam, Two If by Sea"
 http://dl.upload8.net/Serial/Family%20Guy/S03/family.guy.s03e04.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png" group-title="",S03E05: "And the Wiener Is..."
 http://dl.upload8.net/Serial/Family%20Guy/S03/family.guy.s03e05.mkv

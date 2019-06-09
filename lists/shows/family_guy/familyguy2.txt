@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E01: "Peter. Peter. Caviar Eater"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E01: "Peter, Peter, Caviar Eater"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E01.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E02: "Holy Crap"
@@ -21,10 +21,10 @@ http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E06.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E07: "The King Is Dead"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E07.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E08: "I Am Peter. Hear Me Roar"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E08: "I Am Peter, Hear Me Roar"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E08.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E09: "If I'm Dyin'. I'm Lyin'"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E09: "If I'm Dyin', I'm Lyin'"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E09.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E10: "Running Mates"
@@ -60,5 +60,5 @@ http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E19.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E20: "Wasted Talent"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E20.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E21: "Fore. Father"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E21: "Fore, Father"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E21.mkv

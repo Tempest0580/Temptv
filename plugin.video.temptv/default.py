@@ -158,7 +158,7 @@ def getHtml(url, referer=None, hdr=None, data=None):
 
 
 def parsem3u(html):
-    match = re.compile('#.+? tvg-logo="(.+?)" .+,(.+?)\n(.+?)\n').findall(html)
+    match = re.compile('#.+? tvg-logo="(.+?)" group-title="",(.+?)\n(.+?)\n').findall(html)
     count = 0
     for channelicon, name, url in match:
         url = url.replace('\r', '')
