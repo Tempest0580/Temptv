@@ -22,13 +22,13 @@ http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E09.720p.WEB.x264-B2HD.m
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E10.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E11: "Trump Guy"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E11.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E12: "Bri, Robot"
+#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E12: "Bri. Robot"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E12.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E13: "Trans-Fat"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E13.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E14: "Family Guy Lite"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E14.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E15: "No Giggity, No Doubt"
+#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E15: "No Giggity. No Doubt"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E15.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E16: "You Can't Handle the Booth!"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E16.720p.WEB.x264-B2HD.mkv
@@ -36,7 +36,7 @@ http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E16.720p.WEB.x264-B2HD.m
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E17.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E18: "Throw It Away"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E18.720p.WEB.x264-B2HD.mkv
-#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E19: "Girl, Internetted"
+#EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E19: "Girl. Internetted"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E19.720p.WEB.x264-B2HD.mkv
 #EXTINF:-1 tvg-logo="https://cdn.watch-series.co/cover/family-guy-season-17.png" group-title="",S17E20: "Adam West High"
 http://s19.bitdl.ir/Series/Family.Guy/S17/Family.Guy.S17E20.720p.WEB.x264-B2HD.mkv
