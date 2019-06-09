@@ -1,14 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E1
-https://s1.viduplayer.com/hls/,vxokfwliwoalavf4erbyvouhtgzk54dnnp63p3ox7c4n6ruam5pmq2cb4qda,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E01: "Death Has a Shadow"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E01.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E2
-https://t1.viduplayer.com/hls/,vxokf764wkalavf4ercivngrtuew42dxnflowqrj2vrwcd7lofwf3jkymzza,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E02: "I Never Met the Dead Man"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E02.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E3
-https://t9.viduplayer.com/hls/,vxokfkvowkalavf4erciv46nqpibr3klmsjzonpswsmjsz4rkiwzfxobv55q,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E03: "Chitty Chitty Death Bang"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E03.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S1E4
-https://t12.viduplayer.com/hls/,vxokedthwoalavf4ercyvjwht7lyuvtepr3jecupbrjdhfj22kheedlemmba,.urlset/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E04: "Mind Over Murder"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E04.mkv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E05: "A Hero Sits Next Door"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E05.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E06: "The Son Also Draws"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E06.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S01E07: "Brian: Portrait of a Dog"
+http://dl.upload8.net/Serial/Family%20Guy/S01/Family.Guy.S01E07.mkv

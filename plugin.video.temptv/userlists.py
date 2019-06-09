@@ -36,6 +36,7 @@ smallville2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists
 smallville3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville3.txt'
 angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/angermanagment.txt'
 familyguy1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy1.txt'
+familyguy2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy2.txt'
 familyguy12 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy12.txt'
 familyguy13 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/familyguy13.txt'
 
