@@ -46,6 +46,7 @@ def SMALLVILLE():
 def FAMLIYGUY():
     addDir('Season 1', userlists.familyguy1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png')
     addDir('Season 2', userlists.familyguy2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png')
+    addDir('Season 3', userlists.familyguy3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png')
     addDir('Season 12', userlists.familyguy12, 2, 'https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg')
     addDir('Season 13', userlists.familyguy13, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg')
     addDir('Season 17', userlists.familyguy17, 2, 'https://cdn.watch-series.co/cover/family-guy-season-17.png')

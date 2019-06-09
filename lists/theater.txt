@@ -23,3 +23,6 @@ https://lh3.googleusercontent.com/Q2f-P0h9B7y6URt0T69PMs3nbeHpjvDtSOvbrSwfrobxDt
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE4Mzk0OWQtMDI1OS00NDU3LWI2M2YtNzc1MGMxZGI3ZTE1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg" group-title="",Long Shot (2019)
 https://lh3.googleusercontent.com/uK40zVwN99Tr2jUP7M8P6Dsx9QPNTkeupYtHnjt8exCSbVV3itPGmMKj7_5_kW1u6L2xUox8CR8=m22
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Apollo_11_%282019_film%29.png/220px-Apollo_11_%282019_film%29.png" group-title="",Long Shot (2019)
+https://lh3.googleusercontent.com/bMTPkw6DTpeL86HYfx1Xh-hmHPi_EBhK2jbdCfELDPGnmPY6GS7VLSYMB4MvOvb13NDkwLndXEw=m37
