@@ -58,9 +58,9 @@ def VOD_SHOWS():
 
 
 def CLICK_SHOWS():
+    addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
     #addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
-    addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
     addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
@@ -158,7 +158,7 @@ def getHtml(url, referer=None, hdr=None, data=None):
 
 
 def parsem3u(html):
-    match = re.compile('#.+? tvg-logo="(.+?)" group-title="",(.+?)\n(.+?)\n').findall(html)
+    match = re.compile('#.+? tvg-logo="(.+?)" .+?",(.+?)\n(.+?)\n').findall(html)
     count = 0
     for channelicon, name, url in match:
         url = url.replace('\r', '')
