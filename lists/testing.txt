@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-https://oload.website/stream/GCzA0lmPJro~1560013689~71.135.0.0~emcT5lxz?mime=true
+http://185.49.85.30/upload/film/tv-shows/FamilyGuy/Season 01/Family.Guy.S01E01.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E2
-https://oload.website/stream/uLohjfM8P8Y~1560013798~71.135.0.0~T0B3K7vo?mime=true
+http://185.49.85.30/upload/film/tv-shows/FamilyGuy/Season 01/Family.Guy.S01E02.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E1
-#https://ac1.vcdn.to/p/8e296349adf6cec9/480p.m3u8?ip=71.135.196.252&ex=1559894421&fm=480p&tk=4a4c3ea5a0d1a739711caee839a3652a
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S1E3
+http://185.49.85.30/upload/film/tv-shows/FamilyGuy/Season 01/Family.Guy.S01E03.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="6-5-19",S12E15
 https://oload.website/stream/wWt4nX9hq1I~1560014160~71.135.0.0~r7VY_Y8J?mime=true
