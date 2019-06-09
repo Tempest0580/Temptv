@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjAwNDgxNTI0M15BMl5BanBnXkFtZTgwNTY4MDI1NzM@._V1_.jpg" group-title="",X-Men: Dark Phoenix (2019)
+https://lh3.googleusercontent.com/1RCDVgK8g8_FNlC9ZQk2cDVCq0bMVxFLjm4aEsUfuuYRZIyEaWvURLlqkwj5jv7xDaVpOlayU3o=m22
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="",Godzilla: King of the Monsters (2019)
+https://lh3.googleusercontent.com/zD1wReqhgh-SmHbPxkh_E5dDbaQVvMvWfTBtqYjqz7NuQQHrNpoNBKMXCL1EXfVR8Jql4GHh1xI=m22
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMTA2NzM0MjA0MTJeQTJeQWpwZ15BbWU4MDk1MzYwNzYz._V1_.jpg" group-title="",The Secret Life of Pets 2 (2019)
+https://lh3.googleusercontent.com/Lt2wL-yjZWxJgTPVZfEG8ZwXPETFyJUeIvU4fwBLzvz_WuSn5bMy04iqtjrNlz3JlgDPig-kiyI=m22
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg" group-title="",Aladdin (2019)
+https://lh3.googleusercontent.com/OLr1zpyWwDpQo1fglUL92YKOvv94wkRpBynp9fuPW5uL7BwE_8fUva9mm1EYy6Wx0_oCSUDYXK8=m22
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCchd5R2HAKJ3TbLmO70-Iai8Clk8eTPBR8hzJBYKJrTZvQDdD" group-title="",John Wick: Chapter 3 (2019)
+https://lh3.googleusercontent.com/FMTp_5ygKA572S5gRi6u3SGlwZVUns9sASOWWJwfuojGv7LFMOqj2ixN2yJHWIih37defnz5IQ0=m22
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_.jpg" group-title="",Pokémon Detective Pikachu (2019)
+https://lh3.googleusercontent.com/v7YCK4TfeWCiPHA2hOBoOUI7AC-qFO2_AwC2ccDrpJ-2V_qlOlA1X5JvaCXLwwcAsMT1vjVH_Dg=m37
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURolb8nHdUAIkWBEzSckFdejRmJrsrWOKLmiJaeZJWnO1Sqx6" group-title="",Brightburn (2019)
+https://lh3.googleusercontent.com/Q2f-P0h9B7y6URt0T69PMs3nbeHpjvDtSOvbrSwfrobxDtB0EpWxJCsDeG5L2TRqR94BqVvMYBo=m22
+
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMmE4Mzk0OWQtMDI1OS00NDU3LWI2M2YtNzc1MGMxZGI3ZTE1XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg" group-title="",Long Shot (2019)
+https://lh3.googleusercontent.com/uK40zVwN99Tr2jUP7M8P6Dsx9QPNTkeupYtHnjt8exCSbVV3itPGmMKj7_5_kW1u6L2xUox8CR8=m22
