@@ -47,12 +47,15 @@ def FAMLIYGUY():
     addDir('Season 1', userlists.familyguy1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png')
     addDir('Season 2', userlists.familyguy2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png')
     addDir('Season 3', userlists.familyguy3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png')
+    addDir('Season 4', userlists.familyguy4, 2, 'https://images-na.ssl-images-amazon.com/images/I/817xqXaw3bL._SY445_.jpg')
+    addDir('Season 5', userlists.familyguy5, 2, 'https://images-na.ssl-images-amazon.com/images/I/81iB1SamyOL._SY445_.jpg')
     addDir('Season 12', userlists.familyguy12, 2, 'https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg')
     addDir('Season 13', userlists.familyguy13, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg')
     addDir('Season 17', userlists.familyguy17, 2, 'https://cdn.watch-series.co/cover/family-guy-season-17.png')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 def SIMPSONS():
+    addDir('Season 29', userlists.simpsons29, 2, 'https://i.pinimg.com/736x/10/97/a2/1097a2d8acaab69e35d5f83024805da8.jpg')
     addDir('Season 30', userlists.simpsons30, 2, 'http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 

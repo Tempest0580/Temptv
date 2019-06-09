@@ -46,10 +46,13 @@ angermanagment = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/li
 familyguy1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy1.txt'
 familyguy2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy2.txt'
 familyguy3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy3.txt'
+familyguy4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy4.txt'
+familyguy5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy5.txt'
 familyguy12 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy12.txt'
 familyguy13 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy13.txt'
 familyguy17 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/familyguy17.txt'
 
+simpsons29 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons29.txt'
 simpsons30 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons30.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
