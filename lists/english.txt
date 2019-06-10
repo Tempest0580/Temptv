@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="",CW HD
+http://voxtv.dynns.com:8000/live/USA/USA/2268.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvrev.com/wp-content/uploads/2018/09/CBS-Logo.png?fit=2098%2C1254&ssl=1" group-title="",CBS
+http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
+#EXTINF:-1 tvg-logo="https://heavyeditorial.files.wordpress.com/2016/01/freeform.jpg?quality=65&strip=all&w=780" group-title="",FREE FORM HD
+http://voxtv.dynns.com:8000/live/USA/USA/2300.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1875933911/fx_hd.jpg" group-title="",FX HD
+http://voxtv.dynns.com:8000/live/USA/USA/2289.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/A%26E%20Network/A%26E%20HD.jpg" group-title="",A&E HD
+http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qRsfLLrGkuM/maxresdefault.jpg" group-title="",ABC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="",DISCOVERY HD
+http://voxtv.dynns.com:8000/live/USA/USA/2280.m3u8
+#EXTINF:-1 tvg-logo="http://content.osn.com/bob/745x419/SFY.jpg" group-title="",SyFy HD
+http://voxtv.dynns.com:8000/live/USA/USA/2341.m3u8
+#EXTINF:-1 tvg-logo="https://fiber.storage.googleapis.com/channels/logos/tbsHd.png" group-title="",TBS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2342.m3u8
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/TNTHDBLACK.jpg" group-title="",TNT HD
+http://voxtv.dynns.com:8000/live/USA/USA/2343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
+http://voxtv.dynns.com:8000/live/USA/USA/2324.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="",30A TV
 http://30a-tv.com/my999.m3u8
 
@@ -681,9 +704,6 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="USA",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://170.250.96.20:8105/USANET.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uwwtv.org/wp-content/uploads/2013/07/UWW-TV-Logo-Square-2018_NO-OUTLINE-4.png" group-title="USA",UWW-TV - University of Wisconsin Whitewater
 http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
