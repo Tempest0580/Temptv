@@ -207,7 +207,6 @@ class EdgeClass():
         #self.MetaData = self.extractTags(data,onMetaData=True)
         if sendToken:
             self.sendNewToken(self.onEdge['session'],self.onEdge['streamName'],self.swfUrl,self.control)
-            
 
     def getURL(self, url, post=False, sessionID=False, sessionToken=False):
         try:
@@ -215,15 +214,15 @@ class EdgeClass():
             opener = urllib2.build_opener()
             if sessionID and sessionToken:
                 opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' ),
-                                     ('x-Akamai-Streaming-SessionToken', sessionToken ),
-                                     ('x-Akamai-Streaming-SessionID', sessionID ),
-                                     ('Content-Type', 'text/xml' ),
-                                     ('Connection', 'keep-alive']
+                                     ('x-Akamai-Streaming-SessionToken', sessionToken),
+                                     ('x-Akamai-Streaming-SessionID', sessionID),
+                                     ('Content-Type', 'text/xml'),
+                                     ('Connection', 'keep-alive')]
             elif sessionID:
                 opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' ),
-                                     ('x-Akamai-Streaming-SessionID', sessionID ),
-                                     ('Content-Type', 'text/xml' )'
-                                     ('Connection', 'keep-alive']
+                                     ('x-Akamai-Streaming-SessionID', sessionID),
+                                     ('Content-Type', 'text/xml'),
+                                     ('Connection', 'keep-alive')]
             else:
                 opener.addheaders = [('User-Agent', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11' )]
             

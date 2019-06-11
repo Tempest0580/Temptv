@@ -198,6 +198,7 @@ def getLastPTS(data,rpid,type="video"):
             found=True
     return ret
 
+
 def getFirstPTSFrom(data,rpid, initpts,type="video" ):
     ##print 'xxxxxxxxxxxinpcr getFirstPTSFrom'
     ret=None
@@ -218,14 +219,15 @@ def getFirstPTSFrom(data,rpid, initpts,type="video" ):
         else:
             currentpost=ff+1
     ##print 'spoint',spoint
-    if spoint>len(data)-packsize: return None
+    if spoint > len(data)-packsize:
+        return None
     
-    currentpost=   spoint 
+    currentpost = spoint
     found=False    
 
     while not found:
         ##print 'currentpost',currentpost
-        if len(data)-currentpost>=188:
+        if len(data)-currentpost >= 188:
             bytes=data[currentpost:currentpost+188]
             
             bits=bitstring.ConstBitStream(bytes=bytes)
@@ -237,7 +239,7 @@ def getFirstPTSFrom(data,rpid, initpts,type="video" ):
             ##print pid
             ##print pid,rpid
                 ##print 1/0
-            if rpid==pid or rpid==0: 
+            if rpid == pid or rpid == 0:
                 ##print 'here pid is same'
                 try:
                     packet = bits.read((packsize-3)*8)
@@ -356,9 +358,9 @@ def getFirstPTSFrom(data,rpid, initpts,type="video" ):
                     if decodedpts>initpts:
                         return decodedpts,currentpost
         else:
-            found=True
-        currentpost=currentpost+188
-        if currentpost>=len(data):
+            found = True
+        currentpost = currentpost+188
+        if currentpost >= len(data):
             ##print 'came back to begin'
             found=True
     return ret
@@ -366,16 +368,18 @@ def getFirstPTSFrom(data,rpid, initpts,type="video" ):
     
 class TSDownloader():
    
-    outputfile =''
-    clientHeader=None
+    outputfile = ''
+    clientHeader = None
+
     def __init__(self):
-        self.init_done=False
+        self.init_done = False
+
     def thisme(self):
         return 'aaaa'
    
-    def openUrl(self,url, ischunkDownloading=False):
+    def openUrl(self, url, ischunkDownloading=False):
         try:
-            post=None
+            post = None
             openner = urllib2.build_opener(urllib2.HTTPHandler, urllib2.HTTPSHandler)
 
             if post:
@@ -475,9 +479,7 @@ class TSDownloader():
         except: 
             traceback.print_exc()
         self.status='finished'
-            
 
-            
         
     def downloadInternal(self,dest_stream=None,testurl=False):
         try:

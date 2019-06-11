@@ -191,7 +191,7 @@ def PLAY(url, title):
         stype = ''
         if '.ts' in url:
             stype = 'TSDOWNLOADER'
-        elif '.m3u' in url:
+        elif '.m3u' in url or '.m3u8' in url:
             stype = 'HLSRETRY'
         if stype:
             from F4mProxy import f4mProxyHelper

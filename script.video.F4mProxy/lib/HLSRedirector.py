@@ -78,7 +78,8 @@ SUPPORTED_VERSION=3
 
 cookieJar=cookielib.LWPCookieJar()
 clientHeader=None
-    
+
+
 class HLSRedirector():
     global cookieJar
     """
@@ -90,9 +91,8 @@ class HLSRedirector():
         
     def sendVideoPart(self,URL, file, chunk_size=4096):
         for chunk in download_chunks(URL):
-            send_back(chunk,file) 
+            send_back(chunk, file)
         return
-    
 
     def init(self, out_stream, url, proxy=None,use_proxy_for_chunks=True,g_stopEvent=None, maxbitrate=0, auth='', callbackpath="", callbackparam=""):
         global clientHeader,gproxy,gauth
@@ -132,8 +132,7 @@ class HLSRedirector():
             traceback.print_exc()
             self.status='finished'
         return False
-        
-        
+
     def keep_sending_video(self,dest_stream, segmentToStart=None, totalSegmentToSend=0):
         try:
             self.status='download Starting'
