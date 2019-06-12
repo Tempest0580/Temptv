@@ -3,8 +3,9 @@
 
 import os
 
-#Functions for manipulating datetime objects
-#CCYY-MM-DDThh:mm:ssZ
+
+# Functions for manipulating datetime objects
+# CCYY-MM-DDThh:mm:ssZ
 def parseDateClass(s):
     year, month, day = s.split("-")
     day, tail = day[:2], day[2:]
@@ -18,12 +19,12 @@ def parseDateClass(s):
 if os.name != "java":
     from datetime import datetime, timedelta
 
-    #Helper functions for working with a date/time class
+    # Helper functions for working with a date/time class
     def createDateClass(year, month, day, hour, minute, second):
         return datetime(year, month, day, hour, minute, second)
 
     def printDateClass(d):
-        #Split off fractional seconds, append 'Z'
+        # Split off fractional seconds, append 'Z'
         return d.isoformat().split(".")[0]+"Z"
 
     def getNow():
@@ -42,8 +43,8 @@ if os.name != "java":
         return d1 < d2
 
 else:
-    #Jython 2.1 is missing lots of python 2.3 stuff,
-    #which we have to emulate here:
+    # Jython 2.1 is missing lots of python 2.3 stuff,
+    # which we have to emulate here:
     import java
     import jarray
 
@@ -55,13 +56,12 @@ else:
 
     def printDateClass(d):
         return "%04d-%02d-%02dT%02d:%02d:%02dZ" % \
-        (d.get(d.YEAR), d.get(d.MONTH)+1, d.get(d.DATE), \
-        d.get(d.HOUR_OF_DAY), d.get(d.MINUTE), d.get(d.SECOND))
+               (d.get(d.YEAR), d.get(d.MONTH)+1, d.get(d.DATE), d.get(d.HOUR_OF_DAY), d.get(d.MINUTE), d.get(d.SECOND))
 
     def getNow():
         c = java.util.Calendar.getInstance()
         c.setTimeZone(java.util.TimeZone.getTimeZone("UTC"))
-        c.get(c.HOUR) #force refresh?
+        c.get(c.HOUR)  # force refresh?
         return c
 
     def getHoursFromNow(hours):

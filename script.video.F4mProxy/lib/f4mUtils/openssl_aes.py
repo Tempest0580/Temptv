@@ -20,11 +20,11 @@ if m2cryptoLoaded:
 
         def _createContext(self, encrypt):
             context = m2.cipher_ctx_new()
-            if len(self.key)==16:
+            if len(self.key) == 16:
                 cipherType = m2.aes_128_cbc()
-            if len(self.key)==24:
+            if len(self.key) == 24:
                 cipherType = m2.aes_192_cbc()
-            if len(self.key)==32:
+            if len(self.key) = =32:
                 cipherType = m2.aes_256_cbc()
             m2.cipher_init(context, cipherType, self.key, self.IV, encrypt)
             return context

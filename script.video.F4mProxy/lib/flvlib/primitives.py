@@ -23,6 +23,7 @@ def get_ui32(f):
         raise EndOfFile
     return ret
 
+
 def make_ui32(num):
     return struct.pack(">I", num)
 
@@ -36,6 +37,7 @@ def get_si32_extended(f):
         raise EndOfFile
     combined = low_high[3] + low_high[:3]
     return struct.unpack(">i", combined)[0]
+
 
 def make_si32_extended(num):
     ret = struct.pack(">i", num)
@@ -51,6 +53,7 @@ def get_ui24(f):
     ret = (high << 16) + low
     return ret
 
+
 def make_ui24(num):
     ret = struct.pack(">I", num)
     return ret[1:]
@@ -64,6 +67,7 @@ def get_ui16(f):
         raise EndOfFile
     return ret
 
+
 def make_ui16(num):
     return struct.pack(">H", num)
 
@@ -75,6 +79,7 @@ def get_si16(f):
     except struct.error:
         raise EndOfFile
     return ret
+
 
 def make_si16(num):
     return struct.pack(">h", num)
@@ -88,9 +93,9 @@ def get_ui8(f):
         raise EndOfFile
     return ret
 
+
 def make_ui8(num):
     return struct.pack("B", num)
-
 
 
 # DOUBLE
@@ -101,6 +106,7 @@ def get_double(f):
     except struct.error:
         raise EndOfFile
     return ret
+
 
 def make_double(num):
     return struct.pack(">d", num)

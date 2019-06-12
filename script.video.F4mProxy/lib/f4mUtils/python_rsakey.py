@@ -8,6 +8,7 @@ from .asn1parser import ASN1Parser
 from .rsakey import *
 from .pem import *
 
+
 class Python_RSAKey(RSAKey):
     def __init__(self, n=0, e=0, d=0, p=0, q=0, dP=0, dQ=0, qInv=0):
         if (n and not e) or (e and not n):
@@ -27,34 +28,33 @@ class Python_RSAKey(RSAKey):
         return self.d != 0
 
     def _rawPrivateKeyOp(self, m):
-        #Create blinding values, on the first pass:
+        # Create blinding values, on the first pass:
         if not self.blinder:
             self.unblinder = getRandomNumber(2, self.n)
             self.blinder = powMod(invMod(self.unblinder, self.n), self.e,
                                   self.n)
 
-        #Blind the input
+        # Blind the input
         m = (m * self.blinder) % self.n
 
-        #Perform the RSA operation
+        # Perform the RSA operation
         c = self._rawPrivateKeyOpHelper(m)
 
-        #Unblind the output
+        # Unblind the output
         c = (c * self.unblinder) % self.n
 
-        #Update blinding values
+        # Update blinding values
         self.blinder = (self.blinder * self.blinder) % self.n
         self.unblinder = (self.unblinder * self.unblinder) % self.n
 
         #Return the output
         return c
 
-
     def _rawPrivateKeyOpHelper(self, m):
-        #Non-CRT version
-        #c = powMod(m, self.d, self.n)
+        # Non-CRT version
+        # c = powMod(m, self.d, self.n)
 
-        #CRT version  (~3x faster)
+        # CRT version  (~3x faster)
         s1 = powMod(m, self.dP, self.p)
         s2 = powMod(m, self.dQ, self.q)
         h = ((s1 - s2) * self.qInv) % self.p
@@ -107,10 +107,10 @@ class Python_RSAKey(RSAKey):
         if list(rsaOID) != [6, 9, 42, 134, 72, 134, 247, 13, 1, 1, 1, 5, 0]:
             raise SyntaxError("Unrecognized AlgorithmIdentifier")
 
-        #Get the privateKey
+        # Get the privateKey
         privateKeyP = p.getChild(2)
 
-        #Adjust for OCTET STRING encapsulation
+        # Adjust for OCTET STRING encapsulation
         privateKeyP = ASN1Parser(privateKeyP.value)
 
         return Python_RSAKey._parseASN1PrivateKey(privateKeyP)

@@ -10,6 +10,8 @@ from astypes import get_script_data_variable, make_script_data_variable
 log = logging.getLogger('flvlib.tags')
 
 STRICT_PARSING = False
+
+
 def strict_parser():
     return globals()['STRICT_PARSING']
 

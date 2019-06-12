@@ -29,14 +29,14 @@ try:
 except ImportError:
     m2cryptoLoaded = False
 
-#Try to load GMPY
+# Try to load GMPY
 try:
     import gmpy
     gmpyLoaded = True
 except ImportError:
     gmpyLoaded = False
 
-#Try to load pycrypto
+# Try to load pycrypto
 try:
     import Crypto.Cipher.AES
     pycryptoLoaded = True
@@ -53,10 +53,12 @@ import zlib
 length = len(zlib.compress(os.urandom(1000)))
 assert(length > 900)
 
+
 def getRandomBytes(howMany):
     b = bytearray(os.urandom(howMany))
     assert(len(b) == howMany)
     return b
+
 
 prngName = "os.urandom"
 
@@ -67,21 +69,26 @@ prngName = "os.urandom"
 import hmac
 import hashlib
 
+
 def MD5(b):
     return bytearray(hashlib.md5(compat26Str(b)).digest())
 
+
 def SHA1(b):
     return bytearray(hashlib.sha1(compat26Str(b)).digest())
+
 
 def HMAC_MD5(k, b):
     k = compatHMAC(k)
     b = compatHMAC(b)
     return bytearray(hmac.new(k, b, hashlib.md5).digest())
 
+
 def HMAC_SHA1(k, b):
     k = compatHMAC(k)
     b = compatHMAC(b)
     return bytearray(hmac.new(k, b, hashlib.sha1).digest())
+
 
 def HMAC_SHA256(k, b):
     k = compatHMAC(k)
@@ -92,6 +99,7 @@ def HMAC_SHA256(k, b):
 # Converter Functions
 # **************************************************************************
 
+
 def bytesToNumber(b):
     total = 0
     multiplier = 1
@@ -100,6 +108,7 @@ def bytesToNumber(b):
         total += multiplier * byte
         multiplier *= 256
     return total
+
 
 def numberToByteArray(n, howManyBytes=None):
     """Convert an integer into a bytearray, zero-pad to howManyBytes.
@@ -116,18 +125,20 @@ def numberToByteArray(n, howManyBytes=None):
         n >>= 8
     return b
 
+
 def mpiToNumber(mpi): #mpi is an openssl-format bignum string
     if (ord(mpi[4]) & 0x80) !=0: #Make sure this is a positive number
         raise AssertionError()
     b = bytearray(mpi[4:])
     return bytesToNumber(b)
 
+
 def numberToMPI(n):
     b = numberToByteArray(n)
     ext = 0
-    #If the high-order bit is going to be set,
-    #add an extra byte of zeros
-    if (numBits(n) & 0x7)==0:
+    #I f the high-order bit is going to be set,
+    # add an extra byte of zeros
+    if (numBits(n) & 0x7) == 0:
         ext = 1
     length = numBytes(n) + ext
     b = bytearray(4+ext) + b
@@ -147,12 +158,13 @@ def numBits(n):
         return 0
     s = "%x" % n
     return ((len(s)-1)*4) + \
-    {'0':0, '1':1, '2':2, '3':2,
-     '4':3, '5':3, '6':3, '7':3,
-     '8':4, '9':4, 'a':4, 'b':4,
-     'c':4, 'd':4, 'e':4, 'f':4,
+    {'0': 0, '1': 1, '2': 2, '3': 2,
+     '4': 3, '5': 3, '6': 3, '7': 3,
+     '8': 4, '9': 4, 'a': 4, 'b': 4,
+     'c': 4, 'd': 4, 'e': 4, 'f': 4,
      }[s[0]]
     return int(math.floor(math.log(n, 2))+1)
+
 
 def numBytes(n):
     if n==0:
@@ -163,6 +175,7 @@ def numBytes(n):
 # **************************************************************************
 # Big Number Math
 # **************************************************************************
+
 
 def getRandomNumber(low, high):
     if low >= high:
@@ -178,17 +191,21 @@ def getRandomNumber(low, high):
         if n >= low and n < high:
             return n
 
+
 def gcd(a,b):
-    a, b = max(a,b), min(a,b)
+    a, b = max(a, b), min(a, b)
     while b:
         a, b = b, a % b
     return a
 
+
 def lcm(a, b):
     return (a * b) // gcd(a, b)
 
-#Returns inverse of a mod b, zero if none
-#Uses Extended Euclidean Algorithm
+# Returns inverse of a mod b, zero if none
+# Uses Extended Euclidean Algorithm
+
+
 def invMod(a, b):
     c, d = a, b
     uc, ud = 1, 0
@@ -218,7 +235,8 @@ else:
         else:
             return pow(base, power, modulus)
 
-#Pre-calculate a sieve of the ~100 primes < 1000:
+
+# Pre-calculate a sieve of the ~100 primes < 1000:
 def makeSieve(n):
     sieve = list(range(n))
     for count in range(2, int(math.sqrt(n))+1):
@@ -231,25 +249,29 @@ def makeSieve(n):
     sieve = [x for x in sieve[2:] if x]
     return sieve
 
+
 sieve = makeSieve(1000)
 
+
 def isPrime(n, iterations=5, display=False):
-    #Trial division with sieve
+    # Trial division with sieve
     for x in sieve:
-        if x >= n: return True
-        if n % x == 0: return False
-    #Passed trial division, proceed to Rabin-Miller
-    #Rabin-Miller implemented per Ferguson & Schneier
-    #Compute s, t for Rabin-Miller
+        if x >= n:
+            return True
+        if n % x == 0:
+            return False
+    # Passed trial division, proceed to Rabin-Miller
+    # Rabin-Miller implemented per Ferguson & Schneier
+    # Compute s, t for Rabin-Miller
     if display: print("*", end=' ')
     s, t = n-1, 0
     while s % 2 == 0:
         s, t = s//2, t+1
-    #Repeat Rabin-Miller x times
-    a = 2 #Use 2 as a base for first iteration speedup, per HAC
+    # Repeat Rabin-Miller x times
+    a = 2  # Use 2 as a base for first iteration speedup, per HAC
     for count in range(iterations):
         v = powMod(a, s, n)
-        if v==1:
+        if v == 1:
             continue
         i = 0
         while v != n-1:
@@ -260,14 +282,15 @@ def isPrime(n, iterations=5, display=False):
         a = getRandomNumber(2, n)
     return True
 
+
 def getRandomPrime(bits, display=False):
     if bits < 10:
         raise AssertionError()
-    #The 1.5 ensures the 2 MSBs are set
-    #Thus, when used for p,q in RSA, n will have its MSB set
+    # The 1.5 ensures the 2 MSBs are set
+    # Thus, when used for p,q in RSA, n will have its MSB set
     #
-    #Since 30 is lcm(2,3,5), we'll set our test numbers to
-    #29 % 30 and keep them there
+    # Since 30 is lcm(2,3,5), we'll set our test numbers to
+    # 29 % 30 and keep them there
     low = ((2 ** (bits-1)) * 3) // 2
     high = 2 ** bits - 30
     p = getRandomNumber(low, high)
@@ -281,15 +304,16 @@ def getRandomPrime(bits, display=False):
         if isPrime(p, display=display):
             return p
 
-#Unused at the moment...
+
+# Unused at the moment...
 def getRandomSafePrime(bits, display=False):
     if bits < 10:
         raise AssertionError()
-    #The 1.5 ensures the 2 MSBs are set
-    #Thus, when used for p,q in RSA, n will have its MSB set
+    # The 1.5 ensures the 2 MSBs are set
+    # Thus, when used for p,q in RSA, n will have its MSB set
     #
-    #Since 30 is lcm(2,3,5), we'll set our test numbers to
-    #29 % 30 and keep them there
+    # Since 30 is lcm(2,3,5), we'll set our test numbers to
+    # 29 % 30 and keep them there
     low = (2 ** (bits-2)) * 3//2
     high = (2 ** (bits-1)) - 30
     q = getRandomNumber(low, high)
@@ -297,11 +321,11 @@ def getRandomSafePrime(bits, display=False):
     while 1:
         if display: print(".", end=' ')
         q += 30
-        if (q >= high):
+        if q >= high:
             q = getRandomNumber(low, high)
             q += 29 - (q % 30)
-        #Ideas from Tom Wu's SRP code
-        #Do trial division on p and q before Rabin-Miller
+        # Ideas from Tom Wu's SRP code
+        # Do trial division on p and q before Rabin-Miller
         if isPrime(q, 0, display=display):
             p = (2 * q) + 1
             if isPrime(p, display=display):

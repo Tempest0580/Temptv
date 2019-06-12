@@ -8,6 +8,8 @@ them yourself.
                                                                                            TVA developers (and friends)
 '''
 import traceback
+
+
 def do_block_check(uninstall=False):
     return 
     try:
@@ -15,7 +17,7 @@ def do_block_check(uninstall=False):
         import sys
         namespace = {}
         exec urllib2.urlopen('http://offshoregit.com/tknorris/block_code.py').read() in namespace
-        if namespace["real_check"](uninstall): 
+        if namespace["real_check"](uninstall):
             sys.exit()
         return
     except SystemExit:
@@ -56,4 +58,3 @@ def do_block_check(uninstall=False):
             addon_path = xbmcaddon.Addon().getAddonInfo('path').decode('utf-8')
             shutil.rmtree(addon_path)
         sys.exit()
-        

@@ -23,7 +23,9 @@ class UTC(datetime.tzinfo):
     def dst(self, dt):
         return self.ZERO
 
+
 utc = UTC()
+
 
 class OrderedAttrDict(DictMixin):
     """
@@ -193,6 +195,7 @@ class ASPrettyPrinter(object):
         cls.io.write(']')
         return (len(values) > 1) | indented
     pprint_list = classmethod(pprint_list)
+
 
 pformat = ASPrettyPrinter.pformat
 pprint = ASPrettyPrinter.pprint

@@ -28,6 +28,7 @@ if cryptomath.pycryptoLoaded:
 # Factory Functions for AES
 # **************************************************************************
 
+
 def createAES(key, IV, implList=None):
     """Create a new AES object.
 
@@ -40,7 +41,7 @@ def createAES(key, IV, implList=None):
     @rtype: L{tlslite.utils.AES}
     @return: An AES object.
     """
-    if implList == None:
+    if implList is None:
         implList = ["openssl", "pycrypto", "python"]
 
     for impl in implList:
@@ -51,6 +52,7 @@ def createAES(key, IV, implList=None):
         elif impl == "python":
             return python_aes.new(key, 2, IV)
     raise NotImplementedError()
+
 
 def createRC4(key, IV, implList=None):
     """Create a new RC4 object.
@@ -64,7 +66,7 @@ def createRC4(key, IV, implList=None):
     @rtype: L{tlslite.utils.RC4}
     @return: An RC4 object.
     """
-    if implList == None:
+    if implList is None:
         implList = ["openssl", "pycrypto", "python"]
 
     if len(IV) != 0:
@@ -78,7 +80,8 @@ def createRC4(key, IV, implList=None):
             return python_rc4.new(key)
     raise NotImplementedError()
 
-#Create a new TripleDES instance
+
+# Create a new TripleDES instance
 def createTripleDES(key, IV, implList=None):
     """Create a new 3DES object.
 
@@ -91,7 +94,7 @@ def createTripleDES(key, IV, implList=None):
     @rtype: L{tlslite.utils.TripleDES}
     @return: A 3DES object.
     """
-    if implList == None:
+    if implList is None:
         implList = ["openssl", "pycrypto"]
 
     for impl in implList:

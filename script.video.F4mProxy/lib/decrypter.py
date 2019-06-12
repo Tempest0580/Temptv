@@ -57,14 +57,16 @@ from array import array
 # http://www.python.org/dev/peps/pep-0272/
 MODE_ECB = 1
 MODE_CBC = 2
-#MODE_CTR = 6
+# MODE_CTR = 6
 
 block_size = 16
 # variable length key: 16, 24 or 32 bytes
 key_size = None
 
+
 class AESDecrypter():
-    MODE_CBC=2
+    MODE_CBC = 2
+
     def new(self,key, mode, IV=None):
         if mode == MODE_ECB:
             return ECBMode(AES(key))
@@ -76,7 +78,7 @@ class AESDecrypter():
             raise NotImplementedError
 
 
-#### AES cipher implementation
+# AES cipher implementation
 class AES(object):
     block_size = 16
 
@@ -126,7 +128,7 @@ class AES(object):
         # Each expansion cycle uses 'i' once for Rcon table lookup
         for i in xrange(1, 11):
 
-            #### key schedule core:
+            # key schedule core:
             # left-rotate by 1 byte
             word = word[1:4] + word[0:1]
 
@@ -136,7 +138,7 @@ class AES(object):
 
             # apply the Rcon table to the leftmost byte
             word[0] ^= aes_Rcon[i]
-            #### end key schedule core
+            # end key schedule core
 
             for z in xrange(4):
                 for j in xrange(4):
@@ -174,7 +176,7 @@ class AES(object):
         for i in xrange(16):
             block[i] ^= exkey[offset + i]
 
-        #print 'AddRoundKey:', block
+        # print 'AddRoundKey:', block
 
     def sub_bytes(self, block, sbox):
         """
@@ -187,7 +189,7 @@ class AES(object):
         for i in xrange(16):
             block[i] = sbox[block[i]]
 
-        #print 'SubBytes   :', block
+        # print 'SubBytes   :', block
 
     def shift_rows(self, b):
         """
@@ -208,7 +210,7 @@ class AES(object):
         b[2], b[6], b[10], b[14] = b[10], b[14], b[2], b[6]
         b[3], b[7], b[11], b[15] = b[15], b[3], b[7], b[11]
 
-        #print 'ShiftRows  :', b
+        # print 'ShiftRows  :', b
 
     def shift_rows_inv(self, b):
         """
@@ -218,7 +220,7 @@ class AES(object):
         b[10], b[14], b[2], b[6] = b[2], b[6], b[10], b[14]
         b[15], b[3], b[7], b[11] = b[3], b[7], b[11], b[15]
 
-        #print 'ShiftRows  :', b
+        # print 'ShiftRows  :', b
 
     def mix_columns(self, block):
         """MixColumns step. Mixes the values in each column"""
@@ -237,7 +239,7 @@ class AES(object):
             block[col + 2] = mul_by_2[v2] ^ v1 ^ v0 ^ mul_by_3[v3]
             block[col + 3] = mul_by_2[v3] ^ v2 ^ v1 ^ mul_by_3[v0]
 
-        #print 'MixColumns :', block
+        # print 'MixColumns :', block
 
     def mix_columns_inv(self, block):
         """
@@ -259,7 +261,7 @@ class AES(object):
             block[col + 2] = mul_14[v2] ^ mul_9[v1] ^ mul_13[v0] ^ mul_11[v3]
             block[col + 3] = mul_14[v3] ^ mul_9[v2] ^ mul_13[v1] ^ mul_11[v0]
 
-        #print 'MixColumns :', block
+        # print 'MixColumns :', block
 
     def encrypt_block(self, block):
         """Encrypts a single block. This is the main AES function"""
@@ -299,7 +301,7 @@ class AES(object):
         # no mix_columns step in the last round
 
 
-#### ECB mode implementation
+# ECB mode implementation
 
 class ECBMode(object):
     """Electronic CodeBook (ECB) mode encryption.
@@ -339,7 +341,7 @@ class ECBMode(object):
         return self.ecb(data, self.cipher.decrypt_block)
 
 
-#### CBC mode
+# CBC mode
 class CBCMode(object):
     """
     Cipher Block Chaining(CBC) mode encryption. This mode avoids content leaks.
@@ -397,14 +399,14 @@ class CBCMode(object):
             self.cipher.decrypt_block(block)
 
             # Perform CBC chaining
-            #for i in xrange(block_size):
+            # for i in xrange(block_size):
             #    data[offset + i] ^= IV[i]
             for i in xrange(block_size):
                 block[i] ^= IV[i]
             data[offset:offset + block_size] = block
 
             IV = ctext
-            #data[offset : offset+block_size] = block
+            # data[offset : offset+block_size] = block
 
         self.IV = IV
         return data.tostring()
@@ -422,6 +424,7 @@ def galois_multiply(a, b):
         b >>= 1
 
     return p & 0xff
+
 
 # Precompute the multiplication tables for encryption
 gf_mul_by_2 = array('B', [galois_multiply(x, 2) for x in range(256)])

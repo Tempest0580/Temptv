@@ -456,10 +456,12 @@ except NameError:
 # Python 2.x octals start with '0', in Python 3 it's '0o'
 LEADING_OCT_CHARS = len(oct(1)) - 1
 
+
 def tidy_input_string(s):
     """Return string made lowercase and with all whitespace removed."""
     s = ''.join(s.split()).lower()
     return s
+
 
 INIT_NAMES = ('uint', 'int', 'ue', 'se', 'sie', 'uie', 'hex', 'oct', 'bin', 'bits',
               'uintbe', 'intbe', 'uintle', 'intle', 'uintne', 'intne',
@@ -502,6 +504,7 @@ _tokenname_to_initialiser = {'hex': 'hex', '0x': 'hex', '0X': 'hex', 'oct': 'oct
                              '0o': 'oct', '0O': 'oct', 'bin': 'bin', '0b': 'bin',
                              '0B': 'bin', 'bits': 'auto', 'bytes': 'bytes', 'pad': 'pad'}
 
+
 def structparser(token):
     """Parse struct-like format string token into sub-token list."""
     m = STRUCT_PACK_RE.match(token)
@@ -529,6 +532,7 @@ def structparser(token):
             assert endian == '>'
             tokens = [REPLACEMENTS_BE[c] for c in fmt]
     return tokens
+
 
 def tokenparser(fmt, keys=None, token_cache={}):
     """Divide the format string into tokens and parse them.
@@ -631,8 +635,10 @@ def tokenparser(fmt, keys=None, token_cache={}):
         token_cache[token_key] = stretchy_token, return_values
     return stretchy_token, return_values
 
+
 # Looks for first number*(
 BRACKET_RE = re.compile(r'(?P<factor>\d+)\*\(')
+
 
 def expand_brackets(s):
     """Remove whitespace and expand all brackets."""
@@ -641,7 +647,7 @@ def expand_brackets(s):
         start = s.find('(')
         if start == -1:
             break
-        count = 1 # Number of hanging open brackets
+        count = 1  # Number of hanging open brackets
         p = start + 1
         while p < len(s):
             if s[p] == '(':
@@ -1628,8 +1634,7 @@ class Bits(object):
             tmp >>= 1
             leadingzeros += 1
         remainingpart = i + 1 - (1 << leadingzeros)
-        binstring = '0' * leadingzeros + '1' + Bits(uint=remainingpart,
-                                                             length=leadingzeros).bin
+        binstring = '0' * leadingzeros + '1' + Bits(uint=remainingpart, length=leadingzeros).bin
         self._setbin_unsafe(binstring)
 
     def _readue(self, pos):
@@ -2365,7 +2370,7 @@ class Bits(object):
             p += increment
         if not found:
             return ()
-        return (p * 8,)
+        return p * 8
 
     def _findregex(self, reg_ex, start, end, bytealigned):
         """Find first occurrence of a compiled regular expression.
@@ -2390,7 +2395,7 @@ class Bits(object):
             # if pos != -1:
                 # if bytealigned then we only accept byte aligned positions.
                 if not bytealigned or (p + pos) % 8 == 0:
-                    return (p + pos,)
+                    return p + pos
                 if bytealigned:
                     # Advance to just beyond the non-byte-aligned match and try again...
                     p += pos + 1
@@ -2656,7 +2661,7 @@ class Bits(object):
         """
         # If the bitstring is file based then we don't want to read it all
         # in to memory.
-        chunksize = 1024 * 1024 # 1 MB chunks
+        chunksize = 1024 * 1024  # 1 MB chunks
         if not self._offset:
             a = 0
             bytelen = self._datastore.bytelength
@@ -2884,7 +2889,7 @@ name_to_read = {'uint': Bits._readuint,
                 'intbe': Bits._readintbe,
                 'intne': Bits._readintne,
                 'float': Bits._readfloat,
-                'floatbe': Bits._readfloat, # floatbe is a synonym for float
+                'floatbe': Bits._readfloat,  # floatbe is a synonym for float
                 'floatle': Bits._readfloatle,
                 'floatne': Bits._readfloatne,
                 'hex': Bits._readhex,

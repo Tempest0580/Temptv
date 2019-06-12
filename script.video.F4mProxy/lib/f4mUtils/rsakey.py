@@ -85,7 +85,7 @@ class RSAKey(object):
         prefixedHashBytes2 = self._addPKCS1SHA1Prefix(hashBytes, True)
         result1 = self.verify(sigBytes, prefixedHashBytes1)
         result2 = self.verify(sigBytes, prefixedHashBytes2)
-        return (result1 or result2)
+        return result1 or result2
 
     def sign(self, bytes):
         """Sign the passed-in bytes.
@@ -174,16 +174,16 @@ class RSAKey(object):
             return None
         m = self._rawPrivateKeyOp(c)
         decBytes = numberToByteArray(m, numBytes(self.n))
-        #Check first two bytes
+        # Check first two bytes
         if decBytes[0] != 0 or decBytes[1] != 2:
             return None
-        #Scan through for zero separator
+        # Scan through for zero separator
         for x in range(1, len(decBytes)-1):
             if decBytes[x]== 0:
                 break
         else:
             return None
-        return decBytes[x+1:] #Return everything after the separator
+        return decBytes[x+1:]  # Return everything after the separator
 
     def _rawPrivateKeyOp(self, m):
         raise NotImplementedError()
@@ -216,7 +216,6 @@ class RSAKey(object):
         raise NotImplementedError()
     generate = staticmethod(generate)
 
-
     # **************************************************************************
     # Helper Functions for RSA Keys
     # **************************************************************************
@@ -232,19 +231,17 @@ class RSAKey(object):
         # accept both.  However, nothing uses this code yet, so this is 
         # all fairly moot.
         if not withNULL:
-            prefixBytes = bytearray(\
-            [0x30,0x1f,0x30,0x07,0x06,0x05,0x2b,0x0e,0x03,0x02,0x1a,0x04,0x14])            
+            prefixBytes = bytearray([0x30,0x1f,0x30,0x07,0x06,0x05,0x2b,0x0e,0x03,0x02,0x1a,0x04,0x14])
         else:
-            prefixBytes = bytearray(\
-            [0x30,0x21,0x30,0x09,0x06,0x05,0x2b,0x0e,0x03,0x02,0x1a,0x05,0x00,0x04,0x14])            
+            prefixBytes = bytearray([0x30,0x21,0x30,0x09,0x06,0x05,0x2b,0x0e,0x03,0x02,0x1a,0x05,0x00,0x04,0x14])
         prefixedBytes = prefixBytes + bytes
         return prefixedBytes
 
     def _addPKCS1Padding(self, bytes, blockType):
         padLength = (numBytes(self.n) - (len(bytes)+3))
-        if blockType == 1: #Signature padding
+        if blockType == 1:  # Signature padding
             pad = [0xFF] * padLength
-        elif blockType == 2: #Encryption padding
+        elif blockType == 2:  # Encryption padding
             pad = bytearray(0)
             while len(pad) < padLength:
                 padBytes = getRandomBytes(padLength * 2)
@@ -253,6 +250,6 @@ class RSAKey(object):
         else:
             raise AssertionError()
 
-        padding = bytearray([0,blockType] + pad + [0])
+        padding = bytearray([0, blockType] + pad + [0])
         paddedBytes = padding + bytes
         return paddedBytes

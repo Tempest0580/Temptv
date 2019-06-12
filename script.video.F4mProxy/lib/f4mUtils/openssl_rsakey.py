@@ -8,17 +8,17 @@ from .cryptomath import *
 from .rsakey import *
 from .python_rsakey import Python_RSAKey
 
-#copied from M2Crypto.util.py, so when we load the local copy of m2
-#we can still use it
-def password_callback(v, prompt1='Enter private key passphrase:',
-                           prompt2='Verify passphrase:'):
+
+# copied from M2Crypto.util.py, so when we load the local copy of m2
+# we can still use it
+def password_callback(v, prompt1='Enter private key passphrase:', prompt2='Verify passphrase:'):
     from getpass import getpass
     while 1:
         try:
             p1=getpass(prompt1)
             if v:
-                p2=getpass(prompt2)
-                if p1==p2:
+                p2 = getpass(prompt2)
+                if p1 == p2:
                     break
             else:
                 break
@@ -91,7 +91,9 @@ if m2cryptoLoaded:
 
         def generate(bits):
             key = OpenSSL_RSAKey()
-            def f():pass
+
+            def f():
+                pass
             key.rsa = m2.rsa_generate_key(bits, 3, f)
             key._hasPrivateKey = True
             return key
@@ -104,7 +106,7 @@ if m2cryptoLoaded:
                 raise SyntaxError()
             s = s[start:]            
             if s.startswith("-----BEGIN "):
-                if passwordCallback==None:
+                if passwordCallback is None:
                     callback = password_callback
                 else:
                     def f(v, prompt1=None, prompt2=None):
@@ -117,12 +119,12 @@ if m2cryptoLoaded:
                     if s.startswith("-----BEGIN RSA PRIVATE KEY-----"):
                         def f():pass
                         key.rsa = m2.rsa_read_key(bio, callback)
-                        if key.rsa == None:
+                        if key.rsa is None:
                             raise SyntaxError()
                         key._hasPrivateKey = True
                     elif s.startswith("-----BEGIN PUBLIC KEY-----"):
                         key.rsa = m2.rsa_read_pub_key(bio)
-                        if key.rsa == None:
+                        if key.rsa is None:
                             raise SyntaxError()
                         key._hasPrivateKey = False
                     else:

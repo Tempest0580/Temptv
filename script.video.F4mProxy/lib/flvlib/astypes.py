@@ -23,6 +23,7 @@ class MalformedFLV(Exception):
 def get_number(f, max_offset=None):
     return get_double(f)
 
+
 def make_number(num):
     return make_double(num)
 
@@ -31,6 +32,7 @@ def make_number(num):
 def get_boolean(f, max_offset=None):
     value = get_ui8(f)
     return bool(value)
+
 
 def make_boolean(value):
     return make_ui8((value and 1) or 0)
@@ -43,6 +45,7 @@ def get_string(f, max_offset=None):
     # Then comes the string itself
     ret = f.read(length)
     return ret
+
 
 def make_string(string):
     if isinstance(string, unicode):
@@ -59,6 +62,7 @@ def get_longstring(f, max_offset=None):
     # Then comes the string itself
     ret = f.read(length)
     return ret
+
 
 def make_longstring(string):
     if isinstance(string, unicode):
@@ -91,6 +95,7 @@ def get_ecma_array(f, max_offset=None):
         array[name] = value
     return array
 
+
 def make_ecma_array(d):
     length = make_ui32(len(d))
     rest = ''.join([make_script_data_variable(name, value)
@@ -106,6 +111,7 @@ def get_strict_array(f, max_offset=None):
     elements = [get_script_data_value(f, max_offset=max_offset)
                 for _ in xrange(length)]
     return elements
+
 
 def make_strict_array(l):
     ret = make_ui32(len(l))
@@ -127,6 +133,7 @@ def get_date(f, max_offset=None):
     _ignored = get_si16(f)
     return datetime.datetime.fromtimestamp(timestamp, utc)
 
+
 def make_date(date):
     if date.tzinfo:
         utc_date = date.astimezone(utc)
@@ -141,6 +148,7 @@ def make_date(date):
 # Null
 def get_null(f, max_offset=None):
     return None
+
 
 def make_null(none):
     return ''
@@ -166,6 +174,7 @@ def get_object(f, max_offset=None):
         name, value = get_script_data_variable(f)
         setattr(ret, name, value)
     return ret
+
 
 def make_object(obj):
     # If the object is iterable, serialize keys/values. If not, fall
@@ -193,9 +202,11 @@ class MovieClip(object):
     def __repr__(self):
         return "<MovieClip at %s>" % self.path
 
+
 def get_movieclip(f, max_offset=None):
     ret = get_string(f)
     return MovieClip(ret)
+
 
 def make_movieclip(clip):
     return make_string(clip.path)
@@ -210,8 +221,10 @@ class Undefined(object):
     def __repr__(self):
         return '<Undefined>'
 
+
 def get_undefined(f, max_offset=None):
     return Undefined()
+
 
 def make_undefined(undefined):
     return ''
@@ -229,9 +242,11 @@ class Reference(object):
     def __repr__(self):
         return "<Reference to %d>" % self.ref
 
+
 def get_reference(f, max_offset=None):
     ret = get_ui16(f)
     return Reference(ret)
+
 
 def make_reference(reference):
     return make_ui16(reference.ref)
@@ -271,6 +286,7 @@ type_to_as_type = {
     type(None): VALUE_TYPE_NULL
 }
 
+
 # SCRIPTDATAVARIABLE
 def get_script_data_variable(f, max_offset=None):
     name = get_string(f)
@@ -278,6 +294,7 @@ def get_script_data_variable(f, max_offset=None):
     value = get_script_data_value(f, max_offset=max_offset)
     log.debug("The value is %r", value)
     return (name, value)
+
 
 def make_script_data_variable(name, value):
     log.debug("The name is %s", name)
@@ -297,6 +314,7 @@ def get_script_data_value(f, max_offset=None):
     log.debug("The getter function is %r", get_value)
     value = get_value(f, max_offset=max_offset)
     return value
+
 
 def make_script_data_value(value):
     value_type = type_to_as_type.get(value.__class__, VALUE_TYPE_OBJECT)

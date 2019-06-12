@@ -11,16 +11,15 @@ import sys
 import os
 
 
-
 class IGNOBLEError(Exception):
     pass
+
 
 def _load_crypto_libcrypto():
     from ctypes import CDLL, POINTER, c_void_p, c_char_p, c_int, c_long, \
         Structure, c_ulong, create_string_buffer, cast
     from ctypes.util import find_library
     import ctypes
-
 
     libcrypto = ctypes.cdll.LoadLibrary("libcrypto.so")
     AES_MAXNR = 14
@@ -49,10 +48,10 @@ def _load_crypto_libcrypto():
                          c_int])
 
     class AES(object):
-        def __init__(self,userkey,iv):
+        def __init__(self, userkey, iv):
             self._blocksize = len(userkey)
-            self.iv=iv
-            if (self._blocksize != 16) and (self._blocksize != 24) and (self._blocksize != 32) :
+            self.iv = iv
+            if (self._blocksize != 16) and (self._blocksize != 24) and (self._blocksize != 32):
                 raise IGNOBLEError('AES improper key used')
                 return
             key = self._key = AES_KEY()
