@@ -1,41 +1,41 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 | DRUGS INC
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93422
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93422|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  90210
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93689
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93689|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  ALADDIN
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93686
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93686|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  ALF
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93685
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93685|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  AMERICAN DAD!
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93682
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93682|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  AMERICAN HORROR STORY
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93681
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93681|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  AMERICAN NINJA WARRIOR
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93680
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93680|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  ANCIENT ALIENS
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93679
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93679|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  ATLANTA
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93677
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93677|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  BAYWATCH
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93675
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93675|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  BBQ PITMASTERS
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93674
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93674|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  BLACK JESUS
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93672
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93672|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  BOB'S BURGERS
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93670
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93670|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  BREAKING BAD
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93668
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93668|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  CELEBRITY DEATHMATCH
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93667
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93667|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  CHAPPELLE'S SHOW
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93666
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93666|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  CHEERS
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93665
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93665|'Connection': 'keep-alive'
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",24/7 |  CURB YOUR ENTHUSIASM
-http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93663
+http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93663|'Connection': 'keep-alive'
 #EXTINF:-1,24/7 |  DAYS THAT SHAPED AMERICA
 http://190.2.131.171:8080/ZOXzVkTPre/23gy643xmH/93662
 #EXTINF:-1,24/7 |  DEAD LIKE ME
