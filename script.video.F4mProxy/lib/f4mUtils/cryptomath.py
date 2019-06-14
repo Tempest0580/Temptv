@@ -117,7 +117,7 @@ def numberToByteArray(n, howManyBytes=None):
     not be larger.  The returned bytearray will contain a big-endian
     encoding of the input integer (n).
     """    
-    if howManyBytes == None:
+    if howManyBytes is None:
         howManyBytes = numBytes(n)
     b = bytearray(howManyBytes)
     for count in range(howManyBytes-1, -1, -1):
@@ -126,8 +126,8 @@ def numberToByteArray(n, howManyBytes=None):
     return b
 
 
-def mpiToNumber(mpi): #mpi is an openssl-format bignum string
-    if (ord(mpi[4]) & 0x80) !=0: #Make sure this is a positive number
+def mpiToNumber(mpi):  # mpi is an openssl-format bignum string
+    if (ord(mpi[4]) & 0x80) != 0:  # M ake sure this is a positive number
         raise AssertionError()
     b = bytearray(mpi[4:])
     return bytesToNumber(b)
@@ -136,7 +136,7 @@ def mpiToNumber(mpi): #mpi is an openssl-format bignum string
 def numberToMPI(n):
     b = numberToByteArray(n)
     ext = 0
-    #I f the high-order bit is going to be set,
+    # I f the high-order bit is going to be set,
     # add an extra byte of zeros
     if (numBits(n) & 0x7) == 0:
         ext = 1
@@ -154,20 +154,17 @@ def numberToMPI(n):
 # **************************************************************************
 
 def numBits(n):
-    if n==0:
+    if n == 0:
         return 0
     s = "%x" % n
     return ((len(s)-1)*4) + \
-    {'0': 0, '1': 1, '2': 2, '3': 2,
-     '4': 3, '5': 3, '6': 3, '7': 3,
-     '8': 4, '9': 4, 'a': 4, 'b': 4,
-     'c': 4, 'd': 4, 'e': 4, 'f': 4,
-     }[s[0]]
+        {'0': 0, '1': 1, '2': 2, '3': 2, '4': 3, '5': 3, '6': 3, '7': 3,
+         '8': 4, '9': 4, 'a': 4, 'b': 4, 'c': 4, 'd': 4, 'e': 4, 'f': 4, }[s[0]]
     return int(math.floor(math.log(n, 2))+1)
 
 
 def numBytes(n):
-    if n==0:
+    if n == 0:
         return 0
     bits = numBits(n)
     return int(math.ceil(bits / 8.0))
@@ -263,7 +260,8 @@ def isPrime(n, iterations=5, display=False):
     # Passed trial division, proceed to Rabin-Miller
     # Rabin-Miller implemented per Ferguson & Schneier
     # Compute s, t for Rabin-Miller
-    if display: print("*", end=' ')
+    if display:
+        print("*", end=' ')
     s, t = n-1, 0
     while s % 2 == 0:
         s, t = s//2, t+1
@@ -296,7 +294,8 @@ def getRandomPrime(bits, display=False):
     p = getRandomNumber(low, high)
     p += 29 - (p % 30)
     while 1:
-        if display: print(".", end=' ')
+        if display:
+            print(".", end=' ')
         p += 30
         if p >= high:
             p = getRandomNumber(low, high)
@@ -319,7 +318,8 @@ def getRandomSafePrime(bits, display=False):
     q = getRandomNumber(low, high)
     q += 29 - (q % 30)
     while 1:
-        if display: print(".", end=' ')
+        if display:
+            print(".", end=' ')
         q += 30
         if q >= high:
             q = getRandomNumber(low, high)

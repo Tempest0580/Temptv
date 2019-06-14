@@ -71,8 +71,7 @@ else:
 iv = None
 key = None
 value_unsafe = '%+&;#'
-VALUE_SAFE = ''.join(chr(c) for c in range(33, 127)
-    if chr(c) not in value_unsafe)
+VALUE_SAFE = ''.join(chr(c) for c in range(33, 127) if chr(c) not in value_unsafe)
     
 SUPPORTED_VERSION = 3
 
@@ -87,7 +86,7 @@ class HLSDownloaderRetry():
     """
 
     def __init__(self):
-        self.init_done=False
+        self.init_done = False
 
     def init(self, out_stream, url, proxy=None, use_proxy_for_chunks=True, g_stopEvent=None, maxbitrate=0, auth='', callbackpath="", callbackparam=""):
         global clientHeader, gproxy, gauth
@@ -147,7 +146,7 @@ def getUrl(url, timeout=15, returnres=False, stream=False):
 
     try:
         post=None
-        print 'url',url
+        print 'url', url
         session = requests.Session()
         session.cookies = cookieJar
 
@@ -180,7 +179,7 @@ def getUrl(url, timeout=15, returnres=False, stream=False):
     except:
         print 'Error in getUrl'
         traceback.print_exc()
-        raise 
+        raise
         return None
         
     
@@ -379,14 +378,15 @@ def handle_basic_m3u(url):
                             
                             if codeurl.startswith("LSHex$"):
                                 codeurl=codeurl.split('LSHex$')[1].decode("hex")
-                                print 'code is ',codeurl.encode("hex")
+                                print 'code is ', codeurl.encode("hex")
                             if codeurl.startswith("LSDRMCallBack$"):
                                 codeurlpath=codeurl.split('LSDRMCallBack$')[1]
                                 codeurl='LSDRMCallBack$'+currentaesUrl
                                 
                                 if codeurlpath and len(codeurlpath) > 0 and callbackDRM is None:
                                     print 'callback', codeurlpath
-                                    import importlib, os
+                                    import importlib
+                                    import os
                                     foldername = os.path.sep.join(codeurlpath.split(os.path.sep)[:-1])
                                     urlnew = ''
                                     if foldername not in sys.path:
@@ -456,15 +456,16 @@ def handle_basic_m3u(url):
             #    raise ValueError("tag %s not known"%tag)
         else:
             if not line.startswith('http'):
-                line=urlparse.urljoin(redirurl, line)
-            yield (seq, enc, duration, targetduration, line ,vod)
+                line = urlparse.urljoin(redirurl, line)
+            yield (seq, enc, duration, targetduration, line, vod)
             seq += 1
 
 
 def player_pipe(queue, control,file):
     while 1:
         block = queue.get(block=True)
-        if block is None: return
+        if block is None:
+            return
         file.write(block)
         file.flush()
 
@@ -497,7 +498,7 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None , callbackpath="",c
         res=getUrl(url, returnres=True)
         print 'here ', res
         if res.history: 
-            print 'history is',res.history
+            print 'history is', res.history
             redirurl = res.url
             url = redirurl
         utltext = res.text
@@ -723,7 +724,8 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None , callbackpath="",c
                             reconnect = True
                             fails += 1
                             break
-                    except: pass
+                    except:
+                        pass
             
             if vod:
                 return True
@@ -754,6 +756,4 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None , callbackpath="",c
                 xbmc.sleep(3000 + (3000 if addsomewait else 0))
             
     except:
-        
         raise
-

@@ -29,7 +29,7 @@ class Python_AES(AES):
         for x in range(len(plaintextBytes)//16):
 
             # XOR with the chaining block
-            blockBytes = plaintextBytes[x*16 : (x*16)+16]
+            blockBytes = plaintextBytes[x*16: (x*16)+16]
             for y in range(16):
                 blockBytes[y] ^= chainBytes[y]
 
@@ -59,7 +59,7 @@ class Python_AES(AES):
             blockBytes = ciphertextBytes[x*16 : (x*16)+16]
             decryptedBytes = self.rijndael.decrypt(blockBytes)
 
-             # XOR with the chaining block and overwrite the input with output
+            # XOR with the chaining block and overwrite the input with output
             for y in range(16):
                 decryptedBytes[y] ^= chainBytes[y]
                 ciphertextBytes[(x*16)+y] = decryptedBytes[y]

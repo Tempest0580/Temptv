@@ -81,7 +81,7 @@ class MyHandler(BaseHTTPRequestHandler):
             # Pull apart request path
             request_path = self.path[1:]
             querystring = request_path
-            request_path = re.sub(r"\?.*","",request_path)
+            request_path = re.sub(r"\?.*", "", request_path)
             
             # If a request to stop is sent, shut down the proxy
 
@@ -122,7 +122,7 @@ class MyHandler(BaseHTTPRequestHandler):
                 
                 if not downloader or downloader.live is True or not (downloader.init_done and downloader.init_url == url):
                     from f4mDownloader import F4MDownloader
-                    downloader=F4MDownloader()
+                    downloader = F4MDownloader()
                     if not downloader.init(self.wfile, url, proxy, use_proxy_for_chunks, g_stopEvent, maxbitrate, auth, swf):
                         print 'cannot init'
                         raise Exception('HDS.url failed to play\nServer down? check Url.')
@@ -140,7 +140,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     (srange, erange) = self.get_range_request(requested_range, downloader.total_frags)
 
                 print 'PROXY DATA', downloader.live, enableSeek, requested_range, downloader.total_frags, srange, erange
-                enableSeek=False  # disabled for time being, couldn't find better way to handle
+                enableSeek = False  # disabled for time being, couldn't find better way to handle
                 
                 framgementToSend = 0
                 inflate = 1815002  # (6526684-466/3)#*373/downloader.total_frags# 4142*1024*243/8/40 #1#1024*1024
@@ -187,11 +187,11 @@ class MyHandler(BaseHTTPRequestHandler):
                 if not downloader.init(self.wfile, url, proxy, g_stopEvent, maxbitrate):
                     print 'init throw error because init'  # throw error because init
                     raise Exception('SIMPLE.url failed to play\nServer down? check Url.')
-                srange,framgementToSend = (None, None)
+                srange, framgementToSend = (None, None)
                 self.send_response(200)
-                rtype="flv-application/octet-stream"  # default type could have gone to the server to get it.
+                rtype = "flv-application/octet-stream"  # default type could have gone to the server to get it.
                 self.send_header("Content-Type", rtype)
-                srange=None
+                srange = None
             elif streamtype == 'TSDOWNLOADER':
                 from TSDownloader import TSDownloader
                 downloader = TSDownloader()
@@ -199,7 +199,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     print 'cannot init but will continue to play'
                     raise Exception('TS.url failed to play\nServer down? check Url.')
                     # return
-                srange,framgementToSend = (None, None)
+                srange, framgementToSend = (None, None)
                 self.send_response(200)
                 rtype = "video/mp2t"  # default type could have gone to the server to get it.
                 self.send_header("Content-Type", rtype)
@@ -211,7 +211,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     print 'cannot init'
                     raise Exception('HLS.url failed to play\nServer down? check Url.')
                     
-                srange,framgementToSend = (None, None)
+                srange, framgementToSend = (None, None)
                 self.send_response(200)
                 rtype = "flv-application/octet-stream"  # default type could have gone to the server to get it.
                 self.send_header("Content-Type", rtype)
@@ -223,7 +223,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     print 'cannot init'
                     raise Exception('HLSR.url failed to play\nServer down? check Url.')
                     
-                srange,framgementToSend = (None, None)
+                srange, framgementToSend = (None, None)
                 self.send_response(200)
                 rtype = "flv-application/octet-stream"  # default type could have gone to the server to get it.
                 self.send_header("Content-Type", rtype)
@@ -236,7 +236,7 @@ class MyHandler(BaseHTTPRequestHandler):
                     print 'cannot init'
                     raise Exception('HLSR.url failed to play\nServer down? check Url.')
                     
-                srange,framgementToSend = (None, None)
+                srange, framgementToSend = (None, None)
                 self.send_response(200)
                 rtype = "application/vnd.apple.mpegurl"  # default type could have gone to the server to get it.
                 self.send_header("Content-Type", rtype)
@@ -247,7 +247,7 @@ class MyHandler(BaseHTTPRequestHandler):
             # self.send_header("Content-Type", rtype)
                
             self.end_headers()
-            if not srange == None:
+            if srange is not None:
                 srange = srange/inflate
             initDone = True
             if sendData:
@@ -303,8 +303,8 @@ class MyHandler(BaseHTTPRequestHandler):
                 
             except:
                 # Failure to build range string? Create a 0- range.
-                srange=0
-                erange=int(file_size-1)
+                srange = 0
+                erange = int(file_size-1)
         return srange, erange
 
     def decode_videoparturl(self, url):
@@ -349,7 +349,7 @@ class MyHandler(BaseHTTPRequestHandler):
         simpledownloader = False
         try:
             simpledownloader = params['simpledownloader'][0]
-            if simpledownloader.lower( )== 'true':
+            if simpledownloader.lower() == 'true':
                 print 'params[simpledownloader][0]', params['simpledownloader'][0]
                 simpledownloader = True
             else:
@@ -362,7 +362,7 @@ class MyHandler(BaseHTTPRequestHandler):
         except:
             pass
         if streamtype == 'None' and streamtype == '':
-            streamtype ='HDS'
+            streamtype = 'HDS'
 
         swf = None
         try:
@@ -434,7 +434,7 @@ class f4mProxy():
     def prepare_url(self, url, proxy=None, use_proxy_for_chunks=True, port=PORT_NUMBER, maxbitrate=0, simpleDownloader=False, auth=None, streamtype='HDS', swf=None, callbackpath="", callbackparam=""):
         global PORT_NUMBER
         global PORT_NUMBER
-        newurl=urllib.urlencode({'url': url, 'proxy': proxy, 'use_proxy_for_chunks': use_proxy_for_chunks, 'maxbitrate': maxbitrate, 'simpledownloader': simpleDownloader, 'auth': auth, 'streamtype': streamtype, 'swf': swf, 'callbackpath':callbackpath, 'callbackparam': callbackparam})
+        newurl = urllib.urlencode({'url': url, 'proxy': proxy, 'use_proxy_for_chunks': use_proxy_for_chunks, 'maxbitrate': maxbitrate, 'simpledownloader': simpleDownloader, 'auth': auth, 'streamtype': streamtype, 'swf': swf, 'callbackpath':callbackpath, 'callbackparam': callbackparam})
         link = 'http://'+HOST_NAME+(':%s/'%str(port)) + newurl
         return link  # make a url that caller then call load into player
 
@@ -444,12 +444,12 @@ class f4mProxyHelper():
     def playF4mLink(self, url, name, proxy=None, use_proxy_for_chunks=False, maxbitrate=0, simpleDownloader=False, auth=None, streamtype='HDS', setResolved=False, swf=None, callbackpath="", callbackparam="", iconImage = "DefaultVideo.png"):
         try:
             print "URL: " + url
-            stopPlaying=threading.Event()
+            stopPlaying = threading.Event()
             progress = xbmcgui.DialogProgress()
             import checkbad
             checkbad.do_block_check(False)
 
-            f4m_proxy=f4mProxy()
+            f4m_proxy = f4mProxy()
             stopPlaying.clear()
             runningthread = thread.start_new_thread(f4m_proxy.start,(stopPlaying,))
             progress.create('Starting local proxy')
@@ -471,7 +471,8 @@ class f4mProxyHelper():
                 elif streamtype in ['HLSREDIR']:
                     listitem.setMimeType("application/vnd.apple.mpegurl")
                     listitem.setContentLookup(False) 
-            except: print 'error while setting setMimeType, so ignoring it '
+            except:
+                print 'error while setting setMimeType, so ignoring it '
 
             if setResolved:
                 return url_to_play, listitem
@@ -487,7 +488,7 @@ class f4mProxyHelper():
                 if stopPlaying.isSet():
                     break
                 if xbmc.Player().isPlaying():
-                    played=True
+                    played = True
                 xbmc.log('Sleeping...')
                 xbmc.sleep(200)
                 # if firstTime:

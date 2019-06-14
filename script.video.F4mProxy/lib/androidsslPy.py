@@ -62,7 +62,7 @@ def _load_crypto_libcrypto():
         def decrypt(self, data):
             out = create_string_buffer(len(data))
             ivcopy = create_string_buffer(self.iv)
-            rv = AES_cbc_encrypt(data, out, len(data), self._key, ivcopy , 0)
+            rv = AES_cbc_encrypt(data, out, len(data), self._key, ivcopy, 0)
             if rv == 0:
                 raise IGNOBLEError('AES decryption failed')
             return out.raw

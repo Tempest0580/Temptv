@@ -36,7 +36,7 @@ class ASN1Parser(object):
     # Decode the ASN.1 DER length field
     def _getASN1Length(self, p):
         firstLength = p.get(1)
-        if firstLength<=127:
+        if firstLength <= 127:
             return firstLength
         else:
             lengthLength = firstLength & 0x7F

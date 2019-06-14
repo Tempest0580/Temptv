@@ -179,7 +179,7 @@ class RSAKey(object):
             return None
         # Scan through for zero separator
         for x in range(1, len(decBytes)-1):
-            if decBytes[x]== 0:
+            if decBytes[x] == 0:
                 break
         else:
             return None

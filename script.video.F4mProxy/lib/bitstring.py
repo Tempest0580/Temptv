@@ -85,6 +85,7 @@ MAX_CHARS = 250
 # Maximum size of caches used for speed optimisations.
 CACHE_SIZE = 1000
 
+
 class Error(Exception):
     """Base class for errors in the bitstring module."""
 
@@ -197,8 +198,9 @@ class ConstByteStore(object):
         bit_offset = self.offset % 8
         if bit_offset:
             # first do the byte with the join.
-            store.setbyte(-1, (store.getbyte(-1) & (255 ^ (255 >> bit_offset)) | \
-                               (self._rawarray[self.byteoffset] & (255 >> bit_offset))))
+            store.setbyte(-1, (
+                    store.getbyte(-1) & (255 ^ (
+                    255 >> bit_offset)) | (self._rawarray[self.byteoffset] & (255 >> bit_offset))))
             store._rawarray.extend(self._rawarray[self.byteoffset + 1: self.byteoffset + self.bytelength])
         else:
             store._rawarray.extend(self._rawarray[self.byteoffset: self.byteoffset + self.bytelength])

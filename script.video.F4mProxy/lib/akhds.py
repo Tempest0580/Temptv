@@ -71,77 +71,72 @@ def tagDecrypt(data, key):
     enc_data = data  # binascii.unhexlify(enc_data)
     enc_key = key  # binascii.unhexlify(enc_key)
 
-#    print 'DataIn',binascii.hexlify(data)
-#    print 'KeyIn',binascii.hexlify(key)
-    
+    # print 'DataIn',binascii.hexlify(data)
+    # print 'KeyIn',binascii.hexlify(key)
 
-    keydatalen=0
+    keydatalen = 0
     if 'key_' in enc_data[0:300]:  # quick check?? need to find better way to predict offsets
-        keydatalen=enc_data[0:300].find(chr(0), 13+16)-(13+16)+1
-       
-       
-#    print 'keydatalen',keydatalen       
-    stage_4a_finaldataIndex=13+16+1+keydatalen  # ?? dynamic calc req
-    enc_data_index=stage_4a_finaldataIndex+32+40
+        keydatalen = enc_data[0:300].find(chr(0), 13+16)-(13+16)+1
 
-    stage_4a_finaldata=enc_data[stage_4a_finaldataIndex:stage_4a_finaldataIndex+32]
+    # print 'keydatalen',keydatalen
+    stage_4a_finaldataIndex = 13+16+1+keydatalen  # ?? dynamic calc req
+    enc_data_index = stage_4a_finaldataIndex+32+40
+
+    stage_4a_finaldata = enc_data[stage_4a_finaldataIndex:stage_4a_finaldataIndex+32]
     globalivIndex=13
     global_iv = enc_data[globalivIndex:globalivIndex+16]
-#    print 'global  iv',binascii.hexlify(global_iv)
+    # print 'global  iv',binascii.hexlify(global_iv)
 
     stage_4a_data = enc_key+global_iv
 
-#    print len (stage_4a_data)
+    # print len (stage_4a_data)
 
     # ??static data
-    stage_4a_key=binascii.unhexlify("3b27bdc9e00fd5995d60a1ee0aa057a9f1416ed085b21762110f1c2204ddf80ec8caab003070fd43baafdde27aeb3194ece5c1adff406a51185eb5dd7300c058")
-#    stage_4a_key=key#fixed
+    stage_4a_key = binascii.unhexlify("3b27bdc9e00fd5995d60a1ee0aa057a9f1416ed085b21762110f1c2204ddf80ec8caab003070fd43baafdde27aeb3194ece5c1adff406a51185eb5dd7300c058")
+    # stage_4a_key=key#fixed
 
+    # print 'stage_4a_key',binascii.hexlify(stage_4a_key),len(stage_4a_key)
+    # print 'data',binascii.hexlify(stage_4a_data) ,len(stage_4a_data)
 
-#    print 'stage_4a_key',binascii.hexlify(stage_4a_key),len(stage_4a_key)
-#    print 'data',binascii.hexlify(stage_4a_data) ,len(stage_4a_data)
-
-    stage_4a_key2 = hmac.new(stage_4a_key,stage_4a_data , sha1).digest()
+    stage_4a_key2 = hmac.new(stage_4a_key, stage_4a_data, sha1).digest()
 
     # stage_4a_key2+=chr(0)*12
-#    print 'first HMAC ',binascii.hexlify(stage_4a_key2) ,len(stage_4a_key2)
+    # print 'first HMAC ',binascii.hexlify(stage_4a_key2) ,len(stage_4a_key2)
 
     # ??static data
-    stage_4a_data2=binascii.unhexlify("d1ba6371c56ce6b498f1718228b0aa112f24a47bcad757a1d0b3f4c2b8bd637cb8080d9c8e7855b36a85722a60552a6c00")
+    stage_4a_data2 = binascii.unhexlify("d1ba6371c56ce6b498f1718228b0aa112f24a47bcad757a1d0b3f4c2b8bd637cb8080d9c8e7855b36a85722a60552a6c00")
 
-#    print 'stage_4a_data2',binascii.hexlify(stage_4a_data2),len(stage_4a_data2)
+    #    print 'stage_4a_data2',binascii.hexlify(stage_4a_data2),len(stage_4a_data2)
 
-    auth = hmac.new(stage_4a_key2,stage_4a_data2 , sha1).digest()
-    stage_4a_finalkey=auth[:16]
+    auth = hmac.new(stage_4a_key2, stage_4a_data2, sha1).digest()
+    stage_4a_finalkey = auth[:16]
 
-     
-#    print stage_4a_finalkey, repr(stage_4a_finalkey), len(stage_4a_finalkey)
-#    print binascii.hexlify(stage_4a_finalkey)
-#    print 'first end HMAC >>>>>>>>>>>>>>>>>>>>>>>>>'
-#    print 'final data',binascii.hexlify(stage_4a_finaldata)
-#    print 'final iv',binascii.hexlify(global_iv)
-#    print 'final key',binascii.hexlify(stage_4a_finalkey)
+    # print stage_4a_finalkey, repr(stage_4a_finalkey), len(stage_4a_finalkey)
+    # print binascii.hexlify(stage_4a_finalkey)
+    # print 'first end HMAC >>>>>>>>>>>>>>>>>>>>>>>>>'
+    # print 'final data',binascii.hexlify(stage_4a_finaldata)
+    # print 'final iv',binascii.hexlify(global_iv)
+    # print 'final key',binascii.hexlify(stage_4a_finalkey)
 
     # import  pyaes
-#    de =AES.new(stage_4a_finalkey, AES.MODE_CBC, global_iv)
-#    # pyaes.new(stage_4a_finalkey, pyaes.MODE_CBC, IV=global_iv)
+    # de =AES.new(stage_4a_finalkey, AES.MODE_CBC, global_iv)
+    # pyaes.new(stage_4a_finalkey, pyaes.MODE_CBC, IV=global_iv)
 
-    de = getDecrypter(stage_4a_finalkey,global_iv )
+    de = getDecrypter(stage_4a_finalkey, global_iv)
     cc = global_iv
     decresp = decryptData(de, stage_4a_finaldata, cc)
-    stage_4a_finaloutput=decresp[:20]
+    stage_4a_finaloutput = decresp[:20]
 
-    enc_size=stage_4a_finaloutput[:4]
-    enc_size=int(struct.unpack('>I', enc_size)[0])
+    enc_size = stage_4a_finaloutput[:4]
+    enc_size = int(struct.unpack('>I', enc_size)[0])
 #    print stage_4a_finaloutput
-    stage_4a_finaloutput=stage_4a_finaloutput[4:4+16]
+    stage_4a_finaloutput = stage_4a_finaloutput[4:4+16]
 #    print 'final',binascii.hexlify(stage_4a_finaloutput)
 
     stage_4_key=stage_4a_key
     stage_5_key = hmac.new(stage_4_key, stage_4a_finaloutput, sha1).digest()
 
 #    print 'stage_4_hmac ',binascii.hexlify(stage_5_key)
-
 
     # ??static data
     stage_5_data = binascii.unhexlify\
@@ -153,7 +148,7 @@ def tagDecrypt(data, key):
 
 #    print 'stage_5_hmac ',binascii.hexlify(stage_5_hmac), len(stage_5_hmac)
 
-    stage_5_hmac=stage_5_hmac[:16]
+    stage_5_hmac = stage_5_hmac[:16]
 
 #    print 'stage_5_hmac trmimed ',binascii.hexlify(stage_5_hmac), len(stage_5_hmac)
 
@@ -161,7 +156,7 @@ def tagDecrypt(data, key):
 #    #de = pyaes.new(stage_5_hmac, pyaes.MODE_CBC, IV=global_iv)
     de2=getDecrypter(stage_5_hmac, global_iv)
     enc_data_todec=""
-    if enc_size>0:
+    if enc_size > 0:
         enc_data_todec=enc_data[enc_data_index:enc_data_index+enc_size]
     unEncdata = enc_data[enc_data_index+enc_size:]
 
@@ -169,15 +164,15 @@ def tagDecrypt(data, key):
     if len(enc_data_todec)>0:
         # print 'enc_data_todec',binascii.hexlify(enc_data_todec), len(enc_data_todec)
         # enc_data_remaining
-        decData=decryptData(de2,enc_data_todec,global_iv)
+        decData=decryptData(de2, enc_data_todec, global_iv)
         
-    decData+=unEncdata
-    if 1==2 and len(decData)<300:
-        print 'enc data received',binascii.hexlify(enc_data_todec), len(enc_data_todec)
-        print 'iv received',binascii.hexlify(global_iv), len(global_iv)
-        print 'key received',binascii.hexlify(stage_5_hmac), len(stage_5_hmac)
-        print 'data received',binascii.hexlify(data), len(data)
-        print 'final return',binascii.hexlify(decData), len(decData)
+    decData += unEncdata
+    if 1 == 2 and len(decData) < 300:
+        print 'enc data received', binascii.hexlify(enc_data_todec), len(enc_data_todec)
+        print 'iv received', binascii.hexlify(global_iv), len(global_iv)
+        print 'key received', binascii.hexlify(stage_5_hmac), len(stage_5_hmac)
+        print 'data received', binascii.hexlify(data), len(data)
+        print 'final return', binascii.hexlify(decData), len(decData)
     return decData
 
 
@@ -191,7 +186,7 @@ def getDecrypter(key, iv):
         keyb = array.array('B', key)
         enc = python_aes.new(keyb, 2, ivb)
     else:
-        enc =androidsslPy._load_crypto_libcrypto()
+        enc = androidsslPy._load_crypto_libcrypto()
         enc = enc(key, iv)
     return enc
 
@@ -200,11 +195,11 @@ def getDecrypter(key, iv):
 def decryptData(d, encdata, iv):
     # print 'start'
     global USEDec
-    if USEDec==1 or USEDec == 2:
-        data =d.decrypt(encdata)
+    if USEDec == 1 or USEDec == 2:
+        data = d.decrypt(encdata)
 #        print binascii.hexlify(data)
-    elif USEDec==3:
-        chunkb=array.array('B', encdata)
+    elif USEDec == 3:
+        chunkb = array.array('B', encdata)
         data = d.decrypt(chunkb)
         data = "".join(map(chr, data))
 #    print 'end'

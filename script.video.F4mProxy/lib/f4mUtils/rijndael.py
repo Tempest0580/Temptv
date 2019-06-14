@@ -258,9 +258,9 @@ class rijndael:
                     tk[i] ^= tk[i-1]
                 tt = tk[KC // 2 - 1]
                 tk[KC // 2] ^= (S[tt & 0xFF] & 0xFF) ^ \
-                              (S[(tt >> 8) & 0xFF] & 0xFF) << 8 ^ \
-                              (S[(tt >> 16) & 0xFF] & 0xFF) << 16 ^ \
-                              (S[(tt >> 24) & 0xFF] & 0xFF) << 24
+                               (S[(tt >> 8) & 0xFF] & 0xFF) << 8 ^ \
+                               (S[(tt >> 16) & 0xFF] & 0xFF) << 16 ^ \
+                               (S[(tt >> 24) & 0xFF] & 0xFF) << 24
                 for i in range(KC // 2 + 1, KC):
                     tk[i] ^= tk[i-1]
             # copy values into round key arrays
@@ -302,17 +302,17 @@ class rijndael:
         t = []
         # plaintext to ints + key
         for i in range(BC):
-            t.append((plaintext[i * 4 ] << 24 |
+            t.append((plaintext[i * 4] << 24 |
                       plaintext[i * 4 + 1] << 16 |
                       plaintext[i * 4 + 2] << 8 |
                       plaintext[i * 4 + 3]) ^ Ke[0][i])
         # apply round transforms
         for r in range(1, ROUNDS):
             for i in range(BC):
-                a[i] = (T1[(t[i ] >> 24) & 0xFF] ^
+                a[i] = (T1[(t[i] >> 24) & 0xFF] ^
                         T2[(t[(i + s1) % BC] >> 16) & 0xFF] ^
                         T3[(t[(i + s2) % BC] >> 8) & 0xFF] ^
-                        T4[ t[(i + s3) % BC] & 0xFF]) ^ Ke[r][i]
+                        T4[t[(i + s3) % BC] & 0xFF]) ^ Ke[r][i]
             t = copy.copy(a)
         # last round is special
         result = []
@@ -321,7 +321,7 @@ class rijndael:
             result.append((S[(t[i] >> 24) & 0xFF] ^ (tt >> 24)) & 0xFF)
             result.append((S[(t[(i + s1) % BC] >> 16) & 0xFF] ^ (tt >> 16)) & 0xFF)
             result.append((S[(t[(i + s2) % BC] >> 8) & 0xFF] ^ (tt >> 8)) & 0xFF)
-            result.append((S[ t[(i + s3) % BC] & 0xFF] ^ tt) & 0xFF)
+            result.append((S[t[(i + s3) % BC] & 0xFF] ^ tt) & 0xFF)
         return bytearray(result)
 
     def decrypt(self, ciphertext):
@@ -345,7 +345,7 @@ class rijndael:
         t = [0] * BC
         # ciphertext to ints + key
         for i in range(BC):
-            t[i] = (ciphertext[i * 4 ] << 24 |
+            t[i] = (ciphertext[i * 4] << 24 |
                     ciphertext[i * 4 + 1] << 16 |
                     ciphertext[i * 4 + 2] << 8 |
                     ciphertext[i * 4 + 3]) ^ Kd[0][i]
@@ -355,7 +355,7 @@ class rijndael:
                 a[i] = (T5[(t[i] >> 24) & 0xFF] ^
                         T6[(t[(i + s1) % BC] >> 16) & 0xFF] ^
                         T7[(t[(i + s2) % BC] >> 8) & 0xFF] ^
-                        T8[ t[(i + s3) % BC] & 0xFF]) ^ Kd[r][i]
+                        T8[t[(i + s3) % BC] & 0xFF]) ^ Kd[r][i]
             t = copy.copy(a)
         # last round is special
         result = []
@@ -364,7 +364,7 @@ class rijndael:
             result.append((Si[(t[i] >> 24) & 0xFF] ^ (tt >> 24)) & 0xFF)
             result.append((Si[(t[(i + s1) % BC] >> 16) & 0xFF] ^ (tt >> 16)) & 0xFF)
             result.append((Si[(t[(i + s2) % BC] >> 8) & 0xFF] ^ (tt >> 8)) & 0xFF)
-            result.append((Si[ t[(i + s3) % BC] & 0xFF] ^tt) & 0xFF)
+            result.append((Si[t[(i + s3) % BC] & 0xFF] ^ tt) & 0xFF)
         return bytearray(result)
 
 

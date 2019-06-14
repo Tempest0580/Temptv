@@ -145,9 +145,9 @@ def getUrl(url, timeout=15, returnres=False, stream=False):
 
         headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11'}
         if clientHeader:
-            for n,v in clientHeader:
-                headers[n]=v
-        proxies={}
+            for n, v in clientHeader:
+                headers[n] = v
+        proxies = {}
         
         if gproxy:
             proxies = {"http": "http://"+gproxy}
@@ -203,7 +203,8 @@ def getUrlold(url, timeout=20, returnres=False):
             req.set_proxy(gproxy, 'http')
         response = openner.open(req)
         
-        if returnres: return response
+        if returnres:
+            return response
         data = response.read()
 
         # print len(data)
@@ -305,7 +306,7 @@ def gen_m3u(url, skip_comments=True):
     # print conn
     # conn=urllib2.urlopen(url)
     enc = validate_m3u(conn)
-    #print conn
+    # print conn
     for line in conn.iter_lines():  # .split('\n'):
         line = line.rstrip('\r\n').decode(enc)
         if not line:
@@ -347,8 +348,8 @@ def parse_kv(attribs, known_keys=None):
     d = {}
     for item in attribs:
         k, v = item.split('=', 1)
-        k=k.strip()
-        v=v.strip().strip('"')
+        k = k.strip()
+        v = v.strip().strip('"')
         if known_keys is not None and k not in known_keys:
             raise ValueError("unknown attribute %s" % k)
         d[k] = v
@@ -411,7 +412,8 @@ def handle_basic_m3u(url):
                                 
                                 if codeurlpath and len(codeurlpath) > 0 and callbackDRM is None:
                                     print 'callback', codeurlpath
-                                    import importlib, os
+                                    import importlib
+                                    import os
                                     foldername = os.path.sep.join(codeurlpath.split(os.path.sep)[:-1])
                                     urlnew = ''
                                     if foldername not in sys.path:
@@ -481,7 +483,7 @@ def handle_basic_m3u(url):
             seq += 1
 
 
-def player_pipe(queue, control,file):
+def player_pipe(queue, control, file):
     while 1:
         block = queue.get(block=True)
         if block is None:
@@ -509,8 +511,8 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None, testing=False):
     # url check if requires redirect
     redirurl = url
     try:
-        print 'going gor  ',url
-        res=getUrl(url, returnres=True)
+        print 'going gor', url
+        res = getUrl(url, returnres=True)
         print 'here ', res
         if res.history: 
             print 'history'
@@ -518,7 +520,8 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None, testing=False):
         res.close()
         if testing:
             return True
-    except: traceback.print_exc()
+    except:
+        traceback.print_exc()
     print 'redirurl', redirurl
 
     for line in gen_m3u(url):
@@ -625,7 +628,7 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None, testing=False):
                             if codeurl.startswith('http'):
                                 key = download_file(codeurl)
                             elif codeurl.startswith('LSDRMCallBack$'):
-                                key=callbackDRM.DRMCallback(codeurl.split('LSDRMCallBack$')[1],url)
+                                key = callbackDRM.DRMCallback(codeurl.split('LSDRMCallBack$')[1],url)
                             else:
                                 key = codeurl
                             codeurl = lastKeyUrl
@@ -640,7 +643,8 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None, testing=False):
                             enc = python_aes.new(keyb, 2, ivb)
                         # enc=AESDecrypter.new(key, 2, iv)
                         
-                    if glsession: media_url = media_url.replace(glsession, glsession[:-10]+''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(10)))
+                    if glsession:
+                        media_url = media_url.replace(glsession, glsession[:-10]+''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(10)))
                     try:
                         for chunk in download_chunks(urlparse.urljoin(url, media_url), enc=encobj):
                             if stopEvent and stopEvent.isSet():
@@ -682,9 +686,8 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None, testing=False):
             '''
             return
             if not playedSomething:
-                xbmc.sleep(2000+ (3000 if addsomewait else 0))
+                xbmc.sleep(2000 + (3000 if addsomewait else 0))
     except:
         control[0] = 'stop'
         raise
 
-    

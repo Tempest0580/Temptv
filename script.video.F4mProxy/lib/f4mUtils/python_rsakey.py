@@ -47,7 +47,7 @@ class Python_RSAKey(RSAKey):
         self.blinder = (self.blinder * self.blinder) % self.n
         self.unblinder = (self.unblinder * self.unblinder) % self.n
 
-        #Return the output
+        # Return the output
         return c
 
     def _rawPrivateKeyOpHelper(self, m):

@@ -1063,11 +1063,7 @@ class F4MDownloader():
                 return bootstrap, boot_info, fragments_list,total_frags
         except:
             traceback.print_exc()
-    
 
-        
-
-    
     def _pv_params(self, pvswf, pv):
         """Returns any parameters needed for Akamai HD player verification.
 
@@ -1084,10 +1080,11 @@ class F4MDownloader():
         except ValueError:
             data = pv
             hdntl = ""
-        print 'DATA IS',data
-        print 'hdntl IS',hdntl
-        if data=="": return hdntl
-        first_stage_msg=binascii.unhexlify('056377146640142763057567157640125041016376130175171220177717044510157134116364123221072012122137150351003442036164015632157517073355151142067436113220106435137171174171127530157325044270025004')
+        print 'DATA IS', data
+        print 'hdntl IS', hdntl
+        if data == "":
+            return hdntl
+        first_stage_msg = binascii.unhexlify('056377146640142763057567157640125041016376130175171220177717044510157134116364123221072012122137150351003442036164015632157517073355151142067436113220106435137171174171127530157325044270025004')
         
         first_stage_key=data
 
@@ -1100,46 +1097,44 @@ class F4MDownloader():
             import hashlib            
             h=hashlib.md5()
             h.update(pvswf)
-            hashkey=""+str(h.hexdigest())
-            existinghash=str(selfAddon.getSetting(hashkey))
-            #print 'existinghash',hashkey
-            #print 'existinghashval',existinghash
-            if len(existinghash)==0:
-                swf = self.getUrl(pvswf,False)
+            hashkey = ""+str(h.hexdigest())
+            existinghash = str(selfAddon.getSetting(hashkey))
+            # print 'existinghash',hashkey
+            # print 'existinghashval',existinghash
+            if len(existinghash) == 0:
+                swf = self.getUrl(pvswf, False)
                 hash = hashlib.sha256()
                 hash.update(self.swfdecompress(swf))
                 hash = base64.b64encode(hash.digest()).decode("ascii")
-                #print hashkey,hash
+                # print hashkey,hash
                 selfAddon.setSetting(hashkey, str(hash))
-                #print 'getting back',str(selfAddon.getSetting(hashkey))
+                # print 'getting back',str(selfAddon.getSetting(hashkey))
             else:
                 hash=existinghash
                 
             
         else:
-            hash=pvswf # the incoming is the hash!
+            hash = pvswf  # the incoming is the hash!
             
-        print 'hash',hash
+        print 'hash', hash
           
 #        shouldhash="AFe6zmDCNudrcFNyePaAzAn/KRT5ES99ql4SNqldM2I="      
 #        if shouldhash==hash:
 #            print '**************HASH MATCH ********************'
 #        else:
 #            print '********* NOOOOOOOOOOOOOOOOOOOOTTTTTTTTTTTTTTTTT**********'
-            
-            
-        second_stage_key = hmac.new(first_stage_key,first_stage_msg , sha256).digest()
+
+        second_stage_key = hmac.new(first_stage_key, first_stage_msg, sha256).digest()
 #        second_stage_data=hash_data  #
         second_stage_data=base64.b64decode( hash)
         buffer="106,45,165,20,106,45,165,20,38,45,165,87,11,98,228,14,107,89,233,25,101,36,223,76,97,28,175,18,23,86,164,6,1,56,157,64,123,58,186,100,54,34,184,14,3,44,164,20,106,6,222,84,122,45,165,20,106,28,196,84,122,111,183,84,122,45,165,20,106,45,165,20,106,45,165,20,106,45,165,20,106,45,165,20,106,45,165,20,106,45,165,20,106,45,165,20" 
-        buffer=buffer.split(',');
-        second_stage_data+=chr(int(buffer[len(second_stage_data)]))
+        buffer=buffer.split(',')
+        second_stage_data += chr(int(buffer[len(second_stage_data)]))
 #        print len(second_stage_data),repr(second_stage_data)
 
         third_stage_key= hmac.new(second_stage_key, second_stage_data, sha256).digest()
-        
 
-        #hash=shouldhash
+        # hash=shouldhash
         msg = "exp=9999999999~acl=%2f%2a~data={0}!{1}".format(data, hash)
         
         auth = hmac.new(third_stage_key, msg.encode("ascii"), sha256)
@@ -1148,19 +1143,16 @@ class F4MDownloader():
         # The "hdntl" parameter can be accepted as a cookie or passed in the
         # query string, but the "pvtoken" parameter can only be in the query
         # string
-        print 'pvtoken',pvtoken
+        print 'pvtoken', pvtoken
         
-        params=urllib.urlencode({'pvtoken':pvtoken})+'&'+hdntl+'&hdcore=2.11.3'
-        params=params.replace('%2B','+')
-        params=params.replace('%2F','/')
+        params = urllib.urlencode({'pvtoken':pvtoken})+'&'+hdntl+'&hdcore=2.11.3'
+        params = params.replace('%2B', '+')
+        params = params.replace('%2F', '/')
         print params
         return params
         
-    def swfdecompress(self,data):
+    def swfdecompress(self, data):
         if data[:3] == b"CWS":
             data = b"F" + data[1:8] + zlib.decompress(data[8:])
 
         return data
-
-        
-        

@@ -47,10 +47,10 @@ from crypto.cipher.base     import padWithPadLen
 from crypto.cipher.rijndael import Rijndael
 from crypto.cipher.aes_cbc import AES_CBC
 '''
-gproxy=None
-gauth=None
-nsplayer=False
-callbackDRM=None
+gproxy = None
+gauth = None
+nsplayer = False
+callbackDRM = None
 try:
     from Crypto.Cipher import AES
     USEDec = 1  # 1==crypto 2==local, local pycrypto
@@ -86,34 +86,34 @@ class HLSRedirector():
     """
 
     def __init__(self):
-        self.init_done=False
+        self.init_done = False
         
     def sendVideoPart(self, URL, file, chunk_size=4096):
         for chunk in download_chunks(URL):
             send_back(chunk, file)
         return
 
-    def init(self, out_stream, url, proxy=None, use_proxy_for_chunks=True ,g_stopEvent=None, maxbitrate=0, auth='', callbackpath="", callbackparam=""):
+    def init(self, out_stream, url, proxy=None, use_proxy_for_chunks=True, g_stopEvent=None, maxbitrate=0, auth='', callbackpath="", callbackparam=""):
         global clientHeader, gproxy, gauth
         try:
             self.init_done = False
             self.init_url = url
             clientHeader = None
-            self.status ='init'
+            self.status = 'init'
             self.proxy = proxy
             self.auth = auth
             self.callbackpath = callbackpath
             self.callbackparam = callbackparam
-            if self.auth is None or self.auth == 'None'  or self.auth == '':
+            if self.auth is None or self.auth == 'None' or self.auth == '':
                 self.auth = None
             if self.auth:
-                gauth=self.auth
+                gauth = self.auth
             
             if self.proxy and len(self.proxy) == 0:
                 self.proxy = None
             gproxy = self.proxy
-            self.use_proxy_for_chunks=use_proxy_for_chunks
-            #self.out_stream=out_stream
+            self.use_proxy_for_chunks = use_proxy_for_chunks
+            # self.out_stream=out_stream
             if g_stopEvent:
                 g_stopEvent.clear()
             self.g_stopEvent = g_stopEvent
@@ -150,7 +150,7 @@ def getUrl(url, timeout=15, returnres=False, stream=False):
     global nsplayer
 
     try:
-        post=None
+        post = None
         print 'url', url
         session = requests.Session()
         session.cookies = cookieJar
@@ -184,7 +184,7 @@ def getUrl(url, timeout=15, returnres=False, stream=False):
     except:
         print 'Error in getUrl'
         traceback.print_exc()
-        raise 
+        raise
         return None
 
 
@@ -192,7 +192,7 @@ def download_chunks(URL, chunk_size=4096, enc=None):
     # conn=urllib2.urlopen(URL)
     # print 'starting download'
     
-    conn = getUrl(URL,returnres=True, stream=True)
+    conn = getUrl(URL, returnres=True, stream=True)
     # while 1:
     chunk_size = chunk_size*100
     
@@ -262,7 +262,7 @@ def parse_m3u_tag(line):
     attribs = []
     last = 0
     quote = False
-    for i,c in enumerate(attribstr+','):
+    for i, c in enumerate(attribstr+','):
         if c == '"':
             quote = not quote
         if quote:
@@ -290,7 +290,8 @@ def handle_basic_m3u(url):
     global key
     global USEDec
     global gauth
-    import urlparse, urllib
+    import urlparse
+    import urllib
     global callbackDRM
     
     seq = 1
@@ -406,8 +407,7 @@ def downloadInternal(url, file, maxbitrate=0, stopEvent=None , callbackpath="",c
                 # choice = int(raw_input("Selection? "))
                 print 'choose %d' % choice
                 url = urlparse.urljoin(redirurl, variants[choice][0])
-        except: 
-            
+        except:
             raise
 
     for chunk in handle_basic_m3u(url):

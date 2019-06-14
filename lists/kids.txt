@@ -12,14 +12,11 @@ https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/ca5kCBb0Xgh7kd7FaTPQ4TBjPFw=/0x28:1019x707/1200x800/filters:focal(0x28:1019x707)/cdn.vox-cdn.com/uploads/chorus_image/image/45580448/nickelodeon_logo_1020.0.jpg" group-title="",Nickelodeon
 http://www.sansat.net:25461/7989220643/7989220643/5301
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78qwXS3cEercRuIZwgTWgmMnoFItt22dwKc2A=s900-mo-c-c0xffffffff-rj-k-no" group-title="",Nick JR
-http://27.254.149.109:8081/tumlive/Nick/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="General",Nick Jr.
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c612fdac-59c2-4e50-8276-4f8c77d1924f&deviceId=4e0180fd-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=75.0.3770.80&appVersion=2.6.4-0c951252a8db110836f3eb648246a5cae9d55f67&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=truee
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
