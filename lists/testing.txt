@@ -11,3 +11,6 @@ https://videoserver1.org/live/0c9FAUDVyIWWc577aTvS3w/1560542125/3d4044d65abdda40
 
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.pngg" group-title="Movies", 24/7 Home Improvement
 https://videoserver1.org/live/0c9FAUDVyIWWc577aTvS3w/1560542125/3d4044d65abdda407a92991f1300ec97.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/186605/p186605_b_v8_ac.jpg" group-title="Adult Swim Marathons",The Cleveland Show
+https://sv2.data-stream.top/e84e30fa4d8301a66378759f07d73b0bde6bf792ad06f5c1c2c0837b5293c9b9/hls/xxcleveland.m3u8
