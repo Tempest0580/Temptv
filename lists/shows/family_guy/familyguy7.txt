@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E01" tvg-logo="http://lltv.xyz:80/images/lfriId7Gv10TxxBOfrW0r22q5ee_small.jpg" group-title="US | TV Series",Family Guy S07 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92129.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E02" tvg-logo="http://lltv.xyz:80/images/bhWUzgX8nIVejqzAJuHjD0kTOkr_small.jpg" group-title="US | TV Series",Family Guy S07 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92130.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E03" tvg-logo="http://lltv.xyz:80/images/jOR1Gvok2nvcmjHDJC8muJN8ZaZ_small.jpg" group-title="US | TV Series",Family Guy S07 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92131.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E04" tvg-logo="http://lltv.xyz:80/images/tMOdTWmjCG6cTxFQcUk64G6dppw_small.jpg" group-title="US | TV Series",Family Guy S07 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92132.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E05" tvg-logo="http://lltv.xyz:80/images/48vi63VW1OscIMuvtHfKv7xfibz_small.jpg" group-title="US | TV Series",Family Guy S07 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92133.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E06" tvg-logo="http://lltv.xyz:80/images/ncV2OkmGt2wu1ypfg7tOpVv2NuS_small.jpg" group-title="US | TV Series",Family Guy S07 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92134.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E07" tvg-logo="http://lltv.xyz:80/images/qOEtMU3iNDefn1xJeN6SbaKfxpa_small.jpg" group-title="US | TV Series",Family Guy S07 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92135.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E08" tvg-logo="http://lltv.xyz:80/images/odvSmsxIF6IrBHQTA9684pI9304_small.jpg" group-title="US | TV Series",Family Guy S07 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92136.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E09" tvg-logo="http://lltv.xyz:80/images/qPzHJIDxKepQwQ6bOeHZDSAH8Ia_small.jpg" group-title="US | TV Series",Family Guy S07 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92137.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E10" tvg-logo="http://lltv.xyz:80/images/gTfrVU8UUor3HuLR3WQXfJBnNZg_small.jpg" group-title="US | TV Series",Family Guy S07 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92138.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E11" tvg-logo="http://lltv.xyz:80/images/zSRdUJhjgEhlGEfjvbcxJ9NECMu_small.jpg" group-title="US | TV Series",Family Guy S07 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92139.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E12" tvg-logo="http://lltv.xyz:80/images/oxbNtY6s1wWwZeYZqUnZqby4qhA_small.jpg" group-title="US | TV Series",Family Guy S07 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92140.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E13" tvg-logo="http://lltv.xyz:80/images/aHacwbXJvpEUaUZ3pcOfKOTX29H_small.jpg" group-title="US | TV Series",Family Guy S07 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92141.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E14" tvg-logo="http://lltv.xyz:80/images/ozn64N7xayOgiQ0JzUkBDudR4Eq_small.jpg" group-title="US | TV Series",Family Guy S07 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92142.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E15" tvg-logo="http://lltv.xyz:80/images/11NcjJZuh5pxR2dALTbvS9xLqfJ_small.jpg" group-title="US | TV Series",Family Guy S07 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92143.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S07 E16" tvg-logo="http://lltv.xyz:80/images/a7BudGSy3iiVw1cEB0bglhozvAQ_small.jpg" group-title="US | TV Series",Family Guy S07 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92144.mkv 

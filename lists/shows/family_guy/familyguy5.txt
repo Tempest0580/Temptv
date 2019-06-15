@@ -1,38 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E01" tvg-logo="http://lltv.xyz:80/images/8zFBXUVaQ5AoVGh3zQzeSfdse1B_small.jpg" group-title="US | TV Series",Family Guy S05 E01
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E01" tvg-logo="http://lltv.xyz:80/images/8zFBXUVaQ5AoVGh3zQzeSfdse1B_small.jpg" group-title="",S05E01: "Stewie Loves Lois"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92099.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E02" tvg-logo="http://lltv.xyz:80/images/k5qIfdpgbSkQyW5XsDsvQDsN37M_small.jpg" group-title="US | TV Series",Family Guy S05 E02
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E02" tvg-logo="http://lltv.xyz:80/images/k5qIfdpgbSkQyW5XsDsvQDsN37M_small.jpg" group-title="",S05E02: "Mother Tucker"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92100.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E03" tvg-logo="http://lltv.xyz:80/images/ylwSSuTNoxTagvOqOQosou7IT2Q_small.jpg" group-title="US | TV Series",Family Guy S05 E03
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E03" tvg-logo="http://lltv.xyz:80/images/ylwSSuTNoxTagvOqOQosou7IT2Q_small.jpg" group-title="",S05E03: "Hell Comes to Quahog"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92101.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E04" tvg-logo="http://lltv.xyz:80/images/6MkZt5pe7QG9i0gfG8YJ6dOZXV2_small.jpg" group-title="US | TV Series",Family Guy S05 E04
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E04" tvg-logo="http://lltv.xyz:80/images/6MkZt5pe7QG9i0gfG8YJ6dOZXV2_small.jpg" group-title="",S05E04: "Saving Private Brian"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92102.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E05" tvg-logo="http://lltv.xyz:80/images/cDZwWPNymrFnGgIXZUq81Zxk62X_small.jpg" group-title="US | TV Series",Family Guy S05 E05
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E05" tvg-logo="http://lltv.xyz:80/images/cDZwWPNymrFnGgIXZUq81Zxk62X_small.jpg" group-title="",S05E05: "Whistle While Your Wife Works"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92103.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E06" tvg-logo="http://lltv.xyz:80/images/haoLJNWs1MfegN0WUoypnJKzdHS_small.jpg" group-title="US | TV Series",Family Guy S05 E06
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E06" tvg-logo="http://lltv.xyz:80/images/haoLJNWs1MfegN0WUoypnJKzdHS_small.jpg" group-title="",S05E06: "Prick Up Your Ears"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92104.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E07" tvg-logo="http://lltv.xyz:80/images/ny2rQAgCJ5iglsZqvVO4LjNqOQ_small.jpg" group-title="US | TV Series",Family Guy S05 E07
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E07" tvg-logo="http://lltv.xyz:80/images/ny2rQAgCJ5iglsZqvVO4LjNqOQ_small.jpg" group-title="",S05E07: "Chick Cancer"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92105.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E08" tvg-logo="http://lltv.xyz:80/images/s7GEPujU6nR7BnuwDxTJcv8SS6I_small.jpg" group-title="US | TV Series",Family Guy S05 E08
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E08" tvg-logo="http://lltv.xyz:80/images/s7GEPujU6nR7BnuwDxTJcv8SS6I_small.jpg" group-title="",S05E08: "Barely Legal"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92106.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E09" tvg-logo="http://lltv.xyz:80/images/3SI2PqEsuhKLsIAIDE6FiAPCJ7f_small.jpg" group-title="US | TV Series",Family Guy S05 E09
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E09" tvg-logo="http://lltv.xyz:80/images/3SI2PqEsuhKLsIAIDE6FiAPCJ7f_small.jpg" group-title="",S05E09: "Road to Rupert"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92107.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E10" tvg-logo="http://lltv.xyz:80/images/vcfMbkYMPadez69GdmHjBHRwvRL_small.jpg" group-title="US | TV Series",Family Guy S05 E10
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E10" tvg-logo="http://lltv.xyz:80/images/vcfMbkYMPadez69GdmHjBHRwvRL_small.jpg" group-title="",S05E10: "Peter's Two Dads"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92108.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E11" tvg-logo="http://lltv.xyz:80/images/frZVHklP17RcLlb0SWKx7GW0biT_small.jpg" group-title="US | TV Series",Family Guy S05 E11
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E11" tvg-logo="http://lltv.xyz:80/images/frZVHklP17RcLlb0SWKx7GW0biT_small.jpg" group-title="",S05E11: "The Tan Aquatic with Steve Zissou"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92109.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E12" tvg-logo="http://lltv.xyz:80/images/rqsJV5akszuxDZ1bgNVCyA0yL1F_small.jpg" group-title="US | TV Series",Family Guy S05 E12
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E12" tvg-logo="http://lltv.xyz:80/images/rqsJV5akszuxDZ1bgNVCyA0yL1F_small.jpg" group-title="",S05E12: "Airport '07"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92110.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E13" tvg-logo="http://lltv.xyz:80/images/8sZOwv1hVqaKVzPt4vFxx9ZkGJI_small.jpg" group-title="US | TV Series",Family Guy S05 E13
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E13" tvg-logo="http://lltv.xyz:80/images/8sZOwv1hVqaKVzPt4vFxx9ZkGJI_small.jpg" group-title="",S05E13: "Bill & Peter's Bogus Journey"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92111.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E14" tvg-logo="http://lltv.xyz:80/images/nkTs7qMjWgjdZ2bvv7Pc5gzRSBS_small.jpg" group-title="US | TV Series",Family Guy S05 E14
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E14" tvg-logo="http://lltv.xyz:80/images/nkTs7qMjWgjdZ2bvv7Pc5gzRSBS_small.jpg" group-title="",S05E14: "No Meals on Wheels"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92112.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E15" tvg-logo="http://lltv.xyz:80/images/Aa6MnDpxFoTXUexoYxYFSLvhH5y_small.jpg" group-title="US | TV Series",Family Guy S05 E15
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E15" tvg-logo="http://lltv.xyz:80/images/Aa6MnDpxFoTXUexoYxYFSLvhH5y_small.jpg" group-title="",S05E15: "Boys Do Cry"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92113.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E16" tvg-logo="http://lltv.xyz:80/images/mW68XRcLldp5LQcd3d7wfbKzmXb_small.jpg" group-title="US | TV Series",Family Guy S05 E16
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E16" tvg-logo="http://lltv.xyz:80/images/mW68XRcLldp5LQcd3d7wfbKzmXb_small.jpg" group-title="",S05E16: "No Chris Left Behind"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92114.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E17" tvg-logo="http://lltv.xyz:80/images/mqmJfEjr0rQsIdgIiFLWED7yRJr_small.jpg" group-title="US | TV Series",Family Guy S05 E17
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E17" tvg-logo="http://lltv.xyz:80/images/mqmJfEjr0rQsIdgIiFLWED7yRJr_small.jpg" group-title="",S05E17: "It Takes a Village Idiot, and I Married One"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92115.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E18" tvg-logo="http://lltv.xyz:80/images/kAAawb2X0ztLoXWcl8RSE9Y5Iqb_small.jpg" group-title="US | TV Series",Family Guy S05 E18
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S05 E18" tvg-logo="http://lltv.xyz:80/images/kAAawb2X0ztLoXWcl8RSE9Y5Iqb_small.jpg" group-title="",S05E18: "Meet the Quagmires"
 http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92116.mkv 

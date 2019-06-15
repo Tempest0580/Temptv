@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E01" tvg-logo="http://lltv.xyz:80/images/kkC090DloV9Gt1UL5e9VAoT20hG_small.jpg" group-title="US | TV Series",Supernatural S12 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96103.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E02" tvg-logo="http://lltv.xyz:80/images/hSjm8KvK3UUU33hqKU8570AvaOW_small.jpg" group-title="US | TV Series",Supernatural S12 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96104.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E03" tvg-logo="http://lltv.xyz:80/images/pVBD4ptxZjnS0d4g4JO3NVMZarL_small.jpg" group-title="US | TV Series",Supernatural S12 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96105.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E04" tvg-logo="http://lltv.xyz:80/images/b3yzp8TKrSWnZv4IWmJTXQXFFpY_small.jpg" group-title="US | TV Series",Supernatural S12 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96106.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E05" tvg-logo="http://lltv.xyz:80/images/4n1aCD9MeOl6mxp24glAFhubMDt_small.jpg" group-title="US | TV Series",Supernatural S12 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96107.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E06" tvg-logo="http://lltv.xyz:80/images/c8LhfYudv1zgr04ziFz3rX3PM8W_small.jpg" group-title="US | TV Series",Supernatural S12 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96108.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E07" tvg-logo="http://lltv.xyz:80/images/20VAXuvcwKMgRxhNYohAHpupyXf_small.jpg" group-title="US | TV Series",Supernatural S12 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96109.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E08" tvg-logo="http://lltv.xyz:80/images/nMaVXiiGoNOgjIGfKrkzoKfIiXZ_small.jpg" group-title="US | TV Series",Supernatural S12 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96110.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E09" tvg-logo="http://lltv.xyz:80/images/9Qc4xpudV5Q9c976GfFYXknKBD0_small.jpg" group-title="US | TV Series",Supernatural S12 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96111.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E10" tvg-logo="http://lltv.xyz:80/images/6FX6ejptbTyxGpfK1GWI1vhj2WS_small.jpg" group-title="US | TV Series",Supernatural S12 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96112.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E11" tvg-logo="http://lltv.xyz:80/images/mb9y3B7rNs9BJZ6sE4NcG2XO8Gn_small.jpg" group-title="US | TV Series",Supernatural S12 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96113.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E12" tvg-logo="http://lltv.xyz:80/images/gnrPC2RNDvopoOwQClkwA8KvTtm_small.jpg" group-title="US | TV Series",Supernatural S12 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96114.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E13" tvg-logo="http://lltv.xyz:80/images/iad32u3l7D3OLXUg5XzwVJpUL9s_small.jpg" group-title="US | TV Series",Supernatural S12 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96115.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E14" tvg-logo="http://lltv.xyz:80/images/ympOe0aTXssXY1CxZHveEF1f7SK_small.jpg" group-title="US | TV Series",Supernatural S12 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96116.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E15" tvg-logo="http://lltv.xyz:80/images/8hyHbg3PAtuzkv5DpO6EMoQlnV0_small.jpg" group-title="US | TV Series",Supernatural S12 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96117.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E16" tvg-logo="http://lltv.xyz:80/images/u9oGI4uldjvJVtnPhqu0Kt2FNJu_small.jpg" group-title="US | TV Series",Supernatural S12 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96118.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E17" tvg-logo="http://lltv.xyz:80/images/adf1CAcUnvo2gikRtswORgivIQh_small.jpg" group-title="US | TV Series",Supernatural S12 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96119.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E18" tvg-logo="http://lltv.xyz:80/images/5dP7g38SwQRKqHATLmXIYH0RVue_small.jpg" group-title="US | TV Series",Supernatural S12 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96120.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E19" tvg-logo="http://lltv.xyz:80/images/hzPCbrmtklGRbVIBn584cCJlZuy_small.jpg" group-title="US | TV Series",Supernatural S12 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96121.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E20" tvg-logo="http://lltv.xyz:80/images/28MfSp7aJs1PsesJKY7u3Yz9qY6_small.jpg" group-title="US | TV Series",Supernatural S12 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96122.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E21" tvg-logo="http://lltv.xyz:80/images/cSRKU8VGm5qXw5cUHHmSt7y1f5u_small.jpg" group-title="US | TV Series",Supernatural S12 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96123.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E22" tvg-logo="http://lltv.xyz:80/images/10KczbZQDLVcYBulIKHKIuZHsw8_small.jpg" group-title="US | TV Series",Supernatural S12 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96124.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural S12 E23" tvg-logo="http://lltv.xyz:80/images/uxmhXLFOo1LfSo9UIk0tmp7dPlw_small.jpg" group-title="US | TV Series",Supernatural S12 E23
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96125.mkv 

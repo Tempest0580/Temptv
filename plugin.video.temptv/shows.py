@@ -49,6 +49,12 @@ def FAMLIYGUY():
     addDir('Season 3', userlists.familyguy3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/4/46/FamilyGuy_season_1.png/220px-FamilyGuy_season_1.png')
     addDir('Season 4', userlists.familyguy4, 2, 'https://images-na.ssl-images-amazon.com/images/I/817xqXaw3bL._SY445_.jpg')
     addDir('Season 5', userlists.familyguy5, 2, 'https://images-na.ssl-images-amazon.com/images/I/81iB1SamyOL._SY445_.jpg')
+    addDir('Season 6', userlists.familyguy6, 2, 'https://images-na.ssl-images-amazon.com/images/I/81oLqnxDtyL._SY445_.jpg')
+    addDir('Season 7', userlists.familyguy7, 2, 'https://upload.wikimedia.org/wikipedia/en/6/66/Family_Guy_Vol7.jpg')
+    addDir('Season 8', userlists.familyguy8, 2, 'https://upload.wikimedia.org/wikipedia/en/7/70/Family_Guy_Volume_8_DVD_Cover.png')
+    addDir('Season 9', userlists.familyguy9, 2, 'https://images-na.ssl-images-amazon.com/images/I/51yAXl5qmgL._SY445_.jpg')
+    addDir('Season 10', userlists.familyguy10, 2, 'https://images-na.ssl-images-amazon.com/images/I/91mjfbhKsVL._SL1500_.jpg')
+    addDir('Season 11', userlists.familyguy11, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Family_Guy_Season_12_DVD.jpg/220px-Family_Guy_Season_12_DVD.jpg')
     addDir('Season 12', userlists.familyguy12, 2, 'https://images-na.ssl-images-amazon.com/images/I/51cczA8ANuL._SY445_.jpg')
     addDir('Season 13', userlists.familyguy13, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FG-season_13_coverart.jpeg/220px-FG-season_13_coverart.jpeg')
     addDir('Season 17', userlists.familyguy17, 2, 'https://cdn.watch-series.co/cover/family-guy-season-17.png')
@@ -61,5 +67,18 @@ def SIMPSONS():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-
-
+def SUPERNATURAL():
+    addDir('Season 1', userlists.supernaturl1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_1.jpg/220px-Supernatural_Season_1.jpg')
+    addDir('Season 2', userlists.supernaturl2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supernatural_Season_2.jpg/220px-Supernatural_Season_2.jpg')
+    addDir('Season 3', userlists.supernaturl3, 2, 'https//upload.wikimedia.org/wikipedia/en/thumb/f/f4/Supernatural_Season_3.jpg/220px-Supernatural_Season_3.jpg')
+    addDir('Season 4', userlists.supernaturl4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Supernatural_Season_4.jpg/220px-Supernatural_Season_4.jpg')
+    addDir('Season 5', userlists.supernaturl5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Supernatural_Season_5.jpg/220px-Supernatural_Season_5.jpg')
+    addDir('Season 6', userlists.supernaturl6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supernatural_Season_6.jpg/220px-Supernatural_Season_6.jpg')
+    addDir('Season 7', userlists.supernaturl7, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Supernatural_Season_7.jpg/220px-Supernatural_Season_7.jpg')
+    addDir('Season 8', userlists.supernaturl8, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Supernatural_Season_8.jpg/220px-Supernatural_Season_8.jpg')
+    addDir('Season 9', userlists.supernaturl9, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Supernatural_Season_9.jpg/220px-Supernatural_Season_9.jpg')
+    addDir('Season 10', userlists.supernaturl10, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Supernatural_Season_10.jpg/220px-Supernatural_Season_10.jpg')
+    addDir('Season 11', userlists.supernaturl11, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Supernatural_Season_11.jpg/220px-Supernatural_Season_11.jpg')
+    addDir('Season 12', userlists.supernaturl12, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_12.jpg/220px-Supernatural_Season_12.jpg')
+    addDir('Season 13', userlists.supernaturl13, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Supernatural_Season_13.jpg/220px-Supernatural_Season_13.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))

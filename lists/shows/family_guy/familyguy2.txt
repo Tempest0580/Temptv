@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E01: "Peter, Peter, Caviar Eater"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E01.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E01" tvg-logo="http://lltv.xyz:80/images/yyJ7amwesHCgO1GwFtvgbUOObUV_small.jpg" group-title="",S02E01: "Peter, Peter, Caviar Eater"
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92029.mkv 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E02: "Holy Crap"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E02.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E02" tvg-logo="http://lltv.xyz:80/images/8LVwCbxsKrAcJ3PnE6T0REefJHK_small.jpg" group-title="",S02E02: "Holy Crap"
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92030.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E03: "Da Boom"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E03.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E03" tvg-logo="http://lltv.xyz:80/images/7LRupEpZPr3w2X9YROouBimoiHZ_small.jpg" group-title="",S02E03: "Da Boom"
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92031.mkv
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E04: "Brian in Love"
-http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E04.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S02 E04" tvg-logo="http://lltv.xyz:80/images/fyNRzjUeg8Mx61uRyNMtq96Ah5_small.jpg" group-title="",S02E04: "Brian in Love"
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92032.mkv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Family_Guy_Season1.png/220px-Family_Guy_Season1.png" group-title="",S02E05: "Love Thy Trophy"
 http://dl.upload8.net/Serial/Family%20Guy/S02/Family.Guy.S02E05.mkv

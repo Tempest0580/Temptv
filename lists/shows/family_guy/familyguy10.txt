@@ -1,0 +1,48 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E01" tvg-logo="http://lltv.xyz:80/images/8tQpqmgCU3vTbIB2tBrj9FzmsBt_small.jpg" group-title="US | TV Series",Family Guy S10 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92183.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E02" tvg-logo="http://lltv.xyz:80/images/mtuUAvTsaXHTMrYTmFEBdm0u5RD_small.jpg" group-title="US | TV Series",Family Guy S10 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92184.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E03" tvg-logo="http://lltv.xyz:80/images/4XTYPhqPjHLejdeW3PaRwBw2z9f_small.jpg" group-title="US | TV Series",Family Guy S10 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92185.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E04" tvg-logo="http://lltv.xyz:80/images/uD8AVLq0plnl87JK8g7kQlURKk2_small.jpg" group-title="US | TV Series",Family Guy S10 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92186.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E05" tvg-logo="http://lltv.xyz:80/images/5GYkmQasVL3R853WuVHIbZRKugI_small.jpg" group-title="US | TV Series",Family Guy S10 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92187.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E06" tvg-logo="http://lltv.xyz:80/images/fY5l6a4Ks5YOTIU6T0bTJhvzydj_small.jpg" group-title="US | TV Series",Family Guy S10 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92188.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E07" tvg-logo="http://lltv.xyz:80/images/4zjgNnzoDebx26UFa6oVaLpJ1ya_small.jpg" group-title="US | TV Series",Family Guy S10 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92189.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E08" tvg-logo="http://lltv.xyz:80/images/7qmhDMUQUhNsyQ9McDEkUxGK3Le_small.jpg" group-title="US | TV Series",Family Guy S10 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92190.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E09" tvg-logo="http://lltv.xyz:80/images/2K0lVMridOlHsYZ9U4d4HLoJMyF_small.jpg" group-title="US | TV Series",Family Guy S10 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92191.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E10" tvg-logo="http://lltv.xyz:80/images/8JLHj5HVyZqbjjH6gJ1n2atAAuy_small.jpg" group-title="US | TV Series",Family Guy S10 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92192.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E11" tvg-logo="http://lltv.xyz:80/images/tlXTiilKmppQkvDexwP1ozDLCoZ_small.jpg" group-title="US | TV Series",Family Guy S10 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92193.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E12" tvg-logo="http://lltv.xyz:80/images/3jiwJG7G19jDECJpsAGjNezc6W5_small.jpg" group-title="US | TV Series",Family Guy S10 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92194.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E13" tvg-logo="http://lltv.xyz:80/images/Ae1bjyxKYT87NaYbgoa5tmbdMLs_small.jpg" group-title="US | TV Series",Family Guy S10 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92195.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E14" tvg-logo="http://lltv.xyz:80/images/noumydq7XnSAJ2VGORSsxscg2Aw_small.jpg" group-title="US | TV Series",Family Guy S10 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92196.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E15" tvg-logo="http://lltv.xyz:80/images/nHUcuTY4TOtJrkz5hUz1T2TrNnu_small.jpg" group-title="US | TV Series",Family Guy S10 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92197.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E16" tvg-logo="http://lltv.xyz:80/images/5QvvNWdPWCCVTALZrdmG24eC4jV_small.jpg" group-title="US | TV Series",Family Guy S10 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92198.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E17" tvg-logo="http://lltv.xyz:80/images/2YHS2e1lOkOOU7xJ5sloqqgpFlq_small.jpg" group-title="US | TV Series",Family Guy S10 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92199.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E18" tvg-logo="http://lltv.xyz:80/images/9p6UtjQpJbenmCI4m0nBsgNOwLH_small.jpg" group-title="US | TV Series",Family Guy S10 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92200.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E19" tvg-logo="http://lltv.xyz:80/images/juZ6N2xr162Y7iylGmw63BTW7rr_small.jpg" group-title="US | TV Series",Family Guy S10 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92201.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E20" tvg-logo="http://lltv.xyz:80/images/t1MjDo53RSn3HpdrlE1c5J7WEtE_small.jpg" group-title="US | TV Series",Family Guy S10 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92202.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E21" tvg-logo="http://lltv.xyz:80/images/jYKsH4g4NL5swMzevO9kmvS972f_small.jpg" group-title="US | TV Series",Family Guy S10 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92203.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E22" tvg-logo="http://lltv.xyz:80/images/adKBLpcgIWooEjSO6wIyANUI248_small.jpg" group-title="US | TV Series",Family Guy S10 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92204.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy S10 E23" tvg-logo="http://lltv.xyz:80/images/dbVB46UaREV7jR5Df6teRl9G0eD_small.jpg" group-title="US | TV Series",Family Guy S10 E23
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/92205.mkv 
