@@ -62,7 +62,7 @@ def CLICK_SHOWS():
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
     #addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
     addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
-    addDir('Supernatural', 17, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5')
+    addDir('Supernatural', '', 17, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
