@@ -82,3 +82,12 @@ def SUPERNATURAL():
     addDir('Season 12', userlists.supernatural12, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_12.jpg/220px-Supernatural_Season_12.jpg')
     addDir('Season 13', userlists.supernatural13, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Supernatural_Season_13.jpg/220px-Supernatural_Season_13.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def STARGATE():
+    addDir('Season 1', userlists.stargate1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Stargate_SG-1_Season_1.jpg/220px-Stargate_SG-1_Season_1.jpg')
+    addDir('Season 2', userlists.stargate2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg')
+    addDir('Season 3', userlists.stargate3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stargate_SG-1_Season_3.jpg/220px-Stargate_SG-1_Season_3.jpg')
+    addDir('Season 4', userlists.stargate4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Stargate_SG-1_Season_4.jpg/220px-Stargate_SG-1_Season_4.jpg')
+    addDir('Season 5', userlists.stargate5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))

@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E01" tvg-logo="http://lltv.xyz:80/images/sz6IiF1JR8WRsBMa4HxnqA5GCRp_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96757.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E02" tvg-logo="http://lltv.xyz:80/images/lJIWA2IJRub2RcSIZ6pUrjEl9q1_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96758.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E03" tvg-logo="http://lltv.xyz:80/images/zqMp6vcusTtO02ZgwGMQsY4n2Sq_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96759.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E04" tvg-logo="http://lltv.xyz:80/images/gGfv4fPfPR8fQTaSF2uhxV9iuTC_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96760.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E05" tvg-logo="http://lltv.xyz:80/images/pyLb0O4awJ9qOdhfGw2D3Hkzb1Q_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96761.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E06" tvg-logo="http://lltv.xyz:80/images/zmFyooXZkHTnwg0Wz5B4zVkcYSj_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96762.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E07" tvg-logo="http://lltv.xyz:80/images/hlxiNkIt62cZPtFqUr7BWUKMTj2_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96763.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E08" tvg-logo="http://lltv.xyz:80/images/9ZeY7NGfjLP6pxuGIDyPFeszG0Z_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96764.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E09" tvg-logo="http://lltv.xyz:80/images/4kDGXrwuu3xJW9qOUzGCgdVH0aD_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96765.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E10" tvg-logo="http://lltv.xyz:80/images/bN8EaVif4WXv4FBkfLURkKujylp_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96766.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E11" tvg-logo="http://lltv.xyz:80/images/6Y1KFIkdeKs3oQP3n79tbO4GTYQ_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96767.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E12" tvg-logo="http://lltv.xyz:80/images/iGZwwE40IEJdmeuPbPMZt8p9LlZ_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96768.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E13" tvg-logo="http://lltv.xyz:80/images/tGsqQCu9Yd21vmvo1Dtc0w9snnX_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96769.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E14" tvg-logo="http://lltv.xyz:80/images/kephC80iLP5gj5bt9mvq0hHs8Fl_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96770.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E15" tvg-logo="http://lltv.xyz:80/images/zm1vcjyMEOK2maWDubFlOTVn3HZ_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96771.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E16" tvg-logo="http://lltv.xyz:80/images/euQ6j9vlwavbLyQ6NfDeOxPVE60_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96772.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E17" tvg-logo="http://lltv.xyz:80/images/tDqBW9KFktVUPXTEWueEEFOWnXB_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96773.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E18" tvg-logo="http://lltv.xyz:80/images/ns38BteocCw4pvWCMDjOgu8R9RO_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96774.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E19" tvg-logo="http://lltv.xyz:80/images/5GHBMP2hukU9mzpSxve7OgSJtZt_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96775.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E20" tvg-logo="http://lltv.xyz:80/images/jhvOFJFFQ6P3MhHtIkjxboXbGQ_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96776.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E21" tvg-logo="http://lltv.xyz:80/images/mHbUKzV7y9CXeEJkOEPhFsYzWdL_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96777.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Stargate SG-1 S03 E22" tvg-logo="http://lltv.xyz:80/images/vHETgc91FL5oDMl57nwqk6r976Z_small.jpg" group-title="US | TV Series",Stargate SG-1 S03 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96778.mkv 

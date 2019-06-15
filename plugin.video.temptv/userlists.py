@@ -77,4 +77,15 @@ supernatural11 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/li
 supernatural12 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season12.txt'
 supernatural13 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season13.txt'
 
+stargate1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season1.txt'
+stargate2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season2.txt'
+stargate3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season3.txt'
+stargate4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season4.txt'
+stargate5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season5.txt'
+stargate6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season6.txt'
+stargate7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season7.txt'
+stargate8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season8.txt'
+stargate9 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season9.txt'
+stargate10 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season10.txt'
+
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
