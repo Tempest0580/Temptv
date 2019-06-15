@@ -8,3 +8,6 @@ https://lh3.googleusercontent.com/_wlFbf_9KI4vTsONJecN47XKVXXmplwvd5bhguG7fdgbtr
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51GrIpSGV1L.jpg" group-title="",The Last Boy
 https://lh3.googleusercontent.com/cBT7fw-Kc1AUJUGByp1BX-9sl6yb2_sWVhG6G6apVv8pQXfelWd_Zcl0Q6Il8hIO5HqylLZO0LI=m37
+
+#EXTINF:-1 tvg-logo="http://lltv.xyz:80/images/wwFaM56RH2gZYdPZgnVyVABYedR_small.jpg" group-title="Movies | Comedy",Drunk Parents
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96436.mkv
