@@ -66,11 +66,6 @@ def CLICK_SHOWS():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def KIDS_MOVIES():
-    addDir('Kids Movies', userlists.kids_movies, 18, 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg')
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-
 def CLICK_4k():
     addDir('2019', userlists.click_4k_2019, 2, AddonIcon)
     addDir('2018', userlists.click_4k_2018, 2, AddonIcon)
@@ -103,6 +98,7 @@ def CLICK():
     addDir('4K', '', 8, 'https://sitejerk.com/images/4k-png-14.png')
     addDir('1080p', '', 9, 'https://image.flaticon.com/icons/png/512/68/68922.png')
     addDir('720p', '', 10, 'https://image.flaticon.com/icons/png/512/974/974576.png')
+    addDir('Kids Movies', userlists.kids_movies, 2, 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -296,5 +292,4 @@ elif mode == 16:
     shows.SIMPSONS()
 elif mode == 17:
     shows.SUPERNATURAL()
-elif mode == 18:
-    KIDS_MOVIES()
+
