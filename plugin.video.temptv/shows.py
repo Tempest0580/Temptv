@@ -1,7 +1,6 @@
 import re, os, sys, urllib, urllib2, requests, socket, gzip
 import xbmc, xbmcaddon, xbmcgui, xbmcplugin
 import userlists
-import shows
 Addon = xbmcaddon.Addon
 AddonInfo = Addon().getAddonInfo
 AddonID = AddonInfo('id')
@@ -70,7 +69,7 @@ def SIMPSONS():
 def SUPERNATURAL():
     addDir('Season 1', userlists.supernatural1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_1.jpg/220px-Supernatural_Season_1.jpg')
     addDir('Season 2', userlists.supernatural2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supernatural_Season_2.jpg/220px-Supernatural_Season_2.jpg')
-    addDir('Season 3', userlists.supernatural3, 2, 'https//upload.wikimedia.org/wikipedia/en/thumb/f/f4/Supernatural_Season_3.jpg/220px-Supernatural_Season_3.jpg')
+    addDir('Season 3', userlists.supernatural3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Supernatural_Season_3.jpg/220px-Supernatural_Season_3.jpg')
     addDir('Season 4', userlists.supernatural4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Supernatural_Season_4.jpg/220px-Supernatural_Season_4.jpg')
     addDir('Season 5', userlists.supernatural5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Supernatural_Season_5.jpg/220px-Supernatural_Season_5.jpg')
     addDir('Season 6', userlists.supernatural6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supernatural_Season_6.jpg/220px-Supernatural_Season_6.jpg')
@@ -90,4 +89,8 @@ def STARGATE():
     addDir('Season 3', userlists.stargate3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stargate_SG-1_Season_3.jpg/220px-Stargate_SG-1_Season_3.jpg')
     addDir('Season 4', userlists.stargate4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Stargate_SG-1_Season_4.jpg/220px-Stargate_SG-1_Season_4.jpg')
     addDir('Season 5', userlists.stargate5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def BALLERS():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
