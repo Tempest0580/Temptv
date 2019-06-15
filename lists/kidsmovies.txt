@@ -441,3 +441,45 @@ http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/93001.mkv
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94437.mkv 
 #EXTINF:-1 tvg-id="" tvg-name="How to Train Your Dragon: The Hidden World" tvg-logo="http://lltv.xyz:80/images/xvx4Yhf0DVH8G4LzNISpMfFBDy2_small.jpg" group-title="Movies | Kids",How to Train Your Dragon: The Hidden World
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95375.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="A Dogs Purpose" tvg-logo="http://lltv.xyz:80/images/3jcNvhtVQe5Neoffdic39fRactM_small.jpg" group-title="Movies | Kids",A Dogs Purpose
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87729.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="A Simple Favor" tvg-logo="http://lltv.xyz:80/images/5EJWZQ8dh99hfgXP9zAD5Ak5Hrn_small.jpg" group-title="Movies | Crime",A Simple Favor
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87730.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="A Star Is Born" tvg-logo="http://lltv.xyz:80/images/wrFpXMNBRj2PBiN4Z5kix51XaIZ_small.jpg" group-title="Movies | Drama",A Star Is Born
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87731.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="A Wrinkle In Time" tvg-logo="http://lltv.xyz:80/images/yAcb58vipewa1BfNit2RjE6boXA_small.jpg" group-title="Movies | Kids",A Wrinkle In Time
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87734.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Cars 3" tvg-logo="http://lltv.xyz:80/images/fyy1nDC8wm553FCiBDojkJmKLCs_small.jpg" group-title="Movies | Kids",Cars 3
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87769.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin" tvg-logo="http://lltv.xyz:80/images/fQYgljzKgkeGEukezaJsMWp7oq1_small.jpg" group-title="Movies | Kids",Christopher Robin
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87770.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Early Man" tvg-logo="http://lltv.xyz:80/images/hXukFwTKOe7izDsf3ZOdeYikRxF_small.jpg" group-title="Movies | Kids",Early Man
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87790.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinand" tvg-logo="http://lltv.xyz:80/images/rMm94JsRfcOPiPVsTRcBiiVBOhz_small.jpg" group-title="Movies | Kids",Ferdinand
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87793.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Goosebumps" tvg-logo="http://lltv.xyz:80/images/9yOnWCvpNr6RRhc4zhJdVqR7GKw_small.jpg" group-title="Movies | Kids",Goosebumps
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87803.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="Goosebumps 2: Haunted Halloween" tvg-logo="http://lltv.xyz:80/images/kOrUF0EH2C3KHoI7tqANZMFZaTN_small.jpg" group-title="Movies | Kids",Goosebumps 2: Haunted Halloween
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87804.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania 3: Summer Vacation" tvg-logo="http://lltv.xyz:80/images/gjAFM4xhA5vyLxxKMz38ujlUfDL_small.jpg" group-title="Movies | Kids",Hotel Transylvania 3: Summer Vacation
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87816.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="Incredibles 2" tvg-logo="http://lltv.xyz:80/images/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ_small.jpg" group-title="Movies | Kids",Incredibles 2
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87831.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Welcome to the Jungle" tvg-logo="http://lltv.xyz:80/images/bXrZ5iHBEjH7WMidbUDQ0U2xbmr_small.jpg" group-title="Movies | Kids",Jumanji: Welcome to the Jungle
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87842.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="Paddington 2" tvg-logo="http://lltv.xyz:80/images/gnXaUxdKD2t1B74cutWA5rjBLgD_small.jpg" group-title="Movies | Kids",Paddington 2
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87878.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit" tvg-logo="http://lltv.xyz:80/images/2yjSvEDuM3rLDng40erLsWkQRfn_small.jpg" group-title="Movies | Kids",Peter Rabbit
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87880.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Sherlock Gnomes" tvg-logo="http://lltv.xyz:80/images/wqnzpJR3PwS4doVkAkt9seSEpoX_small.jpg" group-title="Movies | Kids",Sherlock Gnomes
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87896.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Smallfoot" tvg-logo="http://lltv.xyz:80/images/zfaiO7QgpcvR8XDOMokWLRfKeTE_small.jpg" group-title="Movies | Kids",Smallfoot
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87904.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Grinch" tvg-logo="http://lltv.xyz:80/images/gpkHvkCtZOeCQ2DelnJ2LB1WjZ5_small.jpg" group-title="Movies | Kids",The Grinch
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87934.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The House with a Clock in Its Walls" tvg-logo="http://lltv.xyz:80/images/qM66Hv4ByAxnilr0jaqCA9uOD4Y_small.jpg" group-title="Movies | Kids",The House with a Clock in Its Walls
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87938.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Lego Ninjago Movie" tvg-logo="http://lltv.xyz:80/images/vUo0pNXGhp2ffTJxiStWt6fHL7F_small.jpg" group-title="Movies | Kids",The Lego Ninjago Movie
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87943.avi 
+#EXTINF:-1 tvg-id="" tvg-name="The Nutcracker And The Four Realms" tvg-logo="http://lltv.xyz:80/images/tysit5m7HSEvf1wknPR0DeEhR7e_small.jpg" group-title="Movies | Kids",The Nutcracker And The Four Realms
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87949.avi 
