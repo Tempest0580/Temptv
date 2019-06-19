@@ -101,6 +101,7 @@ def CLICK():
     addDir('1080p', '', 9, 'https://image.flaticon.com/icons/png/512/68/68922.png')
     addDir('720p', '', 10, 'https://image.flaticon.com/icons/png/512/974/974576.png')
     addDir('Kids Movies', userlists.kids_movies, 2, 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg')
+    addDir('3D Movies', userlists.iiid_movies, 2, 'https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

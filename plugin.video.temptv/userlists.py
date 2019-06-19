@@ -39,6 +39,8 @@ vod_shows = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/v
 
 kids_movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.txt'
 
+iiid_movies = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.txt'
+
 smallville1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville/smallville1.txt'
 smallville2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville/smallville2.txt'
 smallville3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville/smallville3.txt'
