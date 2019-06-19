@@ -15,6 +15,10 @@ testing = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/tes
 click_4k_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2019.txt'
 click_4k_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2018.txt'
 click_4k_2017 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2017.txt'
+click_4k_2016 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2016.txt'
+click_4k_2015 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2015.txt'
+click_4k_2014 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/2014.txt'
+click_4k_1995 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/1995.txt'
 click_4k_1993 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/1993.txt'
 
 click_1080p_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/2019.txt'
@@ -25,12 +29,15 @@ click_1080p_2015 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/
 click_1080p_2013 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/2013.txt'
 click_1080p_2012 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/2012.txt'
 click_1080p_2011 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/2011.txt'
+click_1080p_1991 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/1991.txt'
+click_1080p_1982 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/1982.txt'
 
 click_720_2019 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2019.txt'
 click_720_2018 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2018.txt'
 click_720_2017 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2017.txt'
 click_720_2016 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2016.txt'
 click_720_2014 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2014.txt'
+click_720_2002 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/2002.txt'
 
 theater = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/theater.txt'
 

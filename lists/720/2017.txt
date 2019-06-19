@@ -3,3 +3,23 @@
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Fifty_Shades_of_Black_poster.png/220px-Fifty_Shades_of_Black_poster.png" group-title="",Fifty Shades of Black
 https://lh3.googleusercontent.com/0PpcMHqi5hSRlD6R6fp23vzqGCXqAbE3q7CjK68vjGimhfd6CT5BmmFqLxdl6P91YwHmvDLtUw=m22
 
+#EXTINF:-1 tvg-id="" tvg-name="9/11" tvg-logo="http://lltv.xyz:80/images/pGkjEL7RkMogMI6aznsKmZOhd8I_small.jpg" group-title="Movies | Action",9/11
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87727.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="A Bad Moms Christmas" tvg-logo="http://lltv.xyz:80/images/gPNHolu7AGnrB7r5kvJRRTfwMFR_small.jpg" group-title="Movies | Comedy",A Bad Moms Christmas
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87728.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="American Made" tvg-logo="http://lltv.xyz:80/images/23ILgoPSO5ShKcTZOuiTVfqFAUB_small.jpg" group-title="Movies | Action",American Made
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87735.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="An Inconvenient Sequel Truth To Power" tvg-logo="http://lltv.xyz:80/images/2WauUg4DcUxng5nwhisu7UFZq4Z_small.jpg" group-title="Movies | Documentary",An Inconvenient Sequel Truth To Power
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87736.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde" tvg-logo="http://lltv.xyz:80/images/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x_small.jpg" group-title="Movies | Action",Atomic Blonde
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87742.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="http://lltv.xyz:80/images/6HE4xd8zloDqmjMZuhUCCw2UcY1_small.jpg" group-title="Movies | Comedy",Baywatch
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87748.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Brawl In Cell Block 99" tvg-logo="http://lltv.xyz:80/images/bfB1J6jsjdGWKjXxKQ5hNd1OyAs_small.jpg" group-title="Movies | Crime",Brawl In Cell Block 99
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87761.avi 

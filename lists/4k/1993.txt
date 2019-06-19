@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg" group-title="",Jurassic Park
-http://5.135.183.133/torrent/public_html/downloaded/Jurassic%20Park%20-%201993%20-%20BluRay%204K%20Rip%20HEVC%20H265%202160p%2010Bit%20HDR%20MULTi%20DTS-X%207.1%20&%20(VFF)%20DTS%205.1%20-%20PARISTOCAT/Jurassic%20Park%20-%201993%20-%20HDR%202160p%20-%20PARISTOCAT.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (1993) [2160p] - 4K" tvg-logo="http://lltv.xyz:80/images/xvx4Yhf0DVH8G4LzNISpMfFBDy2_small.jpg" group-title="Movies | 4K",Jurassic Park (1993) [2160p] - 4K
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95847.mkv 

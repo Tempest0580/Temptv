@@ -2,3 +2,45 @@
 
 #EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ1NjAxMDUzN15BMl5BanBnXkFtZTgwOTE5NDM3MDE@._V1_.jpg" group-title="",The Nut Job
 https://cloudflare.tubi.video/711f6f11-1a8a-40ab-bc91-11cf9b060069/jxkrp0no/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="http://lltv.xyz:80/images/b9uYMMbm87IBFOq59pppvkkkgNg_small.jpg" group-title="Movies | Action",John Wick
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/93046.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes (2014)" tvg-logo="http://lltv.xyz:80/images/2EUAUIu5lHFlkj5FRryohlH6CRO_small.jpg" group-title="Movies | Sci-Fi",Dawn of the Planet of the Apes
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94359.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Divergent (2014)" tvg-logo="http://lltv.xyz:80/images/yTtx2ciqk4XdN1oKhMMDy3f5ue3_small.jpg" group-title="Movies | Sci-Fi",Divergent
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94362.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Interstellar (2014)" tvg-logo="http://lltv.xyz:80/images/nBNZadXqJSdt05SHLqgT0HuC5Gm_small.jpg" group-title="Movies | Sci-Fi",Interstellar
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94379.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Peabody & Sherman (2014)" tvg-logo="http://lltv.xyz:80/images/y1VT2NoBOx3aC2exhkyN9AGUkMR_small.jpg" group-title="Movies | Sci-Fi",Mr. Peabody & Sherman
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94394.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="The Maze Runner (2014)" tvg-logo="http://lltv.xyz:80/images/coss7RgL0NH6g4fC2s5atvf3dFO_small.jpg" group-title="Movies | Sci-Fi",The Maze Runner
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/94432.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="22 Jump Street (2014)" tvg-logo="http://lltv.xyz:80/images/gNlV5FhDZ1PjxSv2aqTPS30GEon_small.jpg" group-title="Movies | Comedy",22 Jump Street
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96379.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Authors Anonymous (2014)" tvg-logo="http://lltv.xyz:80/images/hhOgOMrFhNpyy4P3SKL6AStZHJz_small.jpg" group-title="Movies | Comedy",Authors Anonymous
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96398.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Presents Bad Grandpa .5 (2014) " tvg-logo="http://lltv.xyz:80/images/9XJ1RICUVM8nxSHFphl5c6ZyQtH_small.jpg" group-title="Movies | Comedy",Jackass Presents Bad Grandpa .5
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96528.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Lets Be Cops (2014)" tvg-logo="http://lltv.xyz:80/images/ayYibwWAA9NxJPaD9GSybPShtvL_small.jpg" group-title="Movies | Comedy",Lets Be Cops
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96552.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Night at the Museum- Secret of the Tomb (2014)" tvg-logo="http://lltv.xyz:80/images/tWwASv4CU1Au1IukacdSUewDCV3_small.jpg" group-title="Movies | Comedy",Night at the Museum- Secret of the Tomb
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96582.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Ride Along (2014)" tvg-logo="http://lltv.xyz:80/images/fLXPcxZ1fJjxqUg94FFb8wwM9YN_small.jpg" group-title="Movies | Comedy",Ride Along
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96611.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="School Dance 2014" tvg-logo="http://lltv.xyz:80/images/fBbZXf98xX9o1k2Uyv1vegrI6H6_small.jpg" group-title="Movies | Comedy",School Dance
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96624.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Sex Tape (2014)" tvg-logo="http://lltv.xyz:80/images/2BMmIPGu5ZbTrwXwomdSUuTB2Ul_small.jpg" group-title="Movies | Comedy",Sex Tape
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/96627.mp4 

@@ -3,6 +3,9 @@
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg" group-title="VOD",Avengers Infinity War
 http://5.135.183.133/torrent/public_html/downloaded/Avengers%20Infinity%20War%20-%202018%20-%20BluRay%204K%20HEVC%202160p%2010Bit%20HDR%20MULTi%20(VF2)%20TrueHD%20Atmos%207.1%20-%20PARISTOCAT/Avengers%20Infinity%20War%20-%202018%20-%20HDR%202160p%20-%20PARISTOCAT.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 4K" tvg-logo="http://lltv.xyz:80/images/5Kg76ldv7VxeX9YlcQXiowHgdX6_small.jpg" group-title="Movies | 4K",Aquaman
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95962.mkv
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg" group-title="VOD",Ant-Man and the Wasp
 http://86.28.138.203:88/4K%20Films/Ant-Man%20and%20the%20Wasp%20%282018%29.mkv
 
@@ -30,8 +33,8 @@ http://86.28.138.203:88/4K%20Films/Unsane%20%282018%29.mkv
 #EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6319/6319796_so.jpg" group-title="VOD",The Nun
 http://86.28.138.203:88/4K%20Films/The%20Nun%20%282018%29.mkv
 
-#EXTINF:-1, tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6324/6324857_sa.jpg;maxHeight=640;maxWidth=550" group-title="VOD",The Mule
-http://86.28.138.203:88/4K%20Films/The%20Mule%20%282018%29.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mule (2018) [2160p]" tvg-logo="http://lltv.xyz:80/images/oeZh7yEz3PMnZLgBPhrafFHRbVz_small.jpg" group-title="Movies | 4K",The Mule
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95849.mkv 
 
 #EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71-Zmr2VfnL._SX342_.jpg" group-title="VOD",The Meg
 http://86.28.138.203:88/4K%20Films/The%20Meg%20%282018%29.mkv
@@ -68,3 +71,6 @@ http://86.28.138.203:88/4K%20Films/Kin%20%282018%29.mkv
 
 #EXTINF:-1, tvg-logo="https://i5.walmartimages.com/asr/77b5ae64-790f-4547-b1fd-685bd6016c36_1.e6695f7ca80de6c38ee7e14b692d5a59.jpeg" group-title="VOD",Mortal Engines
 http://86.28.138.203:88/4K%20Films/Mortal%20Engines%20%282018%29.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="Solo A Star Wars Story (2018) [2160p]" tvg-logo="http://lltv.xyz:80/images/3IGbjc5ZC5yxim5W0sFING2kdcz_small.jpg" group-title="Movies | 4K",Solo A Star Wars Story
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95848.mkv 

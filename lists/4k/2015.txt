@@ -1,0 +1,4 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed (2015) [2160p]" tvg-logo="http://lltv.xyz:80/images/hKzhV274pkZBSpXfCjUyzbyYKLl_small.jpg" group-title="Movies | 4K",Creed (2015) [2160p]
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95844.mkv 

@@ -72,6 +72,10 @@ def CLICK_4k():
     addDir('2019', userlists.click_4k_2019, 2, AddonIcon)
     addDir('2018', userlists.click_4k_2018, 2, AddonIcon)
     addDir('2017', userlists.click_4k_2017, 2, AddonIcon)
+    addDir('2016', userlists.click_4k_2017, 2, AddonIcon)
+    addDir('2015', userlists.click_4k_2017, 2, AddonIcon)
+    addDir('2014', userlists.click_4k_2017, 2, AddonIcon)
+    addDir('1995', userlists.click_4k_1995, 2, AddonIcon)
     addDir('1993', userlists.click_4k_1993, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
@@ -85,6 +89,8 @@ def CLICK_1080():
     addDir('2013', userlists.click_1080p_2013, 2, AddonIcon)
     addDir('2012', userlists.click_1080p_2012, 2, AddonIcon)
     addDir('2011', userlists.click_1080p_2011, 2, AddonIcon)
+    addDir('1991', userlists.click_1080p_1991, 2, AddonIcon)
+    addDir('1982', userlists.click_1080p_1982, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -93,6 +99,7 @@ def CLICK_720():
     addDir('2018', userlists.click_720_2018, 2, AddonIcon)
     addDir('2016', userlists.click_720_2016, 2, AddonIcon)
     addDir('2014', userlists.click_720_2014, 2, AddonIcon)
+    addDir('2002', userlists.click_720_2002, 2, AddonIcon)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 

@@ -5,3 +5,30 @@ https://lh3.googleusercontent.com/JhhVb-3u5RMq5FSOxMfXDorMUg5oirjxoUAkGB9qsBMnL7
 
 #EXTINF:-1 tvg-logo="http://lltv.xyz:80/images/e9haaQZp1WsJLauz9WNT30lKCCL_small.jpg" group-title="Movies | Comedy",Alex & Me
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/89922.mp4 
+
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="http://lltv.xyz:80/images/5Kg76ldv7VxeX9YlcQXiowHgdX6_small.jpg" group-title="Movies | Superheroes",Aquaman
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87740.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bad Times at the El Royale" tvg-logo="http://lltv.xyz:80/images/iNtFgXqXPRMkm1QO8CHn5sHfUgE_small.jpg" group-title="Movies | Thriller",Bad Times at the El Royale
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87747.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bird Box" tvg-logo="http://lltv.xyz:80/images/rGfGfgL2pEPCfhIvqHXieXFn7gp_small.jpg" group-title="Netflix | Movies",Bird Box
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87750.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Blockers" tvg-logo="http://lltv.xyz:80/images/uvlUQXg0AlpGzKukO11K7QtW3Yu_small.jpg" group-title="Movies | Comedy",Blockers
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87755.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody" tvg-logo="http://lltv.xyz:80/images/lHu1wtNaczFPGFDTrjCSzeLPTKN_small.jpg" group-title="Movies | Drama",Bohemian Rhapsody
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87758.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking In" tvg-logo="http://lltv.xyz:80/images/60WQEFuSxb1K7q44ypDhknkscOm_small.jpg" group-title="Movies | Thriller",Breaking In
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87762.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="http://lltv.xyz:80/images/fw02ONlDhrYjTSZV8XO6hhU3ds3_small.jpg" group-title="Movies | Action",Bumblebee
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87765.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Can You Ever Forgive Me?" tvg-logo="http://lltv.xyz:80/images/hPuZR2bFoV0kuBrA98exWyvTf40_small.jpg" group-title="Movies | Drama",Can You Ever Forgive Me?
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87767.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Rich Asians" tvg-logo="http://lltv.xyz:80/images/1XxL4LJ5WHdrcYcihEZUCgNCpAW_small.jpg" group-title="Movies | Comedy",Crazy Rich Asians
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87772.mkv 
