@@ -99,4 +99,6 @@ housemd6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/sh
 housemd7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season7.txt'
 housemd8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season8.txt'
 
+izombie1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows//season1.txt'
+
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
