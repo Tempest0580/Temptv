@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (1993) [2160p] - 4K" tvg-logo="http://lltv.xyz:80/images/xvx4Yhf0DVH8G4LzNISpMfFBDy2_small.jpg" group-title="Movies | 4K",Jurassic Park (1993) [2160p] - 4K
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (1993) [2160p] - 4K" tvg-logo="https://cdn.shopify.com/s/files/1/0387/5253/products/Jurassic_Park_4k.jpg?v=1528735400" group-title="Movies | 4K",Jurassic Park
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95847.mkv 
