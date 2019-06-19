@@ -92,5 +92,18 @@ def STARGATE():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
-def BALLERS():
+def HOUSE():
+    addDir('Season 1', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/HouseMD-s1-UK-DVD.jpg/250px-HouseMD-s1-UK-DVD.jpg')
+    addDir('Season 2', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/07/HouseMD-s2-AU-DVD.jpg/250px-HouseMD-s2-AU-DVD.jpg')
+    addDir('Season 3', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/HouseMD-s3-US-DVD.jpg/250px-HouseMD-s3-US-DVD.jpg')
+    addDir('Season 4', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/da/HouseMD-s4-US-DVD.jpg/250px-HouseMD-s4-US-DVD.jpg')
+    addDir('Season 5', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/c/ce/HouseMD-s5-US-DVD.jpg')
+    addDir('Season 6', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/1/16/House_S6_DVD.jpg/250px-House_S6_DVD.jpg')
+    addDir('Season 7', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/37/House_S7_DVD.jpg/250px-House_S7_DVD.jpg')
+    addDir('Season 8', userlists.housemd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/House_S8_DVD.jpg/220px-House_S8_DVD.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def IZOMBIE():
+    addDir('Season 1', '', 2, '')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))

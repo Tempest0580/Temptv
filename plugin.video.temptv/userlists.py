@@ -88,4 +88,13 @@ stargate8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/s
 stargate9 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season9.txt'
 stargate10 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season10.txt'
 
+housemd1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season1.txt'
+housemd2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season2.txt'
+housemd3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season3.txt'
+housemd4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season4.txt'
+housemd5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season5.txt'
+housemd6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season6.txt'
+housemd7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season7.txt'
+housemd8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season8.txt'
+
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'

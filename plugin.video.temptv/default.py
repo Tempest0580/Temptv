@@ -32,7 +32,7 @@ def MAIN():
     addDir('Sports', userlists.sports, 2, 'https://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg')
     addDir('News', userlists.news, 2, 'https://esemag.com/wp-content/uploads/2015/11/News-Items.jpg')
     addDir('Music', userlists.music, 2, 'https://c8.alamy.com/comp/PE2FM5/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music-business-splash-effect-concept-PE2FM5.jpg')
-    addDir('27/7', userlists.hour24, 2, 'https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png')
+    addDir('24/7', userlists.hour24, 2, 'https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png')
     addDir('1 Click Movies', '', 7, 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c72e2f68-1a1c-48a2-aa5f-edf7eaaf3548/d704h5l-8e40963d-18aa-4982-a412-5c0ef52f6acf.png')
     addDir('1 Click Shows', '', 11, 'http://chittagongit.com/images/tv-series-icon/tv-series-icon-15.jpg')
     addDir('In Theaters', userlists.theater, 2, 'http://mytnnews.com/wp-content/uploads/2012/06/now-in-theaters.jpg')
@@ -59,8 +59,9 @@ def VOD_SHOWS():
 
 def CLICK_SHOWS():
     addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
+    # addDir('House MD', '', 19, 'https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png')
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
-    #addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
+    # addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
     addDir('Stargate SG1', '', 18, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/stargate_sg-1_cast.jpg?itok=EucgrKA3')
     addDir('Supernatural', '', 17, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5')
     addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
@@ -295,3 +296,5 @@ elif mode == 17:
     shows.SUPERNATURAL()
 elif mode == 18:
     shows.STARGATE()
+elif mode == 19:
+    shows.HOUSE()

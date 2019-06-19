@@ -1,0 +1,48 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E01" tvg-logo="http://lltv.xyz:80/images/ntebAy5woneubsTdEOONUfRULqA_small.jpg" group-title="US | TV Series",House S06 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93724.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E02" tvg-logo="http://lltv.xyz:80/images/cXwdvIlsaMGPNGczuDJOtFrzdd6_small.jpg" group-title="US | TV Series",House S06 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93725.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E03" tvg-logo="http://lltv.xyz:80/images/b29gbaHDt0bsqI6988VCi8d5mkD_small.jpg" group-title="US | TV Series",House S06 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93726.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E04" tvg-logo="http://lltv.xyz:80/images/phJpv1ZH6NKufsdslgkmXPAIUbg_small.jpg" group-title="US | TV Series",House S06 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93727.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E05" tvg-logo="http://lltv.xyz:80/images/tAdurFu6fk9W0UyhZIpfZN9cFKF_small.jpg" group-title="US | TV Series",House S06 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93728.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E06" tvg-logo="http://lltv.xyz:80/images/qUzoKc9bNWuQzTIGNgFcOgRGHbj_small.jpg" group-title="US | TV Series",House S06 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93729.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E07" tvg-logo="http://lltv.xyz:80/images/diMf6rdsckAIE9np5OoCT1VAJHt_small.jpg" group-title="US | TV Series",House S06 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93730.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E08" tvg-logo="http://lltv.xyz:80/images/ppuT5ONHG4fLd5XhMmZBGUGN3FU_small.jpg" group-title="US | TV Series",House S06 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93731.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E09" tvg-logo="http://lltv.xyz:80/images/1hWDxdkL9LrgTAVjSM2kpRw2duA_small.jpg" group-title="US | TV Series",House S06 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93733.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E10" tvg-logo="http://lltv.xyz:80/images/1hWDxdkL9LrgTAVjSM2kpRw2duA_small.jpg" group-title="US | TV Series",House S06 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93732.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E11" tvg-logo="http://lltv.xyz:80/images/dQDqDcJRWbDeVel5ZVuvOs25EBU_small.jpg" group-title="US | TV Series",House S06 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93734.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E12" tvg-logo="http://lltv.xyz:80/images/kICXyIHXEhnsx5COqAR6VWBwYg3_small.jpg" group-title="US | TV Series",House S06 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93735.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E13" tvg-logo="http://lltv.xyz:80/images/lCmu4AdKhDQTflC76wLPqvrGwiO_small.jpg" group-title="US | TV Series",House S06 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93736.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E14" tvg-logo="http://lltv.xyz:80/images/myV2vtjTxKaJ2XzWDTMAVLRxZv7_small.jpg" group-title="US | TV Series",House S06 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93737.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E15" tvg-logo="http://lltv.xyz:80/images/zC5ZVXjyAdZX0JiK2d5Bh26mXKq_small.jpg" group-title="US | TV Series",House S06 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93738.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E16" tvg-logo="http://lltv.xyz:80/images/6W83L3ONJwYosL7JdqAnvJGYpHC_small.jpg" group-title="US | TV Series",House S06 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93739.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E17" tvg-logo="http://lltv.xyz:80/images/tI30RhXXZ7LMDSEVcrYtjD8LIxc_small.jpg" group-title="US | TV Series",House S06 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93740.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E18" tvg-logo="http://lltv.xyz:80/images/3SR7fYvkNoeJOGq6VJANSowrvkw_small.jpg" group-title="US | TV Series",House S06 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93741.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E19" tvg-logo="http://lltv.xyz:80/images/kWgvItTBvmD2gWDayHStCCG5Q3L_small.jpg" group-title="US | TV Series",House S06 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93742.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E20" tvg-logo="http://lltv.xyz:80/images/3RUr5M6YbnwBoHL9FV0tv8pyLq3_small.jpg" group-title="US | TV Series",House S06 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93743.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E21" tvg-logo="http://lltv.xyz:80/images/dDmiRJI2hGmxAIkRxfsKpyl2Ej0_small.jpg" group-title="US | TV Series",House S06 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93744.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E22" tvg-logo="http://lltv.xyz:80/images/q35B6rUbXJTTYxaoZNAFAMI8Ur5_small.jpg" group-title="US | TV Series",House S06 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93745.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="House S06 E23" tvg-logo="http://lltv.xyz:80/images/1XG88u6RwjtMDhH8mGlnwxsOwUz_small.jpg" group-title="US | TV Series",House S06 E23
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93746.mkv 
