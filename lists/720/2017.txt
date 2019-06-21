@@ -23,3 +23,11 @@ http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87748.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Brawl In Cell Block 99" tvg-logo="http://lltv.xyz:80/images/bfB1J6jsjdGWKjXxKQ5hNd1OyAs_small.jpg" group-title="Movies | Crime",Brawl In Cell Block 99
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87761.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Daddy's Home 2" tvg-logo="http://lltv.xyz:80/images/rF2IoKL0IFmumEXQFUuB8LajTYP_small.jpg" group-title="Movies | Comedy",Daddy's Home 2
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87777.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="http://lltv.xyz:80/images/bOXBV303Fgkzn2K4FeKDc0O31q4_small.jpg" group-title="Movies | Action",Dunkirk
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87789.avi 
+
+

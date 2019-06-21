@@ -32,3 +32,29 @@ http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87767.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Crazy Rich Asians" tvg-logo="http://lltv.xyz:80/images/1XxL4LJ5WHdrcYcihEZUCgNCpAW_small.jpg" group-title="Movies | Comedy",Crazy Rich Asians
 http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87772.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Creed II" tvg-logo="http://lltv.xyz:80/images/v3QyboWRoA4O9RbcsqH8tJMe8EB_small.jpg" group-title="Movies | Drama",Creed II
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87774.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Death Wish" tvg-logo="http://lltv.xyz:80/images/7FG13lLQcV9DC2Bhn0hjxc6AFXV_small.jpg" group-title="Movies | Action",Death Wish
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87783.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2" tvg-logo="http://lltv.xyz:80/images/xqjAHXMJLORx9vVsCTJ6ZPJcr3D_small.jpg" group-title="Movies | Sci-Fi",Deep Blue Sea 2
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87785.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Dog Days" tvg-logo="http://lltv.xyz:80/images/apoaNISBUsaw76AJ54RhV13ZGI4_small.jpg" group-title="Movies | Comedy",Dog Days
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87786.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Donnybrook" tvg-logo="http://lltv.xyz:80/images/jcuEDKnM3uThdz7p0YYWFjMla73_small.jpg" group-title="Movies | Crime",Donnybrook
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87788.mkv 
+
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan 2: Hades" tvg-logo="http://lltv.xyz:80/images/Aqhl55vpzxNFqVfc2DpedUsR39L_small.jpg" group-title="Movies | Crime",Escape Plan 2: Hades
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87791.avi 
+
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts: The Crimes of Grindelwald" tvg-logo="http://lltv.xyz:80/images/fMMrl8fD9gRCFJvsx0SuFwkEOop_small.jpg" group-title="Movies | Adventure",Fantastic Beasts: The Crimes of Grindelwald
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87792.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="First Man" tvg-logo="http://lltv.xyz:80/images/i91mfvFcPPlaegcbOyjGgiWfZzh_small.jpg" group-title="Movies | Drama",First Man
+http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/87797.mkv 
+
+
