@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E01" tvg-logo="http://lltv.xyz:80/images/zaZLBPFZnEfUTjBey1tIAP3wALJ_small.jpg" group-title="US | TV Series",Ballers S01 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96909.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E02" tvg-logo="http://lltv.xyz:80/images/7sJ1RZHGrtG1obnLYjSPjhK2bZ4_small.jpg" group-title="US | TV Series",Ballers S01 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96910.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E03" tvg-logo="http://lltv.xyz:80/images/fsGu2Sm7dK8U9F3VMTiS0YVNz2y_small.jpg" group-title="US | TV Series",Ballers S01 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96911.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E04" tvg-logo="http://lltv.xyz:80/images/kdlfLpqbGO5PUZgiiHZBrlxenIx_small.jpg" group-title="US | TV Series",Ballers S01 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96912.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E05" tvg-logo="http://lltv.xyz:80/images/4tOw9JgWQgDwUs9MWdYfHsPVCrl_small.jpg" group-title="US | TV Series",Ballers S01 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96913.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E06" tvg-logo="http://lltv.xyz:80/images/x2crqGCcGULau5DprFJY2MrUc6X_small.jpg" group-title="US | TV Series",Ballers S01 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96914.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E07" tvg-logo="http://lltv.xyz:80/images/sEQmyLcZsF5chPiBZveavZlmtih_small.jpg" group-title="US | TV Series",Ballers S01 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96915.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E08" tvg-logo="http://lltv.xyz:80/images/f2IwftcgBjM9Iy5zMFi5PZsMSzH_small.jpg" group-title="US | TV Series",Ballers S01 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96916.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E09" tvg-logo="http://lltv.xyz:80/images/gIw1h8RM1bqvEro5ehF0O12yLVJ_small.jpg" group-title="US | TV Series",Ballers S01 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96917.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Ballers S01 E10" tvg-logo="http://lltv.xyz:80/images/rv22KPsKZvK5iRHhR7SEug4ZsJP_small.jpg" group-title="US | TV Series",Ballers S01 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96918.mkv 

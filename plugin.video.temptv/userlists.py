@@ -106,6 +106,11 @@ housemd6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/sh
 housemd7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season7.txt'
 housemd8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season8.txt'
 
-izombie1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows//season1.txt'
+izombie1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season1.txt'
+
+ballers1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt'
+ballers2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season2.txt'
+ballers3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season3.txt'
+ballers4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season4.txt'
 
 uk = 'https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u'
