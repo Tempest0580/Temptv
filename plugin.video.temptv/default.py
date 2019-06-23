@@ -39,7 +39,7 @@ def MAIN():
     addDir('Pluto TV', userlists.pluto, 2, 'https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png')
     #addDir('On Demand Movies', '', 12, AddonIcon)
     #addDir('On Demand Shows', '', 13, AddonIcon)
-    addDir('UK', userlists.uk, 2, 'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png')
+    addDir('UK', userlists.uk, 2, 'https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg')
     if adult == 'true':
         addDir('Adult\'s Only', userlists.adult, 2, 'https://previews.123rf.com/images/123vector/123vector1403/123vector140300027/26460698-vector-illustration-of-red-adult-icon-on-white-background.jpg')
     if dev == 'true':
