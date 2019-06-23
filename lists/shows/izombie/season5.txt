@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="iZombie S05 E01" tvg-logo="http://lltv.xyz:80/images/fqKuWPjLqWTvCcm6D95yM8dMCLZ_small.jpg" group-title="US | TV Series",iZombie S05 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93318.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="iZombie S05 E02" tvg-logo="http://lltv.xyz:80/images/hfPrx5peD7iWNRz9X92VsSpsDK7_small.jpg" group-title="US | TV Series",iZombie S05 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94718.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="iZombie S05 E03" tvg-logo="http://lltv.xyz:80/images/zlTVzOVASTvlqG6XI6eVNHheMTq_small.jpg" group-title="US | TV Series",iZombie S05 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95337.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="iZombie S05 E04" tvg-logo="http://lltv.xyz:80/images/qwtJvQQraCH8Z9M9cWxHfcpmUFm_small.jpg" group-title="US | TV Series",iZombie S05 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96351.mkv 

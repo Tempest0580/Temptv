@@ -105,5 +105,17 @@ def HOUSE():
 
 
 def IZOMBIE():
-    addDir('Season 1', '', 2, '')
+    addDir('Season 1', userlists.izombie1, 2, 'https://resizing.flixster.com/zFsWD4r6sgKU2_Vf-Xl555P9JaM=/206x305/v1.dDsxNDY2MDI7ajsxODA5MTsxMjAwOzE5OTg7MjY2NA')
+    addDir('Season 2', userlists.izombie2, 2, 'https://resizing.flixster.com/ncge5Px1eEa6C5DPAHGHhsSBkBs=/206x305/v1.dDsyNzA0MjE7ajsxODA5MzsxMjAwOzExMjQ7MTY4Ng')
+    addDir('Season 3', userlists.izombie3, 2, 'https://vignette.wikia.nocookie.net/izombie/images/e/ef/Brain_Freeze.jpg/revision/latest?cb=20170405224605')
+    # addDir('Season 4', userlists.izombie4, 2, 'https://vignette.wikia.nocookie.net/izombie/images/c/c6/4Poster.png/revision/latest?cb=20180216210229')
+    addDir('Season 5', userlists.izombie5, 2, 'https://vignette.wikia.nocookie.net/izombie/images/6/63/Final_season_promotional_poster.jpg/revision/latest?cb=20190615092836')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def BALLERS():
+    addDir('Season 1', userlists.ballers1, 2, 'https://vignette.wikia.nocookie.net/ballers/images/c/c8/Ballers_Season_1_poster.jpg/revision/latest/scale-to-width-down/300?cb=20150520101615')
+    addDir('Season 2', userlists.ballers2, 2, 'https://resizing.flixster.com/i8u0JTgPqGfHXx8B7VNURDZbZPQ=/206x305/v1.dDsyNTkyNzg7ajsxODA5MzsxMjAwOzE5NzQ7Mjk2MQ')
+    addDir('Season 3', userlists.ballers3, 2, 'https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/25/13/65/25136577-2b8c-64e8-7f6c-ae9fa5b8c91a/mzl.lozwsaqw.lsr/268x0w.jpg')
+    addDir('Season 4', userlists.ballers4, 2, 'https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))

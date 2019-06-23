@@ -107,6 +107,10 @@ housemd7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/sh
 housemd8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/house/season8.txt'
 
 izombie1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season1.txt'
+izombie2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season2.txt'
+izombie3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season3.txt'
+izombie4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season4.txt'
+izombie5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/izombie/season5.txt'
 
 ballers1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt'
 ballers2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season2.txt'
