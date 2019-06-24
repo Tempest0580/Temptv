@@ -147,7 +147,7 @@ def FOREIGN():
     addDir('Germany', userlists.Germany, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png')
     addDir('India', userlists.India, 2, 'https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg')
     addDir('Indonesia', userlists.Indonesia, 2, 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg')
-    addDir('Italy', userlists.Italia, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png')
+    addDir('Italy', userlists.Italy, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png')
     addDir('Mexico', userlists.Mexico, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png')
     addDir('Russia', userlists.Russia, 2, 'https://upload.wikimedia.org/wikipedia/en/archive/f/f3/20120812153730%21Flag_of_Russia.svg')
     addDir('Spain', userlists.Spain, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png')
