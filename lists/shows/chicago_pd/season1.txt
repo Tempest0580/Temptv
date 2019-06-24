@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E01" tvg-logo="http://lltv.xyz:80/images/bKZbr6Ku6Yo2N7eNxdXYPe7baSm_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93433.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E02" tvg-logo="http://lltv.xyz:80/images/9aDP7WssF8qVuTKD8h2sfLLydNn_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93434.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E03" tvg-logo="http://lltv.xyz:80/images/7t4IV9hfI9GZXlaJbI8GhAQx5Xn_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93435.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E04" tvg-logo="http://lltv.xyz:80/images/ltB8YKH4WQYoN3pY12qNQbpLweG_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93436.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E05" tvg-logo="http://lltv.xyz:80/images/yGOoaL6Vmhi5dRYt2NfyMs3kORZ_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93437.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E06" tvg-logo="http://lltv.xyz:80/images/z7hrNwOgZQS3z7nwzviRGg7VTqP_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93438.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E07" tvg-logo="http://lltv.xyz:80/images/psjqdssJF8eCX5uNFzwp1TcgzBF_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93439.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E08" tvg-logo="http://lltv.xyz:80/images/cysdKNSIFfWjTanBh2XqYk3iZz3_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93440.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E09" tvg-logo="http://lltv.xyz:80/images/lLjUcO8B42B6LYZpwAlDBhvtVY_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93441.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E10" tvg-logo="http://lltv.xyz:80/images/5r26DVWMKYHwWPpK25DKUXNT8KL_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93442.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E11" tvg-logo="http://lltv.xyz:80/images/uFmqsBqGQ9EKOCuDbDoNfQCdB12_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93443.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E12" tvg-logo="http://lltv.xyz:80/images/mZeb3pLs3XPpIk28Uuo1Qlwo2JZ_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93444.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E13" tvg-logo="http://lltv.xyz:80/images/ioHGEVfDlEZbrcHXZjKZKEqlMw5_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93445.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E14" tvg-logo="http://lltv.xyz:80/images/kvL4UIsPslVeNuVpzaw4e8S82ZW_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93446.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D. S01 E15" tvg-logo="http://lltv.xyz:80/images/3maYiHrASDkPAnIhUf8Koa4Dqc0_small.jpg" group-title="US | TV Series",Chicago P.D. S01 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93447.mkv 

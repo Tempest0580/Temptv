@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E01" tvg-logo="http://lltv.xyz:80/images/887W6MzZew5JGfEn6XMpfjPoaoi_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93427.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E02" tvg-logo="http://lltv.xyz:80/images/7cVMsPWchlbLWUdTA5mMbSUSpvT_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93428.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E03" tvg-logo="http://lltv.xyz:80/images/4oCWffLtV8rcvMiNaF1ITUBqTYQ_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93429.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E04" tvg-logo="http://lltv.xyz:80/images/3nfhFqz3rdwOjz8jT2uf5NfeisO_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93430.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E05" tvg-logo="http://lltv.xyz:80/images/dRlW9Gf4ga4vrwE11g5mNls196N_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93431.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E06" tvg-logo="http://lltv.xyz:80/images/8GfY6k9K4nVY95ODHhiGtEF1lVs_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93432.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E07" tvg-logo="http://lltv.xyz:80/images/sPaU6XCatp5NpnILgEEO7lRT5Dj_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96347.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E08" tvg-logo="http://lltv.xyz:80/images/cUD90g4WutlQpTaCXMAty9Tsulx_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96348.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E09" tvg-logo="http://lltv.xyz:80/images/6eXeggvTp1ieTyPpGdiO6xRkOAM_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96349.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Zone S01 E10" tvg-logo="http://lltv.xyz:80/images/z0inO23raAgYNlKoYkkeD6z5fQW_small.jpg" group-title="US | TV Series",The Twilight Zone S01 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/96891.mkv

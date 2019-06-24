@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E01" tvg-logo="http://lltv.xyz:80/images/mZRAvHdfsOHq9JGhDoSR9YApRgm_small.jpg" group-title="US | TV Series",Lie to Me S03 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93226.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E02" tvg-logo="http://lltv.xyz:80/images/qiNaUECb6GjEQlV4QkAiNCWqBS1_small.jpg" group-title="US | TV Series",Lie to Me S03 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93227.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E03" tvg-logo="http://lltv.xyz:80/images/6IO6jUzXIp9J0ybzDO1KiHJSd3Q_small.jpg" group-title="US | TV Series",Lie to Me S03 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93228.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E04" tvg-logo="http://lltv.xyz:80/images/5aVqyT91q4Q6tzw99Guw8LsNLTs_small.jpg" group-title="US | TV Series",Lie to Me S03 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93229.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E05" tvg-logo="http://lltv.xyz:80/images/qXfuG5EW5bY6fLjqJ6NnQ5qseDX_small.jpg" group-title="US | TV Series",Lie to Me S03 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93230.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E06" tvg-logo="http://lltv.xyz:80/images/jTYsKvmqobNp1rKQd8pYfyKUsnx_small.jpg" group-title="US | TV Series",Lie to Me S03 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93231.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E07" tvg-logo="http://lltv.xyz:80/images/xXLEpevFPje7YAk38MnJkvJxkmQ_small.jpg" group-title="US | TV Series",Lie to Me S03 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93232.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E08" tvg-logo="http://lltv.xyz:80/images/9ONUpKHIZR1flMn4T6zkplVTKz9_small.jpg" group-title="US | TV Series",Lie to Me S03 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93233.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E09" tvg-logo="http://lltv.xyz:80/images/6utL7Ouxert8j2DNtERE4fRydsk_small.jpg" group-title="US | TV Series",Lie to Me S03 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93234.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E10" tvg-logo="http://lltv.xyz:80/images/rWOKqdZtA0HyCZTiFOP1OLfH6br_small.jpg" group-title="US | TV Series",Lie to Me S03 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93235.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E11" tvg-logo="http://lltv.xyz:80/images/ydpx4fq88zGNJQ8dZCqRFkwIoII_small.jpg" group-title="US | TV Series",Lie to Me S03 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93236.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E12" tvg-logo="http://lltv.xyz:80/images/9WxlGIgmcrZgPNaDpCdteKyo2vs_small.jpg" group-title="US | TV Series",Lie to Me S03 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93237.avi 
+#EXTINF:-1 tvg-id="" tvg-name="Lie to Me S03 E13" tvg-logo="http://lltv.xyz:80/images/svISonDxrYI0I6Qfyc2OyiDc1sO_small.jpg" group-title="US | TV Series",Lie to Me S03 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93238.avi 

@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E01" tvg-logo="http://lltv.xyz:80/images/jxBEGuJnXVYWe8JVV77mPiYRgOz_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94774.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E02" tvg-logo="http://lltv.xyz:80/images/m04EwPbCfLxRWWfW0oK6YOleFjS_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94775.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E03" tvg-logo="http://lltv.xyz:80/images/mJFAPSEQuNUn5cufoFdkwmBu8O_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94776.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E04" tvg-logo="http://lltv.xyz:80/images/9b7bB0SDdcTq9PSMLRIqtDchenq_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94777.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E05" tvg-logo="http://lltv.xyz:80/images/2StF9cDxgW7b5qHJMUvypKm0iI8_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94778.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E06" tvg-logo="http://lltv.xyz:80/images/3qIasxd0Ol3i4469nnumrnnER66_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94779.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E07" tvg-logo="http://lltv.xyz:80/images/1eoP7OA9NbFPF13aH6ET4szcVD1_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94780.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E08" tvg-logo="http://lltv.xyz:80/images/xPLBIO7ec73yFNUE2BzZ8xILb4w_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94781.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E09" tvg-logo="http://lltv.xyz:80/images/xhk1nBTivVbaJh18zl0eQupR5P9_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94782.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E10" tvg-logo="http://lltv.xyz:80/images/g8a6hC9kI8IXgOW99pivygEDPt2_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94783.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E11" tvg-logo="http://lltv.xyz:80/images/94ik7xp6nCOAWNoje5wqw9G7dGx_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94784.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E12" tvg-logo="http://lltv.xyz:80/images/6jdsvJCRFI2L29Z5W0pUjtONbwo_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94785.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E13" tvg-logo="http://lltv.xyz:80/images/d0MwfriNJDUxb479IFJP4I2mD7a_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94786.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E14" tvg-logo="http://lltv.xyz:80/images/aCMTgQhUrrfXwyO41cNbwXwSzjU_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94787.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E15" tvg-logo="http://lltv.xyz:80/images/aitT5NZeknVVMib8biGTyW4Ehfe_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94788.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E16" tvg-logo="http://lltv.xyz:80/images/hV2cBkIMkvfGyCdyjxAZENTzcGy_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94789.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E17" tvg-logo="http://lltv.xyz:80/images/vtKhCxxk5X4hvmLNUJq2wdeZYWW_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94790.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E18" tvg-logo="http://lltv.xyz:80/images/nTrztWFlGQXucyeSVhHYcCxxWst_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94791.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E19" tvg-logo="http://lltv.xyz:80/images/vTmizswXNWPJXCCIlSO4pSkPr43_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94792.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E20" tvg-logo="http://lltv.xyz:80/images/wKHVgX8mMYv11ls2JrhHVhucvAs_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94793.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Murder, She Wrote S03 E21" tvg-logo="http://lltv.xyz:80/images/96bbOQTBr5f1Ch1GOEJnFy5k5Bq_small.jpg" group-title="UK | TV Series",Murder, She Wrote S03 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94794.mkv 
