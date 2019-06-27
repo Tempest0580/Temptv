@@ -26,6 +26,8 @@ dev = addon.getSetting('Dev')
 
 
 def MAIN():
+    addDir('Beta Stage, Work in progress.', '', '', AddonIcon, Folder=False)
+    addDir('If You Would like to Contribute vist https://github.com/Tempest0580/Temptv', '', '', AddonIcon, Folder=False)
     addDir('Entertainment', userlists.english, 2, 'https://i2.wp.com/www.somersetcounty4h.org/wp-content/uploads/entertainment-icon.png?fit=567%2C567')
     addDir('Movies', userlists.movies, 2, 'https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/movies.png')
     addDir('Kids', userlists.kids, 2, 'https://yt3.ggpht.com/a/AGF-l7-eRsuCOQ43Hj9WVVU1xGY2L6sgA8S1DZLM2w=s900-mo-c-c0xffffffff-rj-k-no')
@@ -37,8 +39,6 @@ def MAIN():
     addDir('1 Click Shows', '', 11, 'http://chittagongit.com/images/tv-series-icon/tv-series-icon-15.jpg')
     addDir('In Theaters', userlists.theater, 2, 'http://mytnnews.com/wp-content/uploads/2012/06/now-in-theaters.jpg')
     addDir('Pluto TV', userlists.pluto, 2, 'https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png')
-    #addDir('On Demand Movies', '', 12, AddonIcon)
-    #addDir('On Demand Shows', '', 13, AddonIcon)
     addDir('Foreign Channels', '', 22, AddonIcon)
     if adult == 'true':
         addDir('Adult\'s Only', userlists.adult, 2, 'https://previews.123rf.com/images/123vector/123vector1403/123vector140300027/26460698-vector-illustration-of-red-adult-icon-on-white-background.jpg')
@@ -46,14 +46,6 @@ def MAIN():
         addDir('Testing', '', 5, 'http://icons.iconarchive.com/icons/aaron-sinuhe/series-season-folder/256/extras-icon.png')
     addDir('[B] Settings [/B]', 'url', 4, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyhtqOw2iVU3-nBZMb1cWTDw_bsR4dkNtLvSkqQn3jsApD1A3', Folder=False)
     addDir('Refresh', '', 6, 'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png', Folder=False)
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-
-def VOD_MOVIES():
-    xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-
-def VOD_SHOWS():
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
 
@@ -127,14 +119,14 @@ def FOREIGN():
     addDir('Argentina', userlists.Argentina, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png')
     addDir('Armenia', userlists.Armenia, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png')
     addDir('Australia', userlists.Australia, 2, 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg')
-    addDir('Austria', userlists.Austria, 2, 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg')
-    addDir('Azerbaijan', userlists.Azerbaijan, 2, 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg')
-    addDir('Bahrain', userlists.Bahrain, 2, 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg')
-    addDir('Bangladesh', userlists.Bangladesh, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png')
+    addDir('Austria', userlists.Austria, 2, 'https://media.tmicdn.com/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/u/austria-flag-temporary-tattoo_2465.jpg')
+    addDir('Azerbaijan', userlists.Azerbaijan, 2, 'https://cdn2.trend.az/media/thumbnails/410x307/2009/12/30/Flag_Azerbaijan_301209.jpg')
+    addDir('Bahrain', userlists.Bahrain, 2, 'https://i.ebayimg.com/images/g/cFwAAMXQeKNTKcMU/s-l300.jpg')
+    #addDir('Bangladesh', userlists.Bangladesh, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png')
     addDir('Barbados', userlists.Barbados, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/2000px-Flag_of_Barbados.svg.png')
-    addDir('Belarus', userlists.Belarus, 2, 'https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg')
-    addDir('Belgium', userlists.Belgium, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/2000px-Flag_of_Belgium.svg.png')
-    addDir('Bolivia', userlists.Bolivia, 2, 'https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_Bolivia_%28state%29.svg')
+    addDir('Belarus', userlists.Belarus, 2, 'https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png')
+    addDir('Belgium', userlists.Belgium, 2, 'https://images-na.ssl-images-amazon.com/images/I/21veganA4TL.jpg')
+    addDir('Bolivia', userlists.Bolivia, 2, 'https://images-na.ssl-images-amazon.com/images/I/51p1D7ZK1mL._SX425_.jpg')
     addDir('Bosnia and Herzegovina', userlists.Bosnia_and_Herzegovina, 2, 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg')
     addDir('Brazil', userlists.Brazil, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png')
     addDir('Bulgaria', userlists.Bulgaria, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2000px-Flag_of_Bulgaria.svg.png')
@@ -144,9 +136,38 @@ def FOREIGN():
     addDir('China', userlists.China, 2, 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg')
     addDir('Colombia', userlists.Colombia, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png')
     addDir('Costa Rica', userlists.Costa_Rica, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/255px-Flag_of_Costa_Rica_%28state%29.svg.png')
+    addDir('Croatia', userlists.Croatia, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2000px-Flag_of_Croatia.svg.png')
+    addDir('Cuba', userlists.Cuba, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/2000px-Flag_of_Cuba.svg.png')
+    addDir('Cyprus', userlists.Cyprus, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png')
+    addDir('Czech Republic', userlists.Czech_Republic, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png')
+    addDir('Democratic Republic of the Congo', userlists.Democratic_Republic_of_the_Congo, 2, 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg')
+    addDir('Denmark', userlists.Denmark, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png')
+    addDir('Dominican Republic', userlists.Dominican_Republic, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/255px-Flag_of_the_Dominican_Republic.svg.png')
+    addDir('Ecuador', userlists.Ecuador, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2000px-Flag_of_Ecuador.svg.png')
+    addDir('Egypt', userlists.Egypt, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png')
+    addDir('El Salvador', userlists.El_Salvador, 2, 'https://www.flagsimporter.com/pub/media/catalog/product/cache/image/600x800/e9c3970ab036de70892d86c6d221abfe/e/l/el-salvador35_tn_1.jpg')
+    addDir('Equatorial Guinea', userlists.Equatorial_Guinea, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2000px-Flag_of_Equatorial_Guinea.svg.png')
+    addDir('Estonia', userlists.Estonia, 2, 'https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg')
+    addDir('Finland', userlists.Finland, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2000px-Flag_of_Finland.svg.png')
+    addDir('France', userlists.France, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png')
+    addDir('Georgia', userlists.Georgia, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png')
     addDir('Germany', userlists.Germany, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png')
+    addDir('Ghana', userlists.Ghana, 2, 'https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg')
+    addDir('Greece', userlists.Greece, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2000px-Flag_of_Greece.svg.png')
+    #addDir('Guatemala', userlists.Guatemala, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/2000px-Flag_of_Guatemala.svg.png')
+    addDir('Guinea', userlists.Guinea, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/2000px-Flag_of_Guinea.svg.png')
+    addDir('Guyana', userlists.Guyana, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/2000px-Flag_of_Guyana.svg.png')
+    addDir('Haiti', userlists.Haiti, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/2000px-Flag_of_Haiti.svg.png')
+    addDir('Honduras', userlists.Honduras, 2, 'https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg')
+    addDir('Hong Kong', userlists.Hong_Kong, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/2000px-Flag_of_Hong_Kong.svg.png')
+    addDir('Iceland', userlists.Iceland, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2000px-Flag_of_Iceland.svg.png')
     addDir('India', userlists.India, 2, 'https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg')
     addDir('Indonesia', userlists.Indonesia, 2, 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg')
+    addDir('Iran', userlists.Iran, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/2000px-Flag_of_Iran_%28official%29.svg.png')
+    addDir('Iraq', userlists.Iraq, 2, 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg')
+    addDir('Ireland', userlists.Ireland, 2, 'https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg')
+    addDir('Israel', userlists.Israel, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png')
+
     addDir('Italy', userlists.Italy, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png')
     addDir('Mexico', userlists.Mexico, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png')
     addDir('Russia', userlists.Russia, 2, 'https://upload.wikimedia.org/wikipedia/en/archive/f/f3/20120812153730%21Flag_of_Russia.svg')
@@ -329,10 +350,6 @@ elif mode == 10:
     CLICK_720()
 elif mode == 11:
     CLICK_SHOWS()
-elif mode == 12:
-    VOD_MOVIES()
-elif mode == 13:
-    VOD_SHOWS()
 elif mode == 14:
     shows.SMALLVILLE()
 elif mode == 15:
