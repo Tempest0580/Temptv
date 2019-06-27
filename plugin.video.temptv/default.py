@@ -21,32 +21,86 @@ urlopen = urllib2.urlopen
 Request = urllib2.Request
 USER_AGENT = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
 headers = {'User-Agent': USER_AGENT, 'Accept': '*/*', 'Connection': 'keep-alive'}
+ADDON_ID = xbmcaddon.Addon().getAddonInfo('id')
+HOMEPATH = xbmc.translatePath('special://home/')
+ADDONSPATH = os.path.join(HOMEPATH, 'addons')
+THISADDONPATH = os.path.join(ADDONSPATH, ADDON_ID)
+LOCALNEWS = os.path.join(THISADDONPATH, 'changelog.txt')
 adult = addon.getSetting('Show_Adult')
 dev = addon.getSetting('Dev')
 
 
 def MAIN():
-    addDir('Beta Stage, Work in progress.', '', '', AddonIcon, Folder=False)
-    addDir('If You Would like to Contribute vist https://github.com/Tempest0580/Temptv', '', '', AddonIcon, Folder=False)
-    addDir('Entertainment', userlists.english, 2, 'https://i2.wp.com/www.somersetcounty4h.org/wp-content/uploads/entertainment-icon.png?fit=567%2C567')
-    addDir('Movies', userlists.movies, 2, 'https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/movies.png')
-    addDir('Kids', userlists.kids, 2, 'https://yt3.ggpht.com/a/AGF-l7-eRsuCOQ43Hj9WVVU1xGY2L6sgA8S1DZLM2w=s900-mo-c-c0xffffffff-rj-k-no')
-    addDir('Sports', userlists.sports, 2, 'https://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg')
-    addDir('News', userlists.news, 2, 'https://esemag.com/wp-content/uploads/2015/11/News-Items.jpg')
-    addDir('Music', userlists.music, 2, 'https://c8.alamy.com/comp/PE2FM5/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music-business-splash-effect-concept-PE2FM5.jpg')
-    addDir('24/7', userlists.hour24, 2, 'https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png')
-    addDir('1 Click Movies', '', 7, 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c72e2f68-1a1c-48a2-aa5f-edf7eaaf3548/d704h5l-8e40963d-18aa-4982-a412-5c0ef52f6acf.png')
-    addDir('1 Click Shows', '', 11, 'http://chittagongit.com/images/tv-series-icon/tv-series-icon-15.jpg')
-    addDir('In Theaters', userlists.theater, 2, 'http://mytnnews.com/wp-content/uploads/2012/06/now-in-theaters.jpg')
-    addDir('Pluto TV', userlists.pluto, 2, 'https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png')
-    addDir('Foreign Channels', '', 22, AddonIcon)
-    if adult == 'true':
-        addDir('Adult\'s Only', userlists.adult, 2, 'https://previews.123rf.com/images/123vector/123vector1403/123vector140300027/26460698-vector-illustration-of-red-adult-icon-on-white-background.jpg')
+    addDir('Entertainment', userlists.english, 2,
+           'https://i2.wp.com/www.somersetcounty4h.org/wp-content/uploads/entertainment-icon.png?fit=567%2C567')
+    addDir('Movies', userlists.movies, 2,
+           'https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/movies.png')
+    addDir('Kids', userlists.kids, 2,
+           'https://yt3.ggpht.com/a/AGF-l7-eRsuCOQ43Hj9WVVU1xGY2L6sgA8S1DZLM2w=s900-mo-c-c0xffffffff-rj-k-no')
+    addDir('Sports', userlists.sports, 2,
+           'https://images.all-free-download.com/images/graphicthumb/free_sport_vector_pack_557881.jpg')
+    addDir('News', userlists.news, 2,
+           'https://esemag.com/wp-content/uploads/2015/11/News-Items.jpg')
+    addDir('Music', userlists.music, 2,
+           'https://c8.alamy.com/comp/PE2FM5/vector-cartoon-music-icon-in-comic-style-sound-note-sign-illustration-pictogram-melody-music-business-splash-effect-concept-PE2FM5.jpg')
+    addDir('24/7', userlists.hour24, 2,
+           'https://depo8.com/wp-content/uploads/2014/07/24-7-icon.png')
+    addDir('1 Click Movies', '', 7,
+           'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c72e2f68-1a1c-48a2-aa5f-edf7eaaf3548/d704h5l-8e40963d-18aa-4982-a412-5c0ef52f6acf.png')
+    addDir('1 Click Shows', '', 11,
+           'http://chittagongit.com/images/tv-series-icon/tv-series-icon-15.jpg')
+    addDir('In Theaters', userlists.theater, 2,
+           'http://mytnnews.com/wp-content/uploads/2012/06/now-in-theaters.jpg')
+    addDir('Pluto TV', userlists.pluto, 2,
+           'https://images-na.ssl-images-amazon.com/images/I/519H2haYtzL._SY355_.png')
+    addDir('Foreign Channels', '', 22,
+           'https://www.inquirer.com/resizer/eVOmYXsz5FaBFcUDeCAosuKSCYM=/1400x932/smart/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/X7GA4RXELJH7JFMTU4ONBWEPFU.jpg')
+    addDir('Adult\'s Only', '', 13,
+           'https://previews.123rf.com/images/123vector/123vector1403/123vector140300027/26460698-vector-illustration-of-red-adult-icon-on-white-background.jpg')
     if dev == 'true':
-        addDir('Testing', '', 5, 'http://icons.iconarchive.com/icons/aaron-sinuhe/series-season-folder/256/extras-icon.png')
-    addDir('[B] Settings [/B]', 'url', 4, 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyhtqOw2iVU3-nBZMb1cWTDw_bsR4dkNtLvSkqQn3jsApD1A3', Folder=False)
-    addDir('Refresh', '', 6, 'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png', Folder=False)
+        addDir('Testing', '', 5,
+               'http://icons.iconarchive.com/icons/aaron-sinuhe/series-season-folder/256/extras-icon.png')
+    addDir('[B] Settings [/B]', 'url', 4,
+           'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyhtqOw2iVU3-nBZMb1cWTDw_bsR4dkNtLvSkqQn3jsApD1A3', Folder=False)
+    addDir('Refresh', '', 6,
+           'https://maxcdn.icons8.com/app/uploads/2016/11/refresh1.png', Folder=False)
+    addDir('Changelog', '', 12,
+           'https://apprecs.org/gp/images/app-icons/300/ca/org.polaric.cyanogenmodchangelog.jpg', Folder=False)
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def ADULT():
+    if adult == 'false':
+        import xbmcgui
+        xbmcgui.Dialog().ok('Adults Only 18+', 'If Your 18 or Older Enable Adult Channels in Settings')
+        return
+    else:
+        LIST(userlists.adult)
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def changelog():
+    r = open(LOCALNEWS)
+    compfile = r.read()
+    showText('Changelog', compfile)
+
+
+def showText(heading, text):
+    id = 10147
+    xbmc.executebuiltin('ActivateWindow(%d)' % id)
+    xbmc.sleep(500)
+    win = xbmcgui.Window(id)
+    retry = 50
+    while retry > 0:
+        try:
+            xbmc.sleep(10)
+            retry -= 1
+            win.getControl(1).setLabel(heading)
+            win.getControl(5).setText(text)
+            quit()
+            return
+        except:
+            pass
 
 
 def CLICK_SHOWS():
@@ -350,6 +404,10 @@ elif mode == 10:
     CLICK_720()
 elif mode == 11:
     CLICK_SHOWS()
+elif mode == 12:
+    changelog()
+elif mode == 13:
+    ADULT()
 elif mode == 14:
     shows.SMALLVILLE()
 elif mode == 15:

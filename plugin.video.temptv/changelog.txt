@@ -1,3 +1,6 @@
+[COLOR gold]Beta Stage, Work in progress.[/COLOR]
+[COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
-[B]1.0.0[/B]
--TestRun.
+[B]1.0.18[/B]
+- Added Changlog
+- Code Update
