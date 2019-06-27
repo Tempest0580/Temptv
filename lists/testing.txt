@@ -2,26 +2,4 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2017/09/15/MetalocalypseV02.png" group-title="Adult Swim Marathons",Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8?thebestfreeenglishchannels.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/img/2014/05/28/SuperJail.png" group-title="Adult Swim Marathons",Super Jail!
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" group-title="24/7",Wipeout
-http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" group-title="24/7",The New Detectives
-http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" group-title="24/7",Gordon Ramsay's Kitchen
-http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/14307.jpg" group-title="24/7",Anime
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1 tvg-logo="https://asset-manager.bbcchannels.com/i/2fad61c20e61000" group-title="24/7",Doctor Who
-https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/3063648/playlist.m3u8?terminate=false&deviceId=&deviceVersion=&appVersion=&deviceType=&deviceMake=&sid=afm0olmob01dea5o07g90tqtu0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=&userId=&embedPartner=pluto.tv&appName=&serverSideAds=true&architecture=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/800px-Big_buck_bunny_poster_big.jpg" group-title="24/7",24/7 Big Buck Bunny
-http://live.mdcgate.com:8080/hls/bigbuckbunny.m3u8
