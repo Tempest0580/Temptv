@@ -7,7 +7,7 @@ http://stream.mslive.in:1935/jazz/gcb577/playlist.m3u8
 http://62.210.141.179:8000/ibrahim/123456/80
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/7926/entv_1_canal_algerie.png" group-title="Algeria(الدزاير)",Canal Algerie
 http://62.210.141.179:8000/ibrahim/123456/248
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Canal Algérie [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Canal Algérie [480p]
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/chaine-nord-africaine-frequence-nilesat.jpg" group-title="Algeria(الدزاير)",Chaine Nord Africaine
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8

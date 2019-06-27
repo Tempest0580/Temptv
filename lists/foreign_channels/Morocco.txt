@@ -5,7 +5,7 @@ http://62.210.141.179:8000/ibrahim/123456/243
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-E7VNuQR8aLk/WRlqX_ylxEI/AAAAAAAAAXE/tdfkCSeBbVEWvHF1Ik1eCpa8qF2gohqGgCLcB/w1200-h630-p-k-no-nu/oula.png" group-title="MOROCCO",Al Aoula (Opt-1)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AL AOULA HD [AR][360p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",AL AOULA HD [AR][360p]
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/4fa6baa5efe80971ec24ecbcb74b70d5.jpeg" group-title="MOROCCO",Al Aoula Laayoune
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
@@ -19,7 +19,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" group-title="Morooco(المغرب‎)",Assadissa
 http://62.210.141.179:8000/ibrahim/123456/244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Tamazight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="Morooco(المغرب‎)",Télé Maroc
 http://213.162.202.9:8000/play/a02a/index.m3u8

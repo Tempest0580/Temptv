@@ -5,7 +5,7 @@ http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
 http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="Kyrgyzstan(Кыргызстан)",КТРК
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Любимый HD/ТНТ4 (KG)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Любимый HD/ТНТ4 (KG)
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ktrk.kg/images/channels/nav/mtt.png" group-title="Kyrgyzstan(Кыргызстан)",Маданият Тарых
 http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8

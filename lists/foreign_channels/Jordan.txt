@@ -13,7 +13,7 @@ http://62.210.141.179:8000/ibrahim/123456/67
 http://62.210.141.179:8000/ibrahim/123456/21
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190278573311.png" group-title="Jordan(الْأُرْدُنّ)",Fnn Alhayeah TV
 http://62.210.141.179:8000/ibrahim/123456/4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER4",JORDAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="United Arab Emirates PREMIUM-SERVER4",JORDAN
 http://62.210.141.179:8000/live/ibrahim/123456/159.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i5.satexpat.com/cha/jo/jordan-today-95x37.gif" group-title="Jordan(الْأُرْدُنّ)",Jordan Today
 http://62.210.141.179:8000/ibrahim/123456/428

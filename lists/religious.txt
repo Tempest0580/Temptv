@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",CORNERSTONE TV [640p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",CORNERSTONE TV [640p]
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",DR GENE SCOTT [EN][480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",DR GENE SCOTT [EN][480p]
 http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",THE HOUSE OF YAHWEH [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",THE HOUSE OF YAHWEH [480p]
 http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",SBN INTERNATIONAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",SBN INTERNATIONAL
 http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch80/ch80.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",Impact TV [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",Impact TV [480p]
 http://206.190.141.27:1935/live/impact/playlist.m3u8

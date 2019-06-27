@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Weather Nation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DhyuABZ.png" group-title="USA",ABC News (SD)
@@ -51,31 +51,31 @@ https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/955830377733545984/JhptxLYU_400x400.jpg" group-title="News",Action News Now (KNVN) [432p]
 http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS 4 News [360p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS 4 News [360p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS 4 News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS 4 News [720p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS 4 News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS 4 News [720p]
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [360p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [360p]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [540p]
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [720p]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [720p]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [720p]
 http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",CBS News [720p]
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" group-title="USA-SERVER1",CBS News (CBSN)
@@ -84,10 +84,10 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" group-title="USA-SERVER1",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",CBN News [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Religious",CBN News [480p]
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHANNEL 11 NEWS WPXI PITTSBURGH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CHANNEL 11 NEWS WPXI PITTSBURGH
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="USA/Canada-WebTV",CTV News Live Events 1
@@ -102,7 +102,7 @@ http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/261m6it.jpg" group-title="USA/Canada-WebTV",CTV News Live Events 4
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",FiOS1 News Lower Hudson Valley [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",FiOS1 News Lower Hudson Valley [720p]
 https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2017/10/FOX-40-KTXL.jpg" group-title="Fox Regional(USA)",FOX 40 Sacramento (KTXL)
@@ -111,7 +111,7 @@ http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/WGHP_Fox_8_News_logo.png/225px-WGHP_Fox_8_News_logo.png" group-title="Fox Regional(USA)",Fox 8 North Point (WGHP)
 http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FOX News [144p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",FOX News [144p]
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" group-title="USA-SERVER1",FOX NEWS LD
@@ -120,19 +120,19 @@ https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" group-title="USA-SERVER1",FOX NEWS Talk - FOX NEWS Radio
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",FOX29
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="NEWS",FOX29
 http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png" group-title="USA LOCAL",KIRO 7 News (Seattle)
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KIRO 7 NEWS SEATTLE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",KIRO 7 NEWS SEATTLE
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KOMO 4 NEWS SEATTLE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",KOMO 4 NEWS SEATTLE
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",KRIS News [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",KRIS News [720p]
 http://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
@@ -177,13 +177,13 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTC
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/WHIO-TV-Channel-7-Ohio.jpg" group-title="USA LOCAL",News Center 7 (Ohio)
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWS CENTER 7 OHIO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",NEWS CENTER 7 OHIO
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.secondspace.com/ktvz/img/KTVZ_Widget.png" group-title="USA LOCAL",NewsChannel 21 (Oregon)
 http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Newsmax TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg" group-title="USA-SERVER1",Newsmax TV
@@ -195,7 +195,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NewsNetLogo.png" group-title="USA",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NEWSY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",NEWSY
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="USA",Newsy
@@ -207,7 +207,7 @@ http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwpix.files.wordpress.com/2015/09/2048x1536-news-copy.png" group-title="USA LOCAL",PIX 11 News (New York)
 https://api.new.livestream.com/accounts/8896933/events/3104530/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Real News With David Knight
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",Real News With David Knight
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT America (HD)
@@ -216,19 +216,19 @@ https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" group-title="News Channel",RT USA
 https://rt-usa.secure.footprint.net/1105.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US: United States",US: ESPN NEWS ENGLISH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="US: United States",US: ESPN NEWS ENGLISH
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WCCB News Rising
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",WCCB News Rising
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WCNC Breaking News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",WCNC Breaking News
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WGN 9 NEWS CHICAGO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",WGN 9 NEWS CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",WGN 9 NEWS CHICAGO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Local",WGN 9 NEWS CHICAGO
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/placeholder-16x9_1532051234409_12382778_ver1.0_320_180.png" group-title="USA LOCAL",Boston 25 News (Massachusetts)

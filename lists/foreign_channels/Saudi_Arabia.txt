@@ -11,15 +11,15 @@ http://62.210.141.179:8000/ibrahim/123456/39
 http://62.210.141.179:8000/ibrahim/123456/196
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15190294957541.png" group-title="Saudi Arabia(السعودية)",Al-Qassim
 http://62.210.141.179:8000/ibrahim/123456/91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United Arab Emirates PREMIUM-SERVER1",altanasuh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="United Arab Emirates PREMIUM-SERVER1",altanasuh
 http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asrar-nour.png" group-title="Saudi Arabia(السعودية)",Asrar Nour
 http://213.162.202.9:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="." group-title="News",BBC Arabic [360p]
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="." group-title="News",BBC Arabic [360p]
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="" group-title="News",BBC Arabic [360p]
+#EXTINF:-1 tvg-id="BBCArabic.sa" tvg-name="" tvg-logo="." group-title="News",BBC Arabic [360p]
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jascotvstreaming.com/uploads/topics/15189495329168.png" group-title="Saudi Arabia(السعودية)",Beity
 http://62.210.141.179:8000/ibrahim/123456/1172

@@ -19,7 +19,7 @@ http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8
 http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="PAKISTAN",Eye 95 TV (US)
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Geo News [360p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",Geo News [360p]
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jwand.tv/wp-content/uploads/2016/03/sehat-logo-2.png" group-title="PAKISTAN",Jwand TV
 http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
@@ -33,7 +33,7 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 https://etv-urdu.akamaized.net/i/etv_urdu_live_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ptv.com.pk/user/assets/images/ptvLogos/ptvHomeLogo1.png" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",PTV Home
 http://67.231.248.131:1935/live/PTVhome/chunklist_w1961087555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",PTV News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",PTV News
 http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PAKISTAN",PTV Sports
 https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?fluxustv.m3u8
@@ -41,7 +41,7 @@ https://5c1666995e3bc.streamlock.net/live/ptvsports/chunklist_w1544679165.m3u8?f
 http://67.231.248.131:1935/live/8090/chunklist_w2102431795.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/logos/subrang-tv-usa.png" group-title="PAKISTAN",Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PAKISTAN",Tez
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="PAKISTAN",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dVDzRTu.jpg" group-title="Pakistan/Urdu(اکِستان‬‎/اُردُو‬‎)",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8

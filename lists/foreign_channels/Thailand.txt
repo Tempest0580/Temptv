@@ -21,9 +21,9 @@ http://27.254.130.64/live01/1.m3u8?p=iptv
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thaich2.com/images/logoch2-nm.png" group-title="THAILAND",Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHANNEL 8 [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CHANNEL 8 [720p]
 http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CHANNEL 8 [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",CHANNEL 8 [720p]
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daradaily.com/images/daradaily_logo_8_2017.png" group-title="Thailand (ประเทศไทย)",Dara Daily
 http://27.254.130.64/live01/wl16.m3u8?p=iptv
@@ -43,7 +43,7 @@ http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 http://183.182.100.184/live/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ce/MCOT_Family_14.png" group-title="Thailand (ประเทศไทย)",MCOT Family 14
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w524236822_b2000000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shop",MCOT FAMILY 14 [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Shop",MCOT FAMILY 14 [720p]
 http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w969608825_b2000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv.jpg" group-title="Thailand (ประเทศไทย)",MVTV
 https://edge1a.v2h-cdn.com/appt7/MVTV.stream_720p/chunklist_w1224574036.m3u8
@@ -65,9 +65,9 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 http://183.182.100.184/live/onehd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/PPTV_HD_36_Logo.svg/300px-PPTV_HD_36_Logo.svg.png" group-title="Thailand (ประเทศไทย)",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SABAIDEE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",SABAIDEE TV
 http://stream.rs.co.th/sbd-low/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",sbd TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",sbd TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png" group-title="Thailand (ประเทศไทย)",Suwannabhumi TV
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
@@ -75,11 +75,11 @@ http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 https://edge1a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1960436073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://program.thaipbs.or.th/images/live-cover.png" group-title="Thailand (ประเทศไทย)",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="THAILAND",Thai:CHANNEL 8 s2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="THAILAND",Thai:CHANNEL 8 s2
 http://stream.rs.co.th/ch8-low/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/whitechannel.tv/wp-content/uploads/2019/03/whitelogo-1.png" group-title="Thailand (ประเทศไทย)",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/Workpoint_TV_Logo.png" group-title="Thailand (ประเทศไทย)",Workpoint
 http://122.155.205.9/live/workpoint.stream/chunklist_w87001385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YOU CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",YOU CHANNEL
 http://stream.rs.co.th/you-hi/index.m3u8

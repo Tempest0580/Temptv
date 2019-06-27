@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",1 JattTV.CoM TV Urban Desi Musix [1080p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",1 JattTV.CoM TV Urban Desi Musix [1080p]
 http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="UK",Al Jazeera English (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
@@ -19,7 +19,7 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8?fluxustv.m3u8
 http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KacMcVa.png" group-title="UK",CNN International (Opt-1)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",DesiBoX.DeSi TV Urban Desi Musix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Music",DesiBoX.DeSi TV Urban Desi Musix
 http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="UK",DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8

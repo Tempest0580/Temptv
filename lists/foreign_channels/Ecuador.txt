@@ -21,9 +21,9 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4720
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4705
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-4V3uM18vSVo/UaVnkSeIWMI/AAAAAAAABYs/VWe3Jf5u7C8/s1600/Tc_logo+sivergametv.png" group-title="ECUADOR",TC
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2297
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TC [480p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TC [480p]
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TC [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",TC [720p]
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forosecuador.ec/imgfe/ver-teleamazonas-en-vivo-online.png" group-title="ECUADOR",Teleamazonas
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2289
@@ -33,5 +33,5 @@ http://servpremium.net:25461/Claudio3/xjlDqj60ef/4718
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/2286
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png" group-title="ECUADOR",TVC
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4703
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",UCSG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",UCSG
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8

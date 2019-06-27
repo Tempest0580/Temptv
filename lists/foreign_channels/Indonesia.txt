@@ -21,7 +21,7 @@ http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",DAII TV HD
 http://e1-hk-1.nim.mivo.tv/daaitv/daaitv2_all/skrz1j8exe/daaitv2_576p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA",DANG TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="INDONESIA",DANG TV
 https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",DANGDUT TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
@@ -29,7 +29,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FMy8rhc.png" group-title="INDONESIA",Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Food",Foodie Channel [540p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="Food",Foodie Channel [540p]
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Global_TV_2008.png" group-title="Indonesia",Global TV
 http://202.80.222.182:80/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -37,11 +37,11 @@ http://202.80.222.182:80/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain
 http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/MNC_HomeLiving.jpeg" group-title="Indonesia",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",Indonesian: TVRI ACEH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",Indonesian: TVRI ACEH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",Indonesian: TVRI RIAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",Indonesian: TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",Indonesian: TVRI SUMBAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",Indonesian: TVRI SUMBAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",Indosiar
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -55,7 +55,7 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.techinasia.com/data/images/YesyMxHgCzyipuMqU5TLhs83cINKGYj6V0z7HB0U.jpeg" group-title="Indonesia",JAK tv
 http://202.80.222.182:80/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",JAKARTA GLOBE [720p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="News",JAKARTA GLOBE [720p]
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5L2EGWA.png" group-title="INDONESIA",JakTV
 http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -69,7 +69,7 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARAOKE CHANNEL" tvg-logo="https://mncchannels.com/files/logo/1440755188_logo_mnc-karaoke.png" group-title="INDO-TV",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="South Korea(한국어)",KBS World (Indonesia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="South Korea(한국어)",KBS World (Indonesia)
 http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
 http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -99,9 +99,9 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/375px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
 http://202.80.222.171:80/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBO NEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="",SBO NEWS
 http://stream.sbo.co.id:1935/sbotv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDOTV",SBO TV SURABAYA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="INDOTV",SBO TV SURABAYA
 http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
 http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -139,7 +139,7 @@ http://202.80.222.182/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=00
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVR PARLEMEN" tvg-logo="Logo N/A" group-title="INDO-TV",TVR PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI (Opt-1)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -151,49 +151,49 @@ http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Aceh 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Aceh 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Babel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI BALI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI BALI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI BALI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI BALI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bali 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bali 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bali 360p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bali 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI BANGKA BELITUNG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI BANGKA BELITUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Bangka Belitung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bangka Belitung 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bangka Belitung 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI BENGKULU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI BENGKULU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bengkulu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bengkulu 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bengkulu 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Bengkulu 360p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Bengkulu 360p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI BUDAYA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI BUDAYA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Budaya 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Budaya 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI DKI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI DKI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI GORONTALO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI GORONTALO
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Gorontalo 180p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Gorontalo 180p
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI JAMBI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Jambi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
@@ -201,89 +201,89 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Local Channel",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI JAWA TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI JAWA TIMUR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI JAWA TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Jogja
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Jogja
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Kalimantan Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI KALIMANTAN TENGAH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI KALIMANTAN TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI KALIMANTAN TIMUR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI KALIMANTAN TIMUR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="INDONESIA",TVRI Kalsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",TVRI KALSEL BANJARMASIN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI KaltimSamarinda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI KaltimSamarinda
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Kupang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Kupang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Makassar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Makassar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI MALUKU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI MALUKU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Maluku Ambon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Maluku Ambon
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Medan
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Medan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI MEDAN SUMUT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI MEDAN SUMUT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI NTB Mataram
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI NTB Mataram
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI NTT Kupang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI NTT Kupang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI NUSA TENGGARA BARAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI NUSA TENGGARA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Nusa Tenggara Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Padang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Padang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Palembang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Palembang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Papau
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI PAPUA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Pekan Baru
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Pekan Baru
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI RIAU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",TVRI Samarinda
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Semarang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Semarang
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL DAERAH",TVRI SPORT
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SULAWESI BARAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SULAWESI BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SULAWESI SELATAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SULAWESI SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SULAWESI TENGAH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SULAWESI TENGAH
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SULAWESI TENGGARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SULAWESI TENGGARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SULAWESI UTARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SULAWESI UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Sulut
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Sulut
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Sumatera Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SUMATERA BARAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SUMATERA BARAT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SUMATERA SELATAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SUMATERA SELATAN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvri.co.id/images/logo.png" group-title="Indonesia",TVRI Sumatera Seletan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI SUMATERA UTARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI SUMATERA UTARA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI Surabaya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI Surabaya
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-SERVER1",TVRI YOGYAKARTA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="." group-title="India-SERVER1",TVRI YOGYAKARTA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VOICE OF AMERICA (ARA)" tvg-logo="Logo N/A" group-title="INDO-TV",VOICE OF AMERICA (ARA)
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
