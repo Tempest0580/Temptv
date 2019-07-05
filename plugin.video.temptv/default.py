@@ -109,12 +109,14 @@ def CLICK_SHOWS():
     addDir('Designated Survivor', '', 23, 'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg')
     addDir('House MD', '', 19, 'https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png')
     addDir('Izombie', '', 21, 'https://images-na.ssl-images-amazon.com/images/I/51msaPPK-sL._SY445_.jpg')
-    addDir('Murder She Wrote', '', 2, 'https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg')
+    addDir('Murder She Wrote', '', 24, 'https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg')
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
     # addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
     addDir('Stargate SG1', '', 18, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/stargate_sg-1_cast.jpg?itok=EucgrKA3')
     addDir('Supernatural', '', 17, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5')
     addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
+    addDir('The Twilight Zone 2019', '', 25, 'https://m.media-amazon.com/images/M/MV5BNzNkNjM0YTEtY2MwNi00OTJmLWFhMjAtN2M0ZTMwOTMxOTY1XkEyXkFqcGdeQXVyMjIwMjY2MzU@._V1_UY268_CR1,0,182,268_AL_.jpg')
+    addDir('The Office', '', 26, 'https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
     # addDir('', '', 20, '')
 
@@ -432,3 +434,8 @@ elif mode == 23:
     shows.Designated_Survivor()
 elif mode == 24:
     shows.MURDER_SHE_WROTE()
+elif mode == 25:
+    shows.TWILIGHT()
+elif mode == 26:
+    shows.THE_OFFICE()
+

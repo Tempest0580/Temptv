@@ -131,6 +131,18 @@ murder_she_wrote1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master
 murder_she_wrote2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
 murder_she_wrote3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
 
+twilight = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/twilight/season1.txt'
+
+the_office1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season1.txt'
+the_office2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season2.txt'
+the_office3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season3.txt'
+the_office4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season4.txt'
+the_office5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season5.txt'
+the_office6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season6.txt'
+the_office7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season7.txt'
+the_office8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season8.txt'
+the_office9 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season9.txt'
+
 Afghanistan = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Afghanistan.txt'
 Albania = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Albania.txt'
 Algeria = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt'

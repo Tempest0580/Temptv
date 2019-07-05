@@ -134,3 +134,22 @@ def MURDER_SHE_WROTE():
     addDir('Season 2', userlists.murder_she_wrote2, 2, 'https://oldies-cdn.freetls.fastly.net/i/boxart/w340/a-z/m/mhv61129410d.jpg?v=5')
     addDir('Season 3', userlists.murder_she_wrote3, 2, 'https://images-na.ssl-images-amazon.com/images/I/51fhtaqKvGL._SY445_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def TWILIGHT():
+    addDir('Season 1', userlists.twilight1, 2,
+           'https://images-na.ssl-images-amazon.com/images/I/513AD9ZVJQL.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def THE_OFFICE():
+    addDir('Season 1', userlists.the_office1, 2, 'https://upload.wikimedia.org/wikipedia/en/b/b6/TheOfficeUSSeason1Cover.jpg')
+    addDir('Season 1', userlists.the_office2, 2, 'https://upload.wikimedia.org/wikipedia/en/9/96/Office_Season_2.jpg')
+    addDir('Season 1', userlists.the_office3, 2, 'https://upload.wikimedia.org/wikipedia/en/2/24/TheOfficeUSSeason3Cover.jpg')
+    addDir('Season 1', userlists.the_office4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/The_Office_Season_Four_DVD_Cover.jpg/250px-The_Office_Season_Four_DVD_Cover.jpg')
+    addDir('Season 1', userlists.the_office5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Office_S5_DVD.JPG/250px-Office_S5_DVD.JPG')
+    addDir('Season 1', userlists.the_office6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/TheOffice_S6_DVD.jpg/250px-TheOffice_S6_DVD.jpg')
+    addDir('Season 1', userlists.the_office7, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/5/58/TheOffice_S7_DVD.jpg/250px-TheOffice_S7_DVD.jpg')
+    addDir('Season 1', userlists.the_office8, 2, 'https://upload.wikimedia.org/wikipedia/en/a/ae/The_Office_Season_8.jpg')
+    addDir('Season 1', userlists.the_office9, 2, 'https://upload.wikimedia.org/wikipedia/en/3/32/The_Office_S9_DVD.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
