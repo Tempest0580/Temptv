@@ -124,6 +124,13 @@ ballers2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/sh
 ballers3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season3.txt'
 ballers4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season4.txt'
 
+designated_survivor1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/season1.txt'
+designated_survivor2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/season2.txt'
+
+murder_she_wrote1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
+murder_she_wrote2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
+murder_she_wrote3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
+
 Afghanistan = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Afghanistan.txt'
 Albania = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Albania.txt'
 Algeria = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt'

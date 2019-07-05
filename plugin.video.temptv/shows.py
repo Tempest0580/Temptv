@@ -119,3 +119,18 @@ def BALLERS():
     addDir('Season 3', userlists.ballers3, 2, 'https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/25/13/65/25136577-2b8c-64e8-7f6c-ae9fa5b8c91a/mzl.lozwsaqw.lsr/268x0w.jpg')
     addDir('Season 4', userlists.ballers4, 2, 'https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def Designated_Survivor():
+    addDir('Season 1', userlists.designated_survivor1, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Designated_Survivor_season_1_dvd.jpg/250px-Designated_Survivor_season_1_dvd.jpg')
+    addDir('Season 1', userlists.designated_survivor1, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def MURDER_SHE_WROTE():
+    addDir('Season 1', userlists.murder_she_wrote1, 2, 'https://images-na.ssl-images-amazon.com/images/I/513AD9ZVJQL.jpg')
+    addDir('Season 2', userlists.murder_she_wrote2, 2, 'https://oldies-cdn.freetls.fastly.net/i/boxart/w340/a-z/m/mhv61129410d.jpg?v=5')
+    addDir('Season 3', userlists.murder_she_wrote3, 2, 'https://images-na.ssl-images-amazon.com/images/I/51fhtaqKvGL._SY445_.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))

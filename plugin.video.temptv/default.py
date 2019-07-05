@@ -106,8 +106,10 @@ def showText(heading, text):
 def CLICK_SHOWS():
     addDir('Ballers', '', 20, 'https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg')
     addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
+    addDir('Designated Survivor', '', 23, 'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg')
     addDir('House MD', '', 19, 'https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png')
     addDir('Izombie', '', 21, 'https://images-na.ssl-images-amazon.com/images/I/51msaPPK-sL._SY445_.jpg')
+    addDir('Murder She Wrote', '', 2, 'https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg')
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
     # addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
     addDir('Stargate SG1', '', 18, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/stargate_sg-1_cast.jpg?itok=EucgrKA3')
@@ -426,3 +428,7 @@ elif mode == 21:
     shows.IZOMBIE()
 elif mode == 22:
     FOREIGN()
+elif mode == 23:
+    shows.Designated_Survivor()
+elif mode == 24:
+    shows.MURDER_SHE_WROTE()

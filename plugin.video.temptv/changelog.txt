@@ -2,7 +2,7 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
 [B]1.0.19[/B]
--
+- Added 1 Click Shows
 
 [B]1.0.18[/B]
 - Added Changlog
