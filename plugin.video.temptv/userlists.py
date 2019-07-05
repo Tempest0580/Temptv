@@ -133,8 +133,8 @@ murder_she_wrote3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master
 
 twilight1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/twilight/season1.txt'
 
-star_trek_dis1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star _trek_discovery/season1.txt'
-star_trek_dis2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star _trek_discovery/season2.txt'
+star_trek_dis1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star_trek_discovery/season1.txt'
+star_trek_dis2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star_trek_discovery/season2.txt'
 
 lie_to_me1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season1.txt'
 lie_to_me2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season2.txt'

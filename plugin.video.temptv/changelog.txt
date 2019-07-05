@@ -1,6 +1,9 @@
 [COLOR gold]Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
+[B]1.0.22[/B]
+- Typos
+
 [B]1.0.21[/B]
 - Added Star Trek Discovery (Tv Show)
 - Added Chicago PD (Tv show)
