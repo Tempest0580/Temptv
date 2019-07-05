@@ -131,7 +131,14 @@ murder_she_wrote1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master
 murder_she_wrote2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
 murder_she_wrote3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.txt'
 
-twilight = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/twilight/season1.txt'
+twilight1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/twilight/season1.txt'
+
+star_trek_dis1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star _trek_discovery/season1.txt'
+star_trek_dis2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/star _trek_discovery/season2.txt'
+
+lie_to_me1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season1.txt'
+lie_to_me2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season2.txt'
+lie_to_me3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season3.txt'
 
 the_office1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season1.txt'
 the_office2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season2.txt'

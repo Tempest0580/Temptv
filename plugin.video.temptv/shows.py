@@ -153,3 +153,26 @@ def THE_OFFICE():
     addDir('Season 1', userlists.the_office8, 2, 'https://upload.wikimedia.org/wikipedia/en/a/ae/The_Office_Season_8.jpg')
     addDir('Season 1', userlists.the_office9, 2, 'https://upload.wikimedia.org/wikipedia/en/3/32/The_Office_S9_DVD.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def STAR_TREK_DIS():
+    addDir('Season 1', userlists.star_trek_dis1, 2, 'https://images-na.ssl-images-amazon.com/images/I/91UII5jLUOL._SX342_.jpg')
+    addDir('Season 1', userlists.star_trek_dis2, 2, 'https://cdn.shopify.com/s/files/1/0004/3407/7751/products/ST2_177d170c-4551-400b-85e7-aa00c5729937_300x300.jpg?v=1556945297')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def CHICAGO_PD():
+    addDir('Season 1', userlists.chicago_pd1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Chicago_P.D._Season_1_DVD_Cover.jpg/220px-Chicago_P.D._Season_1_DVD_Cover.jpg')
+    addDir('Season 1', userlists.chicago_pd2, 2,  'https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Chicago_P.D._Season_2_DVD_Cover.jpg/220px-Chicago_P.D._Season_2_DVD_Cover.jpg')
+    addDir('Season 1', userlists.chicago_pd3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Chicago_P.D._Season_3_DVD_Cover.jpg/220px-Chicago_P.D._Season_3_DVD_Cover.jpg')
+    addDir('Season 1', userlists.chicago_pd4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/73/CPD_S4_DVD.jpg/220px-CPD_S4_DVD.jpg')
+    addDir('Season 1', userlists.chicago_pd5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Season_5_DVD_Cover_art_of_American_police_drama%2C_Chicago_P.D.jpg/220px-Season_5_DVD_Cover_art_of_American_police_drama%2C_Chicago_P.D.jpg')
+    addDir('Season 1', userlists.chicago_pd6, 2, 'https://pbs.twimg.com/media/D0R3-YmV4AAA7pk.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def LIE_TO_ME():
+    addDir('Season 1', userlists.lie_to_me1, 2, 'https://images-na.ssl-images-amazon.com/images/I/81O74Gm%2BCVL._SX342_.jpg')
+    addDir('Season 2', userlists.lie_to_me2, 2, 'https://images-na.ssl-images-amazon.com/images/I/51%2BDKcqi1JL._SY445_.jpg')
+    addDir('Season 3', userlists.lie_to_me3, 2, 'https://images-na.ssl-images-amazon.com/images/I/91OfikX%2BxsL._SY445_.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))

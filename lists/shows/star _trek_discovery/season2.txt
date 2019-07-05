@@ -1,0 +1,30 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E01" tvg-logo="http://lltv.xyz:80/images/jT0JIyQvtXw5BDAqPFSuT4meLAd_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94120.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E02" tvg-logo="http://lltv.xyz:80/images/h9ZYhEnqvJSwuv6cKIxVSR2gN1o_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94121.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E03" tvg-logo="http://lltv.xyz:80/images/7y1Zy7TYi1aJuAhrEV3Q0GZCQXu_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94122.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E04" tvg-logo="http://lltv.xyz:80/images/5QgW74tBHmJfOKLX0TfoxB8xbtn_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94123.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E05" tvg-logo="http://lltv.xyz:80/images/hNvtDxwd9S0BV5bmFKeCOUzyRXy_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94124.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E06" tvg-logo="http://lltv.xyz:80/images/p7LJCMh8HSHBTdNZpDOecjQYZcL_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94125.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E07" tvg-logo="http://lltv.xyz:80/images/7r3lfBzO8qzrx5hn8NIolNQMGlO_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94126.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E08" tvg-logo="http://lltv.xyz:80/images/g1OrVIez6SHR2iYrQucy8XNi5lU_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94127.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E09" tvg-logo="http://lltv.xyz:80/images/xUkQYXYUk0EZyVIsyh48kWAHylX_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94128.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E10" tvg-logo="http://lltv.xyz:80/images/v4qsjzl7EMsVKBxa87oImMu0dGz_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94129.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E11" tvg-logo="http://lltv.xyz:80/images/bs6MVPyHp5vddM2d1TsscqPkvK7_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94130.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E12" tvg-logo="http://lltv.xyz:80/images/dSt1LPNujIxf46q44oeMxqcZxs6_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94131.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E13" tvg-logo="http://lltv.xyz:80/images/3soiGu48m4r77tZ7mNaAMvBH5r7_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94132.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Discovery S02 E14" tvg-logo="http://lltv.xyz:80/images/soKZNBBM6gko0GTITyoOqQo0zhX_small.jpg" group-title="Netflix | Originals",Star Trek: Discovery S02 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94133.mkv 
