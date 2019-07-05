@@ -35,6 +35,17 @@ def addDir(name, url, mode, iconimage, Folder=True):
     return ok
 
 
+def ARROW():
+    addDir('Season 1', userlists.arrow1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png')
+    addDir('Season 2', userlists.arrow2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png')
+    addDir('Season 3', userlists.arrow3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Arrow_Season_3.png/220px-Arrow_Season_3.png')
+    addDir('Season 4', userlists.arrow4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_4.jpg/220px-Arrow_season_4.jpg')
+    addDir('Season 5', userlists.arrow5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Arrow_season_5.jpg/220px-Arrow_season_5.jpg')
+    addDir('Season 6', userlists.arrow6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Arrow_season_6.jpg/220px-Arrow_season_6.jpg')
+    addDir('Season 7', userlists.arrow7, 2, 'https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
 def SMALLVILLE():
     addDir('Season 1', userlists.smallville1, 2, "https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg")
     addDir('Season 2', userlists.smallville2, 2, "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg")
@@ -174,4 +185,39 @@ def LIE_TO_ME():
     addDir('Season 1', userlists.lie_to_me1, 2, 'https://images-na.ssl-images-amazon.com/images/I/81O74Gm%2BCVL._SX342_.jpg')
     addDir('Season 2', userlists.lie_to_me2, 2, 'https://images-na.ssl-images-amazon.com/images/I/51%2BDKcqi1JL._SY445_.jpg')
     addDir('Season 3', userlists.lie_to_me3, 2, 'https://images-na.ssl-images-amazon.com/images/I/91OfikX%2BxsL._SY445_.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def NEW_GIRL():
+    addDir('Season 1', userlists.new_girl1, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/New_Girl_S1_DVD.jpg/220px-New_Girl_S1_DVD.jpg')
+    addDir('Season 2', userlists.new_girl2, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/9/94/New_Girl_S2.jpg/220px-New_Girl_S2.jpg')
+    addDir('Season 3', userlists.new_girl3, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/3/37/New_Girl_S3_DVD.jpg/220px-New_Girl_S3_DVD.jpg')
+    addDir('Season 4', userlists.new_girl4, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/New_Girl_season_4_DVD.png/220px-New_Girl_season_4_DVD.png')
+    addDir('Season 5', userlists.new_girl5, 2,
+           'https://upload.wikimedia.org/wikipedia/en/e/eb/New_Girl_Season5Cover.png')
+    addDir('Season 6', userlists.chicago_pd6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/New_Girl_season_6_DVD.png/220px-New_Girl_season_6_DVD.png')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def SUITS():
+    addDir('Season 1', userlists.suits1, 2,
+           'https://upload.wikimedia.org/wikipedia/en/2/2c/SuitsSeasn1DVDCover.jpg')
+    addDir('Season 2', userlists.suits2, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Suits_season_2_dvd.jpg/240px-Suits_season_2_dvd.jpg')
+    addDir('Season 3', userlists.suits3, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Suits_season_3_dvd.jpg/230px-Suits_season_3_dvd.jpg')
+    addDir('Season 4', userlists.suits4, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Suits_season_4_dvd.jpg/220px-Suits_season_4_dvd.jpg')
+    addDir('Season 5', userlists.suits5, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Suits_season_5_dvd.jpg/220px-Suits_season_5_dvd.jpg')
+    addDir('Season 6', userlists.suits6, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Suits_Season_6_DVD_Cover.jpg/220px-Suits_Season_6_DVD_Cover.jpg')
+    addDir('Season 7', userlists.suits7, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Suits_season_7_dvd_cover.jpg/220px-Suits_season_7_dvd_cover.jpg')
+    addDir('Season 8', userlists.suits8, 2,
+           'https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Suits_season_8_part_1_dvd_cover.jpg/220px-Suits_season_8_part_1_dvd_cover.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))

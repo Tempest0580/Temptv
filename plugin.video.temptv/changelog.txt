@@ -1,6 +1,11 @@
 [COLOR gold]Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
+[B]1.0.23[/B]
+- Added Arrow (Tv show)
+- Added New Girl (Tv show)
+- Added Suits (Tv show)
+
 [B]1.0.22[/B]
 - Typos
 

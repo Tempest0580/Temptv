@@ -1,0 +1,44 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E01" tvg-logo="http://lltv.xyz:80/images/6pGaon1J1z7H3cDAWIKqTRPWoKw_small.jpg" group-title="US | TV Series",Arrow S07 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93181.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E02" tvg-logo="http://lltv.xyz:80/images/iFxzAJNYZBPhTEACL9JPaegMGG9_small.jpg" group-title="US | TV Series",Arrow S07 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93182.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E03" tvg-logo="http://lltv.xyz:80/images/1A9JEQeFibzGGPRLiKi0MySQGsM_small.jpg" group-title="US | TV Series",Arrow S07 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93183.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E04" tvg-logo="http://lltv.xyz:80/images/47AI8DP9hwVF5Hmd0gZyEFpJ4Xf_small.jpg" group-title="US | TV Series",Arrow S07 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93184.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E05" tvg-logo="http://lltv.xyz:80/images/6FEFqcj0wdtrhZ6JkuLqK1jvei6_small.jpg" group-title="US | TV Series",Arrow S07 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93185.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E06" tvg-logo="http://lltv.xyz:80/images/9B7qd9YAXO3qzRnlwvjxVlmIjsc_small.jpg" group-title="US | TV Series",Arrow S07 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93186.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E07" tvg-logo="http://lltv.xyz:80/images/bdeL2YYGo5vZY0Wzw3YCNg4NyOv_small.jpg" group-title="US | TV Series",Arrow S07 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93187.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E08" tvg-logo="http://lltv.xyz:80/images/2gQdHwFkmUaF7z9IvVxFZWgJdmd_small.jpg" group-title="US | TV Series",Arrow S07 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93188.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E09" tvg-logo="http://lltv.xyz:80/images/aOy8HD77BGWQL8EVjadlJplWSxs_small.jpg" group-title="US | TV Series",Arrow S07 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/93189.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E10" tvg-logo="http://lltv.xyz:80/images/nfmZndZFwB692OjLtyP2AgNot7I_small.jpg" group-title="US | TV Series",Arrow S07 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95204.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E11" tvg-logo="http://lltv.xyz:80/images/iBQhqBxCJ1SO83NnFg6uBrsPUeB_small.jpg" group-title="US | TV Series",Arrow S07 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95205.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E12" tvg-logo="http://lltv.xyz:80/images/hlqzGOIzGPCQDTFw1szuTBUO9Mg_small.jpg" group-title="US | TV Series",Arrow S07 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95206.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E13" tvg-logo="http://lltv.xyz:80/images/oDTIQrnYtkQLH3EPEZ6XETcIEzZ_small.jpg" group-title="US | TV Series",Arrow S07 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95207.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E14" tvg-logo="http://lltv.xyz:80/images/fh0xtcDNSBs4ejYZ0w3Loh2x5mw_small.jpg" group-title="US | TV Series",Arrow S07 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95208.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E15" tvg-logo="http://lltv.xyz:80/images/5ZGMcPQhTjHiKLtKcBSyUErkw2k_small.jpg" group-title="US | TV Series",Arrow S07 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95209.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E16" tvg-logo="http://lltv.xyz:80/images/8kJmuRmpieBX03YL70BFWPZBlhp_small.jpg" group-title="US | TV Series",Arrow S07 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95210.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E17" tvg-logo="http://lltv.xyz:80/images/dRCDMIGk5tw60Nlv9brAyCAbrRf_small.jpg" group-title="US | TV Series",Arrow S07 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95211.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E18" tvg-logo="http://lltv.xyz:80/images/y4i2HOSUCxNb5qsXycA7F3JkwWz_small.jpg" group-title="US | TV Series",Arrow S07 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95212.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E19" tvg-logo="http://lltv.xyz:80/images/xU1h5YDDhCXvQpfTxnDUN89ihEa_small.jpg" group-title="US | TV Series",Arrow S07 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95213.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E20" tvg-logo="http://lltv.xyz:80/images/pjE69p8ysl1tNQcNxanV0TPC0Tw_small.jpg" group-title="US | TV Series",Arrow S07 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95214.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Arrow S07 E21" tvg-logo="http://lltv.xyz:80/images/kH3EyD1IibKqyB3MGiIzyAIpdyg_small.jpg" group-title="US | TV Series",Arrow S07 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95215.mkv 

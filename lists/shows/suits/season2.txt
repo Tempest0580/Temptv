@@ -1,0 +1,34 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E01" tvg-logo="http://lltv.xyz:80/images/gi1DQ0wSPkEbxSZReL73ESsS2XB_small.jpg" group-title="US | TV Series",Suits S02 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95389.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E02" tvg-logo="http://lltv.xyz:80/images/clxK6oT6F5FD8EWsg3J0CiQIXWx_small.jpg" group-title="US | TV Series",Suits S02 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95390.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E03" tvg-logo="http://lltv.xyz:80/images/sQ6oD8xZ2lJwvhk01jQ5QPF6syI_small.jpg" group-title="US | TV Series",Suits S02 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95391.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E04" tvg-logo="http://lltv.xyz:80/images/7VdwhntEMnIz1EhxkcRk09gv5ts_small.jpg" group-title="US | TV Series",Suits S02 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95392.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E05" tvg-logo="http://lltv.xyz:80/images/adxd0ppqT9zOynFvtSjl7Fq5knP_small.jpg" group-title="US | TV Series",Suits S02 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95393.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E06" tvg-logo="http://lltv.xyz:80/images/bwTLLOML8VpuJ3ACrY3yHCqGJqc_small.jpg" group-title="US | TV Series",Suits S02 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95394.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E07" tvg-logo="http://lltv.xyz:80/images/gv7yM01BPxu5IEyiOXAlriqKIV7_small.jpg" group-title="US | TV Series",Suits S02 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95395.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E08" tvg-logo="http://lltv.xyz:80/images/cQ29XCZiAyiDpKnmB6hTAJSgR9u_small.jpg" group-title="US | TV Series",Suits S02 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95396.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E09" tvg-logo="http://lltv.xyz:80/images/3bprO7iFRbHpjJzRsFjvjDjQIYm_small.jpg" group-title="US | TV Series",Suits S02 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95397.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E10" tvg-logo="http://lltv.xyz:80/images/muaurjvMczn6PZE2hOGKuh4EkqR_small.jpg" group-title="US | TV Series",Suits S02 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95398.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E11" tvg-logo="http://lltv.xyz:80/images/mUJTSMmxpXL9hiDI0wCdAW39H81_small.jpg" group-title="US | TV Series",Suits S02 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95399.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E12" tvg-logo="http://lltv.xyz:80/images/7fY3QJRQGtdYsMbteTw30GarU79_small.jpg" group-title="US | TV Series",Suits S02 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95400.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E13" tvg-logo="http://lltv.xyz:80/images/dzyXiBetjvP4lAtvMzz5IDww1ae_small.jpg" group-title="US | TV Series",Suits S02 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95401.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E14" tvg-logo="http://lltv.xyz:80/images/v181BTgvU1Adn6LeR5VYEkqNIm_small.jpg" group-title="US | TV Series",Suits S02 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95402.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E15" tvg-logo="http://lltv.xyz:80/images/jDzK1uE2ied6viZ98uDtx3xjJEw_small.jpg" group-title="US | TV Series",Suits S02 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95403.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Suits S02 E16" tvg-logo="http://lltv.xyz:80/images/wqLV57rFhBS5LyWKf1koHKcwETd_small.jpg" group-title="US | TV Series",Suits S02 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95404.mkv 

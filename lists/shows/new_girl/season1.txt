@@ -1,0 +1,50 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E01" tvg-logo="http://lltv.xyz:80/images/tRT6I3fyex5Ft41F2ZQnk8s25nC_small.jpg" group-title="US | TV Series",New Girl S01 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94138.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E02" tvg-logo="http://lltv.xyz:80/images/c23098HaZnczNYHI0LD2nuSeGKU_small.jpg" group-title="US | TV Series",New Girl S01 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94139.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E03" tvg-logo="http://lltv.xyz:80/images/hasIrlgkoTHAWtUk8xcB5ETqjs6_small.jpg" group-title="US | TV Series",New Girl S01 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94140.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E04" tvg-logo="http://lltv.xyz:80/images/b006ZAXbvnWGPRJUWmsSBnFVZM6_small.jpg" group-title="US | TV Series",New Girl S01 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94141.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E05" tvg-logo="http://lltv.xyz:80/images/crwWepZXgVx44Bs6L5cu58tnElI_small.jpg" group-title="US | TV Series",New Girl S01 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94142.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E06" tvg-logo="http://lltv.xyz:80/images/jEcvFFGV3d5BeFrFWUoitUxTRaz_small.jpg" group-title="US | TV Series",New Girl S01 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94143.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E07" tvg-logo="http://lltv.xyz:80/images/eRWvYgQnHLZW4X1lVF1DV8l0ibi_small.jpg" group-title="US | TV Series",New Girl S01 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94144.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E08" tvg-logo="http://lltv.xyz:80/images/wiBJ3flxrV6Vt5EFwco1zZTxQTi_small.jpg" group-title="US | TV Series",New Girl S01 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94145.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E09" tvg-logo="http://lltv.xyz:80/images/mFXynHZNZLKbFLUhvaYMBEB9dqb_small.jpg" group-title="US | TV Series",New Girl S01 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94146.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E10" tvg-logo="http://lltv.xyz:80/images/jDP1zlDgFy4maKrR38DtAqVxQfT_small.jpg" group-title="US | TV Series",New Girl S01 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94147.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E11" tvg-logo="http://lltv.xyz:80/images/4kGZIfYEYyhmarb0HsMzWrZpeTX_small.jpg" group-title="US | TV Series",New Girl S01 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94148.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E12" tvg-logo="http://lltv.xyz:80/images/veNVSNkmMiJB4NXLzI4TP51k9Vl_small.jpg" group-title="US | TV Series",New Girl S01 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94149.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E13" tvg-logo="http://lltv.xyz:80/images/sxtol10fWOWa4QHVg6UsEi1aGBD_small.jpg" group-title="US | TV Series",New Girl S01 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94150.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E14" tvg-logo="http://lltv.xyz:80/images/9iJlZJLYU2xObajrCcHVlL0Qswv_small.jpg" group-title="US | TV Series",New Girl S01 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94151.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E15" tvg-logo="http://lltv.xyz:80/images/rSPfB3A6K5L8lYw9newsDWe7tFM_small.jpg" group-title="US | TV Series",New Girl S01 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94152.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E16" tvg-logo="http://lltv.xyz:80/images/orOpIRFNXNtrj6OM3i8fYG71Gqb_small.jpg" group-title="US | TV Series",New Girl S01 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94153.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E17" tvg-logo="http://lltv.xyz:80/images/wWb0f5WyjjHX1xqCaSZgNoWYH6J_small.jpg" group-title="US | TV Series",New Girl S01 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94154.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E18" tvg-logo="http://lltv.xyz:80/images/oal7iAPiL9r0SA5mWAdpO0xcST6_small.jpg" group-title="US | TV Series",New Girl S01 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94155.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E19" tvg-logo="http://lltv.xyz:80/images/y5n69IV7XKKvFvcKUMHojotL8FZ_small.jpg" group-title="US | TV Series",New Girl S01 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94156.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E20" tvg-logo="http://lltv.xyz:80/images/7ge1ge7poMjCe82bkFJrK8nBgH3_small.jpg" group-title="US | TV Series",New Girl S01 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94157.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E21" tvg-logo="http://lltv.xyz:80/images/dOxQDoZytJf37vWIWI8A5oQCWCA_small.jpg" group-title="US | TV Series",New Girl S01 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94158.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E22" tvg-logo="http://lltv.xyz:80/images/dScTkcXzTZ4fQ5MBM9mJgScXTuS_small.jpg" group-title="US | TV Series",New Girl S01 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94159.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E23" tvg-logo="http://lltv.xyz:80/images/xs6B6sjmjnqyPy1a94wR8G0r3fj_small.jpg" group-title="US | TV Series",New Girl S01 E23
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94160.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="New Girl S01 E24" tvg-logo="http://lltv.xyz:80/images/cgbUEe1oi5zpZ93BeVZp0HIhXHt_small.jpg" group-title="US | TV Series",New Girl S01 E24
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94161.mkv 
