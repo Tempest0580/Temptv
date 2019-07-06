@@ -5,13 +5,13 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
     <subdirectory>
         <dir>
-            <subdir>
+            <subdir name="Season 1">
                 <title>Season 1</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
             </subdir>
 
-            <subdir>
+            <subdir name="Season 2">
                 <title>Season 2</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season2.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
