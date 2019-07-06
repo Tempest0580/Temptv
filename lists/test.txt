@@ -5,82 +5,88 @@
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
     <dir>
         <dir>
-            <title>Season 1</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
+            <subDirectory>
+                <title>Season 1</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 2</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season2.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
+            <subDirectory>
+                <title>Season 2</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season2.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 3</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season3.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Arrow_Season_3.png/220px-Arrow_Season_3.png</thumbnail>
+            <subDirectory>
+                <title>Season 3</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season3.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Arrow_Season_3.png/220px-Arrow_Season_3.png</thumbnail>
+            </subDirectory>
+        <dir>
         </dir>
-
-
-        <dir>
-            <title>Season 4</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season4.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_4.jpg/220px-Arrow_season_4.jpg</thumbnail>
+            <subDirectory>
+                <title>Season 4</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season4.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_4.jpg/220px-Arrow_season_4.jpg</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 5</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season5.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Arrow_season_5.jpg/220px-Arrow_season_5.jpg</thumbnail>
+            <subDirectory>
+                <title>Season 5</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season5.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Arrow_season_5.jpg/220px-Arrow_season_5.jpg</thumbnail>
+            </subDirectory>
         </dir>
-
         <dir>
-            <title>Season 6</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season6.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Arrow_season_6.jpg/220px-Arrow_season_6.jpg</thumbnail>
+            <subDirectory>
+                <title>Season 6</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season6.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Arrow_season_6.jpg/220px-Arrow_season_6.jpg</thumbnail>
+            </subDirectory>
         </dir>
-
         <dir>
-            <title>Season 7</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season7.txt</link>
-            <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
+            <subDirectory>
+                <title>Season 7</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season7.txt</link>
+                <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
+            </subDirectory>
         </dir>
     </dir>
 </dir>
 <dir>
     <title>Ballers</title>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
-    <dir>    
+    <dir>
         <dir>
-            <title>Season 1</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt</link>
-            <thumbnail>https://vignette.wikia.nocookie.net/ballers/images/c/c8/Ballers_Season_1_poster.jpg/revision/latest/scale-to-width-down/300?cb=20150520101615</thumbnail>
+            <subDirectory>
+                <title>Season 1</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt</link>
+                <thumbnail>https://vignette.wikia.nocookie.net/ballers/images/c/c8/Ballers_Season_1_poster.jpg/revision/latest/scale-to-width-down/300?cb=20150520101615</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 2</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season2.txt</link>
-            <thumbnail>https://resizing.flixster.com/i8u0JTgPqGfHXx8B7VNURDZbZPQ=/206x305/v1.dDsyNTkyNzg7ajsxODA5MzsxMjAwOzE5NzQ7Mjk2MQ</thumbnail>
+            <subDirectory>
+                <title>Season 2</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season2.txt</link>
+                <thumbnail>https://resizing.flixster.com/i8u0JTgPqGfHXx8B7VNURDZbZPQ=/206x305/v1.dDsyNTkyNzg7ajsxODA5MzsxMjAwOzE5NzQ7Mjk2MQ</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 3</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season3.txt</link>
-            <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/25/13/65/25136577-2b8c-64e8-7f6c-ae9fa5b8c91a/mzl.lozwsaqw.lsr/268x0w.jpg</thumbnail>
+            <subDirectory>
+                <title>Season 3</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season3.txt</link>
+                <thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/25/13/65/25136577-2b8c-64e8-7f6c-ae9fa5b8c91a/mzl.lozwsaqw.lsr/268x0w.jpg</thumbnail>
+            </subDirectory>
         </dir>
-
-
         <dir>
-            <title>Season 4</title>
-            <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season4.txt</link>
-            <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
-        </subDirectory>
+            <subDirectory>
+                <title>Season 4</title>
+                <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season4.txt</link>
+                <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+            </subDirectory>
+        </dir>
     </dir>
 </dir>
 
