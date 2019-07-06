@@ -1,6 +1,6 @@
 <xml>
 
-<dir
+<dir>
     <title>Arrow</title>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
     <dir>
@@ -45,7 +45,7 @@
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
     </dir>
 </dir>
-<dir
+<dir>
     <title>Ballers</title>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
     <dir>
