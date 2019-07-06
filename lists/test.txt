@@ -1,6 +1,6 @@
 <xml>
 
-<dir
+<dir>
 <title>Arrow</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
     <item>
@@ -46,8 +46,8 @@
     </item>
 </dir>
 <dir>
-    <title>Ballers</title>
-    <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
+<title>Ballers</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
     <item>
         <title>Season 1</title>
         <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt</link>
