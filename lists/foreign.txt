@@ -1,0 +1,50 @@
+<xml>
+
+
+<dir>
+    <title>Afghanistan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Afghanistan.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Albania</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Albania.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Algeria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Argentina</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Armenia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Argentina.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Australia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Armenia.txt</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Austria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Australia.txt</link>
+    <thumbnail>https://media.tmicdn.com/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/u/austria-flag-temporary-tattoo_2465.jpg</thumbnail>
+</dir>
+
+</xml>
