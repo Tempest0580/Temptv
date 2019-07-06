@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="." group-title="",Buffy
-https://videoserver2.org/live/RWAR-f8dLA8_Zf9_q5ZVmw/1562451545/03c66ee368fa1cc51798648a72e7be15.m3u8
+#EXTINF:-1, tvg-logo="." group-title="",Alf S01E01
+https://fastly.tubi.video/ed208f0b-7382-4451-9491-a096a589e75e/dviq4yf85k.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjI5Nzk5NTgsInBsYXRmb3JtIjoid2ViIn0.9iVI4ntR45VFSPTnnn02AZE3TIeyIn0iKoFI8PVi_ao
+
+#EXTINF:-1, tvg-logo="." group-title="",Alf S01E02
+https://fastly.tubi.video/b3af2d8b-b594-4846-b4dd-3ef9941ec586/logsu6bsk7.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NjI5ODAxMDYsInBsYXRmb3JtIjoid2ViIn0.ZoLBtMTYTv_JiKneg1ZCqGmaK9Ye3KCPLffOw5b393w
