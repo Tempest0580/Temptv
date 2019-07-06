@@ -1,0 +1,46 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E01" tvg-logo="http://lltv.xyz:80/images/oBOVgg2gIryBkWg2XtSr0svsO3a_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94494.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E02" tvg-logo="http://lltv.xyz:80/images/c82DYxLLoxwPKWQ0Evgmtphmleq_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94495.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E03" tvg-logo="http://lltv.xyz:80/images/mycjsvb91uw1WG6zqld9DEozlAB_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94496.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E04" tvg-logo="http://lltv.xyz:80/images/zNPtqkWh19br721s6IBwLOaoe22_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94497.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E05" tvg-logo="http://lltv.xyz:80/images/jHDHHiJbPIjJLPTpD31pAFgKhXc_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94498.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E06" tvg-logo="http://lltv.xyz:80/images/57CoA3eyykJU9q0dkOcJ1WkZaKV_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94499.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E07" tvg-logo="http://lltv.xyz:80/images/lM1VwTSFT5IOLqfHBcImibCNDcR_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94500.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E08" tvg-logo="http://lltv.xyz:80/images/AlDl3puuYZqQHIsZDypJCAoXtFP_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94501.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E09" tvg-logo="http://lltv.xyz:80/images/sUeYryl4noJ1ZeoygZki5mVSEAF_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94502.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E10" tvg-logo="http://lltv.xyz:80/images/pPx5JJkoYGWdF2Tm2ZxkgJ51AqB_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94503.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E11" tvg-logo="http://lltv.xyz:80/images/g5IvVIhTmtqvrNjoLL5vQrJ7Gke_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94504.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E12" tvg-logo="http://lltv.xyz:80/images/Ak6A2V7tiXV5hU0UIRNupFUyThz_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94505.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E13" tvg-logo="http://lltv.xyz:80/images/twXUFhbnn9xuoBwzwHZzyi6qAtk_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94506.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E14" tvg-logo="http://lltv.xyz:80/images/aKGQFSnqc5r9mWCUcRjWYi5SiWc_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94507.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E15" tvg-logo="http://lltv.xyz:80/images/AnGIz9QR5vd1BvfaLKIavRYVdAx_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E15
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94508.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E16" tvg-logo="http://lltv.xyz:80/images/eXK5rWsLFCznTnclbcKlhtVYd6Z_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E16
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94509.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E17" tvg-logo="http://lltv.xyz:80/images/noQkLOIcY439DTVA1mcqi07B2SW_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E17
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94510.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E18" tvg-logo="http://lltv.xyz:80/images/4onNHSndrG9u2DrkFI3Bw5ZEicl_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E18
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94511.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E19" tvg-logo="http://lltv.xyz:80/images/bRcRtDtinAA0q4OEGq68VF6GyQz_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E19
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94512.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E20" tvg-logo="http://lltv.xyz:80/images/bh6HEOeXk2hCrpt31wudk0wXGJu_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E20
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94513.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E21" tvg-logo="http://lltv.xyz:80/images/6sWYQEL0WliCVlytMjOBpBADtI_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E21
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94514.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S11 E22" tvg-logo="http://lltv.xyz:80/images/oz3gDLFjmte71Bc7yFhV6lQIjAj_small.jpg" group-title="US | TV Series",The Big Bang Theory S11 E22
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94515.mkv 

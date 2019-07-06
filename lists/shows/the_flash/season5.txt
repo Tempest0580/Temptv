@@ -1,0 +1,30 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E01" tvg-logo="http://lltv.xyz:80/images/kdbAmRoJeBmlIjTYanTvs38s5Pg_small.jpg" group-title="US | TV Series",The Flash S05 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91687.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E02" tvg-logo="http://lltv.xyz:80/images/y8ReSqVo0wSrLs1HpzmIxnsxM4g_small.jpg" group-title="US | TV Series",The Flash S05 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91688.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E03" tvg-logo="http://lltv.xyz:80/images/4pjOR6WAZ6csJEolp4o4iqZRa33_small.jpg" group-title="US | TV Series",The Flash S05 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91689.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E04" tvg-logo="http://lltv.xyz:80/images/o6tZ78p0qemupPaztrULV2xfwcW_small.jpg" group-title="US | TV Series",The Flash S05 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91690.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E05" tvg-logo="http://lltv.xyz:80/images/efLs2FWvwx9hBhUHgU0pnUgBKjA_small.jpg" group-title="US | TV Series",The Flash S05 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91691.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E06" tvg-logo="http://lltv.xyz:80/images/5vedXAh7dx7ymMNhwV1vMu8EQdK_small.jpg" group-title="US | TV Series",The Flash S05 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91692.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E07" tvg-logo="http://lltv.xyz:80/images/uc7JijVE88SwXiuhNi5KcaskhZZ_small.jpg" group-title="US | TV Series",The Flash S05 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91693.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E08" tvg-logo="http://lltv.xyz:80/images/nO8EGQZYRGhS3Lr4ixL3U0cw7ck_small.jpg" group-title="US | TV Series",The Flash S05 E08
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91694.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E09" tvg-logo="http://lltv.xyz:80/images/cUfbJmhRWOVvDh5ab35ViW4F4S4_small.jpg" group-title="US | TV Series",The Flash S05 E09
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91593.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E10" tvg-logo="http://lltv.xyz:80/images/rX7ztaeuUokOs8BJfE3U17MKDJU_small.jpg" group-title="US | TV Series",The Flash S05 E10
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91594.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E11" tvg-logo="http://lltv.xyz:80/images/byRXCsqAm4BdTaepm1rgLKfwHIn_small.jpg" group-title="US | TV Series",The Flash S05 E11
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91595.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E12" tvg-logo="http://lltv.xyz:80/images/pIEHdK2SYrfAGLHYwQCF8grko39_small.jpg" group-title="US | TV Series",The Flash S05 E12
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/91596.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E13" tvg-logo="http://lltv.xyz:80/images/eAi8pgtqL4IN7K4wF8vI7NW3Ihi_small.jpg" group-title="US | TV Series",The Flash S05 E13
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94545.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Flash S05 E14" tvg-logo="http://lltv.xyz:80/images/61qsBdF6a8gXi7VnV1sty5rJhWp_small.jpg" group-title="US | TV Series",The Flash S05 E14
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/95164.mkv 

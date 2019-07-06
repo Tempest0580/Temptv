@@ -204,20 +204,29 @@ def NEW_GIRL():
 
 
 def SUITS():
-    addDir('Season 1', userlists.suits1, 2,
-           'https://upload.wikimedia.org/wikipedia/en/2/2c/SuitsSeasn1DVDCover.jpg')
-    addDir('Season 2', userlists.suits2, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Suits_season_2_dvd.jpg/240px-Suits_season_2_dvd.jpg')
-    addDir('Season 3', userlists.suits3, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Suits_season_3_dvd.jpg/230px-Suits_season_3_dvd.jpg')
-    addDir('Season 4', userlists.suits4, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Suits_season_4_dvd.jpg/220px-Suits_season_4_dvd.jpg')
-    addDir('Season 5', userlists.suits5, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Suits_season_5_dvd.jpg/220px-Suits_season_5_dvd.jpg')
-    addDir('Season 6', userlists.suits6, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Suits_Season_6_DVD_Cover.jpg/220px-Suits_Season_6_DVD_Cover.jpg')
-    addDir('Season 7', userlists.suits7, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Suits_season_7_dvd_cover.jpg/220px-Suits_season_7_dvd_cover.jpg')
-    addDir('Season 8', userlists.suits8, 2,
-           'https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Suits_season_8_part_1_dvd_cover.jpg/220px-Suits_season_8_part_1_dvd_cover.jpg')
+    addDir('Season 1', userlists.suits1, 2, 'https://upload.wikimedia.org/wikipedia/en/2/2c/SuitsSeasn1DVDCover.jpg')
+    addDir('Season 2', userlists.suits2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Suits_season_2_dvd.jpg/240px-Suits_season_2_dvd.jpg')
+    addDir('Season 3', userlists.suits3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Suits_season_3_dvd.jpg/230px-Suits_season_3_dvd.jpg')
+    addDir('Season 4', userlists.suits4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Suits_season_4_dvd.jpg/220px-Suits_season_4_dvd.jpg')
+    addDir('Season 5', userlists.suits5, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Suits_season_5_dvd.jpg/220px-Suits_season_5_dvd.jpg')
+    addDir('Season 6', userlists.suits6, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Suits_Season_6_DVD_Cover.jpg/220px-Suits_Season_6_DVD_Cover.jpg')
+    addDir('Season 7', userlists.suits7, 2,  'https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Suits_season_7_dvd_cover.jpg/220px-Suits_season_7_dvd_cover.jpg')
+    addDir('Season 8', userlists.suits8, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Suits_season_8_part_1_dvd_cover.jpg/220px-Suits_season_8_part_1_dvd_cover.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def THE_FLASH():
+    addDir('Season 1', userlists.the_flash1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/7/73/The_Flash_season_1.jpg/220px-The_Flash_season_1.jpg')
+    addDir('Season 2', userlists.the_flash2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/The_Flash_season_2.jpg/220px-The_Flash_season_2.jpg')
+    addDir('Season 3', userlists.the_flash3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Flash_season_3.jpg/220px-The_Flash_season_3.jpg')
+    addDir('Season 4', userlists.the_flash4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/The_Flash_season_4.jpg/220px-The_Flash_season_4.jpg')
+    addDir('Season 5', userlists.the_flash5, 2, 'https://www.dvdland.com.au/product_images/f/705/flashs5__26640_zoom.jpg')
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
+
+
+def MARRIED_WITH_CHILDREN():
+    addDir('Season 1', userlists.married_with_children1, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Marriedwithchildrendvdseason1.jpg/200px-Marriedwithchildrendvdseason1.jpg')
+    addDir('Season 2', userlists.married_with_children2, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Married..._with_Children_season_2.png/220px-Married..._with_Children_season_2.png')
+    addDir('Season 3', userlists.married_with_children3, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Married..._with_Children_season_3.png/220px-Married..._with_Children_season_3.png')
+    addDir('Season 4', userlists.married_with_children4, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Married..._with_Children_season_4.png/220px-Married..._with_Children_season_4.png')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))

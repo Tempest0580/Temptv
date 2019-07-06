@@ -109,18 +109,20 @@ def CLICK_SHOWS():
     addDir('Chicago PD', '', 28, 'https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg')
     addDir('Designated Survivor', '', 23, 'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg')
     addDir('Family Guy', '', 15, 'https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg')
+    addDir('The Flash 2014', '', 33, 'https://m.media-amazon.com/images/M/MV5BMjI1MDAwNDM4OV5BMl5BanBnXkFtZTgwNjUwNDIxNjM@._V1_UY268_CR16,0,182,268_AL_.jpg')
     addDir('House MD', '', 19, 'https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png')
     addDir('Izombie', '', 21, 'https://images-na.ssl-images-amazon.com/images/I/51msaPPK-sL._SY445_.jpg')
     addDir('Lie to Me', '', 29, 'https://m.media-amazon.com/images/M/MV5BMTc2MjA4MTM2OV5BMl5BanBnXkFtZTcwMTYzMzA1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg')
+    addDir('Married with Children', '', 34, 'https://m.media-amazon.com/images/M/MV5BMzk2OWYzNDUtNGE5NC00MDI0LTkyMDktY2RmZjE0NGNmMWE1XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_UY268_CR0,0,182,268_AL_.jpg')
     addDir('Murder She Wrote', '', 24, 'https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_UY268_CR0,0,182,268_AL_.jpg')
     addDir('New Girl', '', 31, 'https://images-na.ssl-images-amazon.com/images/I/91nZQNPpSHL._RI_.jpg')
     addDir('Smallville', '', 14, 'https://m.media-amazon.com/images/M/MV5BYmNiNzlhOWItMDM5Mi00MGYzLWI1ZDYtNmI5NzI0MWFkMTIwXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_.jpg')
     # addDir('Anger Managment', userlists.angermanagment, 2, 'https://i1.wp.com/hitenism.com/wp-content/uploads/Fotolia_61714948_L.jpg?ssl=1')
+    addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
     addDir('Stargate SG1', '', 18, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/stargate_sg-1_cast.jpg?itok=EucgrKA3')
     addDir('Star Trek Discovery', '', 27, 'https://m.media-amazon.com/images/M/MV5BOTg5MzA1MjAwNV5BMl5BanBnXkFtZTgwNzAwMDU5NjM@._V1_.jpg')
     addDir('Suits', '', 32, 'https://images-na.ssl-images-amazon.com/images/I/81DPd3NRq0L._RI_.jpg')
     addDir('Supernatural', '', 17, 'https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/supernatural_season_12_poster.jpg?itok=ocBbj_o5')
-    addDir('The Simpsons', '', 16, 'https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg')
     addDir('The Twilight Zone 2019', '', 25, 'https://m.media-amazon.com/images/M/MV5BNzNkNjM0YTEtY2MwNi00OTJmLWFhMjAtN2M0ZTMwOTMxOTY1XkEyXkFqcGdeQXVyMjIwMjY2MzU@._V1_UY268_CR1,0,182,268_AL_.jpg')
     addDir('The Office', '', 26, 'https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg')
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
@@ -456,3 +458,8 @@ elif mode == 31:
     shows.NEW_GIRL()
 elif mode == 32:
     shows.SUITS()
+elif mode == 33:
+    shows.THE_FLASH()
+elif mode == 34:
+    shows.MARRIED_WITH_CHILDREN()
+

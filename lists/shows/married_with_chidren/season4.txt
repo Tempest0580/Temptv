@@ -1,0 +1,6 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="Married With Children S04 E01" tvg-logo="http://lltv.xyz:80/images/hzplNddcXn4h0C9n4HPwD4mZQ4B_small.jpg" group-title="US | TV Series",Married With Children S04 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/89562.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Married With Children S04 E02" tvg-logo="http://lltv.xyz:80/images/kraC4cmP0EF6pnPXlNCBdj9UHuQ_small.jpg" group-title="US | TV Series",Married With Children S04 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/89563.mkv 

@@ -174,6 +174,17 @@ suits6 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/show
 suits7 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season7.txt'
 suits8 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season8.txt'
 
+the_flash1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season1.txt'
+the_flash2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season2.txt'
+the_flash3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season3.txt'
+the_flash4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season4.txt'
+the_flash5 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season5.txt'
+
+married_with_chidren1 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season1.txt'
+married_with_chidren2 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season2.txt'
+married_with_chidren3 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season3.txt'
+married_with_chidren4 = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season4.txt'
+
 Afghanistan = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Afghanistan.txt'
 Albania = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Albania.txt'
 Algeria = 'https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt'
