@@ -3,8 +3,7 @@
 <dir>
     <title>Arrow</title>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
-    <dir>
-        <dir>
+    <subDirectory>
             <dir>
                 <title>Season 1</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
@@ -46,14 +45,12 @@
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season7.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c7/Arrow_season_7.jpg</thumbnail>
             </dir>
-        </dir>
-    </dir>
+    </subDirectory>
 </dir>
 <dir>
     <title>Ballers</title>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
-    <dir>
-        <dir>
+    <subDirectory>
             <dir>
                 <title>Season 1</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season1.txt</link>
@@ -77,8 +74,7 @@
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/season4.txt</link>
                 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
             </dir>
-        </dir>
-    </dir>
+    </subDirectory>
 </dir>
 
 </xml>
