@@ -1,0 +1,15 @@
+<xml>
+
+<dir>
+    <title>Arrow</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/arrow.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Ballers</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/ballers.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
+</dir>
+
+</xml
