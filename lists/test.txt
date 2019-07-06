@@ -4,11 +4,11 @@
 <title>Arrow</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
 <subdirectory>
-    <subdir>
+    <sub>
         <title>Season 1</title>
         <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
-    </subdir>
+    </sub>
 
     <subdir>
         <title>Season 2</title>
