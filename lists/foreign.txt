@@ -24,27 +24,73 @@
 
 <dir>
     <title>Argentina</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Argentina.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png</thumbnail>
 </dir>
 
 
 <dir>
     <title>Armenia</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Argentina.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Armenia.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png</thumbnail>
 </dir>
 
 <dir>
     <title>Australia</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Armenia.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Australia.txt</link>
     <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
 </dir>
 
 <dir>
     <title>Austria</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Australia.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Austria.txt</link>
     <thumbnail>https://media.tmicdn.com/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/u/austria-flag-temporary-tattoo_2465.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Azerbaijan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Azerbaijan.txt</link>
+    <thumbnail>https://cdn2.trend.az/media/thumbnails/410x307/2009/12/30/Flag_Azerbaijan_301209.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Bahrain</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bahrain.txt</link>
+    <thumbnail>https://i.ebayimg.com/images/g/cFwAAMXQeKNTKcMU/s-l300.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Bangladesh</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bangladesh.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Barbados</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Barbados.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/2000px-Flag_of_Barbados.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Belarus</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Belarus.txt</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Belgium</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Belgium.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/21veganA4TL.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Bolivia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bolivia.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51p1D7ZK1mL._SX425_.jpg</thumbnail>
 </dir>
 
 </xml>

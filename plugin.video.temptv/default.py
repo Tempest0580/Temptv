@@ -179,20 +179,8 @@ def MORELISTS():
 
 
 def FOREIGN():
-    addDir('Afghanistan', userlists.Afghanistan, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png')
-    addDir('Albania', userlists.Albania, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png')
-    addDir('Algeria', userlists.Algeria, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png')
-    addDir('Argentina', userlists.Argentina, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png')
-    addDir('Armenia', userlists.Armenia, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png')
-    addDir('Australia', userlists.Australia, 2, 'https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png')
-    addDir('Austria', userlists.Austria, 2, 'https://media.tmicdn.com/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/u/austria-flag-temporary-tattoo_2465.jpg')
-    addDir('Azerbaijan', userlists.Azerbaijan, 2, 'https://cdn2.trend.az/media/thumbnails/410x307/2009/12/30/Flag_Azerbaijan_301209.jpg')
-    addDir('Bahrain', userlists.Bahrain, 2, 'https://i.ebayimg.com/images/g/cFwAAMXQeKNTKcMU/s-l300.jpg')
-    #addDir('Bangladesh', userlists.Bangladesh, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png')
-    addDir('Barbados', userlists.Barbados, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/2000px-Flag_of_Barbados.svg.png')
-    addDir('Belarus', userlists.Belarus, 2, 'https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png')
-    addDir('Belgium', userlists.Belgium, 2, 'https://images-na.ssl-images-amazon.com/images/I/21veganA4TL.jpg')
-    addDir('Bolivia', userlists.Bolivia, 2, 'https://images-na.ssl-images-amazon.com/images/I/51p1D7ZK1mL._SX425_.jpg')
+
+
     addDir('Bosnia and Herzegovina', userlists.Bosnia_and_Herzegovina, 2, 'https://cdn.britannica.com/02/6202-004-E8117B4F.jpg')
     addDir('Brazil', userlists.Brazil, 2, 'https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png')
     addDir('Bulgaria', userlists.Bulgaria, 2, 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2000px-Flag_of_Bulgaria.svg.png')
