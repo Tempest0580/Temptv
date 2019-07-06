@@ -10,11 +10,11 @@
             <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
         </plugin>
 
-        <plugin>
+        <info>
             <title>Season 2</title>
             <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season2.txt</link>
             <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
-        </plugin>
+        </info>
 
         <plugin>
             <title>Season 3</title>
