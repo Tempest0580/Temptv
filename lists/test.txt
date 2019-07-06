@@ -10,43 +10,37 @@
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season1.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Arrow_Season_1.png/220px-Arrow_Season_1.png</thumbnail>
             </subdir>
-        </dir>
-        <dir>
+
             <subdir>
                 <title>Season 2</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season2.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Arrow_Season_2.png/220px-Arrow_Season_2.png</thumbnail>
             </subdir>
-        </dir>
-        <dir>
+
             <subdir>
                 <title>Season 3</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season3.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Arrow_Season_3.png/220px-Arrow_Season_3.png</thumbnail>
             <subdir>
-        </dir>
-        <dir>
+
             <subdir>
                 <title>Season 4</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season4.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_4.jpg/220px-Arrow_season_4.jpg</thumbnail>
             </subdir>
-        <dir>
-        </dir>
+
             <subdir>
                 <title>Season 5</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season5.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Arrow_season_5.jpg/220px-Arrow_season_5.jpg</thumbnail>
             </subdir>
-        <dir>
-        </dir>
+
             <subdir>
                 <title>Season 6</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season6.txt</link>
                 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Arrow_season_6.jpg/220px-Arrow_season_6.jpg</thumbnail>
             </subdir>
-        <dir>
-        </dir>
+
             <subdir>
                 <title>Season 7</title>
                 <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/season7.txt</link>
