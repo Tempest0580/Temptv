@@ -1,8 +1,8 @@
 <xml>
 
 <dir
-    <title>Arrow</title>
-    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
+<title>Arrow</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
     <subdirectory>
         <subdir>
             <title>Season 1</title>
@@ -48,8 +48,8 @@
     </subdirectory>
 </dir>
 <dir>
-    <title>Ballers</title>
-    <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
+<title>Ballers</title>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
     <subdirectory>
         <subdir>
             <title>Season 1</title>
