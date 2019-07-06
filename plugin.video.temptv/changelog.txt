@@ -1,31 +1,5 @@
 [COLOR gold]Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
-[B]1.0.24[/B]
-- Added The Flash 2014 (Tv show)
-- Added Married with Children (Tv show)
-
-
-[B]1.0.23[/B]
-- Added Arrow (Tv show)
-- Added New Girl (Tv show)
-- Added Suits (Tv show)
-
-[B]1.0.22[/B]
-- Typos
-
-[B]1.0.21[/B]
-- Added Star Trek Discovery (Tv Show)
-- Added Chicago PD (Tv show)
-- Added Lie to Me (Tv show)
-
-[B]1.0.20[/B]
-- Added The twilight zone (Tv show)
-- Added The Office (Tv show)
-
-[B]1.0.19[/B]
-- Added 1 Click Shows
-
-[B]1.0.18[/B]
-- Added Changlog
-- Code Update
+[B][COLOR gold] 1.0.0 [/COLOR][/B]
+- Initial version
