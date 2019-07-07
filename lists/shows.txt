@@ -12,4 +12,16 @@
     <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
 </dir>
 
+<dir>
+    <title>The Big Bang Theory</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/big_bang/big_bang.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg</thumbnail>
+</dir>
+
+#<dir>
+#    <title>Chicago PD</title>
+#    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/chicago_pd/chicago_pd.txt</link>
+#    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+#</dir>
+
 </xml
