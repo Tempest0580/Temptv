@@ -1,0 +1,33 @@
+<xml>
+
+<dir>
+    <title>4K</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/list.txt</link>
+    <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
+</dir>
+
+<dir>
+    <title>1080p</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/1080/list.txt</link>
+    <thumbnail>https://image.flaticon.com/icons/png/512/68/68922.png</thumbnail>
+</dir>
+
+<dir>
+    <title>720p</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/720/list.txt</link>
+    <thumbnail>https://image.flaticon.com/icons/png/512/974/974576.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Kids Movies</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.txt</link>
+    <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>3D Movies</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.txt</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+</xml

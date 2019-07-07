@@ -26,7 +26,7 @@
 
 <dir>
     <title>Designated Survivor</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/listr.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/list.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg</thumbnail>
 </dir>
 
@@ -126,4 +126,4 @@
     <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg</thumbnail>
 </dir>
 
-</xml
+</xml>
