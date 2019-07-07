@@ -1,0 +1,43 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season1.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/New_Girl_S1_DVD.jpg/220px-New_Girl_S1_DVD.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season2.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/94/New_Girl_S2.jpg/220px-New_Girl_S2.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season3.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/37/New_Girl_S3_DVD.jpg/220px-New_Girl_S3_DVD.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season4.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/New_Girl_season_4_DVD.png/220px-New_Girl_season_4_DVD.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 5</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season5.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/eb/New_Girl_Season5Cover.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 6</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/new_girl/season6.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/New_Girl_season_6_DVD.png/220px-New_Girl_season_6_DVD.png</thumbnail>
+</dir>
+
+</xml>

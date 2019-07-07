@@ -1,0 +1,15 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/season1.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Designated_Survivor_season_1_dvd.jpg/250px-Designated_Survivor_season_1_dvd.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/season2.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Designated_Survivor_season_2_poster.jpeg/220px-Designated_Survivor_season_2_poster.jpeg</thumbnail>
+</dir>
+
+</xml>

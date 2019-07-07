@@ -1,0 +1,24 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season1.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81O74Gm%2BCVL._SX342_.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season2.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51%2BDKcqi1JL._SY445_.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/lie_to_me/season3.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91OfikX%2BxsL._SY445_.jpg</thumbnail>
+</dir>
+
+
+</xml>

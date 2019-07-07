@@ -1,0 +1,55 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season1.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/2c/SuitsSeasn1DVDCover.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season2.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Suits_season_2_dvd.jpg/240px-Suits_season_2_dvd.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season3.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Suits_season_3_dvd.jpg/230px-Suits_season_3_dvd.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season4.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Suits_season_4_dvd.jpg/220px-Suits_season_4_dvd.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 5</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season5.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Suits_season_5_dvd.jpg/220px-Suits_season_5_dvd.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 6</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season6.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Suits_Season_6_DVD_Cover.jpg/220px-Suits_Season_6_DVD_Cover.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 7</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season7.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Suits_season_7_dvd_cover.jpg/220px-Suits_season_7_dvd_cover.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 7</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/suits/season8.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Suits_season_8_part_1_dvd_cover.jpg/220px-Suits_season_8_part_1_dvd_cover.jpg</thumbnail>
+</dir>
+
+</xml>

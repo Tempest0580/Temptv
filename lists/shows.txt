@@ -2,26 +2,38 @@
 
 <dir>
     <title>Arrow</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/arrow.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/arrow/list.txt</link>
     <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81Jsimt3qAL._RI_.jpg</thumbnail>
 </dir>
 
 <dir>
     <title>Ballers</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/ballers.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/ballers/list.txt</link>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BNTIzMDk3Mzc4Nl5BMl5BanBnXkFtZTgwODExNDAwNjM@._V1_.jpg</thumbnail>
 </dir>
 
 <dir>
     <title>The Big Bang Theory</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/big_bang/big_bang.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/big_bang/list.txt</link>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg</thumbnail>
 </dir>
 
-#<dir>
-#    <title>Chicago PD</title>
-#    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/chicago_pd/chicago_pd.txt</link>
-#    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
-#</dir>
+<dir>
+    <title>Chicago PD</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/chicago_pd/list.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Designated Survivor</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/designated_survivor/listr.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Family Guy</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/family_guy/list.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg</thumbnail>
+</dir>
 
 </xml

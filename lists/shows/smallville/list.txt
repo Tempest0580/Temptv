@@ -1,0 +1,17 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville/season1.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91kIbWInR0L._SY445_.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/smallville/season2.txt</link>
+    <thumbnail>https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/17021-L-LO.jpg</thumbnail>
+</dir>
+
+
+</xml>
