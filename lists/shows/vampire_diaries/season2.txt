@@ -1,0 +1,67 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x1/The-Vampire-Diaries-Season-2-Episode-1-36-def2.jpg" group-title="",Vampire Diaries S02 E01
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E01.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.tvequals.com/wp-content/uploads/2010/09/The-vampire-diaries-season-2-7.jpg?resize=500%2C334" group-title="",Vampire Diaries S02 E02
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E02.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/tvd3e.jpg" group-title="",Vampire Diaries S02 E03
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E03.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s.wsj.net/public/resources/images/OB-KG724_vampir_E_20100930214603.jpg" group-title="",Vampire Diaries S02 E04
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E04.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x20/The-Vampire-Diaries-Season-2-Episode-20-5-a738.jpg" group-title="",Vampire Diaries S02 E05
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E05.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2010/10/2-vampire-diaries-s2e6.jpg" group-title="",Vampire Diaries S02 E06
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E06.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2010/11/masquerade.jpg" group-title="",Vampire Diaries S02 E07
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E07.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/vampirediaries/images/b/b6/Rose15.jpg/revision/latest?cb=20101108211403" group-title="",Vampire Diaries S02 E08
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E08.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x9/The-Vampire-Diaries-Season-2-Episode-9-9-019d.jpg" group-title="",Vampire Diaries S02 E09
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E09.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x10/The-Vampire-Diaries-Season-2-Episode-10-46-ccc2.jpg" group-title="",Vampire Diaries S02 E10
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E10.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2011/02/By-the-Light-of-the-Moon.jpg" group-title="",Vampire Diaries S02 E11
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E11.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x12/The-Vampire-Diaries-Season-2-Episode-12-34-1397.jpg" group-title="",Vampire Diaries S02 E12
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E12.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x13/The-Vampire-Diaries-Season-2-Episode-13-1-fab1.jpg" group-title="",Vampire Diaries S02 E13
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E13.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x14/The-Vampire-Diaries-Season-2-Episode-14-10-9265.jpg" group-title="",Vampire Diaries S02 E14
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E14.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x15/The-Vampire-Diaries-Season-2-Episode-15-4-1ff6.jpg" group-title="",Vampire Diaries S02 E15
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E15.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x16/The-Vampire-Diaries-Season-2-Episode-16-50-bb43.jpg" group-title="",Vampire Diaries S02 E16
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E16.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x17/The-Vampire-Diaries-Season-2-Episode-17-10-65e2.jpg" group-title="",Vampire Diaries S02 E17
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E17.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2015/01/vampire-diaries-1_610.jpg?w=610" group-title="",Vampire Diaries S02 E18
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E18.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x19/The-Vampire-Diaries-Season-2-Episode-19-45-210b.jpg" group-title="",Vampire Diaries S02 E19
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E19.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x20/The-Vampire-Diaries-Season-2-Episode-20-2-7dc0.jpg" group-title="",Vampire Diaries S02 E20
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E20.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x21/The-Vampire-Diaries-Season-2-Episode-21-21-cd3a.jpg" group-title="",Vampire Diaries S02 E21
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E21.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x22/The-Vampire-Diaries-Season-2-Episode-22-1-9c0c.jpg" group-title="",Vampire Diaries S02 E22
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S02/720p/The.Vampire.Diaries.S02E22.Bluray.720p.PaHe.Farda.DL.mkv

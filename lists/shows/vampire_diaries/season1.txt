@@ -1,0 +1,67 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-logo="https://occ-0-1722-1723.1.nflxso.net/art/fa7d1/1908410cef87f758540160c50897d45bd70fa7d1.jpg" group-title="",Vampire Diaries S01 E01
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E01.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7270/37270-h" group-title="",Vampire Diaries S01 E02
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E02.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://menuiresgeekfestival.com/img/the-vampire-diaries-season-2-episode-3-online.jpg" group-title="",Vampire Diaries S01 E03
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E03.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://images5.fanpop.com/image/photos/24800000/Stefan-and-Elena-stefan-and-elena-24877092-1024-768.jpg" group-title="",Vampire Diaries S01 E04
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E04.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-1.jpg?itok=lU8qm_Cl" group-title="",Vampire Diaries S01 E05
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E05.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--Wt67gzOC--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371132733/ready-for-a-story.png" group-title="",Vampire Diaries S01 E06
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E06.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cfm.yidio.com/images/tv/2311/141167/episode-image-320x180.jpg" group-title="",Vampire Diaries S01 E07
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E07.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--P2oHi-BA--/t_full_episode_show/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371133305/damon-and-elena.png" group-title="",Vampire Diaries S01 E08
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E08.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x9/The-Vampire-Diaries-Season-1-Episode-9-14-a338.jpg" group-title="",Vampire Diaries S01 E09
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E09.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x10/The-Vampire-Diaries-Season-1-Episode-10-10-9002.jpg" group-title="",Vampire Diaries S01 E10
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E10.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x11/The-Vampire-Diaries-Season-1-Episode-11-8-893b.jpg" group-title="",Vampire Diaries S01 E11
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E11.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x12/The-Vampire-Diaries-Season-1-Episode-12-4-b493.jpg" group-title="",Vampire Diaries S01 E12
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E12.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x13/The-Vampire-Diaries-Season-1-Episode-13-5-6650.jpg" group-title="",Vampire Diaries S01 E13
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E13.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x14/The-Vampire-Diaries-Season-1-Episode-14-14-0814.jpg" group-title="",Vampire Diaries S01 E14
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E14.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/5x15/The-Vampire-Diaries-Season-5-Episode-15-1-0232.jpg" group-title="",Vampire Diaries S01 E15
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E15.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x16/The-Vampire-Diaries-Season-1-Episode-16-2-dc62.jpg" group-title="",Vampire Diaries S01 E16
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E16.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x17/The-Vampire-Diaries-Season-1-Episode-17-10-8283.jpg" group-title="",Vampire Diaries S01 E17
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E17.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x18/The-Vampire-Diaries-Season-1-Episode-18-2-64f5.jpg" group-title="",Vampire Diaries S01 E18
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E18.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x19/The-Vampire-Diaries-Season-1-Episode-19-27-a58e.jpg" group-title="",Vampire Diaries S01 E19
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E19.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x20/The-Vampire-Diaries-Season-1-Episode-20-6-d8bd.jpg" group-title="",Vampire Diaries S01 E20
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E20.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x21/The-Vampire-Diaries-Season-1-Episode-21-10-2855.jpg" group-title="",Vampire Diaries S01 E21
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E21.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/1x22/The-Vampire-Diaries-Season-1-Episode-22-4-f736.jpg" group-title="",Vampire Diaries S01 E22
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S01/720p/The.Vampire.Diaries.S01E22.Bluray.720p.PaHe.Farda.DL.mkv

@@ -121,9 +121,15 @@
 </dir>
 
 <dir>
-    <title>The Offices</title>
+    <title>The Office</title>
     <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/list.txt</link>
     <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Vampire Diaries</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/vampire_diaries/list.txt</link>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
 </dir>
 
 </xml>
