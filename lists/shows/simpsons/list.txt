@@ -2,14 +2,14 @@
 
 <dir>
     <title>Season 1</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/season29.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons29.txt</link>
     <thumbnail>https://i.pinimg.com/736x/10/97/a2/1097a2d8acaab69e35d5f83024805da8.jpg</thumbnail>
 </dir>
 
 
 <dir>
     <title>Season 2</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/season30.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons30.txt</link>
     <thumbnail>http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663</thumbnail>
 </dir>
 

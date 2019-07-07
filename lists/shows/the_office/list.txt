@@ -47,13 +47,13 @@
 </dir>
 
 <dir>
-    <title>Season 7</title>
+    <title>Season 8</title>
     <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season8.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/ae/The_Office_Season_8.jpg</thumbnail>
 </dir>
 
 <dir>
-    <title>Season 7</title>
+    <title>Season 9</title>
     <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_office/season9.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/The_Office_S9_DVD.jpg</thumbnail>
 </dir>
