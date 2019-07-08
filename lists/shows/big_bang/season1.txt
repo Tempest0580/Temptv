@@ -12,8 +12,8 @@
 <year>2007</year>
 </meta>
 <link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv </link>
-<thumbnail>https://www.thetvdb.com/artwork/1227344</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg</fanart>
+<thumbnail>https://www.thetvdb.com/banners/episodes/80379/332484.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
 </item>
 
 </xml>
