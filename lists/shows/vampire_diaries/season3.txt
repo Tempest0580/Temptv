@@ -1,67 +1,67 @@
 #EXTM3U8
 
 #EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/images/310075.jpg?itok=l9JitxsP" group-title="",Vampire Diaries S03 E01
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E01.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E01.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/294759.jpg?itok=FRq4raMC" group-title="",Vampire Diaries S03 E02
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E02.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E02.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/3x3/The-Vampire-Diaries-Season-3-Episode-3-3-221e.jpg" group-title="",Vampire Diaries S03 E03
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E03.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E03.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/3x4/The-Vampire-Diaries-Season-3-Episode-4-2-8be1.jpg" group-title="",Vampire Diaries S03 E04
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E04.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E04.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/298293.jpg?itok=8tenzFWL" group-title="",Vampire Diaries S03 E05
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E05.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E05.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/299479.jpg?itok=toMLasz5" group-title="",Vampire Diaries S03 E06
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E06.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E06.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/300671.jpg?itok=COu2N0jb" group-title="",Vampire Diaries S03 E07
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E07.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E07.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/302368.jpg?itok=czIV8wOE" group-title="",Vampire Diaries S03 E08
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E08.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E08.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/3x9/The-Vampire-Diaries-Season-3-Episode-9-22-0c61.jpg" group-title="",Vampire Diaries S03 E09
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E09.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E09.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/3x10/The-Vampire-Diaries-Season-3-Episode-10-2-d295.jpg" group-title="",Vampire Diaries S03 E10
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E10.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E10.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/images/311403.jpg?itok=gB5CQCUR" group-title="",Vampire Diaries S03 E11
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E11.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E11.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/312129.jpg?itok=8sIO4_mg" group-title="",Vampire Diaries S03 E12
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E12.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E12.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/314210.jpg?itok=8JaA_MNV" group-title="",Vampire Diaries S03 E13
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E13.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E13.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/315374.jpg?itok=KCnjjaIi" group-title="",Vampire Diaries S03 E14
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E14.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E14.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x1/The-Vampire-Diaries-Season-2-Episode-1-36-def2.jpg" group-title="",Vampire Diaries S03 E15
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E15.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E15.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/316624.jpg?itok=aKpk_5Qs" group-title="",Vampire Diaries S03 E16
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E16.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E16.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/320452.jpg?itok=gT-14o24" group-title="",Vampire Diaries S03 E17
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E17.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E17.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/3x18/The-Vampire-Diaries-Season-3-Episode-18-7-5f5c.jpg" group-title="",Vampire Diaries S03 E18
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E18.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E18.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/images/325602.jpg?itok=8cFQIwNk" group-title="",Vampire Diaries S03 E19
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E19.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E19.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/326663.jpg?itok=xgr8qOPS" group-title="",Vampire Diaries S03 E20
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E20.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E20.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/images/327587.jpg?itok=8gnNfjX_" group-title="",Vampire Diaries S03 E21
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E21.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E21.x265.720p.BluRay.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/screen_shot_2012-05-14_at_17.47.18.png?itok=zsi83Wt9" group-title="",Vampire Diaries S03 E22
-http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S03/720p/The.Vampire.Diaries.S03E22.Bluray.720p.PaHe.Farda.DL.mkv
+http://185.49.85.30/upload/film/tv-shows/VD/s3/The.Vampire.DiariesS03E22.x265.720p.BluRay.mkv
