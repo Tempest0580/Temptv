@@ -82,4 +82,10 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Supernatural_Season_13.jpg/220px-Supernatural_Season_13.jpg</thumbnail>
 </dir>
 
+<dir>
+    <title>Season 14</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season14.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Supernatural_Season_14.jpg/220px-Supernatural_Season_14.jpg</thumbnail>
+</dir>
+
 </xml>
