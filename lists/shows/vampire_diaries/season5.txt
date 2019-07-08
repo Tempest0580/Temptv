@@ -1,3 +1,4 @@
 #EXTM3U8
 
-
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x2/The-Vampire-Diaries-Season-4-Episode-2-1-892c.jpg" group-title="",Vampire Diaries S05 E01
+http://185.49.85.30/upload/film/tv-shows/VD/s5/The.Vampire.Diaries.S05E01.x265.720p.BluRay.mkv
