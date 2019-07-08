@@ -2,7 +2,7 @@
 
 <dir>
     <title>Season 1</title>
-    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons1.txt</link>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/season1.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/The_Simpsons_-_The_Complete_1st_Season.jpg/220px-The_Simpsons_-_The_Complete_1st_Season.jpg</thumbnail>
 </dir>
 
