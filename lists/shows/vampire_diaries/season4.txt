@@ -1,3 +1,70 @@
 #EXTM3U8
 
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x2/The-Vampire-Diaries-Season-4-Episode-2-1-892c.jpg" group-title="",Vampire Diaries S04 E01
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E01.Bluray.720p.PaHe.Farda.DL.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-2.jpg?itok=udRH4myl" group-title="",Vampire Diaries S04 E02
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E02.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x3/The-Vampire-Diaries-Season-4-Episode-3-3-03a1.jpg" group-title="",Vampire Diaries S04 E03
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E03.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-19.jpg?itok=Q_kDLnlt" group-title="",Vampire Diaries S04 E04
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E04.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/the-vampire-diaries-the-vampire-diaries-tv-show-8132996-1280-1024.jpg?itok=dbkBYfuk" group-title="",Vampire Diaries S04 E05
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E05.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x6/The-Vampire-Diaries-Season-4-Episode-6-3-30a7.jpg" group-title="",Vampire Diaries S04 E06
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E06.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4NjA2ODc0Nl5BMl5BanBnXkFtZTcwNTAxOTM3OA@@._V1_.jpg" group-title="",Vampire Diaries S04 E07
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E07.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-8.jpg?itok=2xRVIs4r" group-title="",Vampire Diaries S04 E08
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E08.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-9.jpg?itok=Ne-ee0GK" group-title="",Vampire Diaries S04 E09
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E09.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x10/The-Vampire-Diaries-Season-4-Episode-10-10-ee2f.jpg" group-title="",Vampire Diaries S04 E10
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E10.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x11/The-Vampire-Diaries-Season-4-Episode-11-4-412e.jpg" group-title="",Vampire Diaries S04 E11
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E11.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-12.jpg?itok=vSq3ZEdB" group-title="",Vampire Diaries S04 E12
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E12.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-13.jpg?itok=Y1Ul9U_y" group-title="",Vampire Diaries S04 E13
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E13.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/vampire_diaries_4-14_47.jpg?itok=QclY97ss" group-title="",Vampire Diaries S04 E14
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E14.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-15.jpg?itok=VuKZyY7P" group-title="",Vampire Diaries S04 E15
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E15.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-16.jpg?itok=340hUx7H" group-title="",Vampire Diaries S04 E16
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E16.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x17/The-Vampire-Diaries-Season-4-Episode-17-25-a58d.jpg" group-title="",Vampire Diaries S04 E17
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E17.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-18.jpg?itok=aiLWKrEo" group-title="",Vampire Diaries S04 E18
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E18.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-19.jpg?itok=Q_kDLnlt" group-title="",Vampire Diaries S04 E19
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E19.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-20.jpg?itok=06S1VRob" group-title="",Vampire Diaries S04 E20
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E20.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_4-21.jpg?itok=5ERXdus4" group-title="",Vampire Diaries S04 E21
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E21.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x22/The-Vampire-Diaries-Season-4-Episode-22-2-c909.jpg" group-title="",Vampire Diaries S04 E22
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E22.Bluray.720p.PaHe.Farda.DL.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/4x23/The-Vampire-Diaries-Season-4-Episode-23-23-638a.jpg" group-title="",Vampire Diaries S04 E23
+http://dl.fardasub.xyz/files/Series/The%20Vampire%20Diaries/S04/720p/The.Vampire.Diaries.S04E23.Bluray.720p.PaHe.Farda.DL.mkv
