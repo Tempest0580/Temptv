@@ -1,3 +1,67 @@
 #EXTM3U8
 
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2015/10/vampire_diaries_7-1.jpg?itok=cr-X9buO" group-title="",Vampire Diaries S07 E01
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E01.x265.1080p.BluRay.mkv
 
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2015/10/tvd_7-2.jpg?itok=DNYBCsVZ" group-title="",Vampire Diaries S07 E02
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E02.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2015/10/the-originals-01.jpg?w=800&h=533&crop=1" group-title="",Vampire Diaries S07 E03
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E03.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2015/11/tvd_7-4.jpg?itok=dN9ZUmWt" group-title="",Vampire Diaries S07 E04
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E04.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2015/11/the_vampire_diaries_7-5.jpg?itok=bqP5S-xP" group-title="",Vampire Diaries S07 E05
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E05.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2015/11/recaps-the-vampire-diaries.jpg?w=800&h=534&crop=1" group-title="",Vampire Diaries S07 E06
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E06.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://www1.pictures.zimbio.com/zp/Vampire+Diaries+Vampire+Diaries+Season+4+Episode+hJiMkiK6_Kll.jpg" group-title="",Vampire Diaries S07 E07
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E07.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/12/the-vampire-diaries-recap-1.jpg?w=620" group-title="",Vampire Diaries S07 E08
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E08.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2015/12/vampire_diaries_7-9.jpg?itok=SyuFKKRX" group-title="",Vampire Diaries S07 E09
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E09.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/02/the_vampire_diaries_7-10.jpg?itok=0LGsIMS-" group-title="",Vampire Diaries S07 E10
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E10.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/02/vampire_diaries_7-12.jpg?itok=h90dxSZV" group-title="",Vampire Diaries S07 E11
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E11.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/02/vampire_diaries_7-12.jpg?itok=h90dxSZV" group-title="",Vampire Diaries S07 E12
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E12.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/02/vampire_diaries_7-13.jpg?itok=cGpoZ_MF" group-title="",Vampire Diaries S07 E13
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E13.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2016/02/recaps-vampire-diaries-1.jpg" group-title="",Vampire Diaries S07 E14
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E14.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://pixel.nymag.com/imgs/daily/vulture/2016/03/04/recaps/04-vampire-diaries.w700.h700.jpg" group-title="",Vampire Diaries S07 E15
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E15.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://cdn.breathecast.com/data/images/full/32062/the-vampire-diaries.jpg?w=600" group-title="",Vampire Diaries S07 E16
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E16.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/04/07/tvd-717-spoilers.jpg" group-title="",Vampire Diaries S07 E17
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E17.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/04/the-vampire-diaries-recap2.jpg?w=620" group-title="",Vampire Diaries S07 E18
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E18.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2016/04/the-vampire-diaries-recap3.jpg?w=620" group-title="",Vampire Diaries S07 E19
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E19.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://pixel.nymag.com/imgs/daily/vulture/2016/04/30/30-vampire-diaries-recap.w710.h473.2x.jpg" group-title="",Vampire Diaries S07 E20
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E20.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/05/tvd-721-spoilers.jpg?itok=Yiupvp83" group-title="",Vampire Diaries S07 E21
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E21.x265.1080p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/2016/05/vampire_diaries_7-22.jpg?itok=t0aBWmLJ" group-title="",Vampire Diaries S07 E22
+http://185.49.85.30/upload/film/tv-shows/VD/s7/The.Vampire.Diaries.S07E22.x265.1080p.BluRay.mkv
