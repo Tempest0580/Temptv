@@ -1,22 +1,16 @@
-<xml>
+#EXTM3U8
 
-<item>
-<name>Pilot</name>
-<meta>
-<content>episode</content>
-<season>1</season>
-<episode>1</episode>
-<imdb>tt0898266</imdb>
-<tvdb>80379</tvdb>
-<tvshowtitle>Pilot</tvshowtitle>
-<year>2007</year>
-</meta>
-<link>
-<sublink name="Stream 1 ">http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv</sublink>
-<sublink name="Stream 2 ">http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94538.mkv </sublink>
-</link>
-<thumbnail>https://www.thetvdb.com/banners/episodes/80379/332484.jpg</thumbnail>
-<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
-</item>
-
-</xml>
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E01" tvg-logo="http://lltv.xyz:80/images/rxWlBXZhGWhumbLB8gAHyyW3ITD_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E01
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E02" tvg-logo="http://lltv.xyz:80/images/5Itgr82yyAEtwegAZgMm30UqJXK_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E02
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94538.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E03" tvg-logo="http://lltv.xyz:80/images/eDyDC7cwKz9ZTA4CX44eKuHjPgZ_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E03
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94539.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E04" tvg-logo="http://lltv.xyz:80/images/bk8aIjAyS6XDG3I3otseP0jaR4x_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E04
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94540.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E05" tvg-logo="http://lltv.xyz:80/images/zO3CSyb13PQyzWICp4mmZEUeExp_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E05
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94541.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E06" tvg-logo="http://lltv.xyz:80/images/4P20QdmB6QL8aa0b8dKR8sHK1iW_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E06
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94542.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E07" tvg-logo="http://lltv.xyz:80/images/4y5rvzPZF5ukM3vtktqWTp9MhyH_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E07
+http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94543.mkv 
