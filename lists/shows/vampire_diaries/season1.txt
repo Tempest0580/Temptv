@@ -1,22 +1,22 @@
 #EXTM3U8
 
 #EXTINF:-1 tvg-logo="https://occ-0-1722-1723.1.nflxso.net/art/fa7d1/1908410cef87f758540160c50897d45bd70fa7d1.jpg" group-title="",Vampire Diaries S01 E01
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E01.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E01%20720p.x264-01.SaberFun.org.mkv
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7270/37270-h" group-title="",Vampire Diaries S01 E02
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E02.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E02%20720p.x264-01.SaberFun.org.mkv
 
 #EXTINF:-1 tvg-logo="http://menuiresgeekfestival.com/img/the-vampire-diaries-season-2-episode-3-online.jpg" group-title="",Vampire Diaries S01 E03
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E03.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E03%20720p.x264_01.SaberFun.org.mkv
 
 #EXTINF:-1 tvg-logo="http://images5.fanpop.com/image/photos/24800000/Stefan-and-Elena-stefan-and-elena-24877092-1024-768.jpg" group-title="",Vampire Diaries S01 E04
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E04.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E04%20720p.x264-01.SaberFun.org.mkv
 
 #EXTINF:-1 tvg-logo="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/vampire_diaries_5-1.jpg?itok=lU8qm_Cl" group-title="",Vampire Diaries S01 E05
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E05.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E05%20720p.SaberFun.INFO.mkv
 
 #EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--Wt67gzOC--/t_teaser_wide/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371132733/ready-for-a-story.png" group-title="",Vampire Diaries S01 E06
-http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E06.x265.720p.BluRay.mkv
+http://dl.meliupload.com/mersad/serial/Vampire%20Diaries/s01/The%20Vampire%20Diaries%20S01%20E06%20720p.SaberFun.INFO.mkv
 
 #EXTINF:-1 tvg-logo="https://cfm.yidio.com/images/tv/2311/141167/episode-image-320x180.jpg" group-title="",Vampire Diaries S01 E07
 http://185.49.85.30/upload/film/tv-shows/VD/s1/The.Vampire.Diaries.S01E07.x265.720p.BluRay.mkv
