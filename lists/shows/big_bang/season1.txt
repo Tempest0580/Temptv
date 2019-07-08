@@ -11,7 +11,10 @@
 <tvshowtitle>Pilot</tvshowtitle>
 <year>2007</year>
 </meta>
-<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv </link>
+<link>
+<sublink name="Stream 1 ">http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv</sublink>
+<sublink name="Stream 2 ">http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94538.mkv </sublink>
+</link>
 <thumbnail>https://www.thetvdb.com/banners/episodes/80379/332484.jpg</thumbnail>
 <fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
 </item>
