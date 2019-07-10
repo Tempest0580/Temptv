@@ -11,10 +11,7 @@
 <year>2007</year>
 <info>After an unsuccessful visit to the high-IQ sperm bank, Dr. Leonard Hofstadter and Dr. Sheldon Cooper return home to find aspiring actress Penny is their new neighbor across the hall from their apartment. Sheldon thinks Leonard, who is immediately interested in her, is chasing a dream he will never catch. Leonard invites Penny to his and Sheldon's apartment for Indian food, where she asks to use their shower since hers is broken. While wrapped in a towel, she gets to meet their visiting friends Howard Wolowitz, a wannabe ladies' man who tries to hit on her, and Rajesh Koothrappali, who is unable to speak to her as he suffers from selective mutism in the presence of women. Leonard is so infatuated with Penny that, after helping her use their shower, he agrees to retrieve her TV from her ex-boyfriend Kurt. However, Kurt's physical superiority overwhelms Leonard's and Sheldon's combined IQ of 360, and they return without pants or TV. Penny, feeling bad, offers to take the guys out to dinner, initiating a friendship with them.</info>
 </meta>
-<link>
-<sublink name="1080p ">http://s2.tinydl.info/Series/6c59ec7454274d8d03691a1b9f6b723e/02/x265%20BluRay%201080p/The_Big_Bang_Theory_S02E01_1080p_Bluray_Joy_TINYMZ.mp4</sublink>
-<sublink name="480p ">http://s2.tinydl.info/Series/6c59ec7454274d8d03691a1b9f6b723e/02/HDTV%20480p/The_Big_Bang_Theory_S02E01_TINYMZ.mkv</sublink>
-</link>
+<link>http://s2.tinydl.info/Series/6c59ec7454274d8d03691a1b9f6b723e/02/x265%20BluRay%201080p/The_Big_Bang_Theory_S02E01_1080p_Bluray_Joy_TINYMZ.mp4</link>
 <thumbnail>https://www.tvequals.com/wp-content/uploads/2012/09/The-Big-Bang-Theory-Season-6-Episode-2.jpg</thumbnail>
 <fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
 </item>
