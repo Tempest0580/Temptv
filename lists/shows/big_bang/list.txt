@@ -12,6 +12,9 @@
 
 <dir>
     <title>Season 2</title>
+    <meta>
+    <content>tvshow</content>
+    </meta>
     <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/big_bang/season2.txt</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/74/The_Big_Bang_Theory_Season_2.jpg/220px-The_Big_Bang_Theory_Season_2.jpg</thumbnail>
 </dir>
