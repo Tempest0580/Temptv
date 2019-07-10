@@ -5,7 +5,8 @@
 <meta>
 <episode>1</episode>
 <content>episode</content>
-<imdb>tt2176186</imdb>
+<imdb>tt0775431</imdb>
+<tvdb>332484</tvdb>
 <tvshowtitle>The Big Bang Theory</tvshowtitle>
 <year>2007</year>
 </meta>
