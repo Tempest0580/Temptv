@@ -1,0 +1,57 @@
+<xml>
+
+<dir>
+    <title>Entertainment</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/list.xml</link>
+    <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.xml</link>
+    <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Kids</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Sports</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/4k/list.xml</link>
+    <thumbnail>https://sitejerk.com/images/4k-png-14.png</thumbnail>
+</dir>
+
+<dir>
+    <title>News</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/kidsmovies.xml</link>
+    <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/90s-kids-movies-1553540981.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Music</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+<dir>
+    <title>24/7</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Pluto TV</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Foreign Channels</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/3dmovies.xml</link>
+    <thumbnail>https://cdn01.vulcanpost.com/wp-uploads/2014/09/3d_pardaphash.png</thumbnail>
+</dir>
+
+</xml>

@@ -1,4 +1,0 @@
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Braveheart (1995) [2160p]" tvg-logo="http://lltv.xyz:80/images/2qAgGeYdLjelOEqjW9FYvPHpplC_small.jpg" group-title="Movies | 4K",Braveheart (1995) [2160p]
-http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95841.mkv

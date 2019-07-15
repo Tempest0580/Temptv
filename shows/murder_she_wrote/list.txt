@@ -1,0 +1,23 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season1.xml</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513AD9ZVJQL.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season2.xml</link>
+    <thumbnail>https://oldies-cdn.freetls.fastly.net/i/boxart/w340/a-z/m/mhv61129410d.jpg?v=5</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/murder_she_wrote/season3.xml</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51fhtaqKvGL._SY445_.jpg</thumbnail>
+</dir>
+
+</xml>

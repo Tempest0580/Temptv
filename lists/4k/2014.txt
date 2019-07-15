@@ -1,4 +1,0 @@
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Captain America The Winter Soldier (2014) [2160p]" tvg-logo="http://lltv.xyz:80/images/5TQ6YDmymBpnF005OyoB7ohZps9_small.jpg" group-title="Movies | 4K",Captain America The Winter Soldier
-http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95843.mkv 

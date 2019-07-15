@@ -1,4 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg" group-title="",Thor
-https://lh3.googleusercontent.com/jtm8siMQSy_BkEPSX3lZpkC2aERfRm8gVevnu3-E6W-YSdbjc0tCtW1RWW1-4RyXJ-5UEy-h1K0=m18

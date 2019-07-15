@@ -1,0 +1,30 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season1.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Marriedwithchildrendvdseason1.jpg/200px-Marriedwithchildrendvdseason1.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season2.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Married..._with_Children_season_2.png/220px-Married..._with_Children_season_2.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season3.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Married..._with_Children_season_3.png/220px-Married..._with_Children_season_3.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/married_with_children/season4.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Married..._with_Children_season_4.png/220px-Married..._with_Children_season_4.png</thumbnail>
+</dir>
+
+</xml>

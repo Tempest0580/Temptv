@@ -1,0 +1,37 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season1.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Stargate_SG-1_Season_1.jpg/220px-Stargate_SG-1_Season_1.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season2.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season3.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stargate_SG-1_Season_3.jpg/220px-Stargate_SG-1_Season_3.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season4.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Stargate_SG-1_Season_4.jpg/220px-Stargate_SG-1_Season_4.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 5</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/stargate_sg1/season5.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail>
+</dir>
+
+</xml>

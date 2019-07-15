@@ -1,0 +1,38 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season1.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/73/The_Flash_season_1.jpg/220px-The_Flash_season_1.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season2.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/The_Flash_season_2.jpg/220px-The_Flash_season_2.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season3.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/The_Flash_season_3.jpg/220px-The_Flash_season_3.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season4.xml</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/The_Flash_season_4.jpg/220px-The_Flash_season_4.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 5</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/the_flash/season5.xml</link>
+    <thumbnail>https://www.dvdland.com.au/product_images/f/705/flashs5__26640_zoom.jpg</thumbnail>
+</dir>
+
+
+</xml>
