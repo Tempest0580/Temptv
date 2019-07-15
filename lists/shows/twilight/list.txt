@@ -1,0 +1,9 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/twilight/season1.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/513AD9ZVJQL.jpg</thumbnail>
+</dir>
+
+</xml>

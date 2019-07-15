@@ -1,0 +1,91 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season1.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_1.jpg/220px-Supernatural_Season_1.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 2</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season2.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Supernatural_Season_2.jpg/220px-Supernatural_Season_2.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 3</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season3.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Supernatural_Season_3.jpg/220px-Supernatural_Season_3.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 4</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season4.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Supernatural_Season_4.jpg/220px-Supernatural_Season_4.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Season 5</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season5.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Supernatural_Season_5.jpg/220px-Supernatural_Season_5.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 6</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season6.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Supernatural_Season_6.jpg/220px-Supernatural_Season_6.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 7</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season7.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Supernatural_Season_7.jpg/220px-Supernatural_Season_7.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 8</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season8.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Supernatural_Season_8.jpg/220px-Supernatural_Season_8.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 9</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season9.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Supernatural_Season_9.jpg/220px-Supernatural_Season_9.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 10</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season10.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Supernatural_Season_10.jpg/220px-Supernatural_Season_10.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 11</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season11.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Supernatural_Season_11.jpg/220px-Supernatural_Season_11.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 12</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season12.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Supernatural_Season_12.jpg/220px-Supernatural_Season_12.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 13</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season13.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Supernatural_Season_13.jpg/220px-Supernatural_Season_13.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 14</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/supernatural/season14.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Supernatural_Season_14.jpg/220px-Supernatural_Season_14.jpg</thumbnail>
+</dir>
+
+</xml>

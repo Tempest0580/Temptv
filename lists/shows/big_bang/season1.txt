@@ -1,16 +1,122 @@
-#EXTM3U8
+<xml>
 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E01" tvg-logo="http://lltv.xyz:80/images/rxWlBXZhGWhumbLB8gAHyyW3ITD_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E01
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E02" tvg-logo="http://lltv.xyz:80/images/5Itgr82yyAEtwegAZgMm30UqJXK_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E02
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94538.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E03" tvg-logo="http://lltv.xyz:80/images/eDyDC7cwKz9ZTA4CX44eKuHjPgZ_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E03
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94539.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E04" tvg-logo="http://lltv.xyz:80/images/bk8aIjAyS6XDG3I3otseP0jaR4x_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E04
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94540.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E05" tvg-logo="http://lltv.xyz:80/images/zO3CSyb13PQyzWICp4mmZEUeExp_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E05
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94541.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E06" tvg-logo="http://lltv.xyz:80/images/4P20QdmB6QL8aa0b8dKR8sHK1iW_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E06
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94542.mkv 
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory S01 E07" tvg-logo="http://lltv.xyz:80/images/4y5rvzPZF5ukM3vtktqWTp9MhyH_small.jpg" group-title="US | TV Series",The Big Bang Theory S01 E07
-http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94543.mkv 
+<item>
+<name>Pilot</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94537.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/rxWlBXZhGWhumbLB8gAHyyW3ITD_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Big Bran Hypothesis</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94538.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/5Itgr82yyAEtwegAZgMm30UqJXK_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Fuzzyboots Corollary</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94539.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/eDyDC7cwKz9ZTA4CX44eKuHjPgZ_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Luminous Fish Effect</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94540.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/bk8aIjAyS6XDG3I3otseP0jaR4x_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Hamburger Postulate</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94541.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/zO3CSyb13PQyzWICp4mmZEUeExp_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Middle-Earth Paradigm</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94542.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/4P20QdmB6QL8aa0b8dKR8sHK1iW_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Dumpling Paradox</name>
+<link>http://lltv.xyz:80/series/ianjones123/x8k9ntIkHG/94543.mkv</link>
+<thumbnail>http://lltv.xyz:80/images/4y5rvzPZF5ukM3vtktqWTp9MhyH_small.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Grasshopper Experiment</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E08.mkv</link>
+<thumbnail>http://1.bp.blogspot.com/-_gA3kc60VNA/Td1Gfq_UbhI/AAAAAAAABaI/YDnY341bth8/s1600/thebigbangtheory.JPG</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Cooper-Hofstadter Polarization</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E09.mkv</link>
+<thumbnail>https://vignette.wikia.nocookie.net/bigbangtheory/images/0/0b/TBE-1.jpg/revision/latest?cb=20171122212607</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Loobenfeld Decay</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E10.mkv</link>
+<thumbnail>http://2.bp.blogspot.com/-xobu3fIt-jE/Td_vsEI5SCI/AAAAAAAABfw/1OVZrOvtWDk/s1600/big5.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Pancake Batter Anomaly</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E11.mkv</link>
+<thumbnail>https://tv-fanatic-res.cloudinary.com/iu/s--YQABTS1J--/t_full_episode_show/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371072520/penny-takes-care-of-sheldon.png</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Jerusalem Duality</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E12.mkv</link>
+<thumbnail>https://tv-fanatic-res.cloudinary.com/iu/s--lyM_aSGN--/t_full_episode_show/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371072524/the-guys-meet-dennis-kim.png</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Bat Jar Conjecture</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E13.mkv</link>
+<thumbnail>http://s3cf.recapguide.com/img/tv/7/1x13/The-Big-Bang-Theory-Season-1-Episode-13-32-9b3a.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Nerdvana Annihilation</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E14.mkv</link>
+<thumbnail>http://s3cf.recapguide.com/img/tv/7/1x14/The-Big-Bang-Theory-Season-1-Episode-14-17-f22c.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Pork Chop Indeterminacy</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E15.mkv</link>
+<thumbnail>http://s3cf.recapguide.com/img/tv/7/1x15/The-Big-Bang-Theory-Season-1-Episode-15-2-62bd.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Peanut Reaction</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E16.mkv</link>
+<thumbnail>http://s3cf.recapguide.com/img/tv/7/1x16/The-Big-Bang-Theory-Season-1-Episode-16-6-5934.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+<item>
+<name>The Tangerine Factor</name>
+<link>http://dl.melimedia.net/mersad/serial/The%20Big%20Bang%20Theory/S01/BBT-S01E17.mkv</link>
+<thumbnail>http://s3cf.recapguide.com/img/tv/7/1x17/The-Big-Bang-Theory-Season-1-Episode-17-24-1b2a.jpg</thumbnail>
+<fanart>https://www.thetvdb.com/banners/fanart/original/80379-60.jpg</fanart>
+</item>
+
+</xml>

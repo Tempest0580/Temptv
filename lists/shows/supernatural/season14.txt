@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/01/supernatural-season-15-confirmed-news.jpg?itok=vTOt45Fm" group-title="",Supernatural S14 E01
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e01.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/10/supernatural-season-14-episode-2-review-gods-and-monsters.jpg?itok=6DLwcMYz" group-title="",Supernatural S14 E02
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e02.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2018/10/sn1403b_0092b.jpg" group-title="US | TV Series",Supernatural S14 E03
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e03.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/11/supernatural-season-14-episode-4-mint-condition-b.jpg?itok=slrzl7pE" group-title="",Supernatural S14 E04
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e04.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/11/supernatural-season-14-episode-5.jpg?itok=wK1l_u_q" group-title="",Supernatural S14 E05
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e05.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2018/11/sn1406b__0069b.jpg" group-title="",Supernatural S14 E06
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e06.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2018/11/supernatural-recap.jpg?w=620&h=420&crop=1" group-title="",Supernatural S14 E07
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e07.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2018/09/supernatural-season-14-photos-210.jpg" group-title="",Supernatural S14 E08
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e08.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://pmctvline2.files.wordpress.com/2018/09/supernatural-season-14-photos-58.jpg?w=320&h=213" group-title="",Supernatural S14 E09
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e09.1080p.web-dl.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/01/sn1410a_0098r.jpg" group-title="",Supernatural S14 E10
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/supernatural.s14e10.1080p.hdtv.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/01/sn1411b_0303b.jpg" group-title="",Supernatural S14 E11
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E11.1080p.WEB.HEVC.x265.RMT.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/01/sn1412a_0118b.jpg" group-title="",Supernatural S14 E12
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E12.Prophet.and.Loss.1080p.WEBRip.6CH.x265.HEVC.PSA.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/01/sn1413d_0114b.jpg" group-title="",Supernatural S14 E13
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E13.1080p.WEB.HEVC.x265.RMT.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/03/sn1414a_0271b.jpg" group-title="",Supernatural S14 E14
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E15.1080p.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/03/supernatural-recap.jpg" group-title="",Supernatural S14 E15
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E15.1080p.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/03/supernatural-season-14-episode-16-dont-go-into-the-woods.jpg?itok=k9idfoEX" group-title="",Supernatural S14 E16
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E16.1080p.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/04/supernatural-season-14-episode-17-game-night.jpg?itok=2VVZiUGw" group-title="",Supernatural S14 E17
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E17.1080p.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2019/04/sn1418a_0289b.jpg" group-title="",Supernatural S14 E18
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E18.1080p.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://cdn1us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2019/04/supernatural-season-14-episode-19-jack-in-the-box.jpg?itok=6f1LX0Dv" group-title="",Supernatural S14 E19
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E19.1080p.WEB.HEVC.x265.RMT.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2019%2F04%2Fsn1420c_0867r.jpg&w=400&c=sc&poi=face&q=85" group-title="",Supernatural S14 E20
+http://185.49.85.30/upload/film/tv-shows/Supernatural/s14/Supernatural.S14E20.1080p.[Mojoo.ir].mkv

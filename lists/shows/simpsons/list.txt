@@ -1,0 +1,15 @@
+<xml>
+
+<dir>
+    <title>Season 1</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/season1.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/The_Simpsons_-_The_Complete_1st_Season.jpg/220px-The_Simpsons_-_The_Complete_1st_Season.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Season 30</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/shows/simpsons/simpsons30.txt</link>
+    <thumbnail>http://www.indiewire.com/wp-content/uploads/2017/07/simpsons_s29_miniposter_2017.jpg?w=663</thumbnail>
+</dir>
+
+</xml>

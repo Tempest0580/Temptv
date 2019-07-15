@@ -1,0 +1,390 @@
+<xml>
+
+
+<dir>
+    <title>Afghanistan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Afghanistan.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/2000px-Flag_of_Afghanistan.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Albania</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Albania.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/2000px-Flag_of_Albania.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Algeria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Algeria.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2000px-Flag_of_Algeria.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Argentina</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Argentina.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2000px-Flag_of_Argentina.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Armenia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Armenia.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2000px-Flag_of_Armenia.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Australia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Australia.txt</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2012/04/11/15/42/victoria-28585_640.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Austria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Austria.txt</link>
+    <thumbnail>https://media.tmicdn.com/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/u/austria-flag-temporary-tattoo_2465.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Azerbaijan</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Azerbaijan.txt</link>
+    <thumbnail>https://cdn2.trend.az/media/thumbnails/410x307/2009/12/30/Flag_Azerbaijan_301209.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Bahrain</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bahrain.txt</link>
+    <thumbnail>https://i.ebayimg.com/images/g/cFwAAMXQeKNTKcMU/s-l300.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Bangladesh</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bangladesh.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2000px-Flag_of_Bangladesh.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Barbados</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Barbados.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/2000px-Flag_of_Barbados.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Belarus</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Belarus.txt</link>
+    <thumbnail>https://cdn.pixabay.com/photo/2015/11/12/15/52/flag-1040528_960_720.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Belgium</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Belgium.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/21veganA4TL.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Bolivia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bolivia.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51p1D7ZK1mL._SX425_.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Bosnia and Herzegovina</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bosnia_and_Herzegovina.txt</link>
+    <thumbnail>https://cdn.britannica.com/02/6202-004-E8117B4F.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Brazil</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Brazil.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Bulgaria</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Bulgaria.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/2000px-Flag_of_Bulgaria.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Cambodia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Cambodia.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Flag_of_Cambodia_vertical.svg/2000px-Flag_of_Cambodia_vertical.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Canada</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Canada.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canadian_Duality_Flag.svg/1200px-Canadian_Duality_Flag.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Chile</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Chile.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/2000px-Flag_of_Chile.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>China</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/China.txt</link>
+    <thumbnail>http://3temp.com/wp-content/uploads/2017/12/kinas-flagga.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Colombia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Colombia.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/255px-Flag_of_Colombia.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Costa Rica</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Costa_Rica.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/255px-Flag_of_Costa_Rica_%28state%29.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Croatia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Croatia.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2000px-Flag_of_Croatia.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Cuba</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Cuba.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/2000px-Flag_of_Cuba.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Cyprus</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Cyprus.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2000px-Flag_of_Cyprus.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Czech Republic</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Czech_Republic.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/255px-Flag_of_the_Czech_Republic.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Democratic Republic of the Congo</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Democratic_Republic_of_the_Congo.txt</link>
+    <thumbnail>https://www.carnegiecouncil.org/publications/ethics_online/0046/_res/id=Picture/feature_DRC_Flag.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Denmark</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Denmark.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Dominican Republic</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Dominican_Republic.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/255px-Flag_of_the_Dominican_Republic.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Ecuador</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Ecuador.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2000px-Flag_of_Ecuador.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Egypt</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Egypt.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>El Salvador</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/El_Salvador.txt</link>
+    <thumbnail>https://www.flagsimporter.com/pub/media/catalog/product/cache/image/600x800/e9c3970ab036de70892d86c6d221abfe/e/l/el-salvador35_tn_1.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Equatorial Guinea</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Equatorial_Guinea.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2000px-Flag_of_Equatorial_Guinea.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Estonia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Estonia.txt</link>
+    <thumbnail>https://www.flags-flagpoles-banners.co.uk/wp-content/uploads/2015/01/Estonia-flag.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Finland</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Finland.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2000px-Flag_of_Finland.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>France</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/France.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Georgia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Georgia.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Germany</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Germany.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Ghana</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Ghana.txt</link>
+    <thumbnail>https://www.bankingtech.com/files/2016/12/Ghana-flag.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Greece</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Greece.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2000px-Flag_of_Greece.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Guatemala</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Guatemala.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/2000px-Flag_of_Guatemala.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Guinea</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Guinea.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/2000px-Flag_of_Guinea.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Guyana</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Guyana.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/2000px-Flag_of_Guyana.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Haiti</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Haiti.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/2000px-Flag_of_Haiti.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Honduras</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Honduras.txt</link>
+    <thumbnail>https://worthingtoncc.org/wp-content/uploads/hn.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Hong Kong</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Hong_Kong.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/2000px-Flag_of_Hong_Kong.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Iceland</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Iceland.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2000px-Flag_of_Iceland.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>India</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/India.txt</link>
+    <thumbnail>https://i.redd.it/2zaqa12lfsp01.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Indonesia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Indonesia.txt</link>
+    <thumbnail>https://cdn.britannica.com/48/1648-004-644EBE62.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Iran</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Iran.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/2000px-Flag_of_Iran_%28official%29.svg.png</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Iraq</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Iraq.txt</link>
+    <thumbnail>https://swassets.visitcanberra.com.au/atdw/0002/36/thumb_135210_atdw_gallery.jpeg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Ireland</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Ireland.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/02/IRL_FLAG.jpg</thumbnail>
+</dir>
+
+
+<dir>
+    <title>Israel</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Israel.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Italy</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Italy.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Mexico</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Mexico.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>Russia</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Russia.txt</link>
+    <thumbnail>https://image.shutterstock.com/image-vector/russia-flag-vector-icon-260nw-549159163.jpg</thumbnail>
+</dir>
+
+<dir>
+    <title>Spain</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/Spain.txt</link>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png</thumbnail>
+</dir>
+
+<dir>
+    <title>United Kingdom</title>
+    <link>https://raw.githubusercontent.com/Tempest0580/Temptv/master/lists/foreign_channels/United_Kingdom.txt</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/512-H5HhT6L._SX425_.jpg</thumbnail>
+</dir>
+
+</xml>

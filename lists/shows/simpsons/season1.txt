@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2018/12/the-simpsons-season-1-episode-1.jpg?itok=HDaTo1dE" group-title="",The Simpsons S01 E01
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E01.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="https://tv-fanatic-res.cloudinary.com/iu/s--tgII6HAb--/t_episode_lf/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371141897/bart-the-genius-pic.png" group-title="",The Simpsons S01 E02
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E02.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x3/The-Simpsons-Season-1-Episode-3-5-417f.jpg" group-title="",The Simpsons S01 E03
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E03.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x4/The-Simpsons-Season-1-Episode-4-42-4713.jpg" group-title="",The Simpsons S01 E04
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E04.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x5/The-Simpsons-Season-1-Episode-5-10-4ac4.jpg" group-title="",The Simpsons S01 E05
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E05.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x6/The-Simpsons-Season-1-Episode-6-1-1140.jpg" group-title="",The Simpsons S01 E06
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E06.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x7/The-Simpsons-Season-1-Episode-7-21-0154.jpg" group-title="",The Simpsons S01 E07
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E07.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x8/The-Simpsons-Season-1-Episode-8-3-e6da.jpg" group-title="",The Simpsons S01 E08
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E08.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x5/The-Simpsons-Season-1-Episode-5-9-b901.jpg" group-title="",The Simpsons S01 E09
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E09.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x10/The-Simpsons-Season-1-Episode-10-2-8af3.jpg" group-title="",The Simpsons S01 E10
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E10.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x11/The-Simpsons-Season-1-Episode-11-10-cc26.jpg" group-title="",The Simpsons S01 E11
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E11.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x12/The-Simpsons-Season-1-Episode-12-42-c8d0.jpg" group-title="",The Simpsons S01 E12
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E12.720p.HDTV.[Mojoo.ir].mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/117/1x13/The-Simpsons-Season-1-Episode-13-10-6738.jpg" group-title="",The Simpsons S01 E13
+http://185.49.85.30/upload/film/tv-shows/TheSimpsons/Season%2001/The.Simpsons.S01E13.720p.HDTV.[Mojoo.ir].mkv

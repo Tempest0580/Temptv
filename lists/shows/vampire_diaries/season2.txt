@@ -1,0 +1,67 @@
+#EXTM3U8
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x1/The-Vampire-Diaries-Season-2-Episode-1-36-def2.jpg" group-title="",Vampire Diaries S02 E01
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E01.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.tvequals.com/wp-content/uploads/2010/09/The-vampire-diaries-season-2-7.jpg?resize=500%2C334" group-title="",Vampire Diaries S02 E02
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E02.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/tvd3e.jpg" group-title="",Vampire Diaries S02 E03
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E03.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s.wsj.net/public/resources/images/OB-KG724_vampir_E_20100930214603.jpg" group-title="",Vampire Diaries S02 E04
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E04.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x20/The-Vampire-Diaries-Season-2-Episode-20-5-a738.jpg" group-title="",Vampire Diaries S02 E05
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E05.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2010/10/2-vampire-diaries-s2e6.jpg" group-title="",Vampire Diaries S02 E06
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E06.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2010/11/masquerade.jpg" group-title="",Vampire Diaries S02 E07
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E07.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/vampirediaries/images/b/b6/Rose15.jpg/revision/latest?cb=20101108211403" group-title="",Vampire Diaries S02 E08
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E08.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x9/The-Vampire-Diaries-Season-2-Episode-9-9-019d.jpg" group-title="",Vampire Diaries S02 E09
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E09.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x10/The-Vampire-Diaries-Season-2-Episode-10-46-ccc2.jpg" group-title="",Vampire Diaries S02 E10
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E10.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://vampirediariesguide.com/wp-content/uploads/2011/02/By-the-Light-of-the-Moon.jpg" group-title="",Vampire Diaries S02 E11
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E11.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x12/The-Vampire-Diaries-Season-2-Episode-12-34-1397.jpg" group-title="",Vampire Diaries S02 E12
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E12.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x13/The-Vampire-Diaries-Season-2-Episode-13-1-fab1.jpg" group-title="",Vampire Diaries S02 E13
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E13.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x14/The-Vampire-Diaries-Season-2-Episode-14-10-9265.jpg" group-title="",Vampire Diaries S02 E14
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E14.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x15/The-Vampire-Diaries-Season-2-Episode-15-4-1ff6.jpg" group-title="",Vampire Diaries S02 E15
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E15.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x16/The-Vampire-Diaries-Season-2-Episode-16-50-bb43.jpg" group-title="",Vampire Diaries S02 E16
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E16.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x17/The-Vampire-Diaries-Season-2-Episode-17-10-65e2.jpg" group-title="",Vampire Diaries S02 E17
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E17.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="https://ewedit.files.wordpress.com/2015/01/vampire-diaries-1_610.jpg?w=610" group-title="",Vampire Diaries S02 E18
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E18.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x19/The-Vampire-Diaries-Season-2-Episode-19-45-210b.jpg" group-title="",Vampire Diaries S02 E19
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E19.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x20/The-Vampire-Diaries-Season-2-Episode-20-2-7dc0.jpg" group-title="",Vampire Diaries S02 E20
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E20.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x21/The-Vampire-Diaries-Season-2-Episode-21-21-cd3a.jpg" group-title="",Vampire Diaries S02 E21
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E21.x265.720p.BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://s3cf.recapguide.com/img/tv/37/2x22/The-Vampire-Diaries-Season-2-Episode-22-1-9c0c.jpg" group-title="",Vampire Diaries S02 E22
+http://185.49.85.30/upload/film/tv-shows/VD/s2/The.Vampire.Diaries.S02E22.x265.720p.BluRay.mkv

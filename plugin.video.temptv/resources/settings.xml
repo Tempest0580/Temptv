@@ -1,122 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-    <category label="32310">
+    <category label="30006">
+        <setting type="lsep" label="30005" />
+        <setting id="playmode" type="enum" label="30002" lvalues="30003|30004" default="0" />
+        <setting type="sep" />
         <setting id="Show_Adult" type="bool" label="Show Adult Section" defult="false" />
+        <setting id="sep" />
+    </category>
+    <category label="Dev's Area">
         <setting id="Dev" type="bool" label="Dev Extra's" defult="false" />
-        <setting type="lsep" label="32310" enable="false" />
-        <setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.temptv/?action=artwork)" visible="!System.HasAddon(script.temptv.artwork)" />
-        <setting id="appearance.1" type="select" label="32311" values="Exuary|TempTv" default="TempTv" visible="System.HasAddon(script.temptv.artwork)" />
-        <setting id="scrapers.timeout.1" type="slider" label="32312" default="60" range="10,60" option="int" />
-        <setting id="trakt.user" type="text" default="" label="Trakt User:" enable="false" visible="true" />
-        <setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="!eq(-1,)" />
-        <setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="eq(-2,)" />
-        <setting id="api.language" type="select" label="32316" values="AUTO|Bulgarian|Chinese|Croatian|Czech|Danish|Dutch|English|Finnish|French|German|Greek|Hebrew|Hungarian|Italian|Japanese|Korean|Norwegian|Polish|Portuguese|Romanian|Russian|Serbian|Slovak|Slovenian|Spanish|Swedish|Thai|Turkish|Ukrainian" default="AUTO" />
-        <setting id="providers.lang" type="select" label="32360" values="English|German|German+English|French|French+English|Polish|Polish+English|Korean|Korean+English|Russian|Russian+English|Spanish|Spanish+English|Italian|Italian+English|Greek|Greek+English" default="English" visible="false" />
-        <setting id="movie.widget" type="enum" label="32320" lvalues="32302|32321|32322|32323|32324|32580" default="1" />
-        <setting id="lists.widget" type="enum" label="32329" lvalues="32302|32301" default="1" />
-        <setting id="tv.widget.alt" type="enum" label="32325" lvalues="32302|32326|32327|32328" default="2" visible="!eq(-3,)" />
-        <setting id="tv.widget" type="enum" label="32325" lvalues="32302|32326" default="1" visible="eq(-1,)" />
-        <setting id="prgr.sortorder" type="select" label="32584" lvalues="32585|32586" default="1" visible="!eq(-7,)" />
-        <setting id="fanart" type="bool" label="32318" default="true" />
-        <setting id="showunaired" type="bool" label="32570" default="false" />
-        <setting id="show_season0" type="bool" label="32630" default="false"/>
-        <setting id="unaired.identify" type="enum" label="32608" lvalues="32589|32590|32591|32592|32593|32594|32595|32596|32597|32598" default="6" />
-        <setting id="flatten.tvshows" type="bool" label="32317" default="false" />
-    </category>
-    <category label="32330">
-        <setting type="lsep" label="32330" enable="false" />
-        <setting id="hosts.mode" type="enum" label="32331" lvalues="32332|32333|32334" default="1" />
-        <setting id="progress.dialog" type="enum" label="32335" lvalues="32336|32337" default="0" />
-        <setting type="lsep" label="32338" enable="false" />
-        <setting type="sep" />
-        <setting id="hosts.quality" type="enum" label="32339" values="4K|1080p|720p|SD" default="0" />
-        <setting id="autoplay.sd" type="bool" label="32340" default="false" />
-        <setting id="sources.extrainfo" type="bool" label="32587" default="true" />
-        <setting id="HEVC" type="bool" label="32363" default="true" />
-        <setting id="hosts.captcha" type="bool" label="32341" default="false" />
-        <setting id="hosts.sort.provider" type="bool" label="32342" default="false" />
-        <setting type="sep" />
-        <setting type="lsep" label="32343" enable="false" />
-        <setting id="bookmarks" type="bool" label="32344" default="true" />
-    </category>
-    <category label="32346">
-        <setting type="lsep" label="32539" enable="false" />
-        <setting type="text" label="32538" enable="false" />
-        <setting id="open_smu_settings" type="action" label="32540" enable="true" option="close" action="RunPlugin(plugin://plugin.video.temptv/?action=smuSettings)" />
-        <setting type="sep" />
-        <setting type="lsep" label="Trakt" enable="false" />
-        <setting id="trakt.user" type="text" default="" label="Trakt User:" enable="false" visible="true" />
-        <setting id="trakt.auth" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.temptv/?action=authTrakt)" />
-        <setting id="trakt.token" type="text" visible="false" label="" default="" />
-        <setting id="trakt.refresh" type="text" visible="false" label="" default="" />
-        <setting type="sep" />
-        <setting type="lsep" label="FANART.TV" enable="false" />
-        <setting id="fanart.tv.user" type="text" option="hidden" label="32309" default="db10619c97af83891690f4cfd7205d62" />
-        <setting type="text" label="32582" default="" enable="false" />
-        <setting type="sep" />
-        <setting type="lsep" label="TMDb" />
-        <setting id="tm.user" type="text" option="hidden" label="32309" default="54d34eb70fe2c991b99715037c5523b9" />
-        <setting type="text" label="32582" default="" enable="false" />
-        <setting type="sep" />
-        <setting type="lsep" label="TVDb" />
-        <setting id="tvdb.user" type="text" option="hidden" label="32309" default="7A9F0F57B6E8132D" />
-        <setting type="text" label="32582" default="" enable="false" />
-        <setting type="sep" />
-        <setting type="lsep" label="IMDb" enable="false" />
-        <setting id="imdb.user" type="text" label="32303" default="" />
-        <setting type="sep" />
-        <setting type="lsep" label="Furk.net" enable="false" />
-        <setting id="provider.furk" type="bool" label="FURK" default="false" />
-        <setting id="furk.user_name" type="text" label="Furk Username" default="" />
-        <setting id="furk.user_pass" type="text" label="Furk Password" option="hidden" default="" />
-        <setting id="furk.api" type="text" label="Furk API Key" default="" />
-        <setting id="furk.mod.level" type="labelenum" label="Set Furk Moderation Level" default="Yes" values="No|Yes|Full" />
-        <setting id="furk.limit" label="Limit results" type="slider" default="25" range="5,5,200" option="int" />
-        <setting type="sep" />
-        <setting type="lsep" label="Ororo.tv" enable="false" />
-        <setting id="provider.ororo" type="bool" label="ORORO" default="false" />
-        <setting id="ororo.user" type="text" label="32304" default="" />
-        <setting id="ororo.pass" type="text" option="hidden" label="32307" default="" />
-    </category>
-    <category label="32541">
-        <setting label="Library Settings" type="lsep" />
-            <setting id="library.movie" type="folder" label="32543" default="special://userdata/addon_data/plugin.video.temptv/Movies" />
-            <setting id="library.tv" type="folder" label="32544" default="special://userdata/addon_data/plugin.video.temptv/TVShows" />
-            <setting type="text" label="32542" enable="false" />
-            <setting id="library.service.update" type="bool" label="32545" default="true" />
-            <setting id="library.service.notification" type="bool" label="32546" default="true" />
-            <setting id="library.update" type="bool" label="32547" default="true" />
-            <setting id="library.check" type="bool" label="32548" default="true" />
-            <setting id="library.importdelay" type="bool" label="24HR delay before import" default="true" />
-            <setting id="library.check_movie" type="bool" label="32549" default="false" />
-            <setting id="library.check_episode" type="bool" label="32550" default="false" />
-            <setting id="library.include_unknown" type="bool" label="32565" default="true" />
-        <setting type="sep" />
-    </category>
-    <category label="32347">
-        <setting id="downloads" type="bool" label="32348" default="false" />
-        <setting type="sep" />
-        <setting id="movie.download.path" type="folder" label="32349" enable="!eq(-2,false)" default="" />
-        <setting id="tv.download.path" type="folder" label="32350" enable="!eq(-3,false)" default="" />
-        <setting type="sep" />
-        <setting type="text" label="32351" enable="false" />
-        <setting type="text" label="32352" enable="false" />
-    </category>
-    <category label="Subtitles">
-        <setting id="subtitles" type="bool" label="32354" default="false" />
-        <setting type="sep" />
-        <setting id="subtitles.utf" type="bool" label="32355" enable="!eq(-2,false)" default="false" />
-        <setting type="sep" />
-        <setting id="subtitles.lang.1" type="select" label="32356" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-4,false)" default="English" />
-        <setting id="subtitles.lang.2" type="select" label="32357" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-5,false)" default="English" />
-        <setting type="sep" enable="false" />
-        <setting type="text" label="32358" enable="false" />
-        <setting type="text" label="32359" enable="false" />
-    </category>
-    <category label="32616">
-        <setting label="Debugger of Errors" type="lsep" />
-        <setting id="addon_debug" type="bool" label="Enable Debug" default="false" />
-        <setting id="debug.location" type="enum" label="32617" lvalues="32618|32619" default="0" />
-        <setting type="sep" />
     </category>
 </settings>
