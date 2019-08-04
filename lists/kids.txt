@@ -3,35 +3,33 @@
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Kids/Animation", Disney Channel
-http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="Kids/Animation", Nickelodeon
-http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:48:53:86&uid=471
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
-http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon Junior
-http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:48:53:86&uid=471
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="Kids/Animation",NickJr Too
-http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:48:53:86&uid=471
-
-#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Channel (5025023)
+https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Channel US (200585)
+https://api.vpnmate.com/play/?vlc=1&channel=200585&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Jr US (201064)
+https://api.vpnmate.com/play/?vlc=1&channel=201064&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Junior (5025272)
+https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney XD (5012865)
+https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Xd US (201063)
+https://api.vpnmate.com/play/?vlc=1&channel=201063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Disney Xd US (205901)
+https://api.vpnmate.com/play/?vlc=1&channel=205901&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/800px-Disney_Junior.svg.png" group-title="Cartoons", Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
-#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/ca5kCBb0Xgh7kd7FaTPQ4TBjPFw=/0x28:1019x707/1200x800/filters:focal(0x28:1019x707)/cdn.vox-cdn.com/uploads/chorus_image/image/45580448/nickelodeon_logo_1020.0.jpg" group-title="",Nickelodeon
-http://www.sansat.net:25461/7989220643/7989220643/5301
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
-http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" group-title="General",Nick Jr.
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c612fdac-59c2-4e50-8276-4f8c77d1924f&deviceId=4e0180fd-b3cc-4bd1-b4c5-b296fb9c3be5&deviceVersion=75.0.3770.80&appVersion=2.6.4-0c951252a8db110836f3eb648246a5cae9d55f67&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=truee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nick Jr US (3005814)
+https://api.vpnmate.com/play/?vlc=1&channel=3005814&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nickelodeon US (200560)
+https://api.vpnmate.com/play/?vlc=1&channel=200560&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",NickMusic US (3005902)
+https://api.vpnmate.com/play/?vlc=1&channel=3005902&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Nicktoons US (3005813)
+https://api.vpnmate.com/play/?vlc=1&channel=3005813&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="Kids/Animation", Nickelodeon
+http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:48:53:86&uid=471
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
