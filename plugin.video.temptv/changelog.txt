@@ -1,5 +1,6 @@
-[COLOR gold]Beta Stage, Work in progress.[/COLOR]
+[COLOR gold]Still in Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
-[B][COLOR gold] 1.0.0 [/COLOR][/B]
+[B][COLOR gold] 2.0.0 [/COLOR][/B]
 - Initial version
+- UnInstall Old Version

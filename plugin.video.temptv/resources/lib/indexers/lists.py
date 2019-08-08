@@ -11,14 +11,14 @@ except:
 
 class indexer:
     def __init__(self):
-        self.list = []; self.hash = []
+        self.list = []
+        self.hash = []
 
     def entertainment(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvZW5nbGlzaC50eHQ='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZW5nbGlzaC5tM3U='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -30,9 +30,8 @@ class indexer:
     def movies(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvbW92aWVzLnR4dA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbW92aWVzLm0zdQ=='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -44,9 +43,8 @@ class indexer:
     def kids(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMva2lkcy50eHQ='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIva2lkcy5tM3U='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -58,9 +56,8 @@ class indexer:
     def sports(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvc3BvcnRzLnR4dA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvc3BvcnRzLm0zdQ=='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -72,9 +69,8 @@ class indexer:
     def news(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvbmV3cy50eHQ='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbmV3cy5tM3U='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -86,9 +82,8 @@ class indexer:
     def music(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvbXVzaWMudHh0'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpbk11c2ljLnhtbA=='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -100,9 +95,8 @@ class indexer:
     def hour24(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvMjQtNy50eHQ='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvMjQtNy5tM3U='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -114,9 +108,8 @@ class indexer:
     def theaters(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvdGhlYXRlci50eHQ='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvdGhlYXRlci54bWw='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -128,9 +121,8 @@ class indexer:
     def pluto(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvcGx1dG8udHh0'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvcGx1dG8ubTN1'.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -142,9 +134,8 @@ class indexer:
     def foreign(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvcGx1dG8udHh0'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZm9yZWlnbi54bWw='.decode(
                 'base64')
-            print url
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
@@ -156,35 +147,7 @@ class indexer:
     def testing(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvdGVzdGluZy50eHQ='.decode(
-                'base64')
-            print url
-            self.list = self.noname_list(url)
-            for i in self.list:
-                i.update({'content': 'addons'})
-            self.addDirectory(self.list)
-            return self.list
-        except:
-            pass
-
-    def rootMC(self):
-        try:
-            regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pld2JteC94bWwvbWFzdGVyL2xpc3RzL01DbGlzdC50eHQ='.decode(
-                'base64')
-            print url
-            self.list = self.noname_list(url)
-            for i in self.list:
-                i.update({'content': 'addons'})
-            self.addDirectory(self.list)
-            return self.list
-        except:
-            pass
-
-    def root(self):
-        try:
-            regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pld2JteC94bWwvbWFzdGVyL2xpc3RzLzFtZW51LnR4dA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvdGVzdGluZy50eHQ='.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -194,10 +157,10 @@ class indexer:
         except:
             pass
 
-    def arrow(self):
+    def click_movies(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvc2hvd3MvYXJyb3cvYXJyb3cudHh0'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpbk1vdmllcy54bWw='.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -207,10 +170,10 @@ class indexer:
         except:
             pass
 
-    def ballers(self):
+    def shows(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvc2hvd3MvYmFsbGVycy9iYWxsZXJzLnR4dA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpblNob3dzLnhtbA=='.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -223,7 +186,7 @@ class indexer:
     def rootXXX(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL1RlbXB0di9tYXN0ZXIvbGlzdHMvYWR1bHQudHh0'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvYWR1bHQubTN1'.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -353,7 +316,7 @@ class indexer:
                             except:
                                 pass
                     else:
-                        if not '|SPLITER|' in url:
+                        if '|SPLITER|' not in url:
                             try:
                                 self.list += [{'name': '%s...' % url, 'url': url, 'action': 'addSearch'}]
                             except:
@@ -434,7 +397,7 @@ class indexer:
                     if not i['vip'] in ['No-Name TV']:
                         name += '[B]%s[/B] | ' % i['vip'].upper()
                     name += i['name']
-                    i.update({'name' : name})
+                    i.update({'name': name})
                 except:
                     pass
             for i in self.list:
@@ -448,7 +411,7 @@ class indexer:
             if result.strip().startswith('#EXTM3U') and '#EXTINF' in result:
                 try:
                     result = re.compile('#.+? tvg-logo="(.+?)" .+?",(.+?)\n(.+?)\n', re.MULTILINE|re.DOTALL).findall(result)
-                    result = ['<item><thumbnail>%s</thumbnail><title>%s</title><link>%s</link></item>' % (i[0], i[1], i [2]) for i in result]
+                    result = ['<item><thumbnail>%s</thumbnail><title>%s</title><link>%s</link></item>' % (i[0], i[1], i[2]) for i in result]
                     result = ''.join(result)
                 except:
                     result = re.compile('#EXTINF:.+?\,(.+?)\n(.+?)\n', re.MULTILINE|re.DOTALL).findall(result)
@@ -489,7 +452,7 @@ class indexer:
                 for i in regdata:
                     reghash.update(str(i))
                 reghash = str(reghash.hexdigest())
-                item = item.replace('\r','').replace('\n','').replace('\t','').replace('&nbsp;','').replace('<tmdb_data>true</tmdb_data>','<tmdb_data>all</tmdb_data>')
+                item = item.replace('\r' ,'').replace('\n', '').replace('\t', '').replace('&nbsp;', '').replace('<tmdb_data>true</tmdb_data>','<tmdb_data>all</tmdb_data>')
                 try:
                     meta = re.findall('<meta>(.+?)</meta>', item)[0]
                 except:
@@ -784,7 +747,7 @@ class indexer:
             premiered = item['Released']
             if premiered is None or premiered == '' or premiered == 'N/A':
                 premiered = '0'
-            premiered = re.findall('(\d*) (.+?) (\d*)', premiered)
+            premiered = re. findall('(\d*) (.+?) (\d*)', premiered)
             try:
                 premiered = '%s-%s-%s' % (premiered[0][2], {'Jan':'01', 'Feb':'02', 'Mar':'03', 'Apr':'04', 'May':'05', 'Jun':'06', 'Jul':'07', 'Aug':'08', 'Sep':'09', 'Oct':'10', 'Nov':'11', 'Dec':'12'}[premiered[0][1]], premiered[0][0])
             except:
@@ -874,6 +837,9 @@ class indexer:
             pass
 
     def tv_info(self, i):
+        self.lang = control.apiLanguage()['tvdb']
+        self.tvdb_key = control.setting('tvdb.user')
+        self.tvdb_info_link = 'http://thetvdb.com/api/%s/series/%s/%s.xml' % (self.tvdb_key, '%s', self. lang)
         try:
             if self.list[i]['metacache'] is True:
                 raise Exception()
@@ -882,8 +848,8 @@ class indexer:
             tvdb = self.list[i]['tvdb']
             if tvdb == '0':
                 raise Exception()
-            url = self.tvmaze_info_link % tvdb
-            item = client.request(url, output='extended', error=True, timeout='10')
+            url = self.tvdb_info_link % tvdb
+            item = client.request(url, timeout='10')
             if item[1] == '404':
                 return self.meta.append({'imdb': '0', 'tmdb': '0', 'tvdb': tvdb, 'lang': self.lang, 'item': {'code': '0'}})
             item = json.loads(item[0])
@@ -952,7 +918,7 @@ class indexer:
             pass
 
     def addDirectory(self, items, queue=False):
-        if items == None or len(items) == 0:
+        if items is None or len(items) == 0:
             return
         sysaddon = sys.argv[0]
         addonPoster = addonBanner = control.addonInfo('icon')
@@ -1010,8 +976,8 @@ class indexer:
                     cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
                 if content in ['movies', 'tvshows', 'seasons', 'episodes']:
                     cm.append((control.lang(30708).encode('utf-8'), 'XBMC.Action(Info)'))
-                if (folder == False and not '|regex=' in str(i.get('url'))) or (folder == True and content in ['tvshows', 'seasons']):
-                    cm.append((control.lang(30723).encode('utf-8'), 'RunPlugin(%s?action=queueItem)' % sysaddon))
+                if (folder is False and '|regex=' not in str(i.get('url'))) or (folder is True and content in ['tvshows', 'seasons']):
+                    cm.append((control.lang(32065).encode('utf-8'), 'RunPlugin(%s?action=queueItem)' % sysaddon))
                 if content == 'movies':
                     try:
                         dfile = '%s (%s)' % (i['title'], i['year'])
@@ -1054,12 +1020,12 @@ class indexer:
                     item.setProperty('Fanart_Image', addonFanart)
                 if queue is False:
                     item.setInfo(type='Video', infoLabels = control.metadataClean(meta))
-                    #item.setInfo(type='Video', infoLabels = meta) # old code
+                    # item.setInfo(type='Video', infoLabels = meta) # old code
                     item.addContextMenuItems(cm)
                     control.addItem(handle=int(sys.argv[1]), url=url, listitem=item, isFolder=folder)
                 else:
                     item.setInfo(type='Video', infoLabels = control.metadataClean(meta))
-                    #item.setInfo(type='Video', infoLabels = meta) # old code
+                    # item.setInfo(type='Video', infoLabels = meta) # old code
                     playlist.add(url=url, listitem=item)
             except:
                 pass
@@ -1087,7 +1053,7 @@ class resolver:
     def browser(self, url):
         try:
             url = self.get(url)
-            if url == False:
+            if url is False:
                 return
             control.execute('RunPlugin(plugin://plugin.program.chrome.launcher/?url=%s&mode=showSite&stopPlayback=no)' % urllib.quote_plus(url))
         except:
@@ -1096,12 +1062,12 @@ class resolver:
     def link(self, url):
         try:
             url = self.get(url)
-            if url == False:
+            if url is False:
                 return
             control.execute('ActivateWindow(busydialog)')
             url = self.process(url)
             control.execute('Dialog.Close(busydialog)')
-            if url == None:
+            if url is None:
                 return control.infoDialog(control.lang(30705).encode('utf-8'))
             return url
         except:
@@ -1128,7 +1094,7 @@ class resolver:
                 if not any(i in url for i in ['.f4m', '.ts']):
                     raise Exception()
                 ext = url.split('?')[0].split('&')[0].split('|')[0].rsplit('.')[-1].replace('/', '').lower()
-                if not ext in ['f4m', 'ts']:
+                if ext not in ['f4m', 'ts']:
                     raise Exception()
                 params = urlparse.parse_qs(url)
                 try:
@@ -1169,7 +1135,7 @@ class resolver:
             if not any(i in url for i in ['.jpg', '.png', '.gif']):
                 raise Exception()
             ext = url.split('?')[0].split('&')[0].split('|')[0].rsplit('.')[-1].replace('/', '').lower()
-            if not ext in ['jpg', 'png', 'gif']:
+            if ext not in ['jpg', 'png', 'gif']:
                 raise Exception()
             try:
                 i = os.path.join(control.dataPath,'img')
@@ -1239,7 +1205,7 @@ class resolver:
         except:
             pass
         try:
-            if not '.google.com' in url:
+            if '.google.com' not in url:
                 raise Exception()
             from resources.lib.modules import directstream
             u = directstream.google(url)[0]['url']
@@ -1262,7 +1228,7 @@ class resolver:
             if not url.startswith('http'):
                 raise Exception()
             result = client.request(url.split('|')[0], headers=headers, output='headers', timeout='20')
-            if 'Content-Type' in result and not 'html' in result['Content-Type']:
+            if 'Content-Type' in result and 'html' not in result['Content-Type']:
                 raise Exception()
             import liveresolver
             if liveresolver.isValid(url) is True:
@@ -1315,7 +1281,7 @@ class player(xbmc.Player):
                 except:
                     pass
             meta = dict((k, v) for k, v in meta.iteritems() if not v == '')
-            if not 'title' in meta:
+            if 'title' not in meta:
                 meta['title'] = control.infoLabel('listitem.label')
             icon = control.infoLabel('listitem.icon')
             self.name = meta['title']
@@ -1330,8 +1296,8 @@ class player(xbmc.Player):
                 item.setArt({'icon': icon})
             except:
                 pass
-            item.setInfo(type='Video', infoLabels = control.metadataClean(meta))
-            #item.setInfo(type='Video', infoLabels = meta) # old code
+            item.setInfo(type='Video', infoLabels=control.metadataClean(meta))
+            # item.setInfo(type='Video', infoLabels = meta) # old code
             control.player.play(url, item)
             control.resolve(int(sys.argv[1]), True, item)
             self.totalTime = 0
@@ -1353,7 +1319,7 @@ class player(xbmc.Player):
 
     def onPlayBackStarted(self):
         control.execute('Dialog.Close(all,true)')
-        if self.getbookmark == True and not self.offset == '0':
+        if self.getbookmark is True and not self.offset == '0':
             self.seekTime(float(self.offset))
 
     def onPlayBackStopped(self):
@@ -1382,7 +1348,8 @@ class bookmarks:
             dbcon.commit()
             if self.offset == '0':
                 raise Exception()
-            minutes, seconds = divmod(float(self.offset), 60) ; hours, minutes = divmod(minutes, 60)
+            minutes, seconds = divmod(float(self.offset), 60)
+            hours, minutes = divmod(minutes, 60)
             label = '%02d:%02d:%02d' % (hours, minutes, seconds)
             label = (control.lang(32502) % label).encode('utf-8')
             try:

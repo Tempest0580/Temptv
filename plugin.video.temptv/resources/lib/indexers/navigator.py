@@ -33,34 +33,17 @@ class navigator:
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('24/7', 'hour24', 'channels.png', 'DefaultTvshows.png')
-        self.addDirectoryItem('1 Click Movies', '1_click_movies', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('1 Click Movies', 'click_movies', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('In Theaters', 'theaters', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
-        # self.addDirectoryItem('iptvChannels', 'iptvChannels', 'channels.png', 'DefaultTVShows.png')
-        # self.addDirectoryItem('jewMC', 'jewMC', 'highly-rated.png', 'DefaultVideoPlaylists.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')
         if control.setting('Dev') == 'true':
             self.addDirectoryItem('Testing', 'testing', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('Refresh', 'refresh', 'channels.png', 'DefaultTVShows.png')
+        # self.addDirectoryItem('Refresh', 'refresh', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32008, 'toolNavigator', 'settings.png', 'DefaultAddonProgram.png')
-        downloads = True if control.setting('downloads') == 'true' and (len(control.listDir(control.setting('movie.download.path'))[0]) > 0 or len(control.listDir(control.setting('tv.download.path'))[0]) > 0) else False
-        if downloads is True:
-            self.addDirectoryItem(32009, 'downloadNavigator', 'downloads.png', 'DefaultFolder.png')
-        self.addDirectoryItem(32010, 'searchNavigator', 'search.png', 'DefaultFolder.png')
         self.addDirectoryItem('ChangeLog', 'changelog', 'search.png', 'DefaultAddonProgram.png')
-        self.endDirectory()
-
-    def shows(self):
-        self.addDirectoryItem('Arrow', 'arrow', 'shows/arrow.jpg', 'DefaultTVShows.png')
-        self.addDirectoryItem('Ballers', 'ballers', 'shows/ballers.jpg', 'DefaultTVShows.png')
-        self.endDirectory()
-
-    def movies(self):
-        self.addDirectoryItem('4K', 'four', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('1080p', 'ten', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('720p', 'seven', 'channels.png', 'DefaultTVShows.png')
         self.endDirectory()
 
     def changelog(self):
@@ -87,82 +70,12 @@ class navigator:
 
     def settings(self):
         self.addDirectoryItem(32043, 'openSettings&query=0.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32044, 'openSettings&query=1.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32046, 'openSettings&query=2.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32045, 'openSettings&query=3.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32556, 'libraryNavigator', 'settingss.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32048, 'openSettings&query=8.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32047, 'openSettings&query=9.0', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32049, 'viewsNavigator', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32050, 'clearSources', 'settings.png', 'DefaultAddonProgram.png')
+        # self.addDirectoryItem(32046, 'openSettings&query=1.0', 'settings.png', 'DefaultAddonProgram.png')
+        # self.addDirectoryItem(32047, 'openSettings&query=2.0', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem(32052, 'clearCache', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem(32051, 'clearMetaCache', 'settings.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32604, 'clearCacheSearch', 'settings.png', 'DefaultAddonProgram.png')
 
         self.endDirectory()
-
-    def library(self):
-        self.addDirectoryItem(32557, 'openSettings&query=7.0', 'tools.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32558, 'updateLibrary&query=tool', 'library_update.png', 'DefaultAddonProgram.png')
-        self.addDirectoryItem(32559, control.setting('library.movie'), 'movies.png', 'DefaultMovies.png', isAction=False)
-        self.addDirectoryItem(32560, control.setting('library.tv'), 'tvshows.png', 'DefaultTVShows.png', isAction=False)
-        if trakt.getTraktCredentialsInfo():
-            self.addDirectoryItem(32561, 'moviesToLibrary&url=traktcollection', 'trakt.png', 'DefaultMovies.png')
-            self.addDirectoryItem(32562, 'moviesToLibrary&url=traktwatchlist', 'trakt.png', 'DefaultMovies.png')
-            self.addDirectoryItem(32563, 'tvshowsToLibrary&url=traktcollection', 'trakt.png', 'DefaultTVShows.png')
-            self.addDirectoryItem(32564, 'tvshowsToLibrary&url=traktwatchlist', 'trakt.png', 'DefaultTVShows.png')
-        self.endDirectory()
-
-    def downloads(self):
-        movie_downloads = control.setting('movie.download.path')
-        tv_downloads = control.setting('tv.download.path')
-
-        if len(control.listDir(movie_downloads)[0]) > 0:
-            self.addDirectoryItem(32001, movie_downloads, 'movies.png', 'DefaultMovies.png', isAction=False)
-        if len(control.listDir(tv_downloads)[0]) > 0:
-            self.addDirectoryItem(32002, tv_downloads, 'tvshows.png', 'DefaultTVShows.png', isAction=False)
-
-        self.endDirectory()
-
-    def search(self):
-        self.addDirectoryItem(32001, 'movieSearch', 'search.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32002, 'tvSearch', 'search.png', 'DefaultTVShows.png')
-        self.addDirectoryItem(32029, 'moviePerson', 'people-search.png', 'DefaultMovies.png')
-        self.addDirectoryItem(32030, 'tvPerson', 'people-search.png', 'DefaultTVShows.png')
-
-        self.endDirectory()
-
-    def views(self):
-        try:
-            control.idle()
-
-            items = [(control.lang(32001).encode('utf-8'), 'movies'), (control.lang(32002).encode('utf-8'), 'tvshows'), (control.lang(32054).encode('utf-8'), 'seasons'), (control.lang(32038).encode('utf-8'), 'episodes')]
-
-            select = control.selectDialog([i[0] for i in items], control.lang(32049).encode('utf-8'))
-
-            if select == -1:
-                return
-
-            content = items[select][1]
-
-            title = control.lang(32059).encode('utf-8')
-            url = '%s?action=addView&content=%s' % (sys.argv[0], content)
-
-            poster, banner, fanart = control.addonPoster(), control.addonBanner(), control.addonFanart()
-
-            item = control.item(label=title)
-            item.setInfo(type='Video', infoLabels={'title': title})
-            item.setArt({'icon': poster, 'thumb': poster, 'poster': poster, 'banner': banner})
-            item.setProperty('Fanart_Image', fanart)
-
-            control.addItem(handle=int(sys.argv[1]), url=url, listitem=item, isFolder=False)
-            control.content(int(sys.argv[1]), content)
-            control.directory(int(sys.argv[1]), cacheToDisc=True)
-
-            from resources.lib.modules import views
-            views.setView(content, {})
-        except:
-            return
 
     def accountCheck(self):
         if traktCredentials is False and imdbCredentials is False:
@@ -229,8 +142,6 @@ class navigator:
         url = '%s?action=%s' % (sysaddon, query) if isAction is True else query
         thumb = os.path.join(artPath, thumb) if artPath is not None else icon
         cm = []
-        if queue is True:
-            cm.append((queueMenu, 'RunPlugin(%s?action=queueItem)' % sysaddon))
         if context is not None:
             cm.append((control.lang(context[0]).encode('utf-8'), 'RunPlugin(%s?action=%s)' % (sysaddon, context[1])))
         item = control.item(label=name)

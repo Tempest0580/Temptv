@@ -72,33 +72,17 @@ if action == 'jewMC':
     from resources.lib.indexers import lists
     lists.indexer().rootMC()
 
-if action == '1_click_movies':
-    from resources.lib.indexers import navigator
-    navigator.navigator().movies()
+if action == 'click_movies':
+    from resources.lib.indexers import lists
+    lists.indexer().click_movies()
 
 if action == '1_click_shows':
-    from resources.lib.indexers import navigator
-    navigator.navigator().shows()
-
-if action == 'arrow':
     from resources.lib.indexers import lists
-    lists.indexer().arrow()
+    lists.indexer().shows()
 
-if action == 'ballers':
+if action == 'foreign':
     from resources.lib.indexers import lists
-    lists.indexer().ballers()
-
-if action == 'four':
-    from resources.lib.indexers import navigator
-    navigator.navigator().four()
-
-if action == 'ten':
-    from resources.lib.indexers import navigator
-    navigator.navigator().ten()
-
-if action == 'seven':
-    from resources.lib.indexers import navigator
-    navigator.navigator().seven()
+    lists.indexer().foreign()
 
 if action == 'pluto':
     from resources.lib.indexers import lists
@@ -232,33 +216,6 @@ elif action == 'changelog':
     from resources.lib.indexers import navigator
     navigator.navigator().changelog()
 
-elif action == 'smuSettings':
-    try:
-        import urlresolver
-    except:
-        pass
-    urlresolver.display_settings()
-
-elif action == 'urlResolver':
-    try:
-        import urlresolver
-    except:
-        pass
-    urlresolver.display_settings()
-
-elif action == 'urlResolverRDTorrent':
-     from resources.lib.modules import control
-     control.openSettings(query, "script.module.urlresolver")
-
-elif action == 'download':
-    import json
-    from resources.lib.modules import sources
-    from resources.lib.modules import downloader
-    try:
-        downloader.download(name, image, sources.sources().sourcesResolve(json.loads(source)[0], True))
-    except:
-        pass
-
 elif action == 'play':
     from resources.lib.modules import sources
     sources.sources().play(title, year, imdb, tvdb, season, episode, tvshowtitle, premiered, meta, select)
@@ -310,33 +267,3 @@ elif action == 'updateLibrary':
 elif action == 'service':
     from resources.lib.modules import libtools
     libtools.libepisodes().service()
-
-
-def toggleAll(setting, query=None, sourceList=None):
-    from resources.lib.sources import getAllHosters
-    from resources.lib.modules import control
-    sourceList = getAllHosters() if not sourceList else sourceList
-    for i in sourceList:
-        source_setting = 'provider.' + i
-        control.setSetting(source_setting, setting)
-    control.openSettings(query)
-
-
-if mode == "toggleAllNormal":
-    sourcelist = ['1putlocker', '123moviehd', '123movies4u', '123123movies', 'allucxyz', 'cartoonhd', 'animetoon',
-                  'cartoonwire', 'cmovieshd', 'cmovieshdbz', 'filmxy', 'gomoviesink', 'gowatchseries',
-                  'hackimdb', 'hdpopcorneu', 'movie4kis', 'moviefullhd', 'moviescouch', 'mycouchtuner', 'odb',
-                  'openloadmovie', 'projectfreetv', 'reddit', 'seehd', 'series9', 'seriesfree', 'seriesonline',
-                  'solarmoviez', 'spacemov', 'streamdreams', 'swatchseries', 'watchepisodes4', 'watchfree',
-                  'watchfree1', 'watchseries', 'watchserieshd']
-    toggleAll(params['setting'], params['query'], sourcelist)
-
-if mode == "toggleAllDirect":
-    sourcelist = ['d1dldrm', 'dl2dlb3d', 'dl2f2m', 'dl2lavinmovie', 'dl3dlb3d', 'dl3f2m', 'dl4dlb3d', 'dl4download',
-                  'dl4lavinmovie', 'dl5dlb3d', 'dl5f2m', 'dl5lavinmovie', 'dl6dlb3d', 'dl6f2m', 'dl7dlb3d', 'dl7f2m',
-                  'dl7lavinmovie', 'dl8dlb3d', 'dl8heyserver', 'dl8lavinmovie','dl9lavinmovie','dl12dlb3d',
-                  'dl20mihanpix', 'dldlb3d', 'dlf2m', 'dlfarshow', 'dlfilm', 'dlmeliupload', 'dlmyfilm', 'dlsitemovie',
-                  'dlsrvdl', 'dlupdlf', 'dlupload8', 'gmovies', 'hdpopcorns', 'iwaatch', 'lalbatte', 'mihanpix',
-                  'movieminions', 'ns5', 'pz10028', 'pz10093', 's1dlserver', 's1tinydl', 's2dlserver', 's16bitdl',
-                  's19bitdl', 'stgpz10139']
-    toggleAll(params['setting'], params['query'], sourcelist)

@@ -1,4 +1,0 @@
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="" tvg-name="Captain America Civil War (2016) [2160p]" tvg-logo="http://lltv.xyz:80/images/kSBXou5Ac7vEqKd97wotJumyJvU_small.jpg" group-title="Movies | 4K",Captain America Civil War
-http://lltv.xyz:80/movie/ianjones123/x8k9ntIkHG/95842.mkv 
