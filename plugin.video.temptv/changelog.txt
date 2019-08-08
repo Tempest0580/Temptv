@@ -4,3 +4,6 @@
 [B][COLOR gold] 2.0.0 [/COLOR][/B]
 - Initial version
 - UnInstall Old Version
+
+[B][COLOR gold] . [/COLOR][/B]
+- Live Tv is really the only part that is working right now, Ill update Movies and Shows as i can. Thanks
