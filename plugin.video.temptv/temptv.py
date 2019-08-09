@@ -267,3 +267,11 @@ elif action == 'updateLibrary':
 elif action == 'service':
     from resources.lib.modules import libtools
     libtools.libepisodes().service()
+
+elif action == 'ustvgoNavigator':
+    from resources.lib.indexers import ustvgo
+    ustvgo.ustvgo().root()
+
+elif action == 'ustvgoPlay':
+    from resources.lib.indexers import ustvgo
+    ustvgo.ustvgo().play(url, title, image)
