@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.1" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.2" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -22,6 +22,7 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
+			v2.0.2 - Updated UsaTv Go, and New Repo https://tempest0580.github.io/
 			v2.0.1 - Added Channels from Usatv Go, Updated a few Shows
 			v2.0.0 - Initial version.
 		</news>
