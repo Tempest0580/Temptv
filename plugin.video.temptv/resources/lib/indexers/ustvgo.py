@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# --[ USTVgo v1.0 ]--|--[ From JewBMX ]--[Updated by Tempest]--
+# --[ USTVgo v1.3 ]--|--[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
 import re, os, sys, urllib
@@ -10,8 +10,7 @@ from resources.lib.modules import control
 class ustvgo:
     def __init__(self):
         self.list = []
-        self.base_main_link = 'http://ustvgo.tv/%s'
-        self.base_icon_link = 'https://github.com/jewbmx/xml/blob/master/img/ustvgo.jpg?raw=true'
+        self.base_link = 'http://ustvgo.tv/%s'
 
     def root(self):
         channels = [
@@ -98,15 +97,14 @@ class ustvgo:
             ('We Tv', 'we-tv', 'http://ustvgo.tv/wp-content/uploads/2019/08/wetv.jpg')
         ]
         for channel in channels:
-            self.list.append({'name': channel[0], 'url': self.base_main_link % channel[1], 'image': channel[2], 'action': 'ustvgoPlay'})
+            self.list.append({'name': channel[0], 'url': self.base_link % channel[1], 'image': channel[2], 'action': 'ustvgoPlay'})
         self.addDirectory(self.list)
         return self.list
 
-    def play(self, url, title, icon):
+    def play(self, url):
         try:
-            html = client.request(url)
-            stream = re.compile("file: '(.+?)',", re.DOTALL).findall(html)[0]
-            url = stream
+            stream = client.request(url)
+            url = re.compile("file: '(.+?)',", re.DOTALL).findall(stream)[0]
             control.execute('PlayMedia(%s)' % url)
         except Exception:
             return

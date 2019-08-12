@@ -1,13 +1,24 @@
 [COLOR gold]Still in Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
+Repo https://tempest0580.github.io/
 
-[B][COLOR gold] 2.0.1 [/COLOR][/B]
+2.0.4
+- Code Clean up on UsaTv Go
+
+2.0.3
+- Added Acronaitv (24-7 movies and shows in the 24-7 Dir)
+
+2.0.2]
+- New Repo https://tempest0580.github.io/
+- Updates UsaTv Go
+
+2.0.1
 - Added Channels from Usatv Go
 
-[B][COLOR gold] . [/COLOR][/B]
+
 - Live Tv is really the only part that is working right now, Ill update Movies and Shows as i can. Thanks
 
-[B][COLOR gold] 2.0.0 [/COLOR][/B]
+2.0.0
 - Initial version
 - UnInstall Old Version
 
