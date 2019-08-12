@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.5 [/COLOR][/B]
+- Small Update to fix UsaTv Go issue
+
 [B][COLOR gold] 2.0.4 [/COLOR][/B]
 - Code Clean up on UsaTv Go
 

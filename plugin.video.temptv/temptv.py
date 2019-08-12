@@ -280,7 +280,7 @@ elif action == 'ustvgoNavigator':
 
 elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
-    ustvgo.ustvgo().play(url, title, image)
+    ustvgo.ustvgo().play(url)
 
 elif action == 'acronaitv_menu':
     from resources.lib.indexers import acronaitv
