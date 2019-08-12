@@ -1,6 +1,9 @@
 [COLOR gold]Still in Beta Stage, Work in progress.[/COLOR]
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 
+[B][COLOR gold] 2.0.3 [/COLOR][/B]
+- Added Acronaitv (24-7 movies and shows in the 24-7 Dir)
+
 [B][COLOR gold] 2.0.2 [/COLOR][/B]
 - New Repo https://tempest0580.github.io/
 - Updates UsaTv Go

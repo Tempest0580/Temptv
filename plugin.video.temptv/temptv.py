@@ -29,6 +29,12 @@ poster = params.get('poster')
 windowedtrailer = params.get('windowedtrailer')
 windowedtrailer = int(windowedtrailer) if windowedtrailer in ("0", "1") else 0
 
+arconai_cable = params.get('arconai_cable')
+arconai_shows = params.get('arconai_shows')
+arconai_movies = params.get('arconai_movies')
+arconai_play = params.get('arconai_play')
+selection = params.get('selection')
+
 
 if action is None:
     from resources.lib.indexers import navigator
@@ -275,3 +281,23 @@ elif action == 'ustvgoNavigator':
 elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
     ustvgo.ustvgo().play(url, title, image)
+
+elif action == 'acronaitv_menu':
+    from resources.lib.indexers import acronaitv
+    acronaitv.acronaitv().list_categories()
+
+elif action == 'arconai_cable':
+    from resources.lib.indexers import acronaitv
+    acronaitv.acronaitv().list_cable()
+
+elif action == 'arconai_shows':
+    from resources.lib.indexers import acronaitv
+    acronaitv.acronaitv().list_shows()
+
+elif action == 'arconai_movies':
+    from resources.lib.indexers import acronaitv
+    acronaitv.acronaitv().list_movies()
+
+elif action == 'arconai_play':
+    from resources.lib.indexers import acronaitv
+    acronaitv.acronaitv().play_video(params['selection'])

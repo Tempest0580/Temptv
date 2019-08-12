@@ -1,0 +1,616 @@
+
+{"shows": [
+
+    {"title": "30 Rock", "id": "None",
+    "description": "Based more-than-loosely on backstage shenanigans at `Saturday Night Live', `30 Rock' centres on young Liz Lemon, currently head writer for a live sketch-comedy show in New York. Complications follow when the network's new president orders Liz to hire mentally unstable movie star Tracy Jordan to join the cast, throwing neurotic leading lady (and Liz's best friend) Jenna Maroney into a tizzy. Liz tries to juggle all the egos around her while trying to chase her own dream.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf94e591196d_30%20rock.jpg"
+    },
+
+    {"title": "3rd Rock from the Sun", "id": "None",
+    "description": "A group of aliens are sent to Earth, disguised as a human family, to experience and report life on the 3rd planet from the sun.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d8d8d78bf5_Webp.net-resizeimage.jpg"
+    },
+
+    {"title": "Adult Swim", "id": "None",
+    "description": "Adult Swim (stylized as [adult swim]) is the adult-oriented nighttime programming block of American children's cable network, Cartoon Network, that operates daily from 8:00 pm to 6:00 am, Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks for Cartoon Network: Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The block gets its name from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults.",
+    "poster": "http://arconaitv.us/uploads/streams/592c15b2bce8b_adultswim2.jpg"
+    },
+
+    {"title": "Adventure Time", "id": 152831,
+    "description": "Adventure Time (originally titled 'Adventure Time with Finn & Jake') follows two best friends: Finn (a 12-year old boy) and Jake (a wise 28-year-old dog with magical powers), and the surreal adventures undertaken by the duo as they traverse the mystical Land of Ooo. A world built for adventure, Ooo is filled to the brim with various landscapes for the two buddies to explore and bizarre characters to assist.",
+    "poster": "https://assets.fanart.tv/fanart/tv/152831/tvposter/adventure-time-with-finn-and-jake-55cec42f6070d.jpg"
+    },
+
+    {"title": "Always Sunny in Philadelphia", "id": "None",
+    "description": "Four egocentric friends who run a neighborhood Irish pub in Philadelphia try to find their way through the adult world of work and relationships. Unfortunately, their warped views and precarious judgments often lead them to trouble, creating a myriad of uncomfortable situations that usually only get worse before they get better.",
+    "poster": "https://fanart.tv/fanart/tv/75805/tvposter/its-always-sunny-in-philadelphia-5848594d991f2.jpg"
+    },
+
+    {"title": "Amazing World of Gumball", "id": "None",
+    "description": "The life of a 12-year-old boy who happens to be a blue cat as he lives with his family and other strange creatures.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d8e875d18a_Webp.net-resizeimage%20(1).jpg"
+    },
+
+    {"title": "American Dad", "id": "None",
+    "description": "Stan Smith is a CIA agent painfully dedicated to homeland security. His home life includes doting wife Francine, a ditzy housewife, liberal daughter Hayley and socially awkward teenaged son Steve. Also living in the family's Langley Falls, Va., home are Klaus, a goldfish with the brain of an East German Olympic ski jumper, and Roger, an escaped alien from Area 51, who Stan houses in defiance of his employer due to owing Roger a life debt. Sounds just like the typical American family, right? Maybe not.",
+    "poster": "https://cdn-static.sidereel.com/tv_shows/42889/giant_2x/AmericanDad.jpg"
+    },
+
+    {"title": "American Horror Story", "id": 250487,
+    "description": "An anthology series that centers on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show, an enigmatic hotel and a sinister farmhouse in Roanoke, North Carolina.",
+    "poster": "https://assets.fanart.tv/fanart/tv/250487/tvposter/american-horror-story-52ad0ab9f3519.jpg"
+    },
+
+    {"title": "Anime", "id": "None",
+    "description": "Anime is a Japanese term for hand-drawn or computer animation. The word is the abbreviated pronunciation of animation inJapanese, where this term references all animation. Outside Japan, anime is used to refer specifically to animation from Japan or as a Japanese-disseminated animation style often characterized by colorful graphics, vibrant characters and fantastical themes. Arguably, the culturally abstract approach to the word's meaning may open up the possibility of anime produced in countries other thanJapan. For simplicity, many Westerners strictly view anime as a Japanese animation product. Some scholars suggest defining anime as specifically or quintessentially Japanese may be related toa new form of orientalism.",
+    "poster": "http://arconaitv.us/uploads/streams/5934813d98761_Webp.net-resizeimage%20(1).jpg"
+    },
+
+    {"title": "Archer", "id": 73065,
+    "description": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones.",
+    "poster": "http://arconaitv.us/uploads/streams/593485c115f30_archer.jpg"
+    },
+
+    {"title": "Arrested Development", "id": 72173,
+    "description": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.",
+    "poster": "https://assets.fanart.tv/fanart/tv/72173/tvposter/arrested-development-54c730efe2508.jpg"
+    },
+
+    {"title": "Batman 1966", "id": "None",
+    "description": "Eccentric Gotham City tycoon Bruce Wayne dons tights to fight crime as Batman, aided by pal Dick Ward as equally Spandex-clad Robin, in this '60s camp classic. Together, they fight evildoers such as the Penguin, the Joker, the Riddler, Egghead, Catwoman and Mr. Freeze.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefca54c6ac_batman.jpg"
+    },
+
+    {"title": "Batman the Animated Series", "id": "None",
+    "description": "This animated series conveys the dark mood of the original Batman comic books. Unlike the light action Batman show of the 1960s, Gotham City's Caped Crusader, Bruce Wayne, is sometimes moody. And Robin's alter ego, Dick Grayson, has a more-mature personality than in the original series.",
+    "poster": "https://www.arconaitv.us/uploads/streams/598f8db49ad1d_Webp.net-resizeimage%20(2).jpg"
+    },
+
+    {"title": "Battlestar Galactica", "id": 71173,
+    "description": "When the 12 Colonies of Man are wiped out by a cybernetic race called the Cylons, Commander Adama (Lorne Greene) and the crew of the battlestar Galactica lead a ragtag fleet of human survivors in searconaih of a mythical planet called Earth.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593486640994d_battle.jpg"
+    },
+
+    {"title": "Beavis and Butt-Head", "id": 75863,
+    "description": "Beavis and Butt-head are high school students whose lifestyles revolve around TV, junk food (usually nachos), shopping malls, heavy metal music, and trying to \"score with chicks\".\r\n\r\nEach show contains short cartoons centering on the duo who live in the fictitious town of Highland, Texas. The episodes are broken up by short breaks in which Beavis and Butt-head watch and make fun of music videos.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefc995f00f_Beavisbutthad.jpg"
+    },
+
+    {"title": "Better Call Saul", "id": 273181,
+    "description": "We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searconaihing for his destiny and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is \u2018fixer\u2019 Mike Erhmantraut. The series tracks Jimmy's transformation into the man who puts \u2018criminal\u2019 in \u2018criminal lawyer\u2019.",
+    "poster": "https://assets.fanart.tv/fanart/tv/273181/tvposter/better-call-saul-54d91da86c07d.jpg"
+    },
+
+    {"title": "Blacklist", "id": "None",
+    "description": "For decades, ex-government agent Raymond Red Reddington has been one of the globe's most wanted fugitives. But then he agreed to work with the FBI to catch his blacklist of mobsters, spies and international terrorists -- on the condition that he must work with profiler Elizabeth Keen. Red's true intentions -- choosing Liz, a woman with whom he seemingly has no connection -- are unclear. Does Liz have secrets of her own? Red promises to teach Liz to think like a criminal to see the bigger picture, whether she wants to or not.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934867816d64_blacklist.jpg"
+    },
+
+    {"title": "Blue Bloods", "id": 164981,
+    "description": "Blue Bloods is a drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+    "poster": "https://assets.fanart.tv/fanart/tv/164981/tvposter/blue-bloods-5212a93bb320d.jpg"
+    },
+
+    {"title": "Bobs Burgers", "id": "None",
+    "description": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their three kids. Bob and his quirky family have big ideas about burgers, but fall short on service and sophistication. Despite the greasy counters, lousy location and a dearth of customers, Bob and his family are determined to make Bob's Burgers grand re-re-re-opening a success.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e4970057a6_bobs-burgers.jpg"
+    },
+
+    {"title": "Bones", "id": 75682,
+    "description": "F.B.I. Agent Seeley Booth is teamed up with forensic anthropologist Dr. Temperance Bones Brennan to solve some of the most baffling and bizarre crimes ever. Booth depends on clues from the living, witnesses and suspects, while Brennan gathers evidence from the dead, relying on her uncanny ability to read clues left behind in the bones of the victims.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75682/tvposter/bones-52deb10f82d0f.jpg"
+    },
+
+    {"title": "Boy Meets World", "id": "None",
+    "description": "Adolescent Cory Matthews grows up, and faces problems with friends, family, and school.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d8f4ecc32d_Webp.net-resizeimage%20(2).jpg"
+    },
+
+    {"title": "Breaking Bad", "id": 81189,
+    "description": "Walter White, a struggling high school chemistry teacher, is diagnosed with advanced lung cancer. He turns to a life of crime, producing and selling methamphetamine accompanied by a former student, Jesse Pinkman, with the aim of securing his family's financial future before he dies.",
+    "poster": "https://assets.fanart.tv/fanart/tv/81189/tvposter/breaking-bad-5427fc5ebded7.jpg"
+    },
+
+    {"title": "Brooklyn Nine-Nine", "id": "None",
+    "description": "Jake Peralta, an immature but talented NYPD detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new commanding officer, the serious and stern Captain Ray Holt.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d906f17d04_Webp.net-resizeimage%20(3).jpg"
+    },
+
+    {"title": "Buffy the Vampire Slayer", "id": "None",
+    "description": "Sarah Michelle Gellar takes on the role of Buffy Summers in this TV version of Buffy the Vampire Slayer, based on the film of the same title, which starred Kristy Swanson. Buffy is a Slayer, one in a long line of young women chosen for a specific mission: to seek out and destroy vampires, demons and other forces of darkness. Unlike her predecessors, Buffy establishes a group of supportive friends who aids her in her battles with evil, including Willow, Xander and Cordelia. Her battles with evil are frequent, since Sunnydale, where Buffy and friends live, sits atop a gateway to the realm of the demons.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf94f9ae7396_buffy.jpg"
+    },
+
+    {"title": "Celebrity Deathmatch", "id": 74186,
+    "description": "Sport and event coverage re-defined!  Today's hottest celebrities are pitted against each other in no-holds-barred fantasy fights complete with pre- and post-battle activities, one-on-one interviews, press conferences and behind-the-scenes locker room moments that parody the worlds of film, television, music and politics.  Announcers Johnny Gomez and Nick Diamond offer commentary and play-by-play coverage while legendary referee Mills Lane presides over the Celebrity Deathmatch Ring.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e4beb84d13_celebritydeaath.jpg"
+    },
+
+    {"title": "Charmed", "id": "None",
+    "description": "Three sisters discover their destiny, to battle against the forces of evil, using their witchcraft. They are the Charmed Ones.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb03eef3a_charmed.jpg"
+    },
+
+    {"title": "Chicago P.D.", "id": "None",
+    "description": "District 21 of the Chicago Police Department is composed of the uniformed cops, who deal with street crimes, and the Intelligence Unit, which deals with major crimes like drug trafficking and high-profile murders. Sgt Hank Voight - a tough boss who doesn't mind bending the rules a little in the pursuit of justice - heads the unit's elite team. The responsibilities of life on the force take a toll on the officers, as they struggle to balance their personal lives with the strain of the job. From Emmy-winning producer Dick Wolf.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf9538311684_chicagopd.jpg"
+    },
+
+    {"title": "Classic Toons", "id": "None",
+    "description": "Classic Cartoons from back in the day.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e4c9582b11_classic.jpg"
+    },
+
+    {"title": "Community", "id": 94571,
+    "description": "From Emmy Award-winner Dan Harmon comes \"Community\", a smart comedy series about higher education \u2013 and lower expectations. The student body at Greendale Community College is made up of high-school losers, newly divorced housewives, and old people who want to keep their minds active. Within these not-so-hallowed halls, Community focuses on a band of misfits, at the center of which is a fast-talking lawyer whose degree was found to be fake, who form a study group and end up learning a lot more about themselves than they do about their course work.",
+    "poster": "https://assets.fanart.tv/fanart/tv/94571/tvposter/community-5452940ea5103.jpg"
+    },
+
+    {"title": "Cops", "id": 74709,
+    "description": "Called the original reality show, COPS hit the airwaves in 1989, putting camera crews in police cars all across the United States.  Adopting the cin\u00e9ma v\u00e9rit\u00e9 style of documentary filming, COPS uses no narration, depending completely on the police officers and the footage shot as it happens to tell the story. Still one of the most popular television shows on the air, COPS continually wins its 8pm time slot Saturday nights on FOX.  COPS can also be seen in syndication on CourtTV and on the FX Cable Channel.",
+    "poster": "https://assets.fanart.tv/fanart/tv/74709/tvposter/cops-59c3904f76aef.jpg"
+    },
+
+    {"title": "CSI: Miami", "id": "None",
+    "description": "The cases of the Miami-Dade, Florida police department's Crime Scene Investigations unit.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5a75ff50d4cd9_csimiami.jpg"
+    },
+
+    {"title": "Curb Your Enthusiasm", "id": 76203,
+    "description": "The unscripted Curb Your Enthusiasm brings the off-kilter comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
+    "poster": "https://assets.fanart.tv/fanart/tv/76203/tvposter/curb-your-enthusiasm-5396263db65a3.jpg"
+    },
+
+    {"title": "Dexter", "id": "None",
+    "description": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefae41ae57_dexter.jpg"
+    },
+
+    {"title": "Doctor Who", "id": 76107,
+    "description": "Doctor Who is the longest-running science fiction TV series in history, airing initially from 1963 to 1989.  Doctor Who is about ideas.  It pioneered sophisticated mixed-level storytelling. Its format was the key to its longevity: the Doctor, a mysterious traveller in space and time, travels in his ship, the TARDIS.  The TARDIS can take him and his companions anywhere in time and space. Inevitably he finds evil at work wherever he goes...",
+    "poster": "https://assets.fanart.tv/fanart/tv/76107/tvposter/doctor-who-529dac4db0544.jpg"
+    },
+
+    {"title": "Downton Abbey", "id": 193131,
+    "description": "Downton Abbey depicts the lives of the aristocratic Crawley family and their servants in the post-Edwardian era\u2014with great events in history having an effect on their lives and on the British social hierarconaihy.",
+    "poster": "https://assets.fanart.tv/fanart/tv/193131/tvposter/downton-abbey-5541c971cf111.jpg"
+    },
+
+    {"title": "Dragonball Z", "id": "None",
+    "description": "After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e55bd534f3_dragonballz2.jpg"
+    },
+
+    {"title": "Eastbound & Down", "id": "None",
+    "description": "Many years after he turned his back on his hometown, a burned-out major league ballplayer returns to teach Physical Education at his old middle school.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d9142a5ed8_Webp.net-resizeimage%20(5).jpg"
+    },
+
+    {"title": "Family Guy", "id": 75978,
+    "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75978/tvposter/family-guy-537965cf0b619.jpg"
+    },
+
+    {"title": "Fawlty Towers", "id": 75932,
+    "description": "Hotel owner Basil Fawlty's incompetence, short fuse, and arrogance form a combination that ensures accidents and trouble are never far away.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e5ae0adb8a_fawlty.jpg"
+    },
+
+    {"title": "Frasier", "id": 77811,
+    "description": "After many years spent at the Cheers bar, Frasier (Kelsey Grammer) moves back home to Seattle after his policeman father Martin Crane (John Mahoney) gets shot in the hip on duty. After Martin struggles with living alone after the incident, he moves in with Frasier in his luxury apartment at the Elliot Bay Towers along with his dog Eddie (played by Moose and later Enzo). Hired by Frasier, Daphne Moon (Jane Leeves) also moves in as Martin's personal physiotherapist. Also living nearby is his younger brother Niles Crane (David Hyde Pierce), who is also a Psychiatrist.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e5bcd2e9f2_frasier.jpg"
+    },
+
+    {"title": "Friends", "id": 79168,
+    "description": "Rachel Green, Ross Geller, Monica Geller, Joey Tribbiani, Chandler Bing and Phoebe Buffay are all friends, living off of one another in the heart of New York City. Over the course of ten years, this average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.",
+    "poster": "https://assets.fanart.tv/fanart/tv/79168/tvposter/friends-522501392b273.jpg"
+    },
+
+    {"title": "Futurama", "id": 73871,
+    "description": "A late 20th-century New York City pizza delivery boy, Philip J. Fry, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the 31st century.",
+    "poster": "https://assets.fanart.tv/fanart/tv/73871/tvposter/futurama-535ea4cf5195d.jpg"
+    },
+
+    {"title": "Game of Thrones", "id": 121361,
+    "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and the icy horrors beyond.",
+    "poster": "https://assets.fanart.tv/fanart/tv/121361/tvposter/game-of-thrones-521441fd9b45b.jpg"
+    },
+
+    {"title": "George Lopez", "id": "None",
+    "description": "The comedy revolves around a fictionalized portrayal of Lopez who works at the Powers Brothers aviation factory, and raises daughter Carmen and son Max with wife Angie after surviving a miserable, dysfunctional childhood at the hands of his neglectful alcoholic mother Benny, who is portrayed as selfish and cold-hearted. Other characters include Angie's indulgent father, wealthy doctor Vic Palmero; and George's best childhood friend Ernie Cardenas, noted for his socially-awkward behavior and unsuccessful attempts at dating. After Carmen's departure from the series, Angie's overindulged niece Veronica moved in, laden with a large trust fund that is entrusted to George's care.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf9542551998_george%20lopez.jpg"
+    },
+
+    {"title": "Ghost Whisperer", "id": "None",
+    "description": "A newlywed with the ability to communicate with the earthbound spirits of the recently deceased overcomes skepticism and doubt to help send their important messages to the living and allow the dead to pass on to the other side.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d91cac9af0_Webp.net-resizeimage%20(6).jpg"
+    },
+
+    {"title": "Golden Girls", "id": "None",
+    "description": "Four mature women live together in Miami and experience the joys and angst of their golden years. Strong-willed Dorothy, spacey Rose, lusty Southern belle Blanche and matriarconaih Sophia, Dorothy's mom, occasionally clash but are there for one another in the end. After all, when the show's theme song is titled Thank You for Being a Friend, the ladies have to remain friendly with one another.",
+    "poster": "https://www.arconaitv.us/uploads/streams/598f8b432d752_Webp.net-resizeimage.jpg"
+    },
+
+    {"title": "Hemlock Grove", "id": "None",
+    "description": "Based on the book by Brian McGreevy and executive produced by acclaimed horror master Eli Roth (Hostel), this Netflix original series revolves around the peculiar residents -- and killer creatures -- of Hemlock Grove, a dilapidated former steel town in Pennsylvania. The town is composed of people living in poverty and those who are extremely wealthy -- and everyone has a secret. As sinister mysteries unfold, a seamier side of the town is exposed, placing suspicion on many and revealing that nothing is what it seems.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf95505309f6_hemlock%20grove.jpg"
+    },
+
+    {"title": "Home Improvement", "id": 77537,
+    "description": "Home Improvement is a family sitcom about Tim The Tool man Taylor (Tim Allen), the host of a local cable home improvement show called Tool Time. Home Improvement looks at Tim at work, and at home, as the husband of Jill (Patricia Richardson) and the father to three teenage boys. Having been married for almost 20 years, Tim and Jill have had their share of fights, but with the help of their wise, mysterious neighbor Wilson W. Wilson, Jr. (Earl Hindman), things often turn out all right.",
+    "poster": "https://assets.fanart.tv/fanart/tv/77537/tvposter/home-improvement-5214316430ade.jpg"
+    },
+
+    {"title": "House MD", "id": "None",
+    "description": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5a6f926a71490_Webp.net-resizeimage%20(3).jpg"
+    },
+
+    {"title": "How I Met Your Mother", "id": 75760,
+    "description": "The year is 2030. Ted Mosby is relaying the story of how he met his wife to his daughter and son. The story starts in the year 2005, when then twenty-seven year old arconaihitect Ted was spurred on to want to get married after his best friends from his college days at Wesleyan, lawyer Marshall Eriksen, who was his roommate at the time and kindergarten teacher Lily Aldrin, got engaged after nine years of dating each other. Ted's new quest in life was much to the dismay of his womanizing friend, Barney Stinson. But soon after Marshall and Lily's engagement, Ted believed that his life mate was going to be news reporter and aspiring news anchor Robin Scherbatsky, who, despite having had a romantic relationship with her after this time, ended up being who the kids know as their Aunt Robin. As Ted relays the story to his kids, the constants are that their Uncle Marshall, Aunt Lily, Uncle Barney and Aunt Robin are always in the picture and thus have something to do with how he got together with their mother.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75760/tvposter/how-i-met-your-mother-521bcbf47976e.jpg"
+    },
+
+    {"title": "I Dream of Jeannie", "id": "None",
+    "description": "Rescued from a bottle (and a deserted island) by a U.S. astronaut, a scantily clad genie named Jeannie becomes his slave and eventually falls in love with him. But unlike most genie stories, there are no three wishes rule - so Jeannie uses her magic all the time, often without talking to her rescuer about it first.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5d46b3cc78ce9_Idream.jpg"
+    },
+
+    {"title": "I Love Lucy", "id": 70584,
+    "description": "Cuban Bandleader Ricky Ricardo would be happy if his wife Lucy would just be a housewife. Instead she tries constantly to perform at the Tropicana where he works, and make life comically frantic in the apartment building they share with landlords Fred and Ethel Mertz, who also happen to be their best friends.",
+    "poster": "https://assets.fanart.tv/fanart/tv/70584/tvposter/i-love-lucy-53f313969f33e.jpg"
+    },
+
+    {"title": "Invader Zim", "id": 75545,
+    "description": "Invader ZIM is an eccentric alien soldier from the planet Irk. He was banished from the Irken Empire after nearly destroying his home planet on an early mission. After begging his superiors, the Almighty Tallest Red and Purple, for another chance, they decide to get rid of him once and for all. They trick him into going on a secret mission to an obscure planet at the edge of the universe, a planet with the unlikely name of Earth, in hopes that he'll die along the way. But their trick backfires when ZIM safely reaches Earth and begins his ever-so-subtle conquest of it. He disguises himself as a schoolboy, and now the only person who can stop him is one kid - Dib, a somewhat insane paranormal researconaiher, who sees straight through ZIM's disguise and is intent on stopping his reign of \"terror\". The only problem is that neither of them is very good at stopping the other.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75545/tvposter/invader-zim-53e7ebd39b01d.jpg"
+    },
+
+    {"title": "King of the Hill", "id": 73903,
+    "description": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "poster": "https://www.arconaitv.us/uploads/streams/59348477c408d_koth.jpg"
+    },
+
+    {"title": "Law & Order: SVU", "id": "None",
+    "description": "This show introduces the Special Victims Unit, a specially trained squad of detectives in the NYPD who investigate sexually related crimes.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5a57b70a20578_Webp.net-resizeimage%20(2).jpg"
+    },
+
+    {"title": "Mad Men", "id": "None",
+    "description": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef34f26812_madmen.jpg"
+    },
+
+    {"title": "Malcolm in the Middle", "id": 73838,
+    "description": "Created and executive-produced by Emmy Award-winning writer Linwood Boomer, this inventive half-hour series is seen through the eyes of Malcolm (Frankie Muniz), a regular high school kid trying to navigate his way through life despite the various obstacles thrown in his way  a complete misunderstanding of girls, the constant burden of masterminding plans to get himself and his brothers into or out of trouble, and a miserable job at the Lucky Aide not to mention a severe case of teen angst. Although Malcolm has a genius IQ, he can't seem to make sense of the opposite sex, much less his embarrassing family. Lois (Jane Kaczmarek) is the outspoken, opinionated mom, who still manages to rule the roost even though her boys are growing wise to her crafty ways. Hal (Bryan Cranston), a dad who is just a bumbling, big kid at heart, often finds himself creating more chaos than his five boys combined. Reese (Justin Berfield) has mastered the art of a perfect blank stare, and makes up for his lack of intelligence with deviance. Francis (Christopher Masterson), Malcolm's oldest and favorite brother, is willing to move from Alabama to Alaska to New Mexico \u2013 as long as its keeps him from moving back home. Dewey (Erik Per Sullivan), no longer the youngest, has learned his tricks from the best and often pulls the wool right over his brothers' eyes. And then there's Jamie, the newest member \u2026 and family scapegoat.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934844830a9e_malcolm.jpg"
+    },
+
+    {"title": "Married with Children", "id": "None",
+    "description": "The antithesis of the loving Cosby Show family, Married ... With Children focused on the Bundys, a suburban Chicago family who would rather eat nails than say a kind word to one another. Al, the patriarconaih, is a misogynistic shoe salesman, whose wife, Peggy, is a housewife who does no work around the house. Saying their children, Kelly and Bud, do not have a lot going for them is an understatement. This biting comedy focuses on the couple's constant verbal sparring over their slacker kids, their lack of money, success and intimacy.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593484258e141_married%20with%20childrren.jpg"
+    },
+
+    {"title": "M*A*S*H", "id": "None",
+    "description": "The staff of an Army hospital in the Korean War find that laughter is the best way to deal with their situation.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5b5d92692a2dd_Webp.net-resizeimage%20(7).jpg"
+    },
+
+    {"title": "Mission Impossible", "id": "None",
+    "description": "An elite covert operations unit carries out highly sensitive missions subject to official denial in the event of failure, death or capture.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb5164dc1_missionimpossible.jpg"
+    },
+
+    {"title": "Modern Family", "id": 95011,
+    "description": "This mockumentary explores the many different types of a modern family through the stories of a gay couple, comprised of Mitchell and Cameron, and their daughter Lily, a straight couple, comprised of Phil and Claire, and their three kids, Haley, Alex, and Luke, and a multi-ethnic couple, which is comprised of Jay and Gloria, and her son Manny.",
+    "poster": "https://www.arconaitv.us/uploads/streams/59348412aed38_modern family.jpg"
+    },
+
+    {"title": "Mr. Robot", "id": "None",
+    "description": "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef6bcf0778_mrrobot.jpg"
+    },
+
+    {"title": "MXC", "id": "None",
+    "description": "This critically acclaimed comedy series can thank a popular Japanese game show from the 1980s for much of its success. It uses the actual footage from Takeshi's Castle, which tested contestants' pain threshold by putting them through a series of bizarre physical challenges (think ABC's Wipeout but much more extreme) and crazy games for prizes. The fun, and much of the laughter, in MXC is provided by the dubbed English narration, featuring voice actors from the Groundlings comedy troupe, that has no resemblance to the original show's dialogue whatsoever.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5d323cfd35279_mxc2.jpg"
+    },
+
+    {"title": "My name is Earl", "id": 75397,
+    "description": "Earl Hickey's life has been full of poor choices and mistakes, and upon discovering that he is the holder of a winning lottery ticket, Earl is hit by a car and the ticket blows out of his hand as he lies unconscious in the street. While recovering in the hospital and watching television, Earl has a karmic epiphany, thanks to Carson Daly, who attributes his success to doing good for others. A light bulb goes on in Earl's dim head, and he sets out to right every wrong he has done, starting with a geek he tormented in grade school.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5a0375d99997c_earl2.jpg"
+    },
+
+    {"title": "MythBusters", "id": "None",
+    "description": "A weekly documentary in which two Hollywood special effects experts attempt to debunk urban legends by directly testing them.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef66953e78_mythbusters.jpg"
+    },
+
+    {"title": "Narcos", "id": 282670,
+    "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug dealers who plagued the country through the years.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593483d284fc2_narcos.jpg"
+    },
+
+    {"title": "NCIS", "id": "None",
+    "description": "The cases of the Naval Criminal Investigative Service' s Washington DC Major Case Response Team, led by Special Agent Leroy Jethro Gibbs.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5a57b5328ad25_Webp.net-resizeimage%20(1).jpg"
+    },
+
+    {"title": "Only Fools and Horses", "id": "None",
+    "description": "Comedy that follows two brothers from London's rough Peckham estate as they wheel and deal through a number of dodgy deals as they search for the big score that'll make them millionaires.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb690db82_Onlyfoolandhorses.jpg"
+    },
+
+    {"title": "Outer Limits", "id": "None",
+    "description": "Anthology type science fiction program with a different cast each week. Tending toward the hard science, space travel, time travel, and human evolution it tries to examine in each show some form of the question, What is the nature of man? Opening Narration: There is nothing wrong with your television set. Do not attempt to adjust the picture. We are controlling the transmission. If we wish to make it louder, we will bring up the volume. If we wish to make it softer, we will tune it to a whisper. We can reduce the focus to a soft blur, or sharpen it to crystal clarity. We will control the horizontal. We will control the vertical. For the next hour, sit quietly and we will control all that you see and hear. You are about to experience the awe and mystery which reaches from the inner mind to... The Outer Limits.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934838016e8e_outer%20llimits.jpg"
+    },
+
+    {"title": "Parks and Recreation", "id": 84912,
+    "description": "The series follows Leslie Knope, the deputy head of the Parks and Recreation department in the fictional town of Pawnee, Indiana. Knope takes on a project with a nurse named Ann to turn a construction pit into a park, while trying to mentor a bored college-aged intern. However, Leslie must fight through the bureaucrats, problem neighbors, and developers in order to make her dream a reality, all while with a camera crew recording her every gaff and mishap.",
+    "poster": "https://assets.fanart.tv/fanart/tv/84912/tvposter/parks-and-recreation-5552b1dfcbdb4.jpg"
+    },
+
+    {"title": "Penny Dreadful", "id": "None",
+    "description": "Many people are familiar with classic literary characters like Dr. Frankenstein and Dorian Gray. Penny Dreadful brings those and other characters into a new light by exploring their origin stories in this psychological thriller that takes place in the dark corners of Victorian London. Sir Malcolm is an explorer who has lost his daughter to the city's creatures, and he will do whatever is needed to get her back and to right past wrongs. His accomplice, seductive clairvoyant Vanessa Ives, recruits charming American Ethan Chandler to help locate Sir Malcolm's daughter and slay some monsters. Oscar-winner Sam Mendes (American Beauty) is one of the series' executive producers.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf9559818ab6_pennydreadful.jpg"
+    },
+
+    {"title": "Prison Break", "id": 75340,
+    "description": "When his brother is wrongly convicted of murder, a structural engineer resolves to bust his sibling out of the notorious Fox River State Penitentiary.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934835ed513f_prison%20break.jpg"
+    },
+
+    {"title": "Ray Donovan", "id": "None",
+    "description": "Ray Donovan is a fixer for Hollywood's elite. He is the go-to guy that the city's celebrities, athletes and business moguls call to make their problems disappear. It's a much more lucrative job than his previous work as a ruthless South Boston thug, vaulting him within reach of the truly wealthy and powerful. But no amount of money or the expensive things it can buy can completely mask Ray's past, a past that continues to haunt him with troubled brothers always calling and his father's recent release from 20 years spent in prison. Now a free man, Ray's father, Mickey, arrives in Los Angeles to get what he feels is rightfully his. Mickey's desire to reconnect and settle old scores with his family -- including Ray's wife and kids, who have never met the family's patriarch and are anxious to get to know him -- threatens to destroy everything Ray has built for himself.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf9562f50b89_ray%20donovan.jpg"
+    },
+
+    {"title": "Red Dwarf", "id": "None",
+    "description": "In this science fiction sitcom, Dave Lister, a chicken-soup-machine repairman, is the sole survivor of a radiation leak on his mining space ship, and the last known human alive. Having come out of suspended animation 3,000,000 years into the future, LIster has very limited company in deep space in the form of a hologram of his dead shipmate, Rimmer. They are joined by the vain Cat, who has evolved from the descendants of Lister's pregnant cat, old and senile ship computer Holly and robot Kryten.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf956d77d2c8_red%20dwarf.jpg"
+    },
+
+    {"title": "Regular Show", "id": 188401,
+    "description": "The series revolves around the lives of two friends, a blue jay named Mordecai and a raccoon named Rigby\u2014both employed as groundskeepers at a local park. Their regular attempts to slack off usually lead to surreal, extreme, and often supernatural misadventures. During these misadventures, they interact with the show's other main characters: Benson, Pops, Muscle Man, Hi-Five Ghost, Skips, Thomas, Margaret and Eileen.",
+    "poster": "https://assets.fanart.tv/fanart/tv/188401/tvposter/regular-show-5825668585743.jpg"
+    },
+
+    {"title": "Reno 911", "id": "None",
+    "description": "This partially unscripted comedy brings viewers into the squad car as incompetent officers swing into action, answering 911 calls about everything from speeding violations and prostitution to staking out a drug den. Within each episode, viewers catch a fly on the wall glimpse of the cops' often politically incorrect opinions, ranging from their personal feelings to professional critiques of their colleagues.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5987664c92fae_reno911two.jpg"
+    },
+
+    {"title": "Rick & Morty", "id": 275274,
+    "description": "A sociopathic scientist drags his unintelligent grandson on insanely dangerous adventures across the universe.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5aa99a9c891a5_rick%20and%20morty.jpg"
+    },
+
+    {"title": "Salem", "id": "None",
+    "description": "Explores what really fueled the town's infamous witch trials and uncovering the dark, supernatural truth hiding behind this infamous period in American history.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefbacbe90a_salem.jpg"
+    },
+
+    {"title": "Samurai Jack", "id": 75164,
+    "description": "Made by Genndy Tartakovsky, this cartoon tells the story of a great warrior displaced to the distant future by the evil shape-shifting wizard Aku. The world has become a bleak place under the rule of Aku, segregated into fantastic tribes and ruled by Aku's evil robot warlords. Jack travels this foreign landscape in searconaih of a time portal that can return him to his home time so he can \"undo the future that is Aku!\".",
+    "poster": "https://assets.fanart.tv/fanart/tv/75164/tvposter/samurai-jack-55f5cdda7aae3.jpg"
+    },
+
+    {"title": "Scrubs", "id": 76156,
+    "description": "Scrubs focuses on the lives of several people working at Sacred Heart, a teaching hospital. It features fast-paced dialogue, slapstick, and surreal vignettes presented mostly as the daydreams of the central character, Dr. John Michael J.D. Dorian.",
+    "poster": "https://assets.fanart.tv/fanart/tv/76156/tvposter/scrubs-553cfdb6733f2.jpg"
+    },
+
+    {"title": "Seinfeld", "id": 79169,
+    "description": "Jerry Seinfeld is a very successful stand-up comedian, mainly because the people around him offer an endless supply of great material. His best friend is George Costanza, a bald, whiny loser who craves the kind of success Jerry has but is never willing to do what it takes to get it. Jerry's neighbor Kramer often barges into his apartment and imposes onto his life. In the second episode Jerry's former girlfriend Elaine Benes comes back into his life, and the four of them are able to form a friendship together. The episodes were rarely very plot-heavy, focusing more on mundane conversations and situations that could be found during everyday life in New York.",
+    "poster": "https://assets.fanart.tv/fanart/tv/79169/tvposter/seinfeld-538883f9d58ca.jpg"
+    },
+
+    {"title": "Sense8", "id": "None",
+    "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef611e89cb_sense8.jpg"
+    },
+
+    {"title": "Shark Tank", "id": 100981,
+    "description": "Shark Tank follows aspiring entrepreneurs as they present various business ideas to moguls (known as \"the sharks\") in hopes of landing an investment in their ideas. Each week, ambitious entrepreneurs present their breakthrough business concepts to ruthless investors to convince them to invest in the concept.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593483448db09_sharktank.jpg"
+    },
+
+    {"title": "Silicon Valley", "id": 277165,
+    "description": "In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.",
+    "poster": "https://assets.fanart.tv/fanart/tv/277165/tvposter/silicon-valley-5509b213926fb.jpg"
+    },
+
+    {"title": "Simpsons", "id": "None",
+    "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://www.arconaitv.us/uploads/streams/59348322d54f8_the-simpsoons.jpg"
+    },
+
+    {"title": "Simpsons S13+", "id": "None",
+    "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "poster": "https://www.arconaitv.us/uploads/streams/59348322d54f8_the-simpsoons.jpg"
+    },
+
+    {"title": "Sons of Anarchy", "id": "None",
+    "description": "A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef5d4a6331_Sons%20of%20Anarchy.jpg"
+    },
+
+    {"title": "South Park", "id": 75897,
+    "description": "South Park is an animated series featuring four boys who live in the Colorado town of South Park, which is beset by frequent odd occurrences. The show grew out of a short film that Trey Parker and Matt Stone created called The Spirit of Christmas, and has become an award-winning show that is a unique blend of humor and satire.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75897/tvposter/south-park-5534988991a36.jpg"
+    },
+
+    {"title": "SpongeBob SquarePants", "id": 75886,
+    "description": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75886/tvposter/spongebob-squarepants-53d70374a8bc1.jpg"
+    },
+
+    {"title": "Stargate Atlantis & SG1", "id": "None",
+    "description": "An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb9f141f1_stargate.jpg"
+    },
+
+    {"title": "Steven Universe", "id": 270701,
+    "description": "A coming-of-age story told from the perspective of Steven Universe, a chubby and happy-go-lucky boy, who is the youngest member of an intergalactic/ethereal team of warriors known as the Crystal Gems.",
+    "poster": "https://assets.fanart.tv/fanart/tv/270701/tvposter/steven-universe-55ebd7b47a34e.jpg"
+    },
+
+    {"title": "Supernatural", "id": 78901,
+    "description": "Two brothers follow their father's footsteps as hunters fighting evil supernatural beings of many kinds including monsters, demons, and gods that roam the earth.",
+    "poster": "https://assets.fanart.tv/fanart/tv/78901/tvposter/supernatural-529331966cdf0.jpg"
+    },
+
+    {"title": "Teenage Mutant Ninja Turtles", "id": "None",
+    "description": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb7928441_tmnt.jpg"
+    },
+
+    {"title": "That 70s Show", "id": "None",
+    "description": "Set in the mood ring and polyester era of the 1970s, the series is a retro-hip situation comedy about an eclectic group of friends on the verge of adulthood. They live in the suburbs of Wisconsin, where they yearn for independence amid the growing pains of becoming adults.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592efb68eb46c_that70s.jpg"
+    },
+
+    {"title": "The Big Bang Theory", "id": 80379,
+    "description": "What happens when hyperintelligent roommates Sheldon and Leonard meet Penny, a free-spirited beauty moving in next door, and realize they know next to nothing about life outside of the lab. Rounding out the crew are the smarmy Wolowitz, who thinks he's as sexy as he is brainy, and Koothrappali, who suffers from an inability to speak in the presence of a woman.",
+    "poster": "https://assets.fanart.tv/fanart/tv/80379/tvposter/the-big-bang-theory-5214251a59ba0.jpg"
+    },
+
+    {"title": "The Boondocks", "id": 74413,
+    "description": "The Boondocks is based on the satiric Aaron McGruder comic strip of the same name. The show follows the adventures of two black boys, Riley and Huey Freeman, who experience a culture clash when they move from southside Chicago to the boondocks to live with their grandfather.",
+    "poster": "https://assets.fanart.tv/fanart/tv/74413/tvposter/the-boondocks-57eca2e9e2407.jpg"
+    },
+
+    {"title": "The Fresh Prince of Bel-Air", "id": 76738,
+    "description": "A wealthy family living in Bel-Air, California, receives a dubious gift from their poorer relations in Philadelphia when  Will Smith arrives as The Fresh Prince Of Bel-Air. Will shatters the sophisticated serenity of Bel-Air with his streetwise common sense, much to the dismay of his upper-crust uncle, Philip Banks (James Avery), Aunt Vivian (Janet Hubert-Whitten and Daphne Maxwell Reid) and three conceited cousins, Carlton (Alfonso Ribeiro), Hilary (Karyn Parsons) and Ashley (Tatyana Ali) - and butler Geoffrey (Joseph Marconaiell). As the Banks family opens their home - and their checkbook - to their needy relative, Will adapts easily to their indulgent lifestyle. Yet, he reminds everyone that the simplest pleasures of family life can't be bought at any price.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592e5c21551ac_freshprince.jpg"
+    },
+
+    {"title": "The King of Queens", "id": "None",
+    "description": "Delivery man Doug Heffernan has a good life: Hes got a pretty wife (Carrie), a big TV and friends to watch it with. Then Carrie's goofy and annoying father Arthur moves in with them.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefbe52d073_kingofqueens.jpg"
+    },
+
+    {"title": "The Knick", "id": "None",
+    "description": "A look at the professional and personal lives of the staff at New Yorks Knickerbocker Hospital during the early part of the twentieth century.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefbbc026c6_TheKnick.jpg"
+    },
+
+    {"title": "The Last Airbender and Legend of Korra", "id": "None",
+    "description": "The four nations of Air, Water, Earth and Fire lived in harmony until the Fire Nation declared war. A century later, there is still no end in sight to the destruction, then, an Avatar named Aang (Noah Ringer) discovers that he has the power to control the four elements. He joins forces with Katara (Nicola Peltz), a Waterbender, and her brother, Sokka, to restore balance and harmony to their world.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934864d2510c_avatar.jpg"
+    },
+
+    {"title": "The Marvelous Misadventures of Flapjack", "id": 82207,
+    "description": "The Marvelous Misadventures of Flapjack follows a young boy named Flapjack who was raised inside Bubbie, a talking whale. After Flapjack rescues a shipwrecked crusty old pirate named Captain K'nuckles, the misadventures begin. The pair set sail in searconaih of the magical Candied Island filled with lollipop trees and lemonade springs and troublea",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934827e7e86b_flapjack.jpg"
+    },
+
+    {"title": "The Musketeers", "id": 269159,
+    "description": "Set in 17th century Paris, musketeers Athos, Porthos, Aramis and D\u2019Artagnan are members of an elite band of soldiers who fight for what is just. They are heroes in the truest and most abiding sense \u2013 men that can be trusted an believed in to do the right thing, regardless of personal risk.",
+    "poster": "https://assets.fanart.tv/fanart/tv/269159/tvposter/the-musketeers-548071d9aa684.jpg"
+    },
+
+    {"title": "The Office", "id": 78107,
+    "description": "A mockumentary about life in a mid-sized suboffice paper merchants in a bleak British industrial town, where manager David Brent thinks he's the coolest, funniest, and most popular boss ever. He isn't. That doesn't stop him from embarrassing himself in front of the cameras on a regular basis, whether from his political sermonizing, his stand-up 'comedy', or his incredibly unique dancing. Meanwhile, long-suffering Tim longs after Dawn the engaged receptionist and keeps himself sane by playing childish practical jokes on his insufferable, army-obsessed deskmate Gareth. Will the Slough office be closed? Will the BBC give David a game show? Will Tim and Dawn end up with each other? And more importantly, will Gareth realize what a hopeless prat he is?",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefc09cc1ac_theoffice.jpg"
+    },
+
+    {"title": "The Ren & Stimpy Show", "id": "None",
+    "description": "The gross misadventures of a hyper chihuahua and a stupid cat.",
+    "poster": "https://www.arconaitv.us/uploads/streams/592ef750dedfb_renstimpy.jpg"
+    },
+
+    {"title": "The Sopranos", "id": 75299,
+    "description": "Modern day morality tale about New Jersey mob boss Tony Soprano, as he deals with personal and professional issues in his home and business life.",
+    "poster": "https://assets.fanart.tv/fanart/tv/75299/tvposter/the-sopranos-5343c7cc0a525.jpg"
+    },
+
+    {"title": "The Tudors", "id": 79925,
+    "description": "The Tudors presents the rarely dramatized, tumultuous early years of King Henry VIII\u2019s nearly 40-year omnipotent reign (1509-1547) of England. In addition to his famous female consorts, a 20+ year marriage to Catherine of Aragon and the infamous dalliance with Anne Boleyn, the series delves into Henry\u2019s most notable political relationship and the deconstruction of the Roman Catholic Church in England.",
+    "poster": "https://assets.fanart.tv/fanart/tv/79925/tvposter/the-tudors-5494a4becb8fe.jpg"
+    },
+
+    {"title": "The Twilight Zone", "id": 73587,
+    "description": "The Twilight Zone was a popular American anthology series. The series was a collection of various tales that range from the tragic to the comedic. They may be scary or just thought-provoking. Most episodes have unexpected endings and a moral lesson. But, no matter what, it's \"a journey into a wondrous land, whose boundaries are that of the imagination.\"",
+    "poster": "https://www.arconaitv.us/uploads/streams/59348247ca58f_twilight%20zone.jpg"
+    },
+
+    {"title": "The White Queen", "id": 266092,
+    "description": "The White Queen is a stunningly rich tale of love and loss, seduction and deception, betrayal and murder, vibrantly woven through the stories of three different yet equally driven women, in their quest for power as they manipulate behind the scenes of history \u2013 Elizabeth Woodville, Margaret Beaufort and Anne Neville.\r\n\r\nThe year is 1464 and England has been at war for nine years battling over who is the rightful King of England \u2013 it is a war between two sides of the same family, The House of York and The House of Lancaster.",
+    "poster": "https://assets.fanart.tv/fanart/tv/266092/tvposter/the-white-queen-52938ecce58c7.jpg"
+    },
+
+    {"title": "The Wire", "id": "None",
+    "description": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefb8b25b38_thewire.jpg"
+    },
+
+    {"title": "Top Gear UK", "id": "None",
+    "description": "The hosts talk about everything car-related. From new cars to how they're fueled, this show has it all.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934823910756_top%20gear.jpg"
+    },
+
+    {"title": "Trailer Park Boys", "id": 70566,
+    "description": "Ricky and Julian are two guys whose lives were shaped by their experiences growing up in the Trailer Park. Their childhood was typical of most trailer park kids - stealing, fighting, smoking, drinking, scamming and listening to Van Halen. The Boys have had their share of trouble with the law and spend a large portion of their adult lives behind bars.",
+    "poster": "https://assets.fanart.tv/fanart/tv/70566/tvposter/trailer-park-boys-546cd11941ab5.jpg"
+    },
+
+    {"title": "Twin Peaks", "id": "None",
+    "description": "A crime drama mixed with healthy doses of the surreal, this series is about FBI Agent Dale Cooper, who travels to the small logging town of Twin Peaks to solve the murder of seemingly innocent high schooler Laura Palmer. Almost nothing is as it seems, however, and the show' s sometimes eerie visuals, oddball characters and wild dream sequences drive the point home.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef2919ff77_Twin%20Peaks.jpg"
+    },
+
+    {"title": "Two and Half Men", "id": "None",
+    "description": "A hedonistic jingle writers free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef56c4204a_Two%20and%20Half%20Men.jpg"
+    },
+
+    {"title": "Unsolved Mysteries", "id": "None",
+    "description": "Combines dramatic re-enactments, interviews and updates, to tell stories of real mysteries, from human to the supernatural.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdefbcf1935c_unsolvedmystery.jpg"
+    },
+
+    {"title": "Vampire Diaries", "id": "None",
+    "description": "The Vampire Diaries is an American supernatural drama television series developed by Kevin Williamson and Julie Plec, based on the popular book series of the same name written by L. J. Smith.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593481a783128_vampdiaries.jpg"
+    },
+
+    {"title": "Venture Bros.", "id": "None",
+    "description": "Jonny Quest gets an irreverent but affectionate spoofing in this animated series chronicling the sometimes hair-raising adventures of Hank and Dean Venture, the not-especially-bright twin sons of pill-popping super-scientist Dr. Thaddeus Rusty Venture. Luckily (for the most part), their safety is overseen by a security guard who uses his license to kill every chance he gets.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5d323aec7eb1a_venture-bros.jpg"
+    },
+
+    {"title": "Vikings", "id": "None",
+    "description": "Viking Ragnar Lothbrok is a young farmer and family man who is frustrated by the policies of Earl Haraldson, his local chieftain who sends his Viking raiders east to the Baltic states and Russia, whose residents are as poor as the Norsemen. Ragnar wants to head west, across the ocean, to discover new civilizations. With assistance from his friend Floki, Ragnar builds a faster, sleeker fleet of boats to help him make it to the Western world. Through the years Ragnar, who claims to be a direct descendant of the god Odin, continues to struggle with Earl until the two face each other in a final battle for supremacy. Following that, Ragnar goes on a search for new lands to conquer.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cf957523b21d_vikings.jpg"
+    },
+
+    {"title": "Walking Dead", "id": "None",
+    "description": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef510aec97_Walking%20Dead.jpg"
+    },
+
+    {"title": "Whose line is it anyways?", "id": "None",
+    "description": "Comics improvise sketches with suggestions from the audience.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934818917746_whose-line.jpg"
+    },
+
+    {"title": "Workaholics", "id": 211751,
+    "description": "A single-camera comedy that features three friends who work together from 9 to 5, live together from 5 to 9 and party together 24/7. Dress codes, deadlines and waking up before noon are not things these guys are used to. They work as telemarketers and sometimes they even do their jobs well, but they show up late, leave drunk and always live for the day\u2026even if they don\u2019t know what day it is. Whether they're hanging out at their house in Rancho Cucamonga or getting ready to rage at a Renaissance Faire, the guys find trouble wherever they go.",
+    "poster": "https://assets.fanart.tv/fanart/tv/211751/tvposter/workaholics-533f3386847d2.jpg"
+    },
+
+    {"title": "X Files", "id": "None",
+    "description": "The X-Files focused on the exploits of FBI Agents Fox Mulder, Dana Scully, John Doggett and Monica Reyes and their investigations into the paranormal. From genetic mutants and killer insects to a global conspiracy concerning the colonization of Earth by an alien species, this mind-boggling, humorous and occasionally frightening series created by Chris Carter has been one of the world's most popular sci-fi/drama shows since its humble beginnings in 1993.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593476a25530c_xfiles.jpg"
+    },
+
+    {"title": "Z Nation", "id": "None",
+    "description": "Three years after the zombie virus has gutted the United States of America a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef48592250_Znation.jpg"
+    }
+
+]}
+
+

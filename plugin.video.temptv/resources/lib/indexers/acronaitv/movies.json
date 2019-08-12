@@ -1,0 +1,151 @@
+
+{"movies": [
+
+    {"title": "Action",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/Action.jpg?raw=true"
+    },
+
+    {"title": "Animated Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/AnimatedMovies.jpg?raw=true"
+    },
+
+    {"title": "Christmas Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/ChristmasMovies.jpg?raw=true"
+    },
+
+    {"title": "Comedy Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/ComedyMovies.jpg?raw=true"
+    },
+
+    {"title": "Cult Classics",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/CultClassics.jpg?raw=true"
+    },
+
+    {"title": "Disney Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/DisneyMovies.jpg?raw=true"
+    },
+
+    {"title": "Documentaries",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5934851b355fb_documentary.jpg"
+    },
+
+    {"title": "Harry Potter",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/HarryPotter.jpg?raw=true"
+    },
+
+    {"title": "Horror Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/HorrorMovies.jpg?raw=true"
+    },
+
+    {"title": "James Bond",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdef2e60f050_007.jpg"
+    },
+
+    {"title": "Kubrick Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc62850445a_Kubrick.png"
+    },
+
+    {"title": "Kung Fu Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc62614f68c_Martial%20Arts.png"
+    },
+
+    {"title": "Lord of the Rings",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc62c29f4c3_Lord%20of%20the%20Rings.png"
+    },
+
+    {"title": "Mafia Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/MafiaMovies.jpg?raw=true"
+    },
+
+    {"title": "Marvel Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc6273cc608_Marvel.png"
+    },
+
+    {"title": "Monster Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc62dfb9d2c_Monster%20Movies.png"
+    },
+
+    {"title": "Movies with Arc",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/Arc.jpg?raw=true"
+    },
+
+    {"title": "Musical Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/MusicalMovies.jpg?raw=true"
+    },
+
+    {"title": "Mystery Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/MysteryMovies.jpg?raw=true"
+    },
+
+    {"title": "Pixar Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc6244396ef_Pixar.png"
+    },
+
+    {"title": "Random Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/RandomMovies.jpg?raw=true"
+    },
+
+    {"title": "Romance Movies",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/RomanceMovies.jpg?raw=true"
+    },
+
+    {"title": "SciFi Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc64e42e9ad_Sci%20Fi%20movies.png"
+    },
+
+    {"title": "Star Trek Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5c8adcbd59eda_startrek.jpg"
+    },
+
+    {"title": "Star Wars",
+    "description": "",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/StarWars.jpg?raw=true"
+    },
+
+    {"title": "Stephen King Films",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc623615bf0_Stephen%20King.png"
+    },
+
+    {"title": "Studio Ghibli",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/593482bd874c8_studio.jpg"
+    },
+
+    {"title": "War Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc6327557e2_War%20Movies.png"
+    },
+
+    {"title": "Western Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5cdc6318f2a8a_Western%20Movies.png"
+    }
+
+]}
+
+

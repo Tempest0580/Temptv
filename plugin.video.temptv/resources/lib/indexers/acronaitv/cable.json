@@ -1,0 +1,156 @@
+
+{"cable": [
+
+    {"title": "A&E",
+    "description": "A&E is an American digital cable and satellite television network that serves as the flagship television property of A&E Networks, a joint venture between the Hearst Corporation and Disney-ABC Television Group subsidiary of the Walt Disney Company.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/A&E.png?raw=true"
+    },
+
+    {"title": "ABC",
+    "description": "The ABC (American Broadcasting Company) is an American commercial broadcast television network formerly as radio network on 1943, and purchased by Disney in 1996.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ABC.png?raw=true"
+    },
+
+    {"title": "AMC",
+    "description": "AMC is an American basic cable and satellite television channel that is owned by AMC Networks. The channel's programming, similar to that of FXM, primarily consists of theatrically released films, along with a limited amount of original programming.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/AMC.png?raw=true"
+    },
+
+    {"title": "Animal Planet",
+    "description": "Animal Planet is a American basic television channel launched on 1996 and owned by Discovery, its programming focused on or relating to animals. ",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Animalplanet.png?raw=true"
+    },
+
+    {"title": "BBC America",
+    "description": "BBC America is an American pay television network that is jointly owned by BBC Studios and AMC Networks. Unlike the BBC's domestic channels in the United Kingdom, BBC America does not receive funding from the British licence fee, as the BBC cannot fund any of its channels that are available outside the United Kingdom.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/BBC%20America.png?raw=true"
+    },
+
+    {"title": "Bravo Tv",
+    "description": "Bravo is an American cable and satellite television network, launched on December 1, 1980. It is a program service operated by NBCUniversal Cable Entertainment, which is owned by NBCUniversal, a subsidiary of Comcast and headquartered in the Comcast Building in New York City. The channel originally focused on programming related to fine arts and film; it currently broadcasts several reality television series targeted at 25-54 year-old women as well as the LGBT community, along with acquired and original dramas, and mainstream theatrically released feature films.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Bravo.png?raw=true"
+    },
+
+    {"title": "CBS",
+    "description": "CBS is an American commercial broadcast television network, which origins date back to 1927, the name is derived from the initials of the former name, Columbia Broadcasting System.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CBS.png?raw=true"
+    },
+
+    {"title": "CNBC",
+    "description": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CNBC.png?raw=true"
+    },
+
+    {"title": "Comedy Central",
+    "description": "Comedy Central is an American basic television channel carries comedy programming launched in 1989. Comedy Central is owned by MTV Networks Entertainment Group, a division of Viacom.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Comedy%20Central.png?raw=true"
+    },
+
+    {"title": "Discovery Channel",
+    "description": "Discovery Communications is an American mass media company that started as Discovery channel in 1985.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Discovery%20Channel.png?raw=true"
+    },
+
+    {"title": "ESPN",
+    "description": "Launched in 1979, ESPN is a US-based global cable and satellite television channel that focuses on sports-related programming, it is a joint venture between the Walt Disney and Hearst Corporation. ",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ESPN.png?raw=true"
+    },
+
+    {"title": "Fox",
+    "description": "The Fox is an American commercial broadcast television network launched in 1986, is now the worlds third largest major network, a division of 21st Century Fox.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/FOX.png?raw=true"
+    },
+
+    {"title": "FOX 43 WMPT",
+    "description": "WPMT, virtual channel 43, is a Fox-affiliated television station licensed to York, Pennsylvania, United States and serving the Susquehanna Valley region. The station is owned by the Tribune Broadcasting subsidiary of the Tribune Media Company.",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/FOX%2043%20WMPT.png?raw=true"
+    },
+
+    {"title": "Fox News",
+    "description": "Fox News is an American basic cable and satellite news entertainment television channel owned by the Fox Entertainment Group, a subsidiary of 21st Century Fox.",
+    "poster": "https://www.arconaitv.us/uploads/streams/593484deaa5b2_foxnews.jpg"
+    },
+
+    {"title": "Freeform",
+    "description": "Freeform is an American basic cable and satellite television channel that is owned by the Disney-ABC Television Group division of The Walt Disney Company. Freeform primarily broadcasts programming aimed towards teenagers and young adults - with some programming skewing towards young women ? in the 14-34 age range, a target demographic designated by the channel as \"becomers\". Its programming includes contemporary off-network syndicated reruns and original series, feature films, and made-for-TV original movies.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Freeform.png?raw=true"
+    },
+
+    {"title": "FX",
+    "description": "FX is an American basic cable and satellite television channel launched on June 1, 1994, based in Los Angeles.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/FX.png?raw=true"
+    },
+
+    {"title": "MavTV",
+    "description": "MAVTV is an American cable and satellite television channel owned by the automotive lubricant company Lucas Oil, a ubiquitous presence in the motorsports world, which mainly airs programming focused around motorsports and programming for automotive enthusiasts. Bob Patison serves as the network's president.",
+    "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/MavTV.png?raw=true"
+    },
+
+    {"title": "MSNBC",
+    "description": "MSNBC is an American pay television network that provides news coverage and political commentary from NBC News on current events. MSNBC is owned by the NBCUniversal News Group, a unit of the NBCUniversal Television Group division of NBCUniversal.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/MSNBC.png?raw=true"
+    },
+
+    {"title": "NASA HD",
+    "description": "The network was formally created in the early 1980s to provide NASA managers and engineers with real-time video of missions. NASA has operated a television service since the beginning of the space program for archival purposes, and in order to provide media outlets with video footage.",
+    "poster": "https://pbs.twimg.com/profile_images/67630775/button_meatball.png"
+    },
+
+    {"title": "National Geographic",
+    "description": "The National Geographic Societys poster is a yellow rectangular frame, which appears on its magazines and its television channel.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/National%20Geographic%20(US).png?raw=true"
+    },
+
+    {"title": "NBC",
+    "description": "The NBC (National Broadcasting Company) is an American major broadcast television and radio network, formerly as Radio Corporation of America (RCA) in 1926.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/NBC.png?raw=true"
+    },
+
+    {"title": "Nickelodeon",
+    "description": "Nickelodeon is an American basic cable and satellite television network launched on December 1, 1977, and is owned by Viacom through Viacom Media Networks and based in New York City.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Nickelodeon.png?raw=true"
+    },
+
+    {"title": "PBS",
+    "description": "The Public Broadcasting Service (PBS) is an American public broadcaster and television program distributor.[2] Headquartered in Arlington, Virginia, PBS is an independently operated non-profit organization and is the most prominent provider of television programming to public television stations in the United States.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/PBS.png?raw=true"
+    },
+
+    {"title": "Spike TV",
+    "description": "Spike is an American cable and satellite channel launched on Marconaih 7, 1983, owned by Viacom through Viacom Media Networks and based in Los Angeles, California",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Spike%20TV.png?raw=true"
+    },
+
+    {"title": "Sundance TV",
+    "description": "Sundance TV is an American digital cable and satellite television network that is owned by AMC Networks.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/SundanceTV.png?raw=true"
+    },
+
+    {"title": "SYFY",
+    "description": "Launched in 1992, Syfy (formerly Sci-Fi Channel and SF) is an American basic cable and satellite television channel that features science fiction, drama, supernatural, fantasy, reality, paranormal, wrestling, and horror programming.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Syfy.png?raw=true"
+    },
+
+    {"title": "The CW",
+    "description": "Launched in 2006, The CW is an American broadcast television network, a limited liability joint venture between CBS and Warner Bros.. The CW name is derived from the first letters of the names of these corporations.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true"
+    },
+
+    {"title": "TLC",
+    "description": "TLC is an American basic cable and satellite television network that is owned by Discovery Communications.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TLC.png?raw=true"
+    },
+
+    {"title": "Universal Channel",
+    "description": "Universal Channel is a television channel specializing in movies and television series in the thriller, drama, comedy, horror, crime and investigation genres, owned by Universal Networks International",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Universal.png?raw=true"
+    },
+
+    {"title": "USA Network",
+    "description": "USA Network is an American basic cable and satellite television channel that is owned by the NBCUniversal Cable Entertainment Group division of NBCUniversal, itself a subsidiary of Comcast.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/USA%20Network.png?raw=true"
+    }
+
+]}
+
+

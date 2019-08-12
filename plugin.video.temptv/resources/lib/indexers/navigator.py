@@ -32,10 +32,11 @@ class navigator:
         self.addDirectoryItem('Sports', 'sports', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
-        self.addDirectoryItem('24/7', 'hour24', 'channels.png', 'DefaultTvshows.png')
+        self.addDirectoryItem('24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('1 Click Movies', 'click_movies', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('In Theaters', 'theaters', 'channels.png', 'DefaultTVShows.png')
+        # self.addDirectoryItem('In Theaters', 'theaters', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('AcronaiTV', 'arconai_cable', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
@@ -48,9 +49,9 @@ class navigator:
         self.endDirectory()
 
     def changelog(self):
-            r = open(self.LOCALNEWS)
-            compfile = r.read()
-            self.showText('Changelog', compfile)
+        r = open(self.LOCALNEWS)
+        compfile = r.read()
+        self.showText('Changelog', compfile)
 
     def showText(self, heading, text):
         id = 10147
