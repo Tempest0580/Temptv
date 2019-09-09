@@ -66,6 +66,10 @@ if action == 'music':
     from resources.lib.indexers import lists
     lists.indexer().music()
 
+if action == 'all_english':
+    from resources.lib.indexers import lists
+    lists.indexer().all_english()
+
 if action == 'hour24':
     from resources.lib.indexers import lists
     lists.indexer().hour24()

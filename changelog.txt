@@ -2,6 +2,19 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.8
+- Added more channels for Stramlive
+- Added a section for all English Live tv in one section
+- Updated other live channels
+- Updated some Acronaitv artwork
+- Fixed Music section not working
+
+2.0.7
+- Added more channels for Stramlive
+
+2.0.7
+- Added Channels from Streamlive (Testing - more channels will be added)
+
 2.0.6
 - Fix For UsaTv Go Art
 

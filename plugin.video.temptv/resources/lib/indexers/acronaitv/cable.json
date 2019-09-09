@@ -31,9 +31,19 @@
     "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Bravo.png?raw=true"
     },
 
+    {"title": "CBC Toronto",
+    "description": "CBC Television provides a complete 24-hour network schedule of news, sports, entertainment and children's programming.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CBC.png?raw=true"
+    },
+
     {"title": "CBS",
     "description": "CBS is an American commercial broadcast television network, which origins date back to 1927, the name is derived from the initials of the former name, Columbia Broadcasting System.",
     "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CBS.png?raw=true"
+    },
+
+    {"title": "CityTv",
+    "description": "Citytv (branded simply as City from 2012–18) is a Canadian television network owned by the Rogers Media subsidiary of Rogers Communications. The network consists of six owned-and-operated (O&O) television stations located in the metropolitan areas of Toronto, Montreal, Winnipeg, Calgary, Edmonton, and Vancouver, a cable-only service that serves the province of Saskatchewan, and three independently owned affiliates serving smaller cities in Alberta and British Columbia.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/440px-Citytv_logo.svg.png"
     },
 
     {"title": "CNBC",
@@ -44,6 +54,11 @@
     {"title": "Comedy Central",
     "description": "Comedy Central is an American basic television channel carries comedy programming launched in 1989. Comedy Central is owned by MTV Networks Entertainment Group, a division of Viacom.",
     "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Comedy%20Central.png?raw=true"
+    },
+
+    {"title": "CTV",
+    "description": "CTV is Canada's #1 private broadcaster. Featuring a wide range of quality news, sports, information, and entertainment programming, CTV has been Canada’s most-watched television network for the past 13 years in a row. CTV is a division of Bell Media, Canada’s premier multimedia company with leading assets in television, radio, digital, and out of home.",
+    "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CTV.png?raw=true"
     },
 
     {"title": "Discovery Channel",
@@ -139,6 +154,11 @@
     {"title": "TLC",
     "description": "TLC is an American basic cable and satellite television network that is owned by Discovery Communications.",
     "poster": "https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TLC.png?raw=true"
+    },
+
+    {"title": "TVOntario",
+    "description": "In August 2010, TVO began broadcasting in high-definition via a direct-to-cable HD feed.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TVO_logo.svg/440px-TVO_logo.svg.png"
     },
 
     {"title": "Universal Channel",

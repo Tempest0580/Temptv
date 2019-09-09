@@ -79,10 +79,23 @@ class indexer:
         except:
             pass
 
+    def all_english(self):
+        try:
+            regex.clear()
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvYWxsX2VuZ2xpc2gubTN1'.decode(
+                'base64')
+            self.list = self.noname_list(url)
+            for i in self.list:
+                i.update({'content': 'addons'})
+            self.addDirectory(self.list)
+            return self.list
+        except:
+            pass
+
     def music(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpbk11c2ljLnhtbA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbXVzaWMubTN1'.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
