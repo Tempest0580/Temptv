@@ -39,6 +39,7 @@ class navigator:
         self.addDirectoryItem('AcronaiTV', 'arconai_cable', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')
         if control.setting('Dev') == 'true':

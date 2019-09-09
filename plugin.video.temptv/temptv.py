@@ -282,6 +282,14 @@ elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
     ustvgo.ustvgo().play(url)
 
+elif action == 'streamliveNavigator':
+    from resources.lib.indexers import streamlive
+    streamlive.streamlive().root()
+
+elif action == 'streamlivePlay':
+    from resources.lib.indexers import streamlive
+    streamlive.streamlive().play(url)
+
 elif action == 'acronaitv_menu':
     from resources.lib.indexers import acronaitv
     acronaitv.acronaitv().list_categories()
