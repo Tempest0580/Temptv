@@ -98,7 +98,7 @@ class streamlive:
             ('South Park', 'view/40155/South-Park', 'https://images2.minutemediacdn.com/image/upload/c_crop,h_358,w_640,x_0,y_49/f_auto,q_auto,w_1100/v1555003945/shape/mentalfloss/06804986093.png'),
             ('SuperHero movie channel', 'view/38366/SuperHero-movie-channel', 'https://qph.fs.quoracdn.net/main-qimg-24d02d403ce4a1947cac37f51003e620.webp'),
             ('That\'s 70 show', 'view/38217/That\'s-70-show', 'https://m.media-amazon.com/images/M/MV5BN2RkZGE0MjAtZGVkOS00MzVhLTg0OWItZTc4OGRjOTQ1ZTM4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg'),
-            ('The Office', 'view/40750/The-Office-(Show)', 'https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg'),
+            ('The Office', 'view/40750/The-Office-(Show)', 'https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg')
         ]
         for channel in channels:
             self.list.append({'name': channel[0], 'url': self.base_link % channel[1], 'image': channel[2], 'action': 'streamlivePlay'})
@@ -109,7 +109,7 @@ class streamlive:
         try:
             stream = client.request(url)
             url = re.compile('href="(https://nl2.streamlive.to/vlc/?.+?)"').findall(stream)[0]
-            control.execute('PlayMedia(%s)' % url)
+            control.execute('PlayMedia(%s|User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36)' % url)
         except Exception:
             return
 
