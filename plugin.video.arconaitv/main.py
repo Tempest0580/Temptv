@@ -1,7 +1,7 @@
 
 import os.path, requests, json
 import sys, urllib, urllib2, urlparse
-import xbmcaddon, xbmcgui, xbmcplugin
+import xbmcaddon, xbmcgui, xbmcplugin, xbmc
 from resources.lib.modules import jsunpack
 from bs4 import BeautifulSoup
 

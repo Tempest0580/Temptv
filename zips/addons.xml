@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.arconaitv" version="1.0.1" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.2" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
