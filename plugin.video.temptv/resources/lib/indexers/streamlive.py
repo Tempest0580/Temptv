@@ -122,7 +122,7 @@ class streamlive:
         try:
             stream = client.request(url)
             url = re.compile('href="(https://nl2.streamlive.to/vlc/?.+?)"').findall(stream)[0]
-            control.execute('PlayMedia(%s|User-Agent: Mozilla/5.0)' % url)
+            control.execute('PlayMedia(%s|User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36)' % url)
         except Exception:
             return
 
