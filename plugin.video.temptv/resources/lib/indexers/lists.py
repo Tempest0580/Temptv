@@ -794,7 +794,7 @@ class indexer:
                 self.list[i].update({'rating': rating})
             votes = item['imdbVotes']
             try:
-                votes = str(format(int(votes),',d'))
+                votes = str(format(int(votes), ',d'))
             except:
                 pass
             if votes is None or votes == '' or votes == 'N/A':
@@ -1032,7 +1032,7 @@ class indexer:
                 elif addonFanart is not None:
                     item.setProperty('Fanart_Image', addonFanart)
                 if queue is False:
-                    item.setInfo(type='Video', infoLabels = control.metadataClean(meta))
+                    item.setInfo(type='Video', infoLabels=control.metadataClean(meta))
                     # item.setInfo(type='Video', infoLabels = meta) # old code
                     item.addContextMenuItems(cm)
                     control.addItem(handle=int(sys.argv[1]), url=url, listitem=item, isFolder=folder)
@@ -1151,7 +1151,7 @@ class resolver:
             if ext not in ['jpg', 'png', 'gif']:
                 raise Exception()
             try:
-                i = os.path.join(control.dataPath,'img')
+                i = os.path.join(control.dataPath, 'img')
                 control.deleteFile(i)
                 f = control.openFile(i, 'w')
                 f.write(client.request(url))

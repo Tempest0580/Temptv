@@ -2,6 +2,17 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.13 [/COLOR][/B]
+- Updated ArconaiTv artwork for new show
+- Updates to Streamlive Cosmetic
+- Added Some More Channels to Streamlive
+
+[B][COLOR gold] 2.0.12 [/COLOR][/B]
+- Tweaks
+
+[B][COLOR gold] 2.0.11 [/COLOR][/B]
+- Tweaks
+
 [B][COLOR gold] 2.0.10 [/COLOR][/B]
 - Added Some channels to Streamlive
 

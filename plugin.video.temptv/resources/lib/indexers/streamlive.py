@@ -23,6 +23,7 @@ class streamlive:
             ('Animal Planet SD', 'view/76673/Animal-Planet-(SD)', 'https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2013/01/animal_planet_logo.jpg'),
             ('BBC America HD', 'view/77193/BBC-America-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/BBC%20America.png?raw=true'),
             ('BET HD', 'view/50652/BET-(HD)', 'https://pmcdeadline2.files.wordpress.com/2017/11/bet-network.jpg?w=681&h=383&crop=1'),
+            ('BET SD', 'view/72736/BET-(SD)', 'https://pmcdeadline2.files.wordpress.com/2017/11/bet-network.jpg?w=681&h=383&crop=1'),
             ('Boomerang HD', 'view/77024/Boomerang-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Boomerang.png?raw=true'),
             ('Boomerang SD', 'view/77197/Boomerang-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Boomerang.png?raw=true'),
             ('Bravo HD', 'view/52480/Bravo-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Bravo.png?raw=true'),
@@ -32,14 +33,17 @@ class streamlive:
             ('CBS HD', 'view/57976/CBS-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CBS.png?raw=true'),
             ('Cinemax HD', 'view/77172/Cinemax-(HD)', 'https://www.identityschoolofacting.com/wp-content/uploads/2018/04/cinemaxlogo.jpg'),
             ('CNBC HD', 'view/71981/CNBC-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CNBC.png?raw=true'),
+            ('CNBC SD', 'view/76676/CNBC-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/CNBC.png?raw=true'),
             ('CNN HD', 'view/46461/CNN-(HD)', 'https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png'),
-            ('CNN HD', 'view/68967/CNN-(SD)', 'https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png'),
+            ('CNN SD', 'view/68967/CNN-(SD)', 'https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png'),
             ('Comedy Central HD', 'view/71610/Comedy-Central-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Comedy%20Central.png?raw=true'),
             ('CW HD', 'view/52510/CW-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true'),
+            ('CW SD', 'view/76678/CW-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true'),
             ('The CW Network HD', 'view/77122/CW-Network', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true'),
             ('Discovery HD', 'view/69112/Discovery-(HD)', 'https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png'),
             ('Discovery SD', 'view/69110/Discovery-(SD)', 'https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png'),
             ('Disney HD', 'view/38804/Disney-(HD)', 'https://i.pinimg.com/originals/64/31/14/643114ea438c7b019cbf8c88b2d2ba47.jpg'),
+            ('Disney SD', 'view/76679/Disney-(SD)', 'https://i.pinimg.com/originals/64/31/14/643114ea438c7b019cbf8c88b2d2ba47.jpg'),
             ('Disney Jr HD', 'view/77206/Disney-Jr-(HD)', 'http://www.filmcontact.com/sites/files/articles/disney_2.jpg'),
             ('Disney Jr Central', 'view/76879/Disney-Junior-Central', 'http://www.filmcontact.com/sites/files/articles/disney_2.jpg'),
             ('Disney Jr East HD', 'view/76878/Disney-Junior-East-(HD)', 'http://www.filmcontact.com/sites/files/articles/disney_2.jpg'),
@@ -48,7 +52,8 @@ class streamlive:
             ('ESPN SD', 'view/69029/ESPN-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ESPN.png?raw=true'),
             ('ESPN 2 HD', 'view/57977/ESPN-2-(HD)', 'https://media.bizj.us/view/img/11166691/espn2-logo*750xx1200-675-0-263.jpg'),
             ('ESPN 2 SD', 'view/69028/ESPN-2-(SD)', 'https://media.bizj.us/view/img/11166691/espn2-logo*750xx1200-675-0-263.jpg'),
-            ('Food Network HD', 'view/52506/Food-Network-(HD)', 'https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg'),
+            ('Food Network HD', 'view/52506/Food-Network-(HD)', 'https://pmcvariety.files.wordpress.com/2016/01/food-network-logo.jpg?w=1000&h=563&crop=1'),
+            ('Food Network SD', 'view/69023/Food-Network-(SD)', 'https://pmcvariety.files.wordpress.com/2016/01/food-network-logo.jpg?w=1000&h=563&crop=1'),
             ('Fox News HD', 'view/46465/Fox-News-(HD)', 'https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png'),
             ('Fox Network HD', 'view/56002/Fox-Network-(HD)', 'http://static1.squarespace.com/static/54d10203e4b0d299700879e5/t/5b27f63c562fa70ec852cc1c/1529345600132/fox_network.gif?format=1500w'),
             ('Fox Movie Channel', 'view/38449/Fox-Movie-Channel', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj-8O-xPgxgqkw3ujUMCWGmw0yh9I1V9UoEpEIlPncXaAAGtyC'),
@@ -85,9 +90,11 @@ class streamlive:
             ('Syfy HD', 'view/46454/Syfy-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Syfy.png?raw=true'),
             ('Syfy SD', 'view/76694/Syfy-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Syfy.png?raw=true'),
             ('TBS HD', 'view/77066/TBS-(HD)', 'https://www.underconsideration.com/brandnew/archives/tbs_2015_logo_detail.png'),
-            ('TBS SD', 'view/76695/TBS-(SD)', 'hhttps://www.underconsideration.com/brandnew/archives/tbs_2015_logo_detail.png'),
-            ('TNT', 'view/69020/TNT-(SD)', 'https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg'),
+            ('TBS SD', 'view/76695/TBS-(SD)', 'https://www.underconsideration.com/brandnew/archives/tbs_2015_logo_detail.png'),
+            ('TNT HD', 'view/57973/TNT-(HD)', 'https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg'),
+            ('TNT SD', 'view/69020/TNT-(SD)', 'https://www.broadcastingcable.com/.image/t_share/MTU3MjM4MTk0MDkyMzg1NjA2/tnt_resized_bc.jpg'),
             ('TLC HD', 'view/69109/TLC-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TLC.png?raw=true'),
+            ('TLC SD', 'view/76671/TLC-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TLC.png?raw=true'),
             ('Travel channel HD', 'view/65833/Travel-channel-(HD)', 'http://thebrandusa.info/enews/wp-content/uploads/sites/12/2015/08/travel_channel_logo.jpg'),
             ('TruTV HD', 'view/52755/TruTV-(HD)', 'https://pmcvariety.files.wordpress.com/2014/07/trutv-logo.jpg?w=1000'),
             ('TV Land HD', 'view/49252/TVLand-(HD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TV%20Land.png?raw=true'),
@@ -122,7 +129,7 @@ class streamlive:
         try:
             stream = client.request(url)
             url = re.compile('href="(https://nl2.streamlive.to/vlc/?.+?)"').findall(stream)[0]
-            control.execute('PlayMedia(%s|User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36)' % url)
+            control.execute('PlayMedia(%s)' % url)
         except Exception:
             return
 
