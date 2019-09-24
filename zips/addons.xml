@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.arconaitv" version="1.0.3" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.4" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.13" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.14" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
