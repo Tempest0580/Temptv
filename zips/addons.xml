@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.15" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.16" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -56,7 +56,7 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.10 - Added Some channels to Streamlive
+			v2.0.16 - Fixed UstvGo
 		</news>
 	</extension>
 </addon>
