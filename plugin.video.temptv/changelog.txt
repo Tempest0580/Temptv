@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.21 [/COLOR][/B]
+- Another update to fix UstvGo
+
 [B][COLOR gold] 2.0.20 [/COLOR][/B]
 - Fix Typo
 
