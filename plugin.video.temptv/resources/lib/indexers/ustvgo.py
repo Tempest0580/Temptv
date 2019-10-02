@@ -5,14 +5,14 @@
 import re, os, sys, urllib
 from resources.lib.modules import client
 from resources.lib.modules import control
-from resources.lib.modules import cfscrape
+#from resources.lib.modules import cfscrape
 
 
 class ustvgo:
     def __init__(self):
         self.list = []
         self.base_link = 'http://ustvgo.tv/%s'
-        self.scraper = cfscrape.create_scraper()
+        #self.scraper = cfscrape.create_scraper()
 
     def root(self):
         channels = [
@@ -105,7 +105,7 @@ class ustvgo:
 
     def play(self, url):
         try:
-            stream = self.scraper.get(url).content
+            stream = client.request(url)
             url = re.compile("file: '(.+?)',", re.DOTALL).findall(stream)[0]
             control.execute('PlayMedia(%s)' % url)
         except Exception:

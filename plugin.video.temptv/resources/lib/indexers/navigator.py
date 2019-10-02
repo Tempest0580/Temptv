@@ -37,7 +37,7 @@ class navigator:
         self.addDirectoryItem('AcronaiTV 24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
+        #self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('1 Click Movies', 'click_movies', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
