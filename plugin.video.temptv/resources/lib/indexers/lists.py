@@ -17,7 +17,7 @@ class indexer:
     def entertainment(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZW5nbGlzaC5tM3U='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvdXMubTN1'.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:

@@ -2,7 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
-[B][COLOR gold] 2.0.18 [/COLOR][/B]
+[B][COLOR gold] 2.0.20 [/COLOR][/B]
+- Fix Typo
+
+[B][COLOR gold] 2.0.19 [/COLOR][/B]
 - Moved All English to Entertainment
 
 [B][COLOR gold] 2.0.18 [/COLOR][/B]
