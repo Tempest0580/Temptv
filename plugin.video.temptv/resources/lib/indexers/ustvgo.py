@@ -36,7 +36,7 @@ class ustvgo:
             ('Disney Jr', 'disneyjr', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true'),
             ('Disney XD', 'disneyxd', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20XD.png?raw=true'),
             ('DIY', 'diy', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/DIY.png?raw=true'),
-            ('E', 'e', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/E!.png?raw=true'),
+            ('E!', 'e', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/E!.png?raw=true'),
             ('ESPN', 'espn-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ESPN.png?raw=true'),
             ('ESPN 2', 'espn2', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ESPN.png?raw=true'),
             ('Food Network', 'food-network-live-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Food%20Network.png?raw=true'),
@@ -49,7 +49,7 @@ class ustvgo:
             ('FX', 'fx-channel-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/FX.png?raw=true'),
             ('FXM', 'fxm', 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png'),
             ('FXX', 'fxx', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/FXX.png?raw=true'),
-            ('Golf', 'golf-channel-live-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Golf.png?raw=true'),
+            ('Golf Channel', 'golf-channel-live-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Golf.png?raw=true'),
             ('GSN', 'gsn', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Game%20Show%20Network.png?raw=true'),
             ('Halmark Channel', 'hallmark-channel-live-streaming-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Hallmark%20Channel.png?raw=true'),
             ('Halmark Movies & Mysteries', 'hallmark-movies-mysteries-live-streaming-free', 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png'),
@@ -58,7 +58,7 @@ class ustvgo:
             ('History Channel', 'history-channel-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/History.png?raw=true'),
             ('HLN', 'hln', 'https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/300px-HLN_%28TV_network%29_2017_logo.svg.png'),
             ('Investigation Discovery', 'investigation-discovery-live-streaming-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Investigation%20Discovery.png?raw=true'),
-            ('lifetime Channel', 'lifetime-channel-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Lifetime.png?raw=true'),
+            ('lifetime', 'lifetime-channel-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Lifetime.png?raw=true'),
             ('Lifetime Movies', 'lifetime-movies', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Lifetime%20Networks.png?raw=true'),
             ('MLB Network', 'mlb-network', 'https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/280px-MLBNetworkLogo.svg.png'),
             ('MotorTrend', 'motortrend', 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/400px-Motor_Trend.svg.png'),
@@ -67,11 +67,12 @@ class ustvgo:
             ('NAT GEO WILD', 'nat-geo-wild-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Nat%20Geo%20Wild.png?raw=true'),
             ('National Geographic', 'national-geographic-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/National%20Geographic.png?raw=true'),
             ('NBA TV', 'nba-tv', 'https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png'),
-            ('NBC Sports', 'nbc-sports', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/NBCSN.png?raw=true'),
             ('NBC', 'nbc', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/NBC.png?raw=true'),
+            ('NBC Sports', 'nbc-sports', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/NBCSN.png?raw=true'),
             ('NFL Network', 'nfl-network-live-free', 'https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/450px-NFL_Network_logo.svg.png'),
             ('Nickelodeon', 'nickelodeon-live-streaming-free', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Nickelodeon.png?raw=true'),
             ('NickToons', 'nicktoons', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/NickToons.png?raw=true'),
+            ('One America News Network', 'one-america-news-network', 'http://photos.prnewswire.com/prnfull/20140408/LA99752LOGO'),
             ('OWN', 'own', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/OWN.png?raw=true'),
             ('Oxygen', 'oxygen', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Oxygen.png?raw=true'),
             ('Paramont Network', 'paramount-network', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Paramount%20Network.png?raw=true'),
@@ -96,7 +97,8 @@ class ustvgo:
             ('Univision', 'univision', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/400px-Logo_Univision_2019.svg.png'),
             ('USA Network', 'usa-network-live', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/USA%20Network.png?raw=true'),
             ('VH1', 'vh1', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/VH1.png?raw=true'),
-            ('We Tv', 'we-tv', 'https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/440px-We_TV_logo_2014.svg.png')
+            ('We Tv', 'we-tv', 'https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/440px-We_TV_logo_2014.svg.png'),
+            ('WWE Network', 'wwe-network', 'https://pbs.twimg.com/profile_images/1138462213700816898/cYadkjZe_400x400.png')
         ]
         for channel in channels:
             self.list.append({'name': channel[0], 'url': self.base_link % channel[1], 'image': channel[2], 'action': 'ustvgoPlay'})

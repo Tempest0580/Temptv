@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.arconaitv" version="1.0.5" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.6" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -15,7 +15,7 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.3 - Updated Artwork for new Tv show
+			v1.0.6 - Updated Artwork for new Tv shows
 		</news>
     </extension>
 </addon>
