@@ -32,7 +32,6 @@ class navigator:
         self.addDirectoryItem('Sports', 'sports', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
-        self.addDirectoryItem('All English', 'all_english', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('AcronaiTV Cable', 'arconai_cable', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('AcronaiTV 24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')

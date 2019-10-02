@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 [B][COLOR gold] 2.0.18 [/COLOR][/B]
+- Moved All English to Entertainment
+
+[B][COLOR gold] 2.0.18 [/COLOR][/B]
 - Added a couple channels to UstvGo
 - Update Acronaity Cable Channels
 
