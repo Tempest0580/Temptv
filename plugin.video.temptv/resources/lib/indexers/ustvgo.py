@@ -107,9 +107,6 @@ class ustvgo:
 
     def play(self, url):
         try:
-            page = client.request(url, headers=self.headers)
-            url = re.compile('<iframe .+? src="(.+?)"', re.DOTALL).findall(page)[0]
-            url = "http:" + url if not url.startswith('http') else url
             stream = client.request(url, headers=self.headers)
             link = re.compile("file: '(.+?)',", re.DOTALL).findall(stream)[0]
             control.execute('PlayMedia(%s)' % link)
