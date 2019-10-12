@@ -313,3 +313,31 @@ elif action == 'arconai_movies':
 elif action == 'arconai_play':
     from resources.lib.indexers import acronaitv
     acronaitv.acronaitv().play_video(params['selection'])
+
+elif action == 'wrestlingNavigator':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().root()
+
+elif action == 'wrestlingMenuLA':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().rootLA()
+
+elif action == 'wrestlingMenuCZ':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().rootCZ()
+
+elif action == 'wrestlingMenu24':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().root24()
+
+elif action == 'wrestlingMenuAWL':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().rootAWL()
+
+elif action == 'wrestlingScrape':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().scrape(url)
+
+elif action == 'wrestlingPlay':
+    from resources.lib.indexers import watchwrestling
+    watchwrestling.WatchWrestling().play(url)

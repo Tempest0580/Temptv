@@ -2,6 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.23
+- Added Random Streams to Acronaitv 24-7
+- Added Wrestling Indexer (Testing)
+
 2.0.22
 - Yet Another update to fix UstvGo
 

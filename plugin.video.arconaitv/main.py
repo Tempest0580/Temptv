@@ -76,6 +76,15 @@ def list_categories():
     li.setInfo(type='Video', infoLabels=il)
     xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=True)
 
+    url = build_url({'mode': 'play', 'selection': 'stream.php?id=random'})
+    li = xbmcgui.ListItem("Random Streams")
+    movies_img = artbase_url % "arconaiRandom.png"
+    li.setArt({'thumb': movies_img, 'poster': movies_img})
+    il = {"plot": "Streams a Random Channel"}
+    li.setProperty('IsPlayable', 'true')
+    li.setInfo(type='Video', infoLabels=il)
+    xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False)
+
     xbmcplugin.endOfDirectory(addon_handle)
 
 

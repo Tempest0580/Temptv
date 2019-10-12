@@ -57,7 +57,7 @@ class acronaitv:
     def list_categories(self):
         # url = self.build_url({'action': 'arconai_cable'})
         # li = xbmcgui.ListItem("Live TV Channels")
-        # cable_img = self.artbase_url % "arconaiCable.png"  ##############
+        # cable_img = self.artbase_url % "arconaiCable.png"
         # li.setArt({'thumb': cable_img, 'poster': cable_img})
         # il={"plot": "Live TV Channels" }
         # li.setInfo(type='Video', infoLabels=il)
@@ -65,7 +65,7 @@ class acronaitv:
 
         url = self.build_url({'action': 'arconai_shows'})
         li = xbmcgui.ListItem("TV Shows")
-        shows_img = self.artbase_url % "arconaiShows.png"  ##############
+        shows_img = self.artbase_url % "arconaiShows.png"
         li.setArt({'thumb': shows_img, 'poster': shows_img})
         il = {"plot": "24/7 Tv Shows"}
         li.setInfo(type='Video', infoLabels=il)
@@ -73,11 +73,21 @@ class acronaitv:
 
         url = self.build_url({'action': 'arconai_movies'})
         li = xbmcgui.ListItem("Movies")
-        movies_img = self.artbase_url % "arconaiMovies.png"  ##############
+        movies_img = self.artbase_url % "arconaiMovies.png"
         li.setArt({'thumb': movies_img, 'poster': movies_img})
         il = {"plot": "24/7 Movies"}
         li.setInfo(type='Video', infoLabels=il)
         xbmcplugin.addDirectoryItem(addon_handle, url=url, listitem=li, isFolder=True)
+
+        url = self.build_url({'action': 'arconai_play', 'selection': 'stream.php?id=random'})
+        li = xbmcgui.ListItem("Random Streams")
+        movies_img = self.artbase_url % "arconaiRandom.png"
+        li.setArt({'thumb': movies_img, 'poster': movies_img})
+        il = {"plot": "Streams a Random Channel"}
+        li.setProperty('IsPlayable', 'true')
+        li.setInfo(type='Video', infoLabels=il)
+        xbmcplugin.addDirectoryItem(handle=addon_handle, url=url, listitem=li, isFolder=False)
+
         xbmcplugin.endOfDirectory(addon_handle)
 
     def list_cable(self):

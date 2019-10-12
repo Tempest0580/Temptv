@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.arconaitv" version="1.0.6" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.7" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -16,7 +16,7 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.6 - Updated Artwork for new Tv shows
+			v1.0.7 - Added Random Streams
 		</news>
     </extension>
 </addon>
@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.22" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.23" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -56,7 +56,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.16 - Fixed UstvGo
+			v2.0.23 - Added Random Streams to Acronaitv 24-7
+					- Added Wrestling Indexer (Testing)
 		</news>
 	</extension>
 </addon>
