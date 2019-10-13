@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.23" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.24" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
-		<import addon="script.module.urlresolver" />
+		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.metahandler" />
 		<import addon="script.module.beautifulsoup4" />
@@ -22,8 +22,7 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.23 - Added Random Streams to Acronaitv 24-7
-					- Added Wrestling Indexer (Testing)
+			v2.0.23 - Changed Required Urlresolver to Resoveurl
 		</news>
 	</extension>
 </addon>

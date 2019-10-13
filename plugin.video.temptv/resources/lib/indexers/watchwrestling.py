@@ -9,7 +9,7 @@ from resources.lib.modules import client
 from resources.lib.modules import control
 from resources.lib.modules import workers
 import HTMLParser
-import urlresolver
+import resolveurl
 
 sysaddon = sys.argv[0]
 syshandle = int(sys.argv[1])
@@ -513,7 +513,7 @@ class WatchWrestling:
 
     def play(self, url):
         try:
-            hmf = urlresolver.HostedMediaFile(url, include_disabled=False, include_universal=True)
+            hmf = resolveurl.HostedMediaFile(url, include_disabled=False, include_universal=True)
             if hmf.valid_url() is True:
                 link = hmf.resolve()
                 if link is None or link is False:

@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.34" provider-name="jsergio">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.python.twitch" optional="true" />
+        <import addon="script.module.cryptopy" version="1.2.6" optional="true" />
+        <import addon="plugin.video.gdrive" optional="true" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+        <summary lang="es">Resolver enlaces a videos de sitios populares para poder reproducirlos en XBMC/Kodi.</summary>
+        <summary lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
+        <summary lang="el">Επίλυση συνδέσμων κοινών εξυπηρετητών σε μορφή βίντεο ικανό για αναπαραγωγή στο XBMC/Kodi.</summary>
+        <description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+        <description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
+    </extension>
+</addon>
+
 <addon id="plugin.video.arconaitv" version="1.0.7" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
@@ -33,11 +54,11 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.23" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.24" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
-		<import addon="script.module.urlresolver" />
+		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.metahandler" />
 		<import addon="script.module.beautifulsoup4" />
@@ -56,8 +77,7 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.23 - Added Random Streams to Acronaitv 24-7
-					- Added Wrestling Indexer (Testing)
+			v2.0.23 - Changed Required Urlresolver to Resoveurl
 		</news>
 	</extension>
 </addon>
