@@ -2,6 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.25 [/COLOR][/B]
+- Minor Update
+- Removed 1 Click (Dont have time to keep up with sites going down. Will add back later once i find better sources)
+
 [B][COLOR gold] 2.0.23 [/COLOR][/B]
 - Added Random Streams to Acronaitv 24-7
 - Added Wrestling Indexer (Testing)
