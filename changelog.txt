@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.26
+- UstvGo fix - Fixed a few broken chaneels
+
 2.0.25
 - Minor Update
 - Removed 1 Click (Dont have time to keep up with sites going down. Will add back later once i find better sources)
