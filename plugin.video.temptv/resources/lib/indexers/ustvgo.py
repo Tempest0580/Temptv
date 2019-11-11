@@ -54,7 +54,7 @@ class ustvgo:
              'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20Junior.png?raw=true'),
             ('Disney XD', 'disneyxd',
              'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Disney%20XD.png?raw=true'),
-            ('DIY', 'diy',
+            ('DIY', 'link.php?stream=DIY',
              'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/DIY.png?raw=true'),
             ('E', 'link.php?stream=E',
              'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/E!.png?raw=true'),

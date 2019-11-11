@@ -1,5 +1,5 @@
 """
-    Plugin for ResolveUrl
+    plugin for ResolveUrl
     Copyright (C) 2019 gujal
 
     This program is free software: you can redistribute it and/or modify
@@ -17,28 +17,32 @@
 """
 import re
 from lib import helpers
+from lib import jsunpack
 from resolveurl import common
 from resolveurl.resolver import ResolveUrl, ResolverError
 
-class ClipWatchingResolver(ResolveUrl):
-    name = "clipwatching"
-    domains = ['clipwatching.com']
-    pattern = r'(?://|\.)(clipwatching\.com)/(?:embed-)?(\w+)'
+class IDupResolver(ResolveUrl):
+    name = "idup"
+    domains = ["idup.to"]
+    pattern = r'(?://|\.)(idup\.to)/video/([0-9a-zA-Z]+)'
 
     def __init__(self):
         self.net = common.Net()
-        
+
     def get_media_url(self, host, media_id):
         web_url = self.get_url(host, media_id)
         headers = {'User-Agent': common.RAND_UA}
         html = self.net.http_GET(web_url, headers=headers).content
-        
-        html += helpers.get_packed_data(html)
-        source = re.search(r'''sources\s*:\s*\["([^"]+)''', html)
-        if source:
-            return source.group(1) + helpers.append_headers(headers)
-                
-        raise ResolverError("Video not found")
-        
+
+        r = re.search(r'JuicyCodes.Run\("([^)]+)"\)', html, re.DOTALL)
+
+        if r:
+            juice = r.group(1).replace('"+"', '').decode('base64')
+            jhtml = jsunpack.unpack(juice)
+            sources = helpers.scrape_sources(jhtml)
+            return helpers.pick_source(sources) + helpers.append_headers(headers)
+
+        raise ResolverError('File Not Found or removed')
+ 
     def get_url(self, host, media_id):
-        return self._default_get_url(host, media_id, template='https://{host}/embed-{media_id}.html')
+        return self._default_get_url(host, media_id, template='https://{host}/video/{media_id}/')

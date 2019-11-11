@@ -1,6 +1,6 @@
-"""
-resolveurl plugin
-Copyright (c) 2018 gujal
+'''
+SpeedWatch.io resolveurl plugin
+Copyright (C) 2019 gujal
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -14,29 +14,23 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
-"""
+'''
+
 import re
 from lib import helpers
 from resolveurl import common
 from resolveurl.resolver import ResolveUrl, ResolverError
 
-class VidorgResolver(ResolveUrl):
-    name = 'vidorg.net'
-    domains = ["vidorg.net", "vidpiz.xyz"]
-    pattern = r'(?://|\.)(vid(?:org|piz)\.(?:net|xyz))/(?:embed[/-])?([0-9A-Za-z]+)'
+class SpeedWatchResolver(ResolveUrl):
+    name = "speedwatch"
+    domains = ["speedwatch.io"]
+    pattern = r'(?://|\.)(speedwatch\.io)/(?:plyr|e)/([0-9a-zA-Z]+)'
 
     def __init__(self):
         self.net = common.Net()
 
     def get_media_url(self, host, media_id):
-        web_url = self.get_url(host, media_id)
-        headers = {'User-Agent': common.RAND_UA}
-        html = self.net.http_GET(web_url, headers=headers).content
-        sources = helpers.scrape_sources(html, patterns=[r'''file:"(?P<url>[^"]+)",label:"(?P<label>[^"]+)'''], generic_patterns=False)
-        if sources:
-            return helpers.pick_source(sources) + helpers.append_headers(headers)
-
-        raise ResolverError('Video cannot be located.')
+        return helpers.get_media_url(self.get_url(host, media_id), patterns=[r'''sources\s*:\s*\["(?P<url>[^"]+)'''], generic_patterns=False)
 
     def get_url(self, host, media_id):
-        return self._default_get_url(host, media_id, template='http://{host}/embed-{media_id}.html')
+        return self._default_get_url(host, media_id, template='https://www.{host}/e/{media_id}.html')
