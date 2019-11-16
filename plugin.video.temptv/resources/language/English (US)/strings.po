@@ -869,3 +869,15 @@ msgstr ""
 msgctxt "#32609"
 msgid "URL Resolver Settings"
 msgstr ""
+
+msgctxt "#32538"
+msgid "DEBRID-SERVICE"
+msgstr ""
+
+msgctxt "#32539"
+msgid "Configure Debrid Services in Resolveurl Settings."
+msgstr ""
+
+msgctxt "#32540"
+msgid "Resolveurl Settings"
+msgstr ""

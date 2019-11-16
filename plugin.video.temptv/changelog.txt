@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.28 [/COLOR][/B]
+- Update for 1 Click Link
+
 [B][COLOR gold] 2.0.27 [/COLOR][/B]
 - Added 1 Clicks movies (Debrid Only)
 - Shows will be added soon Plus more Movies

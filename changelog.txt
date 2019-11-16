@@ -2,6 +2,13 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.28
+- Update for 1 Click Link
+
+2.0.27
+- Added 1 Clicks movies (Debrid Only)
+- Shows will be added soon Plus more Movies
+
 2.0.26
 - UstvGo fix - Fixed a few broken chaneels
 

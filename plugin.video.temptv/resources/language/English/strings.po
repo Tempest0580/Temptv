@@ -981,3 +981,15 @@ msgstr ""
 msgctxt "#42015"
 msgid "In Theaters(Old Style)"
 msgstr ""
+
+msgctxt "#32538"
+msgid "DEBRID-SERVICE"
+msgstr ""
+
+msgctxt "#32539"
+msgid "Configure Debrid Services in Resolveurl Settings."
+msgstr ""
+
+msgctxt "#32540"
+msgid "Resolveurl Settings"
+msgstr ""

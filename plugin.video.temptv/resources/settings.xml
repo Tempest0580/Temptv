@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
     <category label="32310">
+        <setting type="lsep" label="32539" enable="false" />
+        <setting type="text" label="32538" enable="false" />
+        <setting id="open_smu_settings" type="action" label="32540" enable="true" option="close" action="RunPlugin(plugin://plugin.video.tempest/?action=urlResolverRDTorrent&amp;query=1.56)" />
+        <setting type="sep" />
         <setting id="Show_Adult" type="bool" label="Show Adult Section" defult="false" />
         <setting type="lsep" label="32310" enable="false" />
         <setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.temptv/?action=artwork)" visible="!System.HasAddon(script.temptv.artwork)" />

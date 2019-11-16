@@ -3,6 +3,8 @@
 import os,re,sys,hashlib,urllib,urlparse,json,base64,random,datetime,xbmc
 from resources.lib.modules import cache,client,control,metacache,regex
 from resources.lib.modules import views,workers,youtube,trailer
+from resources.lib.modules import debrid
+
 try:
     from sqlite3 import dbapi2 as database
 except:
@@ -178,7 +180,12 @@ class indexer:
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
-            self.addDirectory(self.list)
+            if debrid.status() is False:
+                import xbmcgui
+                xbmcgui.Dialog().ok('Drebrid Account is Reqired', 'Please Enable Debrid in the settings')
+                return
+            else:
+                self.addDirectory(self.list)
             return self.list
         except:
             pass
