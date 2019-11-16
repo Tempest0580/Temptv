@@ -170,7 +170,7 @@ class indexer:
         except:
             pass
 
-    def click_movies(self):
+    def clicks(self):
         try:
             regex.clear()
             url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpbk1vdmllcy54bWw='.decode(
@@ -984,9 +984,9 @@ class indexer:
                 folder = i['folder'] if 'folder' in i else True
                 meta = dict((k, v) for k, v in i.iteritems() if not v == '0')
                 cm = []
-                if content in ['movies', 'tvshows']:
-                    meta.update({'trailer': '%s?action=trailer&name=%s' % (sysaddon, urllib.quote_plus(name))})
-                    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
+                #if content in ['movies', 'tvshows']:
+                #    meta.update({'trailer': '%s?action=trailer&name=%s' % (sysaddon, urllib.quote_plus(name))})
+                #    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
                 if content in ['movies', 'tvshows', 'seasons', 'episodes']:
                     cm.append((control.lang(30708).encode('utf-8'), 'XBMC.Action(Info)'))
                 if (folder is False and '|regex=' not in str(i.get('url'))) or (folder is True and content in ['tvshows', 'seasons']):

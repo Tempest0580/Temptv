@@ -82,9 +82,9 @@ if action == 'jewMC':
     from resources.lib.indexers import lists
     lists.indexer().rootMC()
 
-if action == 'click_movies':
+if action == 'clicks':
     from resources.lib.indexers import lists
-    lists.indexer().click_movies()
+    lists.indexer().clicks()
 
 if action == '1_click_shows':
     from resources.lib.indexers import lists
