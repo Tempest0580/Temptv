@@ -3,7 +3,7 @@
 import os,re,sys,hashlib,urllib,urlparse,json,base64,random,datetime,xbmc
 from resources.lib.modules import cache,client,control,metacache,regex
 from resources.lib.modules import views,workers,youtube,trailer
-from resources.lib.modules import debrid
+from resources.lib.modules import debrid, trakt
 
 try:
     from sqlite3 import dbapi2 as database
@@ -702,11 +702,11 @@ class indexer:
         return self.list
 
     def worker(self):
-        if not control.setting('metadata') == 'true':
-            return
-        self.omdb_key = control.setting('omdb.key')
-        self.imdb_info_link = 'http://www.omdbapi.com/?i=%s&plot=full&r=json&apikey=%s' % ("%s", self.omdb_key)
-        self.tvmaze_info_link = 'http://api.tvmaze.com/lookup/shows?thetvdb=%s'
+        #if not control.setting('metadata') == 'true':
+        #    return
+        #self.omdb_key = control.setting('omdb.key')
+        #self.imdb_info_link = 'http://www.omdbapi.com/?i=%s&plot=full&r=json&apikey=%s' % ("%s", self.omdb_key)
+        #self.tvmaze_info_link = 'http://api.tvmaze.com/lookup/shows?thetvdb=%s'
         self.lang = 'en'
         self.meta = []
         total = len(self.list)
@@ -745,114 +745,93 @@ class indexer:
             imdb = self.list[i]['imdb']
             if imdb == '0':
                 raise Exception()
-            url = self.imdb_info_link % imdb
-            item = client.request(url, timeout='10')
-            item = json.loads(item)
-            if 'Error' in item and 'incorrect imdb' in item['Error'].lower():
-                return self.meta.append({'imdb': imdb, 'tmdb': '0', 'tvdb': '0', 'lang': self.lang, 'item': {'code': '0'}})
-            title = item['Title']
-            title = title.encode('utf-8')
+            item = trakt.getMovieSummary(imdb)
+            title = item.get('title')
+            title = client.replaceHTMLCodes(title)
             if not title == '0':
                 self.list[i].update({'title': title})
-            year = item['Year']
-            year = year.encode('utf-8')
+            year = item.get('year', 0)
+            year = re.sub('[^0-9]', '', str(year))
             if not year == '0':
                 self.list[i].update({'year': year})
-            imdb = item['imdbID']
-            if imdb is None or imdb == '' or imdb == 'N/A':
-                imdb = '0'
-            imdb = imdb.encode('utf-8')
+
+            imdb = item.get('ids', {}).get('imdb', '0')
+            imdb = 'tt' + re.sub('[^0-9]', '', str(imdb))
             if not imdb == '0':
                 self.list[i].update({'imdb': imdb, 'code': imdb})
-            premiered = item['Released']
-            if premiered is None or premiered == '' or premiered == 'N/A':
-                premiered = '0'
-            premiered = re. findall('(\d*) (.+?) (\d*)', premiered)
+
+            tmdb = str(item.get('ids', {}).get('tmdb', 0))
+
+            premiered = item.get('released', '0')
             try:
-                premiered = '%s-%s-%s' % (premiered[0][2], {'Jan':'01', 'Feb':'02', 'Mar':'03', 'Apr':'04', 'May':'05', 'Jun':'06', 'Jul':'07', 'Aug':'08', 'Sep':'09', 'Oct':'10', 'Nov':'11', 'Dec':'12'}[premiered[0][1]], premiered[0][0])
+                premiered = re.compile('(\d{4}-\d{2}-\d{2})').findall(premiered)[0]
             except:
                 premiered = '0'
-            premiered = premiered.encode('utf-8')
             if not premiered == '0':
                 self.list[i].update({'premiered': premiered})
-            genre = item['Genre']
-            if genre is None or genre == '' or genre == 'N/A':
+
+            genre = item.get('genres', [])
+            genre = [x.title() for x in genre]
+            genre = ' / '.join(genre).strip()
+            if not genre:
                 genre = '0'
-            genre = genre.replace(', ', ' / ')
-            genre = genre.encode('utf-8')
             if not genre == '0':
                 self.list[i].update({'genre': genre})
-            duration = item['Runtime']
-            if duration is None or duration == '' or duration == 'N/A':
-                duration = '0'
-            duration = re.sub('[^0-9]', '', str(duration))
-            try:
-                duration = str(int(duration) * 60)
-            except:
-                pass
-            duration = duration.encode('utf-8')
+
+            duration = str(item.get('Runtime', 0))
             if not duration == '0':
                 self.list[i].update({'duration': duration})
-            rating = item['imdbRating']
-            if rating is None or rating == '' or rating == 'N/A' or rating == '0.0':
+
+            rating = item.get('rating', '0')
+            if not rating or rating == '0.0':
                 rating = '0'
-            rating = rating.encode('utf-8')
             if not rating == '0':
                 self.list[i].update({'rating': rating})
-            votes = item['imdbVotes']
+
+            votes = item.get('votes', '0')
             try:
                 votes = str(format(int(votes), ',d'))
             except:
                 pass
-            if votes is None or votes == '' or votes == 'N/A':
-                votes = '0'
-            votes = votes.encode('utf-8')
             if not votes == '0':
                 self.list[i].update({'votes': votes})
-            mpaa = item['Rated']
-            if mpaa is None or mpaa == '' or mpaa == 'N/A':
-                mpaa = '0'
-            mpaa = mpaa.encode('utf-8')
+
+            mpaa = item.get('certification', '0')
             if not mpaa == '0':
                 self.list[i].update({'mpaa': mpaa})
-            director = item['Director']
-            if director is None or director == '' or director == 'N/A':
-                director = '0'
-            director = director.replace(', ', ' / ')
-            director = re.sub(r'\(.*?\)', '', director)
-            director = ' '.join(director.split())
-            director = director.encode('utf-8')
-            if not director == '0':
-                self.list[i].update({'director': director})
-            writer = item['Writer']
-            if writer is None or writer == '' or writer == 'N/A':
-                writer = '0'
-            writer = writer.replace(', ', ' / ')
-            writer = re.sub(r'\(.*?\)', '', writer)
-            writer = ' '.join(writer.split())
-            writer = writer.encode('utf-8')
-            if not writer == '0':
-                self.list[i].update({'writer': writer})
-            cast = item['Actors']
-            if cast is None or cast == '' or cast == 'N/A':
-                cast = '0'
-            cast = [x.strip() for x in cast.split(',') if not x == '']
-            try:
-                cast = [(x.encode('utf-8'), '') for x in cast]
-            except:
-                cast = []
-            if cast == []:
-                cast = '0'
-            if not cast == '0':
-                self.list[i].update({'cast': cast})
-            plot = item['Plot']
-            if plot is None or plot == '' or plot == 'N/A':
-                plot = '0'
-            plot = client.replaceHTMLCodes(plot)
-            plot = plot.encode('utf-8')
+
+            tagline = item.get('tagline', '0')
+            if not tagline == '0':
+                self.list[i].update({'tagline': tagline})
+
+            plot = item.get('overview', '0')
             if not plot == '0':
                 self.list[i].update({'plot': plot})
-            self.meta.append({'imdb': imdb, 'tmdb': '0', 'tvdb': '0', 'lang': self.lang, 'item': {'title': title, 'year': year, 'code': imdb, 'imdb': imdb, 'premiered': premiered, 'genre': genre, 'duration': duration, 'rating': rating, 'votes': votes, 'mpaa': mpaa, 'director': director, 'writer': writer, 'cast': cast, 'plot': plot}})
+
+            people = trakt.getPeople(imdb, 'movies')
+            if not people == '0':
+                self.list[i].update({'people': people})
+
+            director = ', '.join([director['person']['name'] for director in people['crew']
+                                          ['directing'] if director['job'].lower() == 'director'])
+            writer = ', '.join([writer['person']['name'] for writer in people['crew']
+                                          ['writing'] if writer['job'].lower() in ['writer', 'screenplay', 'author']])
+            if not director == '0':
+                self.list[i].update({'director': director})
+            if not writer == '0':
+                self.list[i].update({'writer': writer})
+
+            cast = []
+            for person in people.get('cast', []):
+                cast.append({'name': person['person']['name'], 'role': person['character']})
+            cast = [(person['name'], person['role']) for person in cast]
+            if not cast == '0':
+                self.list[i].update({'cast': cast})
+            self.meta.append({'imdb': imdb, 'tmdb': '0', 'tvdb': '0', 'lang': self.lang, 'item':
+                             {'title': title, 'year': year, 'code': imdb, 'imdb': imdb, 'premiered': premiered,
+                              'genre': genre, 'duration': duration, 'rating': rating, 'votes': votes,'mpaa': mpaa,
+                              'tagline': tagline, 'people': people, 'director': director,'writer': writer,
+                              'cast': cast, 'plot': plot}})
         except:
             pass
 
