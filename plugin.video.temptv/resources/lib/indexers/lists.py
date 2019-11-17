@@ -182,7 +182,7 @@ class indexer:
                 i.update({'content': 'addons'})
             if debrid.status() is False:
                 import xbmcgui
-                xbmcgui.Dialog().ok('Drebrid Account is Reqired', 'Please Enable Debrid in the settings')
+                xbmcgui.Dialog().ok('Debrid Account is Required', 'Please Enable Debrid in the settings')
                 return
             else:
                 self.addDirectory(self.list)
@@ -970,9 +970,9 @@ class indexer:
                 folder = i['folder'] if 'folder' in i else True
                 meta = dict((k, v) for k, v in i.iteritems() if not v == '0')
                 cm = []
-                #if content in ['movies', 'tvshows']:
+                if content in ['movies', 'tvshows']:
                 #    meta.update({'trailer': '%s?action=trailer&name=%s' % (sysaddon, urllib.quote_plus(name))})
-                #    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
+                    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
                 if content in ['movies', 'tvshows', 'seasons', 'episodes']:
                     cm.append((control.lang(30708).encode('utf-8'), 'XBMC.Action(Info)'))
                 if (folder is False and '|regex=' not in str(i.get('url'))) or (folder is True and content in ['tvshows', 'seasons']):

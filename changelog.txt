@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.30
+- Fix Typo
+
 2.0.29
 - Cosmetic update for 1 Click movies
 
