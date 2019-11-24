@@ -2,6 +2,11 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.31 [/COLOR][/B]
+- Added Non debrid/Free 1 Click Movies
+- Code cleanup
+- Cleaned up and re arranged some files
+
 [B][COLOR gold] 2.0.30 [/COLOR][/B]
 - Fix Typo
 

@@ -86,6 +86,14 @@ if action == 'clicks':
     from resources.lib.indexers import lists
     lists.indexer().clicks()
 
+if action == 'free_clicks':
+    from resources.lib.indexers import lists
+    lists.indexer().free_clicks()
+
+if action == 'clickNavigator':
+    from resources.lib.indexers import navigator
+    navigator.navigator().clickNavigator()
+
 if action == '1_click_shows':
     from resources.lib.indexers import lists
     lists.indexer().shows()

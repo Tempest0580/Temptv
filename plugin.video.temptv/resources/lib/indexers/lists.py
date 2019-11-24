@@ -174,18 +174,30 @@ class indexer:
 
     def clicks(self):
         try:
-            regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvbWFpbk1vdmllcy54bWw='.decode(
-                'base64')
-            self.list = self.noname_list(url)
-            for i in self.list:
-                i.update({'content': 'addons'})
             if debrid.status() is False:
                 import xbmcgui
                 xbmcgui.Dialog().ok('Debrid Account is Required', 'Please Enable Debrid in the settings')
                 return
-            else:
-                self.addDirectory(self.list)
+            regex.clear()
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZGVicmlkX2NsaWNrcy9jbGlja19tb3ZpZXMueG1s'.decode(
+                'base64')
+            self.list = self.noname_list(url)
+            for i in self.list:
+                i.update({'content': 'addons'})
+            self.addDirectory(self.list)
+            return self.list
+        except:
+            pass
+
+    def free_clicks(self):
+        try:
+            regex.clear()
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZnJlZV9jbGlja3MvY2xpY2tfbW92aWVzLnhtbA=='.decode(
+                'base64')
+            self.list = self.noname_list(url)
+            for i in self.list:
+                i.update({'content': 'addons'})
+            self.addDirectory(self.list)
             return self.list
         except:
             pass
@@ -205,18 +217,17 @@ class indexer:
 
     def rootXXX(self):
         try:
+            if control.setting('Show_Adult') == 'false':
+                import xbmcgui
+                xbmcgui.Dialog().ok('Adults Only 18+', 'If Your 18 or Older Enable Adult Channels in Settings')
+                return
             regex.clear()
             url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvYWR1bHQubTN1'.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
                 i.update({'content': 'addons'})
-            if control.setting('Show_Adult') == 'false':
-                import xbmcgui
-                xbmcgui.Dialog().ok('Adults Only 18+', 'If Your 18 or Older Enable Adult Channels in Settings')
-                return
-            else:
-                self.addDirectory(self.list)
+            self.addDirectory(self.list)
             return self.list
         except:
             pass
@@ -282,10 +293,10 @@ class indexer:
             today = (datetime.datetime.utcnow() - datetime.timedelta(hours = 5)).strftime('%Y-%m-%d')
             today = int(re.sub('[^0-9]', '', str(today)))
             url, imdb, tvdb, tvshowtitle, year, thumbnail, fanart = re.findall('<url>(.+?)</url>', url)[0], re.findall('<imdb>(.+?)</imdb>', url)[0], re.findall('<tvdb>(.+?)</tvdb>', url)[0], re.findall('<tvshowtitle>(.+?)</tvshowtitle>', url)[0], re.findall('<year>(.+?)</year>', url)[0], re.findall('<thumbnail>(.+?)</thumbnail>', url)[0], re.findall('<fanart>(.+?)</fanart>', url)[0]
-            tvm = client.request('http://api.tvmaze.com/lookup/shows?thetvdb=%s' % tvdb)
+            tvm = client.request('https://api.tvmaze.com/lookup/shows?thetvdb=%s' % tvdb)
             if tvm  is None:
-                tvm = client.request('http://api.tvmaze.com/lookup/shows?imdb=%s' % imdb)
-            tvm = 'http://api.tvmaze.com/shows/%s/episodes' % str(json.loads(tvm).get('id'))
+                tvm = client.request('https://api.tvmaze.com/lookup/shows?imdb=%s' % imdb)
+            tvm = 'https://api.tvmaze.com/shows/%s/episodes' % str(json.loads(tvm).get('id'))
             items = json.loads(client.request(tvm))
             items = [(str(i.get('season')), str(i.get('number')), i.get('name').strip(), i.get('airdate')) for i in items]
             if preset == 'tvtuner':
@@ -398,7 +409,7 @@ class indexer:
             query = cache.get(search, 600000000, table='rel_srch')
 
             def search():
-                return [x for y,x in enumerate((query + [input])) if x not in (query + [input])[:y]]
+                return [x for y, x in enumerate((query + [input])) if x not in (query + [input])[:y]]
             cache.get(search, 0, table='rel_srch')
             links = client.request(link)
             links = re.findall('<link>(.+?)</link>', links)

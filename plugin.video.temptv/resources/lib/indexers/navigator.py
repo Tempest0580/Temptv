@@ -36,7 +36,7 @@ class navigator:
         self.addDirectoryItem('AcronaiTV 24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('1 Clicks [B][COLOR gold] Real Debrid [/COLOR][/B]', 'clicks', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
         #self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         #self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
@@ -47,6 +47,11 @@ class navigator:
         # self.addDirectoryItem('Refresh', 'refresh', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32008, 'toolNavigator', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem('ChangeLog', 'changelog', 'search.png', 'DefaultAddonProgram.png')
+        self.endDirectory()
+
+    def clickNavigator(self):
+        self.addDirectoryItem('1 Clicks', 'free_clicks', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('1 Clicks [B][COLOR gold]Real Debrid Only[/COLOR][/B]', 'clicks', 'channels.png', 'DefaultTVShows.png')
         self.endDirectory()
 
     def changelog(self):
