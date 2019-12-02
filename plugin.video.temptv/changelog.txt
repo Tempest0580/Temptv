@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.33 [/COLOR][/B]
+- Updates for New Tvshows and Movie channel for ArconaiTv
+
 [B][COLOR gold] 2.0.32 [/COLOR][/B]
 - Fix for UstvGo (Thanks Jewbmx)
 
