@@ -192,7 +192,7 @@ class indexer:
     def free_clicks(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZnJlZV9jbGlja3MvY2xpY2tzLnhtbA=='.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZnJlZV9jbGlja3MvY2xpY2tfbW92aWVzLnhtbA=='.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:

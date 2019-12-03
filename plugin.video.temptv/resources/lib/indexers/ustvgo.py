@@ -12,7 +12,8 @@ class ustvgo:
     def __init__(self):
         self.list = []
         self.base_link = 'http://ustvgo.tv/'
-        self.headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0', 'Referer': self.base_link}
+        self.uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+        self.headers = {'User-Agent': self.uAgent, 'Referer': self.base_link}
 
     def root(self):
         channels = [
@@ -107,16 +108,9 @@ class ustvgo:
 
     def play(self, url):
         try:
-            #page = client.request(url, headers=self.headers)
-            #url = re.compile('<iframe .+? src="(.+?)"', re.DOTALL).findall(page)[0]
-            #url = "http:" + url if not url.startswith('http') else url
             stream = client.request(url, headers=self.headers)
             link = re.compile("file: '(.+?)',", re.DOTALL).findall(stream)[0]
-            if not 'User-Agent' in link:
-                elements = urlparse.urlparse(link)
-                domain = elements.scheme + '://' + elements.netloc
-                uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
-                link = '%s|User-Agent=%s&Referer=%s' % (link, uAgent, domain)
+            link = '%s|User-Agent=%s&Referer=%s' % (link, self.uAgent, self.base_link)
             control.execute('PlayMedia(%s)' % link)
         except Exception:
             failure = traceback.format_exc()

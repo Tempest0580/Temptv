@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.33" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.34" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
