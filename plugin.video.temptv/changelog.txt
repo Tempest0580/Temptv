@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.35 [/COLOR][/B]
+- Update for a new Tvshow in ArconaiTV (Missed one)
+
 [B][COLOR gold] 2.0.34 [/COLOR][/B]
 - Update UstvGo
 - 1 click Update (Removed Tvshows - didn't mean to add them yet. lol - More Movies and Tvshows coming soon)
