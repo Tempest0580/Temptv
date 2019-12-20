@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 2.0.37
+-Resolveurl Update
+
+2.0.37
 - Updates for New Tvshows for ArconaiTv
 
 2.0.36

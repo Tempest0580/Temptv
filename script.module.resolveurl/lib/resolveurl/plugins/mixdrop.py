@@ -27,13 +27,13 @@ class MixdropResolver(ResolveUrl):
 
     def get_media_url(self, host, media_id):
         web_url = self.get_url(host, media_id)
-        headers = {'User-Agent': common.RAND_UA}
+        headers = {'Origin':'https://mixdrop.co','Referer':'https://mixdrop.co/e/' + media_id,'User-Agent': common.RAND_UA}
         html = self.net.http_GET(web_url, headers=headers).content
 
         try:
             r = re.search('\s+?(eval\(function\(p,a,c,k,e,d\).+)\s+?', html)
             r = jsunpack.unpack(r.group(1))
-            r = re.search('vsrc="([^"]+)', r.replace('\\', ''))
+            r = re.search('vsrc?="([^"]+)', r.replace('\\', ''))
             return "https:" + r.group(1)
         except:
             raise ResolverError("Video not found")
