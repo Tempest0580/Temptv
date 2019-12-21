@@ -294,6 +294,10 @@ elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
     ustvgo.ustvgo().play(url)
 
+if action == '123tvnowNavigator':
+    from resources.lib.indexers import lists
+    lists.indexer().tvnow()
+
 elif action == 'streamliveNavigator':
     from resources.lib.indexers import streamlive
     streamlive.streamlive().root()
