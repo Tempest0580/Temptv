@@ -39,7 +39,7 @@ class navigator:
         self.addDirectoryItem('123Tvnow', '123tvnowNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
-        #self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         #self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')

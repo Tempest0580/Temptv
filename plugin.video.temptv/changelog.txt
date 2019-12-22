@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.39 [/COLOR][/B]
+- Added Channels from Streamlive.to (Testing)
+
 [B][COLOR gold] 2.0.38 [/COLOR][/B]
 - Added 123Tvnow channels
 

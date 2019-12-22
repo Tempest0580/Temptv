@@ -21,27 +21,6 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.arconaitv" version="1.0.10" name="ArconaiTV" provider-name="Tempest, JewBMX">
-    <requires>
-        <import addon="xbmc.python" version="2.24.0"/>
-        <import addon="script.module.requests" />
-        <import addon="script.module.beautifulsoup4" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Modified version of Alberto_Posadas ArconaiTV Kodi Plugin</summary>
-        <description>Play ArconaiTV Content in Kodi</description>
-        <assets>
-            <icon>icon.png</icon>
-        </assets>
-        <news>
-			v1.0.10 - Updates for New Tvshows
-		</news>
-    </extension>
-</addon>
-
 <addon id="script.temptv.artwork" version="1.0.2" name="[COLOR fuchsia]TempTV Artwork[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
@@ -54,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.38" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.39" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -77,9 +56,31 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.23 - Changed Required Urlresolver to Resoveurl
+			v2.0.39
+- Added Channels from Streamlive.to (Testing)
 		</news>
 	</extension>
+</addon>
+
+<addon id="plugin.video.arconaitv" version="1.0.10" name="ArconaiTV" provider-name="Tempest, JewBMX">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0"/>
+        <import addon="script.module.requests" />
+        <import addon="script.module.beautifulsoup4" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Modified version of Alberto_Posadas ArconaiTV Kodi Plugin</summary>
+        <description>Play ArconaiTV Content in Kodi</description>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+        <news>
+			v1.0.10 - Updates for New Tvshows
+		</news>
+    </extension>
 </addon>
 
 <addon id="repository.temptv" name="Temptv Repo" version="0.0.5" provider-name="Tempest">
