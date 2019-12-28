@@ -37,6 +37,7 @@ class navigator:
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('123Tvnow', '123tvnowNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('YourSports', 'yoursportsliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')

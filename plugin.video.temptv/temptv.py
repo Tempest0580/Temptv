@@ -353,3 +353,11 @@ elif action == 'wrestlingScrape':
 elif action == 'wrestlingPlay':
     from resources.lib.indexers import watchwrestling
     watchwrestling.WatchWrestling().play(url)
+
+elif action == 'yoursportsliveNavigator':
+    from resources.lib.indexers import yoursports
+    yoursports.yoursports().root()
+
+elif action == 'yoursportsPlay':
+    from resources.lib.indexers import yoursports
+    yoursports.yoursports().play(url)
