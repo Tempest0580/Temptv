@@ -16,6 +16,17 @@ class indexer:
         self.list = []
         self.hash = []
 
+        self.tm_user = control.setting('tm.user')
+        self.fanart_tv_user = control.setting('fanart.tv.user')
+        self.fanart_tv_art_link = 'https://webservice.fanart.tv/v3/tv/%s'
+        self.fanart_tv_level_link = 'https://webservice.fanart.tv/v3/level'
+        self.fanart_movie_art_link = 'https://webservice.fanart.tv/v3/movies/%s'
+        self.fanart_movie_level_link = 'https://webservice.fanart.tv/v3/level'
+        self.tm_art_link = 'https://api.themoviedb.org/3/movie/%s/images?api_key=%s&language=en-US&include_image_language=en,en,null' % ('%s', self.tm_user)
+        self.tm_img_link = 'https://image.tmdb.org/t/p/w%s%s'
+        self.tvdb_key = control.setting('tvdb.user')
+        self.tvdb_image = 'https://thetvdb.com/banners/'
+
     def entertainment(self):
         try:
             regex.clear()
@@ -719,18 +730,25 @@ class indexer:
                     episode = re.findall('<episode>(.+?)</episode>', meta)[0]
                 except:
                     episode = '0'
-                self.list.append({'name': name, 'vip': vip, 'url': url, 'action': action, 'folder': folder, 'poster': image2, 'banner': '0', 'fanart': fanart2, 'content': content, 'imdb': imdb, 'tvdb': tvdb, 'tmdb': '0', 'title': title, 'originaltitle': title, 'tvshowtitle': tvshowtitle, 'year': year, 'premiered': premiered, 'season': season, 'episode': episode})
+                try:
+                    plot = re.findall('<plot>(.+?)</plot>', meta)[0]
+                except:
+                    plot = '0'
+                try:
+                    duration = re.findall('<runtime>(.+?)</runtime>', meta)[0]
+                    duration = str(int(duration) * 60)
+                except:
+                    duration = '0'
+                self.list.append({'name': name, 'vip': vip, 'url': url, 'action': action, 'folder': folder, 'poster': image2, 'banner': '0', 'fanart': fanart2, 'content': content, 'imdb': imdb, 'tvdb': tvdb, 'tmdb': '0', 'title': title, 'originaltitle': title, 'tvshowtitle': tvshowtitle, 'year': year, 'premiered': premiered, 'season': season, 'episode': episode, 'plot':plot, 'duration': duration})
             except:
                 pass            
         regex.insert(self.hash)
         return self.list
 
     def worker(self):
-        #if not control.setting('metadata') == 'true':
-        #    return
-        #self.omdb_key = control.setting('omdb.key')
-        #self.imdb_info_link = 'http://www.omdbapi.com/?i=%s&plot=full&r=json&apikey=%s' % ("%s", self.omdb_key)
-        #self.tvmaze_info_link = 'http://api.tvmaze.com/lookup/shows?thetvdb=%s'
+        self.fanart_tv_headers = {'api-key': 'db10619c97af83891690f4cfd7205d62'}
+        if not self.fanart_tv_user == '':
+            self.fanart_tv_headers.update({'client-key': self.fanart_tv_user})
         self.lang = 'en'
         self.meta = []
         total = len(self.list)
@@ -760,6 +778,8 @@ class indexer:
         if self.meta:
             metacache.insert(self.meta)
 
+        self.list = metacache.local(self.list, self.tm_img_link, 'poster3', 'fanart2')
+
     def movie_info(self, i):
         try:
             if self.list[i]['metacache'] is True:
@@ -770,19 +790,17 @@ class indexer:
             if imdb == '0':
                 raise Exception()
             item = trakt.getMovieSummary(imdb)
+
             title = item.get('title')
             title = client.replaceHTMLCodes(title)
-            if not title == '0':
-                self.list[i].update({'title': title})
+
+            originaltitle = title
+
             year = item.get('year', 0)
             year = re.sub('[^0-9]', '', str(year))
-            if not year == '0':
-                self.list[i].update({'year': year})
 
             imdb = item.get('ids', {}).get('imdb', '0')
             imdb = 'tt' + re.sub('[^0-9]', '', str(imdb))
-            if not imdb == '0':
-                self.list[i].update({'imdb': imdb, 'code': imdb})
 
             tmdb = str(item.get('ids', {}).get('tmdb', 0))
 
@@ -791,71 +809,146 @@ class indexer:
                 premiered = re.compile('(\d{4}-\d{2}-\d{2})').findall(premiered)[0]
             except:
                 premiered = '0'
-            if not premiered == '0':
-                self.list[i].update({'premiered': premiered})
 
             genre = item.get('genres', [])
             genre = [x.title() for x in genre]
             genre = ' / '.join(genre).strip()
             if not genre:
                 genre = '0'
-            if not genre == '0':
-                self.list[i].update({'genre': genre})
 
-            duration = str(item.get('Runtime', 0))
-            if not duration == '0':
-                self.list[i].update({'duration': duration})
+            duration = str(item.get('runtime', 0))
+            duration = str(int(duration) * 60)
 
             rating = item.get('rating', '0')
             if not rating or rating == '0.0':
                 rating = '0'
-            if not rating == '0':
-                self.list[i].update({'rating': rating})
 
             votes = item.get('votes', '0')
             try:
                 votes = str(format(int(votes), ',d'))
             except:
                 pass
-            if not votes == '0':
-                self.list[i].update({'votes': votes})
 
             mpaa = item.get('certification', '0')
-            if not mpaa == '0':
-                self.list[i].update({'mpaa': mpaa})
+            if not mpaa:
+                mpaa = '0'
 
             tagline = item.get('tagline', '0')
-            if not tagline == '0':
-                self.list[i].update({'tagline': tagline})
 
             plot = item.get('overview', '0')
-            if not plot == '0':
-                self.list[i].update({'plot': plot})
 
             people = trakt.getPeople(imdb, 'movies')
-            if not people == '0':
-                self.list[i].update({'people': people})
 
-            director = ', '.join([director['person']['name'] for director in people['crew']
-                                          ['directing'] if director['job'].lower() == 'director'])
-            writer = ', '.join([writer['person']['name'] for writer in people['crew']
-                                          ['writing'] if writer['job'].lower() in ['writer', 'screenplay', 'author']])
-            if not director == '0':
-                self.list[i].update({'director': director})
-            if not writer == '0':
-                self.list[i].update({'writer': writer})
+            director = writer = ''
+            if 'crew' in people and 'directing' in people['crew']:
+                director = ', '.join([director['person']['name'] for director in people['crew']['directing'] if director['job'].lower() == 'director'])
+            if 'crew' in people and 'writing' in people['crew']:
+                writer = ', '.join([writer['person']['name'] for writer in people['crew']['writing'] if writer['job'].lower() in ['writer', 'screenplay', 'author']])
 
             cast = []
             for person in people.get('cast', []):
                 cast.append({'name': person['person']['name'], 'role': person['character']})
             cast = [(person['name'], person['role']) for person in cast]
-            if not cast == '0':
-                self.list[i].update({'cast': cast})
-            self.meta.append({'imdb': imdb, 'tmdb': '0', 'tvdb': '0', 'lang': self.lang, 'item':
-                             {'title': title, 'year': year, 'code': imdb, 'imdb': imdb, 'premiered': premiered,
-                              'genre': genre, 'duration': duration, 'rating': rating, 'votes': votes,'mpaa': mpaa,
-                              'tagline': tagline, 'people': people, 'director': director,'writer': writer,
-                              'cast': cast, 'plot': plot}})
+
+            try:
+                if self.lang == 'en' or self.lang not in item.get('available_translations', [self.lang]):
+                    raise Exception()
+
+                trans_item = trakt.getMovieTranslation(imdb, self.lang, full=True)
+
+                title = trans_item.get('title') or title
+                tagline = trans_item.get('tagline') or tagline
+                plot = trans_item.get('overview') or plot
+            except:
+                pass
+
+            try:
+                artmeta = True
+                art = client.request(self.fanart_movie_art_link % imdb, headers=self.fanart_tv_headers, timeout='10', error=True)
+                try:
+                    art = json.loads(art)
+                except:
+                    artmeta = False
+            except:
+                pass
+
+            try:
+                poster2 = art['movieposter']
+                poster2 = [x for x in poster2 if x.get('lang') == self.lang][::-1] + [x for x in poster2 if x.get('lang') == 'en'][::-1] + [x for x in poster2 if x.get('lang') in ['00', '']][::-1]
+                poster2 = poster2[0]['url'].encode('utf-8')
+            except:
+                poster2 = '0'
+
+            try:
+                if 'moviebackground' in art: fanart = art['moviebackground']
+                else: fanart = art['moviethumb']
+                fanart = [x for x in fanart if x.get('lang') == self.lang][::-1] + [x for x in fanart if x.get('lang') == 'en'][::-1] + [x for x in fanart if x.get('lang') in ['00', '']][::-1]
+                fanart = fanart[0]['url'].encode('utf-8')
+            except:
+                fanart = '0'
+
+            try:
+                banner = art['moviebanner']
+                banner = [x for x in banner if x.get('lang') == self.lang][::-1] + [x for x in banner if x.get('lang') == 'en'][::-1] + [x for x in banner if x.get('lang') in ['00', '']][::-1]
+                banner = banner[0]['url'].encode('utf-8')
+            except:
+                banner = '0'
+
+            try:
+                if 'hdmovielogo' in art: clearlogo = art['hdmovielogo']
+                else: clearlogo = art['clearlogo']
+                clearlogo = [x for x in clearlogo if x.get('lang') == self.lang][::-1] + [x for x in clearlogo if x.get('lang') == 'en'][::-1] + [x for x in clearlogo if x.get('lang') in ['00', '']][::-1]
+                clearlogo = clearlogo[0]['url'].encode('utf-8')
+            except:
+                clearlogo = '0'
+
+            try:
+                if 'hdmovieclearart' in art: clearart = art['hdmovieclearart']
+                else: clearart = art['clearart']
+                clearart = [x for x in clearart if x.get('lang') == self.lang][::-1] + [x for x in clearart if x.get('lang') == 'en'][::-1] + [x for x in clearart if x.get('lang') in ['00', '']][::-1]
+                clearart = clearart[0]['url'].encode('utf-8')
+            except:
+                clearart = '0'
+
+            try:
+                if self.tm_user == '':
+                    raise Exception()
+
+                art2 = client.request(self.tm_art_link % imdb, timeout='10', error=True)
+                art2 = json.loads(art2)
+            except:
+                pass
+
+            try:
+                poster3 = art2['posters']
+                poster3 = [x for x in poster3 if x.get('iso_639_1') == self.lang] + [x for x in poster3 if x.get('iso_639_1') == 'en'] + [x for x in poster3 if x.get('iso_639_1') not in [self.lang, 'en']]
+                poster3 = [(x['width'], x['file_path']) for x in poster3]
+                poster3 = [(x[0], x[1]) if x[0] < 300 else ('300', x[1]) for x in poster3]
+                poster3 = self.tm_img_link % poster3[0]
+                poster3 = poster3.encode('utf-8')
+            except:
+                poster3 = '0'
+
+            try:
+                fanart2 = art2['backdrops']
+                fanart2 = [x for x in fanart2 if x.get('iso_639_1') == self.lang] + [x for x in fanart2 if x.get('iso_639_1') == 'en'] + [x for x in fanart2 if x.get('iso_639_1') not in [self.lang, 'en']]
+                fanart2 = [x for x in fanart2 if x.get('width') == 1920] + [x for x in fanart2 if x.get('width') < 1920]
+                fanart2 = [(x['width'], x['file_path']) for x in fanart2]
+                fanart2 = [(x[0], x[1]) if x[0] < 1280 else ('1280', x[1]) for x in fanart2]
+                fanart2 = self.tm_img_link % fanart2[0]
+                fanart2 = fanart2.encode('utf-8')
+            except:
+                fanart2 = '0'
+
+            item = {'title': title, 'originaltitle': originaltitle, 'year': year, 'imdb': imdb, 'tmdb': tmdb, 'poster': '0', 'poster2': poster2, 'poster3': poster3, 'banner': banner, 'fanart': fanart, 'fanart2': fanart2, 'clearlogo': clearlogo, 'clearart': clearart, 'premiered': premiered, 'genre': genre, 'duration': duration, 'rating': rating, 'votes': votes, 'mpaa': mpaa, 'director': director, 'writer': writer, 'cast': cast, 'plot': plot, 'tagline': tagline}
+            item = dict((k, v) for k, v in item.iteritems() if not v == '0')
+            self.list[i].update(item)
+
+            if artmeta is False:
+                raise Exception()
+
+            meta = {'imdb': imdb, 'tmdb': tmdb, 'tvdb': '0', 'lang': self.lang, 'item': item}
+            self.meta.append(meta)
         except:
             pass
 
@@ -981,9 +1074,11 @@ class indexer:
                     pass
                 if i['action'] == 'plugin' and 'url' in i:
                     url = i['url']
-                poster = i['poster'] if 'poster' in i else '0'
+                poster = [i[x] for x in ['poster3', 'poster', 'poster2'] if i.get(x, '0') != '0']
+                poster = poster[0] if poster else addonPoster
                 banner = i['banner'] if 'banner' in i else '0'
                 fanart = i['fanart'] if 'fanart' in i else '0'
+                fanart2 = i['fanart2'] if 'fanart2' in i else '0'
                 if poster == '0':
                     poster = addonPoster
                 if banner == '0' and poster == '0':
@@ -995,35 +1090,35 @@ class indexer:
                 meta = dict((k, v) for k, v in i.iteritems() if not v == '0')
                 cm = []
                 if content in ['movies', 'tvshows']:
-                #    meta.update({'trailer': '%s?action=trailer&name=%s' % (sysaddon, urllib.quote_plus(name))})
-                    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
+                    meta.update({'trailer': '%s?action=trailer&name=%s' % (sysaddon, urllib.quote_plus(name))})
+                #    cm.append((control.lang(30707).encode('utf-8'), 'RunPlugin(%s?action=trailer&name=%s)' % (sysaddon, urllib.quote_plus(name))))
                 if content in ['movies', 'tvshows', 'seasons', 'episodes']:
                     cm.append((control.lang(30708).encode('utf-8'), 'XBMC.Action(Info)'))
                 if (folder is False and '|regex=' not in str(i.get('url'))) or (folder is True and content in ['tvshows', 'seasons']):
                     cm.append((control.lang(32065).encode('utf-8'), 'RunPlugin(%s?action=queueItem)' % sysaddon))
-                if content == 'movies':
-                    try:
-                        dfile = '%s (%s)' % (i['title'], i['year'])
-                    except:
-                        dfile = name
-                    try:
-                        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(dfile), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
-                    except:
-                        pass
-                elif content == 'episodes':
-                    try:
-                        dfile = '%s S%02dE%02d' % (i['tvshowtitle'], int(i['season']), int(i['episode']))
-                    except:
-                        dfile = name
-                    try:
-                        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(dfile), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
-                    except:
-                        pass
-                elif content == 'songs':
-                    try:
-                        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(name), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
-                    except:
-                        pass
+                # if content == 'movies':
+                #    try:
+                #        dfile = '%s (%s)' % (i['title'], i['year'])
+                #    except:
+                #        dfile = name
+                #    try:
+                #        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(dfile), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
+                #    except:
+                #        pass
+                # elif content == 'episodes':
+                #    try:
+                #        dfile = '%s S%02dE%02d' % (i['tvshowtitle'], int(i['season']), int(i['episode']))
+                #    except:
+                #        dfile = name
+                #    try:
+                #        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(dfile), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
+                #    except:
+                #        pass
+                # elif content == 'songs':
+                #    try:
+                #        cm.append((control.lang(30722).encode('utf-8'), 'RunPlugin(%s?action=addDownload&name=%s&url=%s&image=%s)' % (sysaddon, urllib.quote_plus(name), urllib.quote_plus(i['url']), urllib.quote_plus(poster))))
+                #    except:
+                #        pass
                 if mode == 'movies':
                     cm.append((control.lang(30711).encode('utf-8'), 'RunPlugin(%s?action=addView&content=movies)' % sysaddon))
                 elif mode == 'tvshows':
@@ -1037,8 +1132,10 @@ class indexer:
                     item.setArt({'poster': poster, 'tvshow.poster': poster, 'season.poster': poster, 'banner': banner, 'tvshow.banner': banner, 'season.banner': banner})
                 except:
                     pass
-                if not fanart == '0':
+                if not fanart == '0' and control.setting('fanart') == 'true':
                     item.setProperty('Fanart_Image', fanart)
+                elif not fanart == '0' and control.setting('fanart') == 'false':
+                    item.setProperty('Fanart_Image', fanart2)
                 elif addonFanart is not None:
                     item.setProperty('Fanart_Image', addonFanart)
                 if queue is False:

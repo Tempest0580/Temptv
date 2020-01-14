@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.42" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.43" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -56,8 +56,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.42
-- Updated Arconaitv Channels
+			v2.0.43
+- Update to pull Movie info and Artwork for 1 Click Movies
 		</news>
 	</extension>
 </addon>

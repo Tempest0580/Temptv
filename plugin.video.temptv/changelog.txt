@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.43 [/COLOR][/B]
+- Update to pull Movie info and Artwork for 1 Click Movies
+
 [B][COLOR gold] 2.0.42 [/COLOR][/B]
 - Updated Arconaitv Channels
 
