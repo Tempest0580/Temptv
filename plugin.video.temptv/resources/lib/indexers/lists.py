@@ -1057,12 +1057,19 @@ class indexer:
             mode = 'addons'
         for i in items:
             try:
+                year = i['year']
                 try:
-                    name = control.lang(int(i['name'])).encode('utf-8')
+                    name = control.lang(int(i['title'])).encode('utf-8')
                 except:
-                    name = i['name']
+                    name = i['title']
+                    name = name + '  ' + '(%s)' % year
+                    if year == '0':
+                        name = i['title']
                 if name == '':
                     name = i['name']
+                    name = name + '  ' + '(%s)' % year
+                    if year == '0':
+                        name = i['name']
                 url = '%s?action=%s' % (sysaddon, i['action'])
                 try:
                     url += '&url=%s' % urllib.quote_plus(i['url'])

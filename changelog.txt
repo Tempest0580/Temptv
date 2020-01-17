@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.44
+- Minor Code Update
+
 2.0.43
 - Update to pull Movie info and Artwork for 1 Click Movies
 
