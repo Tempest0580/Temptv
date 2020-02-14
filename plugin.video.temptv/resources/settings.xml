@@ -10,6 +10,7 @@
         <setting id="appearance.alt" type="action" label="32311" default="-" option="close" action="RunPlugin(plugin://plugin.video.temptv/?action=artwork)" visible="!System.HasAddon(script.temptv.artwork)" />
         <setting id="appearance.1" type="select" label="32311" values="Exuary|TempTv" default="TempTv" visible="System.HasAddon(script.temptv.artwork)" />
         <setting type="sep" />
+        <setting id="fanart" type="bool" label="32318" default="true" />
         <setting type="lsep" label="FANART.TV" enable="false" />
         <setting id="fanart.tv.user" type="text" option="hidden" label="32309" default="db10619c97af83891690f4cfd7205d62" />
         <setting type="text" label="32582" default="" enable="false" />

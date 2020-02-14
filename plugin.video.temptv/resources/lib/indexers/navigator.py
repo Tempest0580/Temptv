@@ -37,16 +37,14 @@ class navigator:
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('123Tvnow', '123tvnowNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('YourSports', 'yoursportsliveNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
-        #self.addDirectoryItem('1 Click Shows', '1_click_shows', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('YourSports', 'yoursportsliveNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')
         if control.setting('Dev') == 'true':
             self.addDirectoryItem('Testing', 'testing', 'channels.png', 'DefaultTVShows.png')
-        # self.addDirectoryItem('Refresh', 'refresh', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem(32008, 'toolNavigator', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem('ChangeLog', 'changelog', 'search.png', 'DefaultAddonProgram.png')
         self.endDirectory()
@@ -80,8 +78,6 @@ class navigator:
 
     def settings(self):
         self.addDirectoryItem(32043, 'openSettings&query=0.0', 'settings.png', 'DefaultAddonProgram.png')
-        # self.addDirectoryItem(32046, 'openSettings&query=1.0', 'settings.png', 'DefaultAddonProgram.png')
-        # self.addDirectoryItem(32047, 'openSettings&query=2.0', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem(32052, 'clearCache', 'settings.png', 'DefaultAddonProgram.png')
         self.addDirectoryItem(32051, 'clearMetaCache', 'settings.png', 'DefaultAddonProgram.png')
 

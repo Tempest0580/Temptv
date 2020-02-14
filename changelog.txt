@@ -2,6 +2,12 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.45
+- Code Cleanup
+- Update for New Tvshows for ArconaiTv
+- Fix Steamlive channels (Thanks Bjgood)
+- Prep for 1 click shows (Will add as i can)
+
 2.0.44
 - Minor Code Update
 

@@ -70,7 +70,7 @@ class streamlive:
             result = re.compile("return([[\a-zA-Z]+]).join").findall(stream)
             for result in result:
                 result = result.strip('([]').replace('\/', '/').replace(',','').replace('"','')
-                result = 'http:' + result
+                result = 'https:' + result
                 link = result + self.code(url) + self.code2(url)
                 link = '%s|Referer=%s' % (link, url)
                 control.execute('PlayMedia(%s)' % link)

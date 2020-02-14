@@ -10,7 +10,7 @@ from resources.lib.modules import control
 class ustvgo:
     def __init__(self):
         self.list = []
-        self.base_link = 'http://ustvgo.tv'
+        self.base_link = 'https://ustvgo.tv'
         self.uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
         self.headers = {'User-Agent': self.uAgent, 'Referer': self.base_link}
 

@@ -386,7 +386,17 @@ def randommobileagent(mobile):
 
 
 def agent():
-    return 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko'
+    return 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
+
+
+def getHTML(url):
+    try:
+        from resources.lib.modules import net
+        scrape = net.Net()
+        html = scrape.http_GET(url)
+        return html.content
+    except Exception:
+        return
 
 
 class cfcookie:

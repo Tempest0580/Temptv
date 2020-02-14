@@ -1,6 +1,11 @@
-[COLOR gold]Still in Beta Stage, Work in progress.[/COLOR]
-[COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
+[COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
+
+[B][COLOR gold] 2.0.45 [/COLOR][/B]
+- Code Cleanup
+- Update for New Tvshows for ArconaiTv
+- Fix Steamlive channels (Thanks Bjgood)
+- Prep for 1 click shows (Will add as i can)
 
 [B][COLOR gold] 2.0.44 [/COLOR][/B]
 - Minor Code Update
@@ -49,107 +54,3 @@ Repo https://tempest0580.github.io/
 
 [B][COLOR gold] 2.0.30 [/COLOR][/B]
 - Fix Typo
-
-[B][COLOR gold] 2.0.29 [/COLOR][/B]
-- Cosmetic update for 1 Click movies
-
-[B][COLOR gold] 2.0.28 [/COLOR][/B]
-- Update for 1 Click Link
-
-[B][COLOR gold] 2.0.27 [/COLOR][/B]
-- Added 1 Clicks movies (Debrid Only)
-- Shows will be added soon Plus more Movies
-
-[B][COLOR gold] 2.0.26 [/COLOR][/B]
-- UstvGo update - Fixed a few broken channels
-
-[B][COLOR gold] 2.0.25 [/COLOR][/B]
-- Minor Update
-- Removed 1 Click (Dont have time to keep up with sites going down. Will add back later once i find better sources)
-
-[B][COLOR gold] 2.0.23 [/COLOR][/B]
-- Added Random Streams to Acronaitv 24-7
-- Added Wrestling Indexer (Testing)
-
-[B][COLOR gold] 2.0.22 [/COLOR][/B]
-- Yet Another update to fix UstvGo
-
-[B][COLOR gold] 2.0.21 [/COLOR][/B]
-- Another update to fix UstvGo
-
-[B][COLOR gold] 2.0.20 [/COLOR][/B]
-- Fix Typo
-
-[B][COLOR gold] 2.0.19 [/COLOR][/B]
-- Moved All English to Entertainment
-
-[B][COLOR gold] 2.0.18 [/COLOR][/B]
-- Added a couple channels to UstvGo
-- Update Acronaity Cable Channels
-
-[B][COLOR gold] 2.0.17 [/COLOR][/B]
-- Fix UstvGo
-- Remove Streamlive until i can fix it
-
-[B][COLOR gold] 2.0.16 [/COLOR][/B]
-- Fixed UstvGo
-
-[B][COLOR gold] 2.0.15 [/COLOR][/B]
-- Fix Typo
-
-[B][COLOR gold] 2.0.14 [/COLOR][/B]
-- Updated ArconaiTv artwork for new show
-
-[B][COLOR gold] 2.0.13 [/COLOR][/B]
-- Updated ArconaiTv artwork for new show
-- Updates to Streamlive Cosmetic
-- Added Some More Channels to Streamlive
-
-[B][COLOR gold] 2.0.12 [/COLOR][/B]
-- Tweaks
-
-[B][COLOR gold] 2.0.11 [/COLOR][/B]
-- Tweaks
-
-[B][COLOR gold] 2.0.10 [/COLOR][/B]
-- Added Some channels to Streamlive
-
-[B][COLOR gold] 2.0.9 [/COLOR][/B]
-- Fix for Streamlive
-
-[B][COLOR gold] 2.0.8 [/COLOR][/B]
-- Added more channels for Stramlive
-- Added a section for all English Live tv in one section
-- Updated other live channels
-- Updated some Acronaitv artwork
-- Fixed Music section not working
-
-[B][COLOR gold] 2.0.7 [/COLOR][/B]
-- Added Channels from Streamlive (Testing - more channels will be added)
-
-[B][COLOR gold] 2.0.6 [/COLOR][/B]
-- Fix for UsaTv Go Art
-
-[B][COLOR gold] 2.0.5 [/COLOR][/B]
-- Small Update to fix UsaTv Go issue
-
-[B][COLOR gold] 2.0.4 [/COLOR][/B]
-- Code Clean up on UsaTv Go
-
-[B][COLOR gold] 2.0.3 [/COLOR][/B]
-- Added Acronaitv (24-7 movies and shows in the 24-7 Dir)
-
-[B][COLOR gold] 2.0.2 [/COLOR][/B]
-- New Repo https://tempest0580.github.io/
-- Updates UsaTv Go
-
-[B][COLOR gold] 2.0.1 [/COLOR][/B]
-- Added Channels from Usatv Go
-
-[B][COLOR gold] . [/COLOR][/B]
-- Live Tv is really the only part that is working right now, Ill update Movies and Shows as i can. Thanks
-
-[B][COLOR gold] 2.0.0 [/COLOR][/B]
-- Initial version
-- UnInstall Old Version
-

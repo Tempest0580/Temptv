@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.37" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.37a" provider-name="jsergio">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" optional="true" />
@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.44" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.45" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -62,7 +62,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.arconaitv" version="1.0.11" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.12" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
