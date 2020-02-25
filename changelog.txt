@@ -2,6 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+
+2.0.46
+- Update for New Tvshows for ArconaiTv
+
 2.0.45
 - Code Cleanup
 - Update for New Tvshows for ArconaiTv
