@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.47" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.48" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -57,8 +57,7 @@
 		</assets>
 		<news>
 			v2.0.46
-- Fixed UstvGo (Quick and dirty fix, May not last)
-- Update for New Tvshows for ArconaiTv
+- Updated Cfsrape (Sorry meant to update this so UstvGo will Work)
 		</news>
 	</extension>
 </addon>

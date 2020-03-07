@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.48
+- Updated Cfsrape (Sorry meant to update this so UstvGo will Work)
+
 2.0.47
 - Fixed UstvGo (Quick and dirty fix, May not last)
 - Update for New Tvshows for ArconaiTv
