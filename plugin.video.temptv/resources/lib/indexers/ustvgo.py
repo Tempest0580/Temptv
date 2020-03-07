@@ -5,6 +5,7 @@
 import re, os, sys, urllib
 from resources.lib.modules import client
 from resources.lib.modules import control
+from resources.lib.modules import cfscrape
 
 
 class ustvgo:
@@ -13,6 +14,7 @@ class ustvgo:
         self.base_link = 'https://ustvgo.tv'
         self.uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
         self.headers = {'User-Agent': self.uAgent, 'Referer': self.base_link}
+        self.scrape = cfscrape.create_scraper()
 
     def root(self):
         channels = [
@@ -107,10 +109,18 @@ class ustvgo:
 
     def play(self, url):
         try:
-            stream = client.request(url, headers=self.headers)
-            link = re.compile("file: '(.+?)',", re.DOTALL).findall(stream)[0]
-            link = '%s|User-Agent=%s&Referer=%s' % (link, self.uAgent, url)
-            control.execute('PlayMedia(%s)' % link)
+            stream = self.scrape.get(url, headers=self.headers).content
+            streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML', stream)
+            for item in streams:
+                url2 = re.findall('var (.+?) = \[(.+?)\]', stream, re.DOTALL)
+                for code in url2:
+                    if item[1].replace('+ ', '') in code[0]:
+                        url3 = re.findall('id=(.+?)>(.+?)</span><span', stream, re.DOTALL)
+                        for code2 in url3:
+                            if item[2] in code2[0]:
+                                link = item[0].replace(',', '').replace('"', '').replace('\\', '').replace('+', '') + code[1].replace(',', '').replace('"','') + code2[1]
+                                link = '%s|User-Agent=%s&Referer=%s' % (link, self.uAgent, url)
+                                control.execute('PlayMedia(%s)' % link)
         except:
             return
 

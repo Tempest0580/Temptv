@@ -1,6 +1,10 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.47 [/COLOR][/B]
+- Fixed UstvGo (Quick and dirty fix, May not last)
+- Update for New Tvshows for ArconaiTv
+
 [B][COLOR gold] 2.0.46 [/COLOR][/B]
 - Update for New Tvshows for ArconaiTv
 
