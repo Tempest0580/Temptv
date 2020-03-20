@@ -6,7 +6,7 @@ import re, os, sys, urllib, urlparse
 from resources.lib.modules import client
 from resources.lib.modules import log_utils
 from resources.lib.modules import control
-from resources.lib.sources import cfscrape
+from resources.lib.modules import cfscrape
 
 
 class ustvgo:
@@ -14,6 +14,7 @@ class ustvgo:
         self.list = []
         self.base_link = 'https://ustvgo.tv'
         self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
+        self.scraper = cfscrape.create_scraper()
 
     def root(self):
         channels = [
@@ -107,7 +108,7 @@ class ustvgo:
 
     def play(self, url):
         try:
-            stream = cfscrape.get(url, headers=self.headers).content
+            stream = self.scraper.get(url, headers=self.headers).content
             streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML',
                                  stream)
             for item in streams:
