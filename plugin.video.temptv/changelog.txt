@@ -1,6 +1,9 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.50 [/COLOR][/B]
+- Minor Updates
+
 [B][COLOR gold] 2.0.49 [/COLOR][/B]
 - Minor Updates to UstvGo
 - Minor Updates to Arconaitv

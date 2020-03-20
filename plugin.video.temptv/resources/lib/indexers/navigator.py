@@ -32,7 +32,6 @@ class navigator:
         self.addDirectoryItem('Sports', 'sports', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
-        self.addDirectoryItem('AcronaiTV Cable', 'arconai_cable', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('AcronaiTV 24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Pluto TV', 'pluto', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
@@ -40,7 +39,7 @@ class navigator:
         self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('YourSports', 'yoursportsliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('[B][COLOR gold]1 Clicks [/COLOR][/B]', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('1 Clicks', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreign', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')
         if control.setting('Dev') == 'true':
