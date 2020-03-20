@@ -118,9 +118,7 @@ class ustvgo:
                         for code2 in url3:
                             if item[2] in code2[0]:
                                 link = item[0].replace(',', '').replace('"', '').replace('\\', '').replace('+', '') + code[1].replace(',', '').replace('"', '') + code2[1]
-                                log_utils.log('testing: \n' + link)
                                 link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), url)
-                                log_utils.log('testing: \n' + link)
                                 control.execute('PlayMedia(%s)' % link)
         except:
             return
