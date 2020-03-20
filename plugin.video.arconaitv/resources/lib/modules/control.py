@@ -313,28 +313,6 @@ def version():
     return int(num)
 
 
-def cdnImport(uri, name):
-    import imp
-    from resources.lib.modules import client
-
-    path = os.path.join(dataPath, 'py' + name)
-    path = path.decode('utf-8')
-
-    deleteDir(os.path.join(path, ''), force=True)
-    makeFile(dataPath)
-    makeFile(path)
-
-    r = client.request(uri)
-    p = os.path.join(path, name + '.py')
-    f = openFile(p, 'w')
-    f.write(r)
-    f.close()
-    m = imp.load_source(name, p)
-
-    deleteDir(os.path.join(path, ''), force=True)
-    return m
-
-
 def openSettings(query=None, id=addonInfo('id')):
     try:
         idle()

@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.48" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.49" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -56,13 +56,14 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.46
-- Updated Cfsrape (Sorry meant to update this so UstvGo will Work)
+			v2.0.49
+- Minor Updates
+- Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks
 		</news>
 	</extension>
 </addon>
 
-<addon id="plugin.video.arconaitv" version="1.0.14" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.15" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -78,8 +79,9 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.14
-- Updates for New Tvshows
+			v1.0.15
+- Minor Updates
+- Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks
 		</news>
     </extension>
 </addon>

@@ -1,20 +1,19 @@
 # -*- coding: utf-8 -*-
-# --[ USTVgo v1.8 ]--|--[ From JewBMX & Tempest ]--
+# --[ USTVgo v1.9 ]--|--[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib
+import re, os, sys, urllib, urlparse
 from resources.lib.modules import client
+from resources.lib.modules import log_utils
 from resources.lib.modules import control
-from resources.lib.modules import cfscrape
+from resources.lib.sources import cfscrape
 
 
 class ustvgo:
     def __init__(self):
         self.list = []
         self.base_link = 'https://ustvgo.tv'
-        self.uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
-        self.headers = {'User-Agent': self.uAgent, 'Referer': self.base_link}
-        self.scrape = cfscrape.create_scraper()
+        self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
 
     def root(self):
         channels = [
@@ -90,7 +89,6 @@ class ustvgo:
             ('Telemundo', '/player.php?stream=Telemundo', 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Telemundo_Logo_2018-2.svg/440px-Telemundo_Logo_2018-2.svg.png'),
             ('Tennis Channel', '/player.php?stream=Tennis', 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/220px-Tennis_Channel_logo.svg.png'),
             ('The CW', '/player.php?stream=CW', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/The%20CW.png?raw=true'),
-            #('The Weather Channel', '/the-weather-channel-live-streaming-free', 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/300px-The_Weather_Channel_logo_2005-present.svg.png'),
             ('TLC', '/player.php?stream=TLC', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TLC.png?raw=true'),
             ('TNT', '/player.php?stream=TNT', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/TNT.png?raw=true'),
             ('Travel Channel', '/player.php?stream=Travel', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/Travel%20Channel.png?raw=true'),
@@ -109,8 +107,9 @@ class ustvgo:
 
     def play(self, url):
         try:
-            stream = self.scrape.get(url, headers=self.headers).content
-            streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML', stream)
+            stream = cfscrape.get(url, headers=self.headers).content
+            streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML',
+                                 stream)
             for item in streams:
                 url2 = re.findall('var (.+?) = \[(.+?)\]', stream, re.DOTALL)
                 for code in url2:
@@ -118,8 +117,10 @@ class ustvgo:
                         url3 = re.findall('id=(.+?)>(.+?)</span><span', stream, re.DOTALL)
                         for code2 in url3:
                             if item[2] in code2[0]:
-                                link = item[0].replace(',', '').replace('"', '').replace('\\', '').replace('+', '') + code[1].replace(',', '').replace('"','') + code2[1]
-                                link = '%s|User-Agent=%s&Referer=%s' % (link, self.uAgent, url)
+                                link = item[0].replace(',', '').replace('"', '').replace('\\', '').replace('+', '') + code[1].replace(',', '').replace('"', '') + code2[1]
+                                log_utils.log('testing: \n' + link)
+                                link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), url)
+                                log_utils.log('testing: \n' + link)
                                 control.execute('PlayMedia(%s)' % link)
         except:
             return
@@ -165,5 +166,3 @@ class ustvgo:
                 pass
         control.content(syshandle, 'addons')
         control.directory(syshandle, cacheToDisc=True)
-
-
