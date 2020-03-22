@@ -11,8 +11,7 @@ class yoursports:
     def __init__(self):
         self.list = []
         self.base_link = 'http://yoursports.stream'
-        self.uAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
-        self.headers = {'User-Agent': self.uAgent, 'Referer': self.base_link}
+        self.headers = {'User-Agent': client.agent()}
 
     def root(self):
         channels = [
@@ -175,17 +174,17 @@ class yoursports:
 
     def play(self, url):
         try:
-            stream = client.request(url)
+            stream = client.request(url, headers=self.headers)
             try:
                 link = re.compile('var mustave = atob\((.+?)\)').findall(stream)[0]
             except:
                 link = re.compile('<iframe frameborder=0 height=100% width=100% src="(.+?php)"', re.DOTALL).findall(stream)[0]
-                link = client.request(link)
+                link = client.request(link, headers=self.headers)
                 link = re.compile('var mustave = atob\((.+?)\)').findall(link)[0]
             link = base64.b64decode(link)
             if link.startswith('/'):
                 link = self.base_link + link
-            link = '%s|User-Agent=%s&Referer=%s' % (link, self.uAgent, url)
+            link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), url)
             control.execute('PlayMedia(%s)' % link)
         except:
             return

@@ -361,3 +361,15 @@ elif action == 'yoursportsliveNavigator':
 elif action == 'yoursportsPlay':
     from resources.lib.indexers import yoursports
     yoursports.yoursports().play(url)
+
+elif action == 'foreignNavigator':
+    from resources.lib.indexers import foreign
+    foreign.foreign().root()
+
+elif action == 'foreignNext':
+    from resources.lib.indexers import foreign
+    foreign.foreign().roots(url)
+
+elif action == 'foreignPlay':
+    from resources.lib.indexers import foreign
+    foreign.foreign().play(url)

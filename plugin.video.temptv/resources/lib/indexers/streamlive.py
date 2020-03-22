@@ -11,6 +11,7 @@ class streamlive:
     def __init__(self):
         self.list = []
         self.base_link = 'https://www.streamlive.to/%s'
+        self.headers = {'User-Agent': client.agent()}
 
     def root(self):
         channels = [
@@ -66,10 +67,10 @@ class streamlive:
 
     def play(self, url):
         try:
-            stream = client.request(url)
+            stream = client.request(url, headers=self.headers)
             result = re.compile("return([[\a-zA-Z]+]).join").findall(stream)
             for result in result:
-                result = result.strip('([]').replace('\/', '/').replace(',','').replace('"','')
+                result = result.strip('([]').replace('\/', '/').replace(',', '').replace('"', '')
                 result = 'https:' + result
                 link = result + self.code(url) + self.code2(url)
                 link = '%s|Referer=%s' % (link, url)
@@ -79,19 +80,19 @@ class streamlive:
 
     def code(self, url):
         try:
-            stream = client.request(url)
+            stream = client.request(url, headers=self.headers)
             result2 = re.compile("\+ (.+?).join").findall(stream)[0]
             result3 = re.findall("var (.+?) = \[(.+?)\];", stream)
             for link, code in result3:
                 if result2 in link:
-                    code = code.replace(',','').replace('"','')
+                    code = code.replace(',','').replace('"', '')
                     return code
         except:
             return
 
     def code2(self, url):
         try:
-            stream = client.request(url)
+            stream = client.request(url, headers=self.headers)
             result4 = re.compile("id=(.+?)>(.+?)</span").findall(stream)
             result5 = re.findall('\+ document.getElementById(.+?).innerHTML', stream)[0]
             result5 = result5.strip('("")')

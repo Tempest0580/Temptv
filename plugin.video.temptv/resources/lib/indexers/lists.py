@@ -33,7 +33,7 @@ class indexer:
     def entertainment(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvdXMubTN1'.decode(
+            url = 'aHR0cHM6Ly9pcHR2LW9yZy5naXRodWIuaW8vaXB0di9jb3VudHJpZXMvdXMubTN1'.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -1391,7 +1391,6 @@ class indexer:
             if tvdb == '0':
                 raise Exception()
             url = self.tvdb_ep_info_link % tvdb
-            print url
             item = client.getHTML(url)
 
             try:
