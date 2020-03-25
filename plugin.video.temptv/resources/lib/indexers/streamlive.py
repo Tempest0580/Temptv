@@ -55,10 +55,6 @@ class streamlive:
             ('TruTV', 'view/73009/TruTV-(SD)', 'https://pmcvariety.files.wordpress.com/2014/07/trutv-logo.jpg?w=1000'),
             ('USA Network', 'view/73018/USA-Network-(SD)', 'https://www.cultjer.com/img/ug_photo/2016_06/65873520160628092848.jpg'),
             ('VH1', 'view/76699/VH1-(SD)', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/USA%20Network.png?raw=true'),
-            ('-----24-7------', '', 'https://fonolo.com/wp-content/uploads/2016/03/A-Guide-to-247-Customer-Service.jpg'),
-            ('House MD', 'view/40783/House-MD', 'https://blog.cyrildason.com/wp-content/uploads/2016/11/House-MD.png'),
-            ('King of Queens', 'view/38213/King-of-Queens', 'http://static.tvgcdn.net/feed/1/925/116356925.jpg'),
-            ('South Park', 'view/40155/South-Park', 'https://images2.minutemediacdn.com/image/upload/c_crop,h_358,w_640,x_0,y_49/f_auto,q_auto,w_1100/v1555003945/shape/mentalfloss/06804986093.png'),
         ]
         for channel in channels:
             self.list.append({'name': channel[0], 'url': self.base_link % channel[1], 'image': channel[2], 'action': 'streamlivePlay'})
