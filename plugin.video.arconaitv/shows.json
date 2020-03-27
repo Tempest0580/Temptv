@@ -136,6 +136,11 @@
     "poster": "https://www.arconaitv.us/uploads/streams/5cf94f9ae7396_buffy.jpg"
     },
 
+    {"title": "Castle", "id": "None",
+    "description": "Rick Castle is one of the world's most successful crime authors. But when his rock star lifestyle isn't enough, this bad boy goes looking for new trouble and finds it working with smart, beautiful Detective Kate Beckett. Inspired by her professional record and intrigued by her buttoned-up personality, Castle's found the model for his bold new character whether she likes it or not. Now with the mayor's permission, Castle is helping solve crime with his own twist.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e7ce6d04b90a_castle.jpg"
+    },
+
     {"title": "Celebrity Deathmatch", "id": 74186,
     "description": "Sport and event coverage re-defined!  Today's hottest celebrities are pitted against each other in no-holds-barred fantasy fights complete with pre- and post-battle activities, one-on-one interviews, press conferences and behind-the-scenes locker room moments that parody the worlds of film, television, music and politics.  Announcers Johnny Gomez and Nick Diamond offer commentary and play-by-play coverage while legendary referee Mills Lane presides over the Celebrity Deathmatch Ring.",
     "poster": "https://www.arconaitv.us/uploads/streams/592e4beb84d13_celebritydeaath.jpg"
@@ -189,6 +194,11 @@
     {"title": "Curb Your Enthusiasm", "id": 76203,
     "description": "The unscripted Curb Your Enthusiasm brings the off-kilter comic vision of Larry David, who plays himself in a parallel universe in which he can't seem to do anything right, and, by his standards, neither can anyone else.",
     "poster": "https://assets.fanart.tv/fanart/tv/76203/tvposter/curb-your-enthusiasm-5396263db65a3.jpg"
+    },
+
+    {"title": "Deadliest Catch", "id": 76203,
+    "description": "Forty-foot waves, 700 pound crab pots, freezing temperatures and your mortality staring you in the face…it's all in a day's work for these modern day prospectors. During each episode we will watch crews race to meet their quota and make it home safely.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e7ce55a348cb_deadliest catch.jpg"
     },
 
     {"title": "Dexter", "id": "None",
@@ -399,6 +409,11 @@
     {"title": "My name is Earl", "id": 75397,
     "description": "Earl Hickey's life has been full of poor choices and mistakes, and upon discovering that he is the holder of a winning lottery ticket, Earl is hit by a car and the ticket blows out of his hand as he lies unconscious in the street. While recovering in the hospital and watching television, Earl has a karmic epiphany, thanks to Carson Daly, who attributes his success to doing good for others. A light bulb goes on in Earl's dim head, and he sets out to right every wrong he has done, starting with a geek he tormented in grade school.",
     "poster": "https://www.arconaitv.us/uploads/streams/5a0375d99997c_earl2.jpg"
+    },
+
+    {"title": "Mystery Science Theater 3000", "id": 75397,
+    "description": "Mad scientist Dr. Clayton Forrester and his assistant, TV's Frank, have trapped a hapless soul (Joel, later Mike) in the vacuum of outer space. With their guinea pig aboard the bone-shaped Satellite of Love, they force upon him experiment after evil experiment from their underground lair. The sinister goal: find a movie so bad that it will break a man's soul, driving him to insanity. Once found, this cinematic weapon would be unleashed upon the world, turning the populace to zombies, and opening the door for Dr. Forrester's omnipotency. With the company of his robot pals Crow T. Robot and Tom Servo, the trio of deep space jesters makes the best of the situation and maintains just enough sanity through wisecracking commentary and an occasional song and dance.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e7ce60602ced_mystery science.jpg"
     },
 
     {"title": "MythBusters", "id": "None",
@@ -669,6 +684,11 @@
     {"title": "The Wire", "id": "None",
     "description": "Baltimore drug scene, seen through the eyes of drug dealers and law enforcement.",
     "poster": "https://www.arconaitv.us/uploads/streams/5cdefb8b25b38_thewire.jpg"
+    },
+
+    {"title": "Three", "id": "None",
+    "description": "A man pretends to be gay in order to share an apartment with two women in this legendary bedroom farce.",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e7ce45281748_three company.jpg"
     },
 
     {"title": "Top Gear UK", "id": "None",

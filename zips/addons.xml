@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.53" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.54" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -57,13 +57,12 @@
 		</assets>
 		<news>
 			v2.0.53
-- Minor Update to Foreign and Entertainment live channels
-- Minor Code Update
+- Updated Arconaitv Channels
 		</news>
 	</extension>
 </addon>
 
-<addon id="plugin.video.arconaitv" version="1.0.15" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.16" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -79,8 +78,8 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.15
-- Minor Updates
+			v1.0.16
+- Updated Arconaitv Channels
 - Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks
 		</news>
     </extension>

@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.54
+- Updated Arconaitv Channels
+
 2.0.53
 - Minor Update to Foreign and Entertainment live channels
 - Minor Code Update
