@@ -14,12 +14,10 @@ addon_handle = int(sys.argv[1])
 args = urlparse.parse_qs(sys.argv[2][1:])
 action = args.get('action', None)
 
-home = os.path.join(xbmcaddon.Addon('plugin.video.temptv'))
-artbase = os.path.join(home.getAddonInfo('path'), 'resources/img/arconaitv')
-
 
 class acronaitv:
     def __init__(self):
+        self.artbase_url = "https://github.com/jewbmx/xml/blob/master/img/arconaitv/%s?raw=true"
         self.arconaitv_url = "https://www.arconaitv.us/"
         self.headers = {'User-Agent': client.agent()}
 
@@ -60,7 +58,7 @@ class acronaitv:
         url = self.build_url({'action': 'arconai'})
         li = xbmcgui.ListItem("""Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/
 and donate. Anything will help. Thanks""")
-        img = os.path.join(artbase, 'Arc.jpg')
+        img = self.artbase_url % 'Arc.jpg'
         li.setArt({'thumb': img, 'poster': img})
         il = {"plot": "Please Help The site get back to normal"}
         li.setInfo(type='Video', infoLabels=il)
@@ -68,7 +66,7 @@ and donate. Anything will help. Thanks""")
 
         url = self.build_url({'action': 'arconai_cable'})
         li = xbmcgui.ListItem("Live TV Channels")
-        cable_img = os.path.join(artbase, "arconaiCable.png")
+        cable_img = self.artbase_url % "arconaiCable.png"
         li.setArt({'thumb': cable_img, 'poster': cable_img})
         il = {"plot": "Live TV Channels"}
         li.setInfo(type='Video', infoLabels=il)
@@ -76,7 +74,7 @@ and donate. Anything will help. Thanks""")
 
         url = self.build_url({'action': 'arconai_shows'})
         li = xbmcgui.ListItem("TV Shows")
-        shows_img = os.path.join(artbase, "arconaiShows.png")
+        shows_img = self.artbase_url % "arconaiShows.png"
         li.setArt({'thumb': shows_img, 'poster': shows_img})
         il = {"plot": "24/7 Tv Shows"}
         li.setInfo(type='Video', infoLabels=il)
@@ -84,7 +82,7 @@ and donate. Anything will help. Thanks""")
 
         url = self.build_url({'action': 'arconai_movies'})
         li = xbmcgui.ListItem("Movies")
-        movies_img = os.path.join(artbase, "arconaiMovies.png")
+        movies_img = self.artbase_url % "arconaiMovies.png"
         li.setArt({'thumb': movies_img, 'poster': movies_img})
         il = {"plot": "24/7 Movies"}
         li.setInfo(type='Video', infoLabels=il)
@@ -92,7 +90,7 @@ and donate. Anything will help. Thanks""")
 
         url = self.build_url({'action': 'arconai_play', 'selection': 'stream.php?id=random'})
         li = xbmcgui.ListItem("Random Streams")
-        movies_img = os.path.join(artbase, "arconaiRandom.png")
+        movies_img = self.artbase_url % "arconaiRandom.png"
         li.setArt({'thumb': movies_img, 'poster': movies_img})
         il = {"plot": "Streams a Random Channel"}
         li.setProperty('IsPlayable', 'true')
