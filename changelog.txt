@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 2.0.55
+- Updated ResolveUrl
+
+2.0.55
 - Updated Arconaitv Channels
 - Fix a error some are having opening arconaitv
 
