@@ -14,8 +14,10 @@ from resources.lib.modules import control
 class trailer:
     def __init__(self):
         self.base_link = 'https://www.youtube.com'
-        self.key_link = random.choice(['QUl6YVN5RDd2aFpDLTYta2habTVuYlVyLTZ0Q0JRQnZWcnFkeHNz', 'QUl6YVN5Q2RiNEFNenZpVG0yaHJhSFY3MXo2Nl9HNXBhM2ZvVXd3'])
-        self.key_link = '&key=%s' % base64.urlsafe_b64decode(self.key_link)
+        self.key = control.addon('plugin.video.youtube').getSetting('youtube.api.key')
+        if self.key == '': self.key_link = client.youtubeKey()
+        try: self.key_link = '&key=%s' % base64.b64decode(self.key_link)
+        except: pass
         self.search_link = 'https://www.googleapis.com/youtube/v3/search?part=id&type=video&maxResults=5&q=%s' + self.key_link
         self.youtube_watch = 'https://www.youtube.com/watch?v=%s'
 
@@ -38,14 +40,15 @@ class trailer:
             if windowedtrailer == 1:
                 # The call to the play() method is non-blocking. So we delay further script execution to keep the script alive at this spot.
                 # Otherwise this script will continue and probably already be garbage collected by the time the trailer has ended.
-                control.sleep(1000)  # Wait until playback starts. Less than 900ms is too short (on my box). Make it one second.
+                control.sleep(
+                    1000)  # Wait until playback starts. Less than 900ms is too short (on my box). Make it one second.
                 while control.player.isPlayingVideo():
                     control.sleep(1000)
                 # Close the dialog.
                 # Same behaviour as the fullscreenvideo window when :
                 # the media plays to the end,
                 # or the user pressed one of X, ESC, or Backspace keys on the keyboard/remote to stop playback.
-                control.execute("Dialog.Close(%s, true)" % control.getCurrentDialogId)      
+                control.execute("Dialog.Close(%s, true)" % control.getCurrentDialogId)
         except:
             pass
 
@@ -76,7 +79,7 @@ class trailer:
             if apiLang != 'en':
                 url += "&relevanceLanguage=%s" % apiLang
 
-            result = client.request(url)
+            result = client.request(url, headers={'User-Agent': client.agent()})
 
             items = json.loads(result).get('items', [])
             items = [i.get('id', {}).get('videoId') for i in items]
@@ -91,7 +94,7 @@ class trailer:
     def resolve(self, url):
         try:
             id = url.split('?v=')[-1].split('/')[-1].split('?')[0].split('&')[0]
-            result = client.request(self.youtube_watch % id)
+            result = client.request(self.youtube_watch % id, headers={'User-Agent': client.agent()})
 
             message = client.parseDOM(result, 'div', attrs={'id': 'unavailable-submessage'})
             message = ''.join(message)
@@ -103,7 +106,7 @@ class trailer:
             if re.search('[a-zA-Z]', message):
                 raise Exception()
 
-            url = 'plugin://plugin.video.youtube/play/?video_id=%s' % id
+            url = 'plugin://plugin.video.youtube/?action=play_video&videoid=%s' % id
             return url
         except:
             return

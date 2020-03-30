@@ -1,6 +1,9 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.56 [/COLOR][/B]
+- Fix Trailers (Testing)
+
 [B][COLOR gold] 2.0.55 [/COLOR][/B]
 - Updated Arconaitv Channels
 - Fix a error some are having opening arconaitv
