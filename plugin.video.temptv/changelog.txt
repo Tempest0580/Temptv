@@ -1,6 +1,9 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.57 [/COLOR][/B]
+- Updated Cfscrape
+
 [B][COLOR gold] 2.0.56 [/COLOR][/B]
 - Fix Trailers (Testing)
 
@@ -30,7 +33,7 @@ Repo https://tempest0580.github.io/
 - Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks
 
 [B][COLOR gold] 2.0.48 [/COLOR][/B]
-- Updated Cfsrape (Sorry meant to update this so UstvGo will Work)
+- Updated Cfscrape (Sorry meant to update this so UstvGo will Work)
 
 [B][COLOR gold] 2.0.47 [/COLOR][/B]
 - Fixed UstvGo (Quick and dirty fix, May not last)

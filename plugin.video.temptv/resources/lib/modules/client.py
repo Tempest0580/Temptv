@@ -433,17 +433,13 @@ def agent():
                 "Mozilla/5.0 (iPod Touch; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0 Mobile/15E148 Safari/604.1",
                 "Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko"])
 
+
 def youtubeKey():
-    return random.choice(['QUl6YVN5QlhKdzA3S0w5T1MwQjVyX0l0RldlOGFZTmJudjd1WTZn',
-                          'QUl6YVN5QUs5VkFiT25LRDR2TTFBSEprVTVTVG5sYW16Wm5odzFz',
-                          'QUl6YVN5RG9WU3gyR1NSUEFQb1pqd0NMSGlQQ1B5VmNNVjdTMDF3',
-                          'QUl6YVN5RHlpTzFpTml4eGNodTRqX0dSeU5TQVh5aWo3M2UtdjlR',
-                          'QUl6YVN5QkxNTDM3Y3o0Uk9PSlF6eVJ4VHB4LVVadFZWRUlMMEdn',
-                          'QUl6YVN5QklnS1lhbUtYaG81c0xGWDBMM0MtNU1mWlRKdzBWc1Vr',
-                          'QUl6YVN5Q3Vmd2JoOG5QWXZBalB3bmhfM3B6djhDVk1fVkUwcHRr',
-                          'QUl6YVN5RFBmWHp5MXR0N2h3aUZITGd4dUdVU21nWmhENHdsUC1N',
-                          'QUl6YVN5RElPQUJ2eWdTdUJzMnlyRk9EQ3ZINkZrcUZpUHk5WF9V',
-                          'QUl6YVN5QWZmQzF6b25MR0tER0xOejBzNTVZQVpNdXFaTjByblZV'])
+    return random.choice(['QUl6YVN5Q1FwUU9GemJTR3B0R1UzazdvZXRNLWtXdEJxS0RDUEJB',
+                          'QUl6YVN5QkEtb3Q4UWktQVdLWXdYZ2ZUZy1HVXZ6WEZRd3ZGTFQw',
+                          'QUl6YVN5QllOV3pPeFdBd1loUDRwemtVYnF2SDRVVW5VbnV6SXM4',
+                          'QUl6YVN5Q3JQTmdUdGtoc3BScHJuYjZLRnREeXpfUHJSWUV3a0pF',
+                          'QUl6YVN5RGFucXVjamwzRTlEYWRuWDNyUVlDY1ZlVE42YU5JV0pz'])
 
 
 def getHTML(url):
