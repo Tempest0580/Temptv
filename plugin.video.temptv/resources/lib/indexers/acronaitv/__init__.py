@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 # --[ acronaitv v1.0 ]--|--[ From JewBMX ]--
-# --[ acronaitv v1.1 ]--|--[ From  Tempest ]--
+# --[ acronaitv v1.1 ]--|--[ From Tempest ]--
 # IPTV Indexer made from the Alberto_Posadas ArconaiTV Plugin.
 
-import os.path, requests, json
+import os.path, json, requests
 import sys, urllib, urllib2, urlparse
-import xbmcaddon, xbmcgui, xbmcplugin
+import xbmcaddon, xbmcgui, xbmcplugin, xbmc
 from resources.lib.modules import jsunpack, control, client
 from bs4 import BeautifulSoup
 
@@ -32,7 +32,7 @@ class acronaitv:
         for cable in parsed['cable']:
             if title == cable['title']:
                 return cable
-        return {'title': title, 'description': 'New Channel!', 'poster': ' DefaultVideo.png'}
+        return {'title': title, 'description': 'New Channel!', 'poster':' DefaultVideo.png'}
 
     def getShowInfo(self, title):
         desc_file = os.path.join(os.path.dirname(__file__), 'shows.json')
@@ -68,7 +68,7 @@ and donate. Anything will help. Thanks""")
         li = xbmcgui.ListItem("Live TV Channels")
         cable_img = self.artbase_url % "arconaiCable.png"
         li.setArt({'thumb': cable_img, 'poster': cable_img})
-        il = {"plot": "Live TV Channels"}
+        il = {"plot": "Live TV Channels" }
         li.setInfo(type='Video', infoLabels=il)
         xbmcplugin.addDirectoryItem(addon_handle, url=url, listitem=li, isFolder=True)
 
@@ -117,15 +117,16 @@ and donate. Anything will help. Thanks""")
             title = box.a["title"].strip()
             cableInfo = self.getCableInfo(title)
             li = xbmcgui.ListItem(title, iconImage=cableInfo['poster'])
-            il = {"Title": title, "mediatype": "video", "plot": cableInfo['description'],
-                  "plotoutline": cableInfo['description']}
+            il = {"Title": title, "mediatype": "video", "plot": cableInfo['description'], "plotoutline": cableInfo['description']}
             li.setProperty('IsPlayable', 'true')
             li.setInfo(type='Video', infoLabels=il)
             listItemlist.append([url, li, False])
         listLength = len(listItemlist)
         xbmcplugin.addDirectoryItems(addon_handle, items=listItemlist, totalItems=listLength)
         xbmcplugin.setContent(addon_handle, 'tvshows')
+        xbmc.executebuiltin("Container.SetViewMode(55)")
         xbmcplugin.endOfDirectory(addon_handle)
+        control.idle()
 
     def list_shows(self):
         arconaitv_r = requests.get(urlparse.urljoin(self.arconaitv_url, "index.php"), headers=self.headers)
@@ -145,8 +146,7 @@ and donate. Anything will help. Thanks""")
             title = box.a["title"].strip()
             showInfo = self.getShowInfo(title)
             li = xbmcgui.ListItem(showInfo['title'], iconImage=showInfo['poster'])
-            il = {"Title": title, "mediatype": "video", "plot": showInfo['description'],
-                  "plotoutline": showInfo['description']}
+            il = {"Title": title, "mediatype": "video", "plot": showInfo['description'], "plotoutline": showInfo['description']}
             li.setProperty('IsPlayable', 'true')
             li.setInfo(type='Video', infoLabels=il)
             li.setArt({'poster': showInfo['poster'], 'banner': showInfo['poster']})
@@ -155,6 +155,7 @@ and donate. Anything will help. Thanks""")
         xbmcplugin.addDirectoryItems(addon_handle, items=listItemlist, totalItems=listLength)
         xbmcplugin.setContent(addon_handle, 'tvshows')
         xbmcplugin.endOfDirectory(addon_handle)
+        xbmc.executebuiltin("Container.SetViewMode(55)")
         control.idle()
 
     def list_movies(self):
@@ -175,8 +176,7 @@ and donate. Anything will help. Thanks""")
             title = box.a["title"].strip()
             movieInfo = self.getMovieInfo(title)
             li = xbmcgui.ListItem(movieInfo['title'], iconImage=movieInfo['poster'])
-            il = {"Title": title, "mediatype": "video", "plot": movieInfo['description'],
-                  "plotoutline": movieInfo['description']}
+            il = {"Title": title, "mediatype":"video", "plot": movieInfo['description'], "plotoutline": movieInfo['description']}
             li.setProperty('IsPlayable', 'True')
             li.setProperty('mimetype', 'application/x-mpegURL')
             li.setInfo(type='Video', infoLabels=il)
@@ -186,10 +186,12 @@ and donate. Anything will help. Thanks""")
         xbmcplugin.addDirectoryItems(addon_handle, items=listItemlist, totalItems=listLength)
         xbmcplugin.setContent(addon_handle, 'movies')
         xbmcplugin.endOfDirectory(addon_handle)
+        xbmc.executebuiltin("Container.SetViewMode(55)")
         control.idle()
 
     def play_video(self, selection):
-        r = requests.get(urlparse.urljoin(self.arconaitv_url, selection), headers=self.headers)
+        url = urlparse.urljoin(self.arconaitv_url, selection)
+        r = requests.get(urlparse.urljoin(url, selection), headers=self.headers)
         html_text = r.text
         soup = BeautifulSoup(html_text, 'html.parser')
         scripts = soup.find_all('script')
@@ -209,9 +211,8 @@ and donate. Anything will help. Thanks""")
                 code = 'fail'
         if code != 'fail':
             unpacked = jsunpack.unpack(code)
-            video_location = unpacked[unpacked.rfind('http'):unpacked.rfind('m3u8') + 4]
-            play_item = xbmcgui.ListItem(
-                path=video_location + '|User-Agent=%s' % urllib2.quote(client.agent(), safe=''))
+            video_location = unpacked[unpacked.rfind('http'):unpacked.rfind('m3u8')+4]
+            play_item = xbmcgui.ListItem(path=video_location + '|User-Agent=%s' % client.agent())
             xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)
         else:
             xbmcgui.Dialog().ok('Sorry', 'Could not deobfuscate the code.')

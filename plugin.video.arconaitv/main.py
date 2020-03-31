@@ -209,7 +209,7 @@ def play_video(selection):
     if code != 'fail':
         unpacked = jsunpack.unpack(code)
         video_location = unpacked[unpacked.rfind('http'):unpacked.rfind('m3u8')+4]
-        play_item = xbmcgui.ListItem(path=video_location + '|User-Agent=%s' % urllib2.quote(client.agent(), safe=''))
+        play_item = xbmcgui.ListItem(path=video_location + '|User-Agent=%s' % client.agent())
         xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)
     else:
         xbmcgui.Dialog().ok('Sorry', 'Could not deobfuscate the code.')

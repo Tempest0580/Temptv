@@ -3,7 +3,6 @@
 import sys
 import base64
 import json
-import random
 import re
 import urllib
 
@@ -15,11 +14,12 @@ class trailer:
     def __init__(self):
         self.base_link = 'https://www.youtube.com'
         self.key = control.addon('plugin.video.youtube').getSetting('youtube.api.key')
-        if self.key == '': self.key_link = client.youtubeKey()
-        try: self.key_link = '&key=%s' % base64.b64decode(self.key_link)
+        if self.key == '' or self.key == None: self.key_link = 'QUl6YVN5RGFucXVjamwzRTlEYWRuWDNyUVlDY1ZlVE42YU5JV0pz'.decode('base64')
+        try: self.key_link = '&key=%s' % self.key_link
         except: pass
         self.search_link = 'https://www.googleapis.com/youtube/v3/search?part=id&type=video&maxResults=5&q=%s' + self.key_link
         self.youtube_watch = 'https://www.youtube.com/watch?v=%s'
+        self.headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36'}
 
     def play(self, name='', url='', windowedtrailer=0):
         try:
@@ -78,8 +78,7 @@ class trailer:
 
             if apiLang != 'en':
                 url += "&relevanceLanguage=%s" % apiLang
-
-            result = client.request(url, headers={'User-Agent': client.agent()})
+            result = client.request(url, headers=self.headers)
 
             items = json.loads(result).get('items', [])
             items = [i.get('id', {}).get('videoId') for i in items]
@@ -94,7 +93,7 @@ class trailer:
     def resolve(self, url):
         try:
             id = url.split('?v=')[-1].split('/')[-1].split('?')[0].split('&')[0]
-            result = client.request(self.youtube_watch % id, headers={'User-Agent': client.agent()})
+            result = client.request(self.youtube_watch % id, headers=self.headers)
 
             message = client.parseDOM(result, 'div', attrs={'id': 'unavailable-submessage'})
             message = ''.join(message)

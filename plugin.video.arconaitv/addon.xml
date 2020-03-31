@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.arconaitv" version="1.0.17" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.18" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -15,10 +15,8 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.17
-- Updated Arconaitv Channels
-- Fix a error some are having opening arconaitv
-- Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks
+			v1.0.18
+- Minor Updates
 		</news>
     </extension>
 </addon>
