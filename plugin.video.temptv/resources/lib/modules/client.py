@@ -421,6 +421,27 @@ def agent():
             "Mozilla/5.0 (Linux; Android 9; AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36 OPR/55.2.2719"])
 
 
+def youtubeApi():
+    return random.choice(['QUl6YVN5QTBhS0NnbkMybnc1ZmpiRzVQQUZHUlhSZzBxd3U2OVhv',
+                          'QUl6YVN5Q3JQTmdUdGtoc3BScHJuYjZLRnREeXpfUHJSWUV3a0pF',
+                          'QUl6YVN5QUxDWElwQi1Hb0l2OC03OGhYMENPNmNKQXltX3dSX0Y4',
+                          'QUl6YVN5QkEtb3Q4UWktQVdLWXdYZ2ZUZy1HVXZ6WEZRd3ZGTFQw',
+                          'QUl6YVN5RFhpSjRGT05qRU9IRHF0ZXVlVVY5Vnp1QVZnLUx1WW0w',
+                          'QUl6YVN5QllOV3pPeFdBd1loUDRwemtVYnF2SDRVVW5VbnV6SXM4',
+                          'QUl6YVN5Q1FwUU9GemJTR3B0R1UzazdvZXRNLWtXdEJxS0RDUEJB',
+                          'QUl6YVN5Q0NHWEE2Y1J1LVpFRTdZWkd4UWpRV3NWR1pNaW93UmFJ',
+                          'QUl6YVN5RGFucXVjamwzRTlEYWRuWDNyUVlDY1ZlVE42YU5JV0pz']).decode('base64')
+
+
+def devApi():
+    return random.choice(['QUl6YVN5QVB3VFRJSGJvdHhTRm5XVWpPT1Z3NUlQX3pRWEU3X3JN',
+                          'QUl6YVN5RERqajFrbXIxOFhIRGYydF9KZHpiU01UU3Vka3lVanU0']).decode('base64')
+
+
+def devPass():
+    return 'ZG9udC10b3VjaC10aGlz'.decode('base64')
+
+
 def getHTML(url):
     try:
         from resources.lib.modules import net

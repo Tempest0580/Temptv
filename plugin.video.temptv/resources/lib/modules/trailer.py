@@ -2,19 +2,24 @@
 
 import sys
 import base64
+import random
 import json
 import re
 import urllib
 
 from resources.lib.modules import client
-from resources.lib.modules import control
+from resources.lib.modules import control, log_utils
 
 
 class trailer:
     def __init__(self):
         self.base_link = 'https://www.youtube.com'
         self.key = control.addon('plugin.video.youtube').getSetting('youtube.api.key')
-        if self.key == '' or self.key == None: self.key_link = 'QUl6YVN5RGFucXVjamwzRTlEYWRuWDNyUVlDY1ZlVE42YU5JV0pz'.decode('base64')
+        if self.key == '' or self.key == None:
+            if control.setting('dev_api') == 'true' and control.setting('dev_api_pass') == client.devPass():
+                self.key_link = client.devApi()
+            else:
+                self.key_link = client.youtubeApi()
         try: self.key_link = '&key=%s' % self.key_link
         except: pass
         self.search_link = 'https://www.googleapis.com/youtube/v3/search?part=id&type=video&maxResults=5&q=%s' + self.key_link
@@ -78,8 +83,15 @@ class trailer:
 
             if apiLang != 'en':
                 url += "&relevanceLanguage=%s" % apiLang
-            result = client.request(url, headers=self.headers)
-
+            try:
+                result = client.request(url, headers=self.headers)
+                return result.status
+            except:
+                if result == None:
+                    import xbmcgui
+                    dialog = xbmcgui.Dialog()
+                    dialog.notification('Reached Quota, Wait or', 'Please use Your Personal Api in Youtube app.', xbmcgui.NOTIFICATION_INFO, 5000)
+                    return
             items = json.loads(result).get('items', [])
             items = [i.get('id', {}).get('videoId') for i in items]
 
@@ -109,3 +121,4 @@ class trailer:
             return url
         except:
             return
+
