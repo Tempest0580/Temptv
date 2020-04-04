@@ -2,6 +2,13 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+
+2.0.60
+- Crude fix for ustvgo, Working on a better fix
+- Added a couple more youtube api keys, Hopefully to help with the amount of users
+- Update Cfscrape
+- Clear all Cache and Providers after each update is Advised
+
 2.0.59
 - Added a few more Youtube Api Key's (Once the quota is hit you will have to wait or use your own)
 - Minor Updates
