@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.61
+- Fixed Ustvgo (Roll back is working again, Thanks Bjgood for Letting me know)
+- Clear all Cache and Providers after each update is Advised
 
 2.0.60
 - Crude fix for ustvgo, Working on a better fix

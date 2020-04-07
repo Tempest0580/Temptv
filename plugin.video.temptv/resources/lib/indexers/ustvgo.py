@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# --[ From JewBMX & Tempest ]--
+# --[ USTVgo v1.9 ]--|--[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib, urlparse, requests, random, time
+import re, os, sys, urllib, urlparse
 from resources.lib.modules import client
 from resources.lib.modules import log_utils
 from resources.lib.modules import control
@@ -13,11 +13,11 @@ class ustvgo:
     def __init__(self):
         self.list = []
         self.base_link = 'https://ustvgo.tv'
-        self.scraper = cfscrape.create_scraper(browser='firefox')
+        self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
+        self.scraper = cfscrape.create_scraper()
 
     def root(self):
         channels = [
-            ('May Have to click channels more than Once, Working on a fix.', '', 'https://github.com/Tempest0580/xml/blob/master/icons/tvshows.png?raw=true'),
             ('ABC', '/player.php?stream=ABC', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/ABC.png?raw=true'),
             ('A&E', '/player.php?stream=AE', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/A&E.png?raw=true'),
             ('AMC', '/player.php?stream=AMC', 'https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/AMC.png?raw=true'),
@@ -108,11 +108,9 @@ class ustvgo:
 
     def play(self, url):
         try:
-            stream = self.scraper.get(url).content
-            stream = re.compile("<iframe src='(.+?)'", re.DOTALL).findall(stream)[0]
-            time.sleep(2)
-            stream = self.scraper.get(stream).content
-            streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML', stream)
+            stream = self.scraper.get(url, headers=self.headers).content
+            streams = re.findall('return\(\[(.+?)\].join.+? (.+?).join.+? document.getElementById\("(.+?)"\).innerHTML',
+                                 stream)
             for item in streams:
                 url2 = re.findall('var (.+?) = \[(.+?)\]', stream, re.DOTALL)
                 for code in url2:

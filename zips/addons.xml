@@ -33,7 +33,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.60" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.61" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -56,10 +56,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.60
-- Crude fix for ustvgo, Working on a better fix
-- Added a couple more youtube api keys, Hopefully to help with the amount of users
-- Update Cfscrape
+			v2.0.61
+- Fixed Ustvgo (Roll back is working again, Thanks Bjgood for Letting me know)
 - Clear all Cache and Providers after each update is Advised
 		</news>
 	</extension>
