@@ -1,6 +1,6 @@
-'''
-    Plugin for ResolveURL
-    Copyright (C) 2018 gujal
+"""
+Plugin for ResolveUrl
+Copyright (C) 2020 gujal
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -14,14 +14,22 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
-'''
+"""
+
 from __resolve_generic__ import ResolveGeneric
+from lib import helpers
 
 
-class VkPrimeResolver(ResolveGeneric):
-    name = 'vkprime'
-    domains = ["vkprime.com"]
-    pattern = r'(?://|\.)(vkprime\.com)/(?:embed-)?([a-zA-Z0-9]+)'
+class AnaVidsResolver(ResolveGeneric):
+    name = "anavids.com"
+    domains = ['anavids.com']
+    pattern = r'(?://|\.)(anavids\.com)/(?:embed-)?([0-9a-zA-Z]+)'
+
+    def get_media_url(self, host, media_id):
+        return helpers.get_media_url(self.get_url(host, media_id),
+                                     patterns=[r'''file:"(?P<url>[^"]+)'''],
+                                     generic_patterns=False,
+                                     result_blacklist=['.mpd'])
 
     def get_url(self, host, media_id):
         return self._default_get_url(host, media_id, template='https://{host}/embed-{media_id}.html')

@@ -294,6 +294,14 @@ elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
     ustvgo.ustvgo().play(url)
 
+elif action == 'zynetvNavigator':
+    from resources.lib.indexers import zynetv
+    zynetv.zynetv().root()
+
+elif action == 'zynetvPlay':
+    from resources.lib.indexers import zynetv
+    zynetv.zynetv().play(url)
+
 if action == '123tvnowNavigator':
     from resources.lib.indexers import lists
     lists.indexer().tvnow()

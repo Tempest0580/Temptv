@@ -2,9 +2,8 @@
 # --[ USTVgo v1.9 ]--|--[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib, urlparse
+import re, os, sys, urllib
 from resources.lib.modules import client
-from resources.lib.modules import log_utils
 from resources.lib.modules import control
 from resources.lib.modules import cfscrape
 
