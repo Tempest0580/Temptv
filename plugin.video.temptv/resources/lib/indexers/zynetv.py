@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# --[ Tempest ]--
+# -Create By Tempest
 
 import re, os, sys, urllib
 from resources.lib.modules import client

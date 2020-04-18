@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.63
+- Add a new Live Tv Source
+
 2.0.62
 - Added Zynet.tv some channels in liveTv (Still a few more to add)
 - Removed Acronaitv until i can find a fix

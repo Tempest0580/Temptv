@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # --[ USTVgo v1.9 ]--|--[ From JewBMX & Tempest ]--
-# IPTV Indexer made just for the one site as of now.
 
 import re, os, sys, urllib
 from resources.lib.modules import client

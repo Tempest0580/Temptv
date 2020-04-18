@@ -302,6 +302,14 @@ elif action == 'zynetvPlay':
     from resources.lib.indexers import zynetv
     zynetv.zynetv().play(url)
 
+elif action == 'imkmediaNavigator':
+    from resources.lib.indexers import imkmedia
+    imkmedia.imkmedia().root()
+
+elif action == 'imkmediaPlay':
+    from resources.lib.indexers import imkmedia
+    imkmedia.imkmedia().play(url)
+
 if action == '123tvnowNavigator':
     from resources.lib.indexers import lists
     lists.indexer().tvnow()
