@@ -43,6 +43,7 @@ class navigator:
         self.addDirectoryItem('Wrestling', 'wrestlingNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('1 Clicks', 'clickNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Foreign Channels', 'foreignNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('Radio', 'radioNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('[COLOR black]Adult\'s Only[/COLOR]', 'navXXX', 'highly-rated.png', 'DefaultTVShows.png')
         if control.setting('Dev') == 'true':
             self.addDirectoryItem('Testing', 'testing', 'channels.png', 'DefaultTVShows.png')

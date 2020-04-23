@@ -310,6 +310,14 @@ elif action == 'imkmediaPlay':
     from resources.lib.indexers import imkmedia
     imkmedia.imkmedia().play(url)
 
+elif action == 'radioNavigator':
+    from resources.lib.indexers import radio
+    radio.radio().root()
+
+elif action == 'radioPlay':
+    from resources.lib.indexers import radio
+    radio.radio().play(url)
+
 if action == '123tvnowNavigator':
     from resources.lib.indexers import lists
     lists.indexer().tvnow()

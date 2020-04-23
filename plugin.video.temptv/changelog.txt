@@ -1,6 +1,10 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.64 [/COLOR][/B]
+- Added Radio Station in LiveTv Section (Testing)
+- Updated Cfscrape
+
 [B][COLOR gold] 2.0.63 [/COLOR][/B]
 - Add a new Live Tv Source
 
