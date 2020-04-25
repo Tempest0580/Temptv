@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 2.0.64
+- Updated ResolveUrl
+
+2.0.64
 - Added Radio Station in LiveTv Section (Testing)
 - Updated Cfscrape
 
