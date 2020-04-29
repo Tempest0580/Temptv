@@ -3,9 +3,10 @@
 # --[ acronaitv v1.1 ]--|--[ From Tempest ]--
 # IPTV Indexer made from the Alberto_Posadas ArconaiTV Plugin.
 
-import os.path, json, requests
+import os.path, json, requests, re
 import sys, urllib, urllib2, urlparse
 import xbmcaddon, xbmcgui, xbmcplugin, xbmc
+import js2py
 from resources.lib.modules import jsunpack, control, client
 from bs4 import BeautifulSoup
 
@@ -56,8 +57,7 @@ class acronaitv:
 
     def list_categories(self):
         url = self.build_url({'action': 'arconai'})
-        li = xbmcgui.ListItem("""Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/
-and donate. Anything will help. Thanks""")
+        li = xbmcgui.ListItem("""Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks""")
         img = self.artbase_url % 'Arc.jpg'
         li.setArt({'thumb': img, 'poster': img})
         il = {"plot": "Please Help The site get back to normal"}
@@ -191,28 +191,11 @@ and donate. Anything will help. Thanks""")
 
     def play_video(self, selection):
         url = urlparse.urljoin(self.arconaitv_url, selection)
-        r = requests.get(urlparse.urljoin(url, selection), headers=self.headers)
-        html_text = r.text
-        soup = BeautifulSoup(html_text, 'html.parser')
-        scripts = soup.find_all('script')
-        for script in scripts:
-            if script.string is not None:
-                if "document.getElementsByTagName('video')[0].volume = 1.0;" in script.string:
-                    code = script.string
-                    startidx = code.find('eval(function(p,a,c,k,e,')
-                    endidx = code.find('hunterobfuscator =')
-                    code = code[startidx:endidx]
-                    if not code.replace(' ', '').startswith('eval(function(p,a,c,k,e,'):
-                        code = 'fail'
-                    break
-                else:
-                    code = 'fail'
-            else:
-                code = 'fail'
-        if code != 'fail':
-            unpacked = jsunpack.unpack(code)
-            video_location = unpacked[unpacked.rfind('http'):unpacked.rfind('m3u8')+4]
-            play_item = xbmcgui.ListItem(path=video_location + '|User-Agent=%s' % client.agent())
-            xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)
-        else:
-            xbmcgui.Dialog().ok('Sorry', 'Could not deobfuscate the code.')
+        url = requests.get(urlparse.urljoin(url, selection), headers=self.headers).content
+        url = re.compile("var _(.+?)</script>", re.DOTALL).findall(str(url))[0].strip()
+        url = url.replace("eval(", "var a =")
+        url = "var _" + url[:-1]
+        url = url.replace("decodeURIComponent(escape(r))", "r.slice(305,407)")
+        url = js2py.eval_js(url).replace("'", "")
+        play_item = xbmcgui.ListItem(path=url + '|User-Agent=%s' % client.agent())
+        xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)

@@ -1,7 +1,8 @@
 
-import os.path, requests, json
+import os.path, requests, json, re
 import sys, urllib, urllib2, urlparse
 import xbmcaddon, xbmcgui, xbmcplugin, xbmc
+import js2py
 from resources.lib.modules import jsunpack, client
 from bs4 import BeautifulSoup
 
@@ -188,31 +189,15 @@ def list_movies():
 
 
 def play_video(selection):
-    r = requests.get(urlparse.urljoin(arconaitv_url, selection), headers=headers)
-    html_text = r.text
-    soup = BeautifulSoup(html_text, 'html.parser')
-    scripts = soup.find_all('script')
-    for script in scripts:
-        if script.string is not None:
-            if "document.getElementsByTagName('video')[0].volume = 1.0;" in script.string:
-                code = script.string
-                startidx = code.find('eval(function(p,a,c,k,e,')
-                endidx = code.find('hunterobfuscator =')
-                code = code[startidx:endidx]
-                if not code.replace(' ', '').startswith('eval(function(p,a,c,k,e,'):
-                    code = 'fail'
-                break
-            else:
-                code = 'fail'
-        else:
-            code = 'fail'
-    if code != 'fail':
-        unpacked = jsunpack.unpack(code)
-        video_location = unpacked[unpacked.rfind('http'):unpacked.rfind('m3u8')+4]
-        play_item = xbmcgui.ListItem(path=video_location + '|User-Agent=%s' % client.agent())
-        xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)
-    else:
-        xbmcgui.Dialog().ok('Sorry', 'Could not deobfuscate the code.')
+    url = urlparse.urljoin(arconaitv_url, selection)
+    url = requests.get(urlparse.urljoin(url, selection), headers=headers).content
+    url = re.compile("var _(.+?)</script>", re.DOTALL).findall(str(url))[0].strip()
+    url = url.replace("eval(", "var a =")
+    url = "var _" + url[:-1]
+    url = url.replace("decodeURIComponent(escape(r))", "r.slice(305,407)")
+    url = js2py.eval_js(url).replace("'", "")
+    play_item = xbmcgui.ListItem(path=url + '|User-Agent=%s' % client.agent())
+    xbmcplugin.setResolvedUrl(addon_handle, True, listitem=play_item)
 
 
 def router(params):

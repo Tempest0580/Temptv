@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.arconaitv" version="1.0.18" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.19" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
+        <import addon="script.module.js2py" />
+        <import addon="script.module.pyjsparser" />
         <import addon="script.module.beautifulsoup4" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="main.py">
@@ -15,8 +17,8 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.18
-- Minor Updates
+			v1.0.19
+- Fixed
 		</news>
     </extension>
 </addon>

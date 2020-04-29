@@ -6,6 +6,11 @@
     "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/Action.jpg?raw=true"
     },
 
+    {"title": "Al Pacino Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e9b89ab4b72d_download--2-.jpg"
+    },
+
     {"title": "Animated Movies",
     "description": "",
     "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/AnimatedMovies.jpg?raw=true"
@@ -14,6 +19,11 @@
     {"title": "Christmas Movies",
     "description": "",
     "poster": "https://github.com/jewbmx/xml/blob/master/img/arconaitv/ChristmasMovies.jpg?raw=true"
+    },
+
+    {"title": "Clint Eastwood Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e9b2ae6d9405_clint.jpg"
     },
 
     {"title": "Comedy Movies",
@@ -149,6 +159,11 @@
     {"title": "Western Movies",
     "description": "",
     "poster": "https://www.arconaitv.us/uploads/streams/5cdc6318f2a8a_Western%20Movies.png"
+    },
+
+    {"title": "Woody Allen Movies",
+    "description": "",
+    "poster": "https://www.arconaitv.us/uploads/streams/5e9afbc55b1c5_wood allan.jpg"
     }
 
 ]}

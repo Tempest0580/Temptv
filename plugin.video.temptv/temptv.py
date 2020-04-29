@@ -310,6 +310,22 @@ elif action == 'imkmediaPlay':
     from resources.lib.indexers import imkmedia
     imkmedia.imkmedia().play(url)
 
+elif action == 'ustreamixNavigator':
+    from resources.lib.indexers import ustreamix
+    ustreamix.ustreamix().root()
+
+elif action == 'ustreamixPlay':
+    from resources.lib.indexers import ustreamix
+    ustreamix.ustreamix().play(url)
+
+elif action == 'sports24Navigator':
+    from resources.lib.indexers import sports24
+    sports24.sports24().root()
+
+elif action == 'sports24Play':
+    from resources.lib.indexers import sports24
+    sports24.sports24().play(url)
+
 elif action == 'radioNavigator':
     from resources.lib.indexers import radio
     radio.radio().root()

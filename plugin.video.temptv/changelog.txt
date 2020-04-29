@@ -2,6 +2,13 @@
 Repo https://tempest0580.github.io/
 
 [B][COLOR gold] 2.0.64 [/COLOR][/B]
+- Fixed ArconaiTv
+- Removed UstvGo until i can get it 100% (In Process)
+- Updated Zynetv
+- Added Sports24 (Testing, Channels don't always work)
+- Added Ustreamix (Testing, Channels don't always work)
+
+[B][COLOR gold] 2.0.64 [/COLOR][/B]
 - Added Radio Station in LiveTv Section (Testing)
 - Updated Cfscrape
 

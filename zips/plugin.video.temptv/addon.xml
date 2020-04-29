@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.64" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.65" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
 		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.metahandler" />
+		<import addon="script.module.js2py" />
+        <import addon="script.module.pyjsparser" />
 		<import addon="script.module.beautifulsoup4" />
 		<import addon="plugin.video.youtube"/>
 	</requires>
@@ -22,9 +24,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.64
-- Added Radio Station in LiveTv Section (Testing)
-- Updated Cfscrape
+			v2.0.65
+- Fixed ArconaiTv
 		</news>
 	</extension>
 </addon>
