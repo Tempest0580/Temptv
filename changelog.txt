@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.66
+- Update Imkmedia
+
 2.0.65
 - Fixed ArconaiTv
 - Removed UstvGo until i can get it 100% (In Process)

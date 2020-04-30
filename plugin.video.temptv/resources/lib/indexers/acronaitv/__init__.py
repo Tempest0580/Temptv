@@ -33,7 +33,7 @@ class acronaitv:
         for cable in parsed['cable']:
             if title == cable['title']:
                 return cable
-        return {'title': title, 'description': 'New Channel!', 'poster':' DefaultVideo.png'}
+        return {'title': title, 'description': 'New Channel!', 'poster': ' DefaultVideo.png'}
 
     def getShowInfo(self, title):
         desc_file = os.path.join(os.path.dirname(__file__), 'shows.json')
@@ -57,7 +57,7 @@ class acronaitv:
 
     def list_categories(self):
         url = self.build_url({'action': 'arconai'})
-        li = xbmcgui.ListItem("""Please vist https://www.facebook.com/Arconaitv/ and donate. Anything will help. Thanks""")
+        li = xbmcgui.ListItem("""Please vist https://www.arconaitv.us/ and donate. Anything will help. Thanks""")
         img = self.artbase_url % 'Arc.jpg'
         li.setArt({'thumb': img, 'poster': img})
         il = {"plot": "Please Help The site get back to normal"}
@@ -68,7 +68,7 @@ class acronaitv:
         li = xbmcgui.ListItem("Live TV Channels")
         cable_img = self.artbase_url % "arconaiCable.png"
         li.setArt({'thumb': cable_img, 'poster': cable_img})
-        il = {"plot": "Live TV Channels" }
+        il = {"plot": "Live TV Channels"}
         li.setInfo(type='Video', infoLabels=il)
         xbmcplugin.addDirectoryItem(addon_handle, url=url, listitem=li, isFolder=True)
 
@@ -176,7 +176,7 @@ class acronaitv:
             title = box.a["title"].strip()
             movieInfo = self.getMovieInfo(title)
             li = xbmcgui.ListItem(movieInfo['title'], iconImage=movieInfo['poster'])
-            il = {"Title": title, "mediatype":"video", "plot": movieInfo['description'], "plotoutline": movieInfo['description']}
+            il = {"Title": title, "mediatype": "video", "plot": movieInfo['description'], "plotoutline": movieInfo['description']}
             li.setProperty('IsPlayable', 'True')
             li.setProperty('mimetype', 'application/x-mpegURL')
             li.setInfo(type='Video', infoLabels=il)

@@ -10,18 +10,18 @@ from resources.lib.modules import control
 class imkmedia:
     def __init__(self):
         self.list = []
-        self.base_link = 'http://imkmedia.com'
+        self.base_link = 'http://myustv.com'
         self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
 
     def root(self):
-        urls = ['http://imkmedia.com/watch/category/united-states-usa-tv-channel',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/2',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/3',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/4',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/5',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/6',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/7',
-                'http://imkmedia.com/watch/category/united-states-usa-tv-channel/page/8']
+        urls = ['http://myustv.com//watch/category/united-states-usa-tv-channel',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/2',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/3',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/4',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/5',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/6',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/7',
+                'http://myustv.com//watch/category/united-states-usa-tv-channel/page/8']
         for url in urls:
             url = client.request(url, headers =self.headers)
             url = re.findall('<div class="td-module-thumb"><a href="(.+?)" rel="bookmark" class="td-image-wrap" title="(.+?)"><img .+? src="(.+?)"', url)
@@ -33,7 +33,7 @@ class imkmedia:
     def play(self, url):
         try:
             stream = client.request(url, headers =self.headers)
-            stream = re.compile('source: atob\("(.+?)"\)').findall(stream)[0]
+            stream = re.compile('var link= atob\("(.+?)"\);').findall(stream)[0]
             link = base64.b64decode(stream)
             link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), url)
             control.execute('PlayMedia(%s)' % link)
@@ -82,3 +82,4 @@ class imkmedia:
         control.sortMethod(syshandle, sortMethod)
         control.content(syshandle, 'addons')
         control.directory(syshandle, cacheToDisc=True)
+

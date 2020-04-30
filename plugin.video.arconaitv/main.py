@@ -54,8 +54,7 @@ def getMovieInfo(title):
 
 def list_categories():
     url = build_url({'action': 'arconai'})
-    li = xbmcgui.ListItem("""Arconaitv needs help, Please vist https://www.facebook.com/Arconaitv/
-and donate. Anything will help. Thanks""")
+    li = xbmcgui.ListItem("""Please vist hhttps://www.arconaitv.us/ and donate. Anything will help. Thanks""")
     img = artbase_url % 'Arc.jpg'
     li.setArt({'thumb': img, 'poster': img})
     il = {"plot": "Please Help The site get back to normal"}
