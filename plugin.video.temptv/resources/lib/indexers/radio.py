@@ -4,7 +4,7 @@
 import re, os, sys, urllib
 from resources.lib.modules import client
 from resources.lib.modules import control
-from resources.lib.sources import cfscrape
+from resources.lib.modules import cfscrape
 
 
 class radio:
@@ -13,11 +13,12 @@ class radio:
         self.base_link = 'http://streamwat.ch/radio'
         self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
         self.icon = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSykPFMcusbg1NRKDRFjMy4Drzd69L5eD6mpzJxg31xLj71L2Ed&usqp=CAU'
+        self.scraper = cfscrape.create_scraper()
 
     def root(self):
         urls = [self.base_link]
         for url in urls:
-            url = cfscrape.get(url, headers =self.headers).content
+            url = self.scraper.get(url, headers =self.headers).content
             url = re.findall('<li data-title="(.+?)" data-type="mp3" data-url="(.+?)"></li>', url)
             for item in url:
                 self.list.append({'name': item[0], 'url': item[1], 'image': self.icon, 'action': 'radioPlay'})
