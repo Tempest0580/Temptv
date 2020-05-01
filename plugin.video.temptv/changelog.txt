@@ -1,10 +1,13 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
-[B][COLOR gold] 2.0.65 [/COLOR][/B]
+[B][COLOR gold] 2.0.67 [/COLOR][/B]
+- ArconaiTv Cosmetic
+
+[B][COLOR gold] 2.0.66 [/COLOR][/B]
 - Update Imkmedia
 
-[B][COLOR gold] 2.0.64 [/COLOR][/B]
+[B][COLOR gold] 2.0.65 [/COLOR][/B]
 - Fixed ArconaiTv
 - Removed UstvGo until i can get it 100% (In Process)
 - Updated Zynetv
@@ -20,7 +23,7 @@ Repo https://tempest0580.github.io/
 
 [B][COLOR gold] 2.0.62 [/COLOR][/B]
 - Added Zynet.tv some channels in liveTv (Still a few more to add)
-- Removed Acronaitv until i can find a fix
+- Removed arconaitv until i can find a fix
 
 [B][COLOR gold] 2.0.61 [/COLOR][/B]
 - Fixed Ustvgo (Roll back is working again, Thanks Bjgood for Letting me know)

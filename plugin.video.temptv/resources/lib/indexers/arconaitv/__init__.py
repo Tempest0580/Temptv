@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-# --[ acronaitv v1.0 ]--|--[ From JewBMX ]--
-# --[ acronaitv v1.1 ]--|--[ From Tempest ]--
+# --[ arconaitv v1.0 ]--|--[ From JewBMX ]--
+# --[ arconaitv v1.1 ]--|--[ From Tempest ]--
 # IPTV Indexer made from the Alberto_Posadas ArconaiTV Plugin.
 
 import os.path, json, requests, re
@@ -16,7 +16,7 @@ args = urlparse.parse_qs(sys.argv[2][1:])
 action = args.get('action', None)
 
 
-class acronaitv:
+class arconaitv:
     def __init__(self):
         self.artbase_url = "https://github.com/jewbmx/xml/blob/master/img/arconaitv/%s?raw=true"
         self.arconaitv_url = "https://www.arconaitv.us/"

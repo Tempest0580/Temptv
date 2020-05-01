@@ -346,25 +346,25 @@ elif action == 'streamlivePlay':
     from resources.lib.indexers import streamlive
     streamlive.streamlive().play(url)
 
-elif action == 'acronaitv_menu':
-    from resources.lib.indexers import acronaitv
-    acronaitv.acronaitv().list_categories()
+elif action == 'arconaitv_menu':
+    from resources.lib.indexers import arconaitv
+    arconaitv.arconaitv().list_categories()
 
 elif action == 'arconai_cable':
-    from resources.lib.indexers import acronaitv
-    acronaitv.acronaitv().list_cable()
+    from resources.lib.indexers import arconaitv
+    arconaitv.arconaitv().list_cable()
 
 elif action == 'arconai_shows':
-    from resources.lib.indexers import acronaitv
-    acronaitv.acronaitv().list_shows()
+    from resources.lib.indexers import arconaitv
+    arconaitv.arconaitv().list_shows()
 
 elif action == 'arconai_movies':
-    from resources.lib.indexers import acronaitv
-    acronaitv.acronaitv().list_movies()
+    from resources.lib.indexers import arconaitv
+    arconaitv.arconaitv().list_movies()
 
 elif action == 'arconai_play':
-    from resources.lib.indexers import acronaitv
-    acronaitv.acronaitv().play_video(params['selection'])
+    from resources.lib.indexers import arconaitv
+    arconaitv.arconaitv().play_video(params['selection'])
 
 elif action == 'wrestlingNavigator':
     from resources.lib.indexers import watchwrestling

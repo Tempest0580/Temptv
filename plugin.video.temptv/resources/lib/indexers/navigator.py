@@ -33,7 +33,7 @@ class navigator:
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Radio', 'radioNavigator', 'channels.png', 'DefaultTVShows.png')
-        self.addDirectoryItem('AcronaiTV 24/7', 'acronaitv_menu', 'channels.png', 'DefaultTvshows.png')
+        self.addDirectoryItem('ArconaiTV 24/7', 'arconaitv_menu', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Imkmedia', 'imkmediaNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('ZyneTV', 'zynetvNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')

@@ -110,7 +110,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.66" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.67" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -135,13 +135,13 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.66
-- Update Imkmedia
+			v2.0.67
+- ArconaiTv Cosmetic
 		</news>
 	</extension>
 </addon>
 
-<addon id="plugin.video.arconaitv" version="1.0.19" name="ArconaiTV" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.arconaitv" version="1.0.20" name="ArconaiTV" provider-name="Tempest, JewBMX">
     <requires>
         <import addon="xbmc.python" version="2.24.0"/>
         <import addon="script.module.requests" />
@@ -159,8 +159,8 @@
             <icon>icon.png</icon>
         </assets>
         <news>
-			v1.0.19
-- Fixed
+			v1.0.20
+- Cosmetic
 		</news>
     </extension>
 </addon>

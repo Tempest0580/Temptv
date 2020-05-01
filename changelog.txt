@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.67
+- ArconaiTv Cosmetic
+
 2.0.66
 - Update Imkmedia
 
@@ -24,7 +27,7 @@ Repo https://tempest0580.github.io/
 
 2.0.62
 - Added Zynet.tv some channels in liveTv (Still a few more to add)
-- Removed Acronaitv until i can find a fix
+- Removed arconaitv until i can find a fix
 
 2.0.61
 - Fixed Ustvgo (Roll back is working again, Thanks Bjgood for Letting me know)
@@ -162,7 +165,7 @@ Minor Updates
 - Removed 1 Click (Dont have time to keep up with sites going down. Will add back later once i find better sources)
 
 2.0.23
-- Added Random Streams to Acronaitv 24-7
+- Added Random Streams to arconaitv 24-7
 - Added Wrestling Indexer (Testing)
 
 2.0.22
@@ -214,7 +217,7 @@ Minor Updates
 - Added more channels for Stramlive
 - Added a section for all English Live tv in one section
 - Updated other live channels
-- Updated some Acronaitv artwork
+- Updated some arconaitv artwork
 - Fixed Music section not working
 
 2.0.7
@@ -230,7 +233,7 @@ Minor Updates
 - Code Clean up on UsaTv Go
 
 2.0.3
-- Added Acronaitv (24-7 movies and shows in the 24-7 Dir)
+- Added arconaitv (24-7 movies and shows in the 24-7 Dir)
 
 2.0.2]
 - New Repo https://tempest0580.github.io/
