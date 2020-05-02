@@ -16,7 +16,6 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 import re
-import math
 import random
 import string
 import time
@@ -56,4 +55,4 @@ class DoodStreamResolver(ResolveUrl):
         data = data.replace('/', 'Z').decode('base64')
         data = data.replace('@', 'a').decode('base64')
         t = string.ascii_letters + string.digits
-        return data + ''.join([t[int(math.floor(random.random() * 62))] for _ in range(10)])
+        return data + ''.join([random.choice(t) for _ in range(10)])

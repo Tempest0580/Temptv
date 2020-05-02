@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 2.0.68
+- Update ResolveUrl
+
+2.0.68
 - Fix Radio Section
 
 2.0.67

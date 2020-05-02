@@ -1,13 +1,12 @@
-Version 5.0.43 (Apr 23, 2020)
+Version 5.0.45 (May 1, 2020)
 - Code Base Changes:
-    - None
+    - none
+
 - Resolvers Added:
-    - doodstream
-    - wstream
+    - vidmoly
  
 - Resolvers Fixed/Updated:
-    - debridlink
-    - cda
+    - clipwatching
 
 - Resolvers Removed
     - none
