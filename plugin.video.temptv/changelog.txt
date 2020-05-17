@@ -1,7 +1,10 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
-[B][COLOR gold] 2.0.67 [/COLOR][/B]
+[B][COLOR gold] 2.0.69 [/COLOR][/B]
+- Quick Update for Cfscrape
+
+[B][COLOR gold] 2.0.68 [/COLOR][/B]
 - Fix Radio Section
 
 [B][COLOR gold] 2.0.67 [/COLOR][/B]
