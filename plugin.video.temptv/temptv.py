@@ -294,21 +294,13 @@ elif action == 'ustvgoPlay':
     from resources.lib.indexers import ustvgo
     ustvgo.ustvgo().play(url)
 
-elif action == 'zynetvNavigator':
-    from resources.lib.indexers import zynetv
-    zynetv.zynetv().root()
+elif action == 'myustvNavigator':
+    from resources.lib.indexers import myustv
+    myustv.myustv().root()
 
-elif action == 'zynetvPlay':
-    from resources.lib.indexers import zynetv
-    zynetv.zynetv().play(url)
-
-elif action == 'imkmediaNavigator':
-    from resources.lib.indexers import imkmedia
-    imkmedia.imkmedia().root()
-
-elif action == 'imkmediaPlay':
-    from resources.lib.indexers import imkmedia
-    imkmedia.imkmedia().play(url)
+elif action == 'myustvPlay':
+    from resources.lib.indexers import myustv
+    myustv.myustv().play(url)
 
 elif action == 'ustreamixNavigator':
     from resources.lib.indexers import ustreamix
@@ -345,26 +337,6 @@ elif action == 'streamliveNavigator':
 elif action == 'streamlivePlay':
     from resources.lib.indexers import streamlive
     streamlive.streamlive().play(url)
-
-elif action == 'arconaitv_menu':
-    from resources.lib.indexers import arconaitv
-    arconaitv.arconaitv().list_categories()
-
-elif action == 'arconai_cable':
-    from resources.lib.indexers import arconaitv
-    arconaitv.arconaitv().list_cable()
-
-elif action == 'arconai_shows':
-    from resources.lib.indexers import arconaitv
-    arconaitv.arconaitv().list_shows()
-
-elif action == 'arconai_movies':
-    from resources.lib.indexers import arconaitv
-    arconaitv.arconaitv().list_movies()
-
-elif action == 'arconai_play':
-    from resources.lib.indexers import arconaitv
-    arconaitv.arconaitv().play_video(params['selection'])
 
 elif action == 'wrestlingNavigator':
     from resources.lib.indexers import watchwrestling
