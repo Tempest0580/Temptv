@@ -3,6 +3,9 @@
 Repo https://tempest0580.github.io/
 
 2.0.70
+- Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
+
+2.0.69
 - Remove ArconaiTv
 - Remove Zynet.tv
 - Update Imkmedia

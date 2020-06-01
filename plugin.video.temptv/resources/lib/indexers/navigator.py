@@ -33,6 +33,7 @@ class navigator:
         self.addDirectoryItem('News', 'news', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Music', 'music', 'channels.png', 'DefaultTvshows.png')
         self.addDirectoryItem('Radio', 'radioNavigator', 'channels.png', 'DefaultTVShows.png')
+        self.addDirectoryItem('UsaTv Go', 'ustvgoNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Myustv', 'myustvNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('StreamLive', 'streamliveNavigator', 'channels.png', 'DefaultTVShows.png')
         self.addDirectoryItem('Sports24', 'sports24Navigator', 'channels.png', 'DefaultTVShows.png')

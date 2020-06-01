@@ -52,7 +52,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.69" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.70" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -77,8 +77,8 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.69
-- Quick Update for Cfscrape
+			v2.0.70
+- Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
 		</news>
 	</extension>
 </addon>

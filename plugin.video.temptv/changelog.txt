@@ -2,6 +2,9 @@
 Repo https://tempest0580.github.io/
 
 [B][COLOR gold] 2.0.70 [/COLOR][/B]
+- Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
+
+[B][COLOR gold] 2.0.69 [/COLOR][/B]
 - Update Imkmedia
 - Rename Imkmedia to Myustv
 
