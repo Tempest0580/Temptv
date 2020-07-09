@@ -16,7 +16,7 @@ class ustreamix:
 
     def root(self):
         url = 'https://ssl.ustreamix.com/index.html'
-        url = client.request(url, headers =self.headers)
+        url = client.request(url, headers=self.headers)
         url = re.findall('href="(.+?)" target="_blank">(.+?) <span', url)
         for item in url:
             self.list.append({'name': item[1], 'url': item[0], 'image': self.icon, 'action': 'ustreamixPlay'})
@@ -29,29 +29,17 @@ class ustreamix:
             from resources.lib.modules import jsunpack
             from resources.lib.modules import log_utils
             unpacked = ''
-            html = client.request(url, headers=self.headers)
-            html = re.findall('(eval\(function\(p,a,c,k,e,d\)\{.*)', html)
-            for html in html:
-                if 'interlink' in html:
-                    unpacked = jsunpack.unpack(html)
-                    u = unpacked.split("window.open=\\'")[1].split("\\';document")[0]
-                    url = self.base_link + u
-                    url = client.request(url, headers=self.headers)
-                    url = re.findall('(eval\(function\(p,a,c,k,e,d\)\{.*)', url)[0]
-                    url = jsunpack.unpack(url)
-                    url = url.split('https:')[1].split('");location')[0]
-                    url = "https:" + url
-                    log_utils.log('---Eztv Testing - Exception: \n' + str(url))
-                    url = client.request(url, headers=self.headers)
-                    url = re.compile('(eval\(function\(p,a,c,k,e,d\)\{.*)').findall(url)
-                    for url in url:
-                        if 'hls' in url and 'm3u8' in url:
-                            uncode = jsunpack.unpack(url)
-                            code = re.findall('host_tmg="(.+?)";var ustreamix_app=0;', uncode)[0]
-                            code1 = re.findall('file_name="(.+?)";var', uncode)[0]
-                            code2 = re.findall('jdtk="(.+?)";var', uncode)[0]
-                            link = 'https://%s/%s?token=%s|User-Agent=%s&Referer=%s' % (code, code1, code2, client.agent(), self.base_link)
-                            control.execute('PlayMedia(%s)' % link)
+            url_main = url
+            url = client.request(url_main, headers=self.headers)
+            url = re.compile('(eval\(function\(p,a,c,k,e,d\)\{.*)').findall(url)
+            for url in url:
+                if 'hls' in url and 'm3u8' in url:
+                    uncode = jsunpack.unpack(url)
+                    code = re.findall('host_tmg="(.+?)";var ustreamix_app=0;', uncode)[0]
+                    code1 = re.findall('file_name="(.+?)";var', uncode)[0]
+                    code2 = re.findall('jdtk="(.+?)";var', uncode)[0]
+                    link = 'https://%s/%s?token=%s|User-Agent=%s&Referer=%s' % (code, code1, code2, client.agent(), url_main)
+                    control.execute('PlayMedia(%s)' % link)
         except:
             return
 

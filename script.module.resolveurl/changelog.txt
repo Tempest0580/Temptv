@@ -1,15 +1,15 @@
-Version 5.0.45 (May 1, 2020)
+Version 5.1.2 (July 7, 2020)
 - Code Base Changes:
-    - none
+    - Fix settings.xml writing on non english systems
 
 - Resolvers Added:
-    - vidmoly
+    - Vudeo
  
 - Resolvers Fixed/Updated:
-    - clipwatching
+    - WStream
 
 - Resolvers Removed
-    - none
+    - None
 
 - Languages Added/Updated
-    - none
+    - None

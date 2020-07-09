@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.45" provider-name="jsergio, gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.2" provider-name="gujal">
     <requires>
-        <import addon="xbmc.python" version="2.1.0" />
+        <!-- <import addon="xbmc.python" version="3.0.0" /> -->
+        <import addon="script.module.six" version="0.0.1"/>
         <import addon="plugin.video.youtube" optional="true" />
         <import addon="script.module.python.twitch" optional="true" />
         <import addon="script.module.cryptopy" version="1.2.6" optional="true" />
@@ -18,6 +19,10 @@
         <summary lang="el">Επίλυση συνδέσμων κοινών εξυπηρετητών σε μορφή βίντεο ικανό για αναπαραγωγή στο XBMC/Kodi.</summary>
         <description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
         <description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
 </addon>
 
@@ -52,15 +57,13 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.70" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.71" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
 		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.metahandler" />
-		<import addon="script.module.js2py" />
-        <import addon="script.module.pyjsparser" />
 		<import addon="script.module.beautifulsoup4" />
 		<import addon="plugin.video.youtube"/>
 	</requires>
@@ -77,8 +80,13 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.70
-- Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
+			v2.0.71
+- Fixed UstvGo
+- Fixed Ustreamix
+- Fixed Myustv
+- Fixed Foreign Channels
+- Should have Fixed the install issue for some people
+- Next Update will include a update to streamlive to fix some channels and remove some
 		</news>
 	</extension>
 </addon>

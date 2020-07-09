@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.70" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.71" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
 		<import addon="script.module.resolveurl" />
 		<import addon="script.module.requests" />
 		<import addon="script.module.metahandler" />
-		<import addon="script.module.js2py" />
-        <import addon="script.module.pyjsparser" />
 		<import addon="script.module.beautifulsoup4" />
 		<import addon="plugin.video.youtube"/>
 	</requires>
@@ -24,8 +22,13 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.70
-- Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
+			v2.0.71
+- Fixed UstvGo
+- Fixed Ustreamix
+- Fixed Myustv
+- Fixed Foreign Channels
+- Should have Fixed the install issue for some people
+- Next Update will include a update to streamlive to fix some channels and remove some
 		</news>
 	</extension>
 </addon>

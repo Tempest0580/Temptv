@@ -2,7 +2,7 @@
 # --[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib
+import re, os, sys, urllib, base64
 from resources.lib.modules import client
 from resources.lib.modules import control
 
@@ -107,39 +107,13 @@ class ustvgo:
 
     def play(self, url):
         try:
-            link = self.codes1(url) + self.codes2(url)
+            link = client.request(url, headers=self.headers)
+            link = re.compile("atob\('(.+?)'\);").findall(link)[0]
+            link = base64.b64decode(link)
             link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)
             control.execute('PlayMedia(%s)' % link)
         except:
             return
-
-    def codes1(self, url):
-        codes1 = []
-        link = client.request(url, headers=self.headers)
-        url = re.findall('const _0x44e6=\[(.+?)\];', link, re.DOTALL)[0]
-        url = re.findall('"(.+?)"', url, re.DOTALL)
-        for url in url:
-            urls = re.findall('case "(.+?)": return "(.+?)";', link, re.DOTALL)
-            for urls in urls:
-                if url in urls[0]:
-                    codes1 += urls[1]
-                    codes1 = ''.join(codes1)
-                    if '=' not in codes1:
-                        continue
-                    return codes1
-
-    def codes2(self, url):
-        link = client.request(url, headers=self.headers)
-        code2 = re.findall(";return _0x44e6\[.+?\]\(''\)\+(.+?)\[.+?\]\(''\)\+document\[.+?\]\(\'(.+?)\'\)\['innerHTML'\];", link)
-        code2_5 = re.compile("var (.+?) = \[(.+?)\];").findall(link)
-        code3 = re.findall('id=(.+?)>(.+?)</span', link, re.DOTALL)
-        for code2_5 in code2_5:
-            if code2[0][0] in code2_5[0]:
-                codes2 = code2_5[1].replace(',', '').replace('"', '')
-                for code3 in code3:
-                    if code2[0][1] in code3[0]:
-                        code3 = codes2 + code3[1]
-                        return code3
 
     def addDirectory(self, items, queue=False, isFolder=True):
         if items is None or len(items) is 0:

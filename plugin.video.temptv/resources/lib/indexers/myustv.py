@@ -20,7 +20,6 @@ class myustv:
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/4/',
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/5/',
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/6/',
-                'http://myustv.com/watch/category/united-states-usa-tv-channel/page/7/',
                 'http://myustv.com/watch/category/soccer-streams-channel/']
         for url in urls:
             url = client.request(url, headers =self.headers)

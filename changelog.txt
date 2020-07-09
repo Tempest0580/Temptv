@@ -2,6 +2,14 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.71
+- Fixed UstvGo
+- Fixed Ustreamix
+- Fixed Myustv
+- Fixed Foreign Channels
+- Should have Fixed the install issue for some people
+- Next Update will include a update to streamlive to fix some channels and remove some
+
 2.0.70
 - Added UstvGo Back (Fixed, Needs Testing - Some Channels May still not work because a VPN is Required)
 

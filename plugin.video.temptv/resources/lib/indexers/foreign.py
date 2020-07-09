@@ -15,9 +15,10 @@ class foreign:
 
     def root(self):
         url = requests.get(self.base_link, headers=self.headers).content
-        url = re.findall('<tr><td align="left">(.+?)</td><td .+? nowrap=""><code>(.+?)</code>', url)
+        url = re.findall('alias=".+?" fallback-src="(.+?)".+?>\xc2\xa0(.+?)</td><td align="right">.+?</td><td align="left" '
+                 'nowrap=""><code>(.+?)</code></td><td align="left">', url)
         for link in url:
-            self.list.append({'name': link[0], 'url': link[1], 'image': 'channels.png', 'action': 'foreignNext'})
+            self.list.append({'name': link[1], 'url': link[2], 'image': link[0], 'action': 'foreignNext'})
         self.addDirectory(self.list)
         return self.list
 

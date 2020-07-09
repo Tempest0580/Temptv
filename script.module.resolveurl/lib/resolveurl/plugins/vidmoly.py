@@ -16,8 +16,8 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <http://www.gnu.org/licenses/>.
 """
 
-from __resolve_generic__ import ResolveGeneric
-from lib import helpers
+from resolveurl.plugins.__resolve_generic__ import ResolveGeneric
+from resolveurl.plugins.lib import helpers
 
 
 class VidMolyResolver(ResolveGeneric):
@@ -28,7 +28,6 @@ class VidMolyResolver(ResolveGeneric):
     def get_media_url(self, host, media_id):
         return helpers.get_media_url(self.get_url(host, media_id),
                                      patterns=[r'''sources:\s*\["(?P<url>[^"]+)'''],
-                                     generic_patterns=False,
                                      result_blacklist=['.mpd'])
 
     def get_url(self, host, media_id):
