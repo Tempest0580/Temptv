@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.temptv" version="2.0.71" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.72" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -22,13 +22,10 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.71
+			v2.0.72
 - Fixed UstvGo
-- Fixed Ustreamix
 - Fixed Myustv
-- Fixed Foreign Channels
-- Should have Fixed the install issue for some people
-- Next Update will include a update to streamlive to fix some channels and remove some
+- Fixed Sports24
 		</news>
 	</extension>
 </addon>

@@ -1,5 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="script.temptv.artwork" version="1.0.2" name="[COLOR fuchsia]TempTV Artwork[/COLOR]" provider-name="Tempest, JewBMX">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for the Temptv Addon</summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.module.tzlocal" name="tzlocal" version="1.5.2" provider-name="Addons4Kodi">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.pytz" version="2014.2"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python Module to find out the current time zone</summary>
+    <description>Packed for Kodi from https://github.com/regebro/tzlocal</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/regebro/tzlocal</website>
+    <source>https://github.com/regebro/tzlocal</source>
+    <email></email>
+  </extension>
+</addon>
+
+<addon id="plugin.video.temptv" version="2.0.72" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.temptv.artwork" />
+		<import addon="script.module.resolveurl" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.metahandler" />
+		<import addon="script.module.beautifulsoup4" />
+		<import addon="plugin.video.youtube"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="temptv.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<description lang="en">Beta. Simple Free Light IPTV and 1 Click Movies.</description>
+        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+        <license>Free the People!, Free the World!!</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>
+			v2.0.72
+- Fixed UstvGo
+- Fixed Myustv
+- Fixed Sports24
+		</news>
+	</extension>
+</addon>
+
 <addon id="script.module.resolveurl" name="ResolveURL" version="5.1.2" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
@@ -24,71 +86,6 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-
-<addon id="script.module.tzlocal" name="tzlocal" version="1.5.2" provider-name="Addons4Kodi">
-  <requires>
-    <import addon="xbmc.python" version="2.25.0"/>
-    <import addon="script.module.pytz" version="2014.2"/>
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <summary>Python Module to find out the current time zone</summary>
-    <description>Packed for Kodi from https://github.com/regebro/tzlocal</description>
-    <platform>all</platform>
-    <language></language>
-    <license>MIT</license>
-    <forum></forum>
-    <website>https://github.com/regebro/tzlocal</website>
-    <source>https://github.com/regebro/tzlocal</source>
-    <email></email>
-  </extension>
-</addon>
-
-<addon id="script.temptv.artwork" version="1.0.2" name="[COLOR fuchsia]TempTV Artwork[/COLOR]" provider-name="Tempest, JewBMX">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the Temptv Addon</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.temptv" version="2.0.71" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.temptv.artwork" />
-		<import addon="script.module.resolveurl" />
-		<import addon="script.module.requests" />
-		<import addon="script.module.metahandler" />
-		<import addon="script.module.beautifulsoup4" />
-		<import addon="plugin.video.youtube"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="temptv.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-		<description lang="en">Beta. Simple Free Light IPTV and 1 Click Movies.</description>
-        <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-        <license>Free the People!, Free the World!!</license>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-		<news>
-			v2.0.71
-- Fixed UstvGo
-- Fixed Ustreamix
-- Fixed Myustv
-- Fixed Foreign Channels
-- Should have Fixed the install issue for some people
-- Next Update will include a update to streamlive to fix some channels and remove some
-		</news>
-	</extension>
 </addon>
 
 <addon id="repository.temptv" name="Temptv Repo" version="0.0.5" provider-name="Tempest">

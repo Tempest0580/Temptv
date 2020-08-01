@@ -20,7 +20,7 @@ class myustv:
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/4/',
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/5/',
                 'http://myustv.com/watch/category/united-states-usa-tv-channel/page/6/',
-                'http://myustv.com/watch/category/soccer-streams-channel/']
+                'http://myustv.com/watch/category/soccer-streams/']
         for url in urls:
             url = client.request(url, headers =self.headers)
             url = re.findall('<div class="td_module_1 td_module_wrap td-animation-stack">\s+<div class="td-module-image">\s+<div class="td-module-thumb"><a href="(.+?)" rel="bookmark" class="td-image-wrap" title="(.+?)"><img .+? src="(.+?)"', url)

@@ -1,6 +1,11 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.72 [/COLOR][/B]
+- Fixed UstvGo
+- Fixed Myustv
+- Fixed Sports24
+
 [B][COLOR gold] 2.0.71 [/COLOR][/B]
 - Fixed UstvGo
 - Fixed Ustreamix
