@@ -16,15 +16,10 @@ class ustvgo:
         self.icon = 'https://github.com/Tempest0580/xml/blob/master/icons/channels.png?raw=true'
 
     def root(self):
-        urls = ['https://ustvgo.tv/category/entertainment/',
-                'https://ustvgo.tv/category/entertainment/page/2/',
-                'https://ustvgo.tv/category/entertainment/page/3/',
-                'https://ustvgo.tv/category/news/',
-                'https://ustvgo.tv/category/sports/',
-                'https://ustvgo.tv/category/kids/']
+        urls = [self.base_link]
         for url in urls:
             url = client.request(url, headers =self.headers)
-            url = re.findall('class="featured-image"> <a href="(.+?)" title="(.+?)"><img width=".+?" height=".+?" src=".+?" class=".+?" alt="" data-lazy-src="(.+?)" /><noscript><img width="269" height="151" src=".+?"', url)
+            url = re.findall('<li><strong><a href="(.+?)">(.+?)</a>', url)
             for item in url:
                 self.list.append({'name': item[1].replace('#038;', ''), 'url': item[0], 'image': self.icon, 'action': 'ustvgoPlay'})
         self.addDirectory(self.list)
@@ -33,9 +28,6 @@ class ustvgo:
     def play(self, url):
         try:
             link = client.request(url, headers=self.headers)
-            link = re.compile("<iframe src='(.+?)'").findall(link)[0]
-            link = '%s%s' % (self.base_link, link)
-            link = client.request(link, headers=self.headers)
             link = re.compile("atob\('(.+?)'\);").findall(link)[0]
             link = base64.b64decode(link)
             link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)

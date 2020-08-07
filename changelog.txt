@@ -2,6 +2,9 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.73
+- Fixed UstvGo
+
 2.0.72
 - Fixed UstvGo
 - Fixed Myustv
