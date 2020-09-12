@@ -28,6 +28,8 @@ class ustvgo:
     def play(self, url):
         try:
             link = client.request(url, headers=self.headers)
+            link = [lnk for lnk in re.compile("<iframe.+iframe>").findall(link)[0].split("'") if lnk.find("tvguide") > 0][0]
+            link = client.request(link, headers=self.headers)
             link = re.compile("atob\('(.+?)'\);").findall(link)[0]
             link = base64.b64decode(link)
             link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)

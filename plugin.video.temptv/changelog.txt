@@ -1,6 +1,9 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.74 [/COLOR][/B]
+- Fixed UstvGo (Thanks Fedevx for the fix)
+
 [B][COLOR gold] 2.0.73 [/COLOR][/B]
 - Fixed UstvGo
 
