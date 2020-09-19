@@ -19,7 +19,7 @@ import re
 import xbmcgui
 from resolveurl.plugins.lib import jsunpack
 import six
-from six.moves import urllib_parse
+from six.moves import urllib_parse, urllib_request
 from resolveurl import common
 from resolveurl.resolver import ResolverError
 
@@ -188,7 +188,7 @@ def scrape_sources(html, result_blacklist=None, scheme='http', patterns=None, ge
     return source_list
 
 
-def get_media_url(url, result_blacklist=None, patterns=None, generic_patterns=True):
+def get_media_url(url, result_blacklist=None, patterns=None, generic_patterns=True, referer=True):
     if patterns is None:
         patterns = []
     scheme = urllib_parse.urlparse(url).scheme
@@ -200,7 +200,8 @@ def get_media_url(url, result_blacklist=None, patterns=None, generic_patterns=Tr
     result_blacklist = list(set(result_blacklist + ['.smil']))  # smil(not playable) contains potential sources, only blacklist when called from here
     net = common.Net()
     headers = {'User-Agent': common.RAND_UA}
-    headers.update({'Referer': url})
+    if referer:
+        headers.update({'Referer': url})
     response = net.http_GET(url, headers=headers)
     response_headers = response.get_headers(as_dict=True)
     cookie = response_headers.get('Set-Cookie', None)
@@ -294,3 +295,15 @@ def fun_decode(vu, lc, hr='16'):
             vup[7] = uhash + nchash
         vu = '/'.join(vup[2:]) + '&rnd={}'.format(int(time.time() * 1000))
     return vu
+
+
+def get_redirect_url(url, headers={}):
+    class NoRedirection(urllib_request.HTTPErrorProcessor):
+        def http_response(self, request, response):
+            return response
+
+    opener = urllib_request.build_opener(NoRedirection, urllib_request.HTTPHandler)
+    urllib_request.install_opener(opener)
+    request = urllib_request.Request(url, headers=headers)
+    response = urllib_request.urlopen(request)
+    return response.geturl()

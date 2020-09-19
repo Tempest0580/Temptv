@@ -4,6 +4,7 @@
 
 import re, os, sys, urllib, base64
 import xbmc, xbmcgui, xbmcplugin
+import js2py
 from resources.lib.modules import client
 from resources.lib.modules import control
 
@@ -30,11 +31,21 @@ class ustvgo:
             link = client.request(url, headers=self.headers)
             link = [lnk for lnk in re.compile("<iframe.+iframe>").findall(link)[0].split("'") if lnk.find("tvguide") > 0][0]
             link = client.request(link, headers=self.headers)
-            link = re.compile("atob\('(.+?)'\);").findall(link)[0]
-            link = base64.b64decode(link)
+            code = link[link.find("encrypted"):]
+            code = code[:code.find("</script>")]
+            file_code = re.findall(r"file.+", code)[0]
+            file_code = "var link = " + file_code[file_code.find(":") + 1: file_code.find(",")]
+            code = code[:code.find("var player")]
+            code = code + file_code
+            crypto_min = self.base_link + "/Crypto/crypto.min.js"
+            addional_code = client.request(crypto_min, headers=self.headers)
+            code = addional_code + code
+            context = js2py.EvalJs(enable_require=True)
+            link = context.eval(code)
             link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)
             control.execute('PlayMedia(%s)' % link)
-        except:
+        except Exception as e:
+            xbmc.log(str(e), level=xbmc.LOGNOTICE)
             return
 
     def addDirectory(self, items, queue=False, isFolder=True, sortMethod=xbmcplugin.SORT_METHOD_LABEL):

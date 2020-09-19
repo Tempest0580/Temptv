@@ -1,12 +1,12 @@
-Version 5.1.2 (July 7, 2020)
+Version 5.1.8 (September 7, 2020)
 - Code Base Changes:
-    - Fix settings.xml writing on non english systems
+    - None
 
 - Resolvers Added:
-    - Vudeo
+    - None
  
 - Resolvers Fixed/Updated:
-    - WStream
+    - Premiumize
 
 - Resolvers Removed
     - None
