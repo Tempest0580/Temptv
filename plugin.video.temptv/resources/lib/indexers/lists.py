@@ -33,7 +33,20 @@ class indexer:
     def entertainment(self):
         try:
             regex.clear()
-            url = 'aHR0cHM6Ly9pcHR2LW9yZy5naXRodWIuaW8vaXB0di9jb3VudHJpZXMvdXMubTN1'.decode(
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZm9yZWlnbl9jaGFubmVscy91cy5tM3U='.decode(
+                'base64')
+            self.list = self.noname_list(url)
+            for i in self.list:
+                i.update({'content': 'addons'})
+            self.addDirectory(self.list)
+            return self.list
+        except:
+            pass
+
+    def foreign(self):
+        try:
+            regex.clear()
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvZm9yZWlnbi54bWw='.decode(
                 'base64')
             self.list = self.noname_list(url)
             for i in self.list:
@@ -1955,7 +1968,10 @@ class player(xbmc.Player):
     def play(self, url, content=None):
         try:
             base = url
-            url = resolver().get(url)
+            try:
+                url = base64.b64decode(base)
+            except:
+                url = resolver().get(url)
             if url is False:
                 return
             control.execute('ActivateWindow(busydialog)')

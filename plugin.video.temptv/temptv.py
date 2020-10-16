@@ -375,8 +375,8 @@ elif action == 'yoursportsPlay':
     yoursports.yoursports().play(url)
 
 elif action == 'foreignNavigator':
-    from resources.lib.indexers import foreign
-    foreign.foreign().root()
+    from resources.lib.indexers import lists
+    lists.indexer().foreign()
 
 elif action == 'foreignNext':
     from resources.lib.indexers import foreign

@@ -1,12 +1,12 @@
-Version 5.1.8 (September 7, 2020)
+Version 5.1.10 (September 25, 2020)
 - Code Base Changes:
-    - None
+    - LOGNOTICE deprecated in Matrix
 
 - Resolvers Added:
     - None
  
 - Resolvers Fixed/Updated:
-    - Premiumize
+    - Linksnappy
 
 - Resolvers Removed
     - None

@@ -2,6 +2,11 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.76
+- Fixed most Foregin Channels for now(Will update soon)
+- Fixed Entertainment Section
+- In the process of updating the free 1 clicks(New sites, hope they stay working)
+
 2.0.75
 - Fixed UstvGo (Thanks Fedevx for the fix)
 
