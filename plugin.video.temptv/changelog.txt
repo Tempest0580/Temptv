@@ -1,6 +1,9 @@
 [COLOR gold]Report any issues at https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+[B][COLOR gold] 2.0.77 [/COLOR][/B]
+- Fixed UstvGo
+
 [B][COLOR gold] 2.0.76 [/COLOR][/B]
 - Fixed most Foregin Channels for now(Will update soon)
 - Fixed Entertainment Section
