@@ -29,7 +29,7 @@ class ustvgo:
     def play(self, url):
         try:
             link = client.request(url, headers=self.headers)
-            link = self.base_link + str([i for i in re.findall("<iframe src='(.+?)'", link)][0].split("'")[0])
+            link = str([i for i in re.findall("<iframe src='(.+?)'", link)][0].split("'")[0])
             link = client.request(link, headers=self.headers)
             try:
                 code = link[link.find("encrypted"):]
@@ -48,7 +48,7 @@ class ustvgo:
             except:
                 import xbmcgui
                 dialog = xbmcgui.Dialog()
-                dialog.notification('VPN', 'VPN Locked.', xbmcgui.NOTIFICATION_INFO, 5000)
+                dialog.notification('VPN', 'VPN Locked Or The Code Has Changed', xbmcgui.NOTIFICATION_INFO, 5000)
                 return
         except Exception as e:
             xbmc.log(str(e), level=xbmc.LOGNOTICE)
