@@ -40,7 +40,7 @@ class yoursports:
         except:
             return
 
-    def addDirectory(self, items, queue=False, isFolder=True):
+    def addDirectory(self, items, queue=False, isFolder=True, sortMethod=xbmcplugin.SORT_METHOD_LABEL):
         if items is None or len(items) is 0:
             control.idle()
             sys.exit()
@@ -79,5 +79,6 @@ class yoursports:
                 control.addItem(handle=syshandle, url=url, listitem=item, isFolder=isFolder)
             except Exception:
                 pass
+        control.sortMethod(syshandle, sortMethod)
         control.content(syshandle, 'addons')
         control.directory(syshandle, cacheToDisc=True)
