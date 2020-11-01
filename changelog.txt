@@ -2,6 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.79
+- Updated Foregin Channels
+- Updated YourSports
+
 2.0.78
 - Fix UstvGo (Thanks Fedevx)
 

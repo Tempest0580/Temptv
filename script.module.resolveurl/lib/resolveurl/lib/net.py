@@ -328,8 +328,8 @@ class HttpResponse:
     """
     This class represents a resoponse from an HTTP request.
 
-    The content is examined and every attempt is made to properly encode it to
-    Unicode.
+    The content is examined and every attempt is made to properly decode it to
+    Unicode unless the nodecode property flag is set to True.
 
     .. seealso::
         :meth:`Net.http_GET`, :meth:`Net.http_HEAD` and :meth:`Net.http_POST`
@@ -345,6 +345,7 @@ class HttpResponse:
             to :func:`urllib2.urlopen`.
         """
         self._response = response
+        self._nodecode = False
 
     @property
     def content(self):
@@ -355,6 +356,9 @@ class HttpResponse:
                 html = gzip.GzipFile(fileobj=six.BytesIO(html)).read()
         except:
             pass
+
+        if self._nodecode:
+            return html
 
         try:
             content_type = self._response.headers['content-type']
@@ -380,9 +384,16 @@ class HttpResponse:
         """Returns headers returned by the server.
         If as_dict is True, headers are returned as a dictionary otherwise a list"""
         if as_dict:
-            return dict([(item[0].title(), item[1]) for item in list(self._response.info().items())])
+            hdrs = {}
+            for item in list(self._response.info().items()):
+                if item[0].title() not in list(hdrs.keys()):
+                    hdrs.update({item[0].title(): item[1]})
+                else:
+                    hdrs.update({item[0].title(): ','.join([hdrs[item[0].title()], item[1]])})
+            # return dict([(item[0].title(), item[1]) for item in list(self._response.info().items())])
+            return hdrs
         else:
-            return self._response.info()._headers
+            return self._response.info()._headers if six.PY3 else [(x.split(':')[0].strip(), x.split(':')[1].strip()) for x in self._response.info().headers]
 
     def get_url(self):
         """
@@ -390,3 +401,12 @@ class HttpResponse:
         a redirect was followed.
         """
         return self._response.geturl()
+
+    def nodecode(self, nodecode):
+        """
+        Sets whether or not content returns decoded text
+        nodecode (bool): Set to ``True`` to allow content to return undecoded data
+        suitable to write to a binary file
+        """
+        self._nodecode = bool(nodecode)
+        return self
