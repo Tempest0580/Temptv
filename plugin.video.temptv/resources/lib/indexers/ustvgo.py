@@ -43,6 +43,7 @@ class ustvgo:
                 code = addional_code + code
                 context = js2py.EvalJs(enable_require=True)
                 link = context.eval(code)
+                link = link.replace("\r", "").replace("\n", "")
                 link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)
                 control.execute('PlayMedia(%s)' % link)
             except:
