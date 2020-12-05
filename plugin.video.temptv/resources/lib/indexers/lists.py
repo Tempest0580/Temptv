@@ -43,6 +43,19 @@ class indexer:
         except:
             pass
 
+    def allsprk(self):
+        try:
+            regex.clear()
+            url = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL1RlbXBlc3QwNTgwL3htbC9tYXN0ZXIvYWxsc3Byay5tM3U='.decode(
+                'base64')
+            self.list = self.noname_list(url)
+            for i in self.list:
+                i.update({'content': 'addons'})
+            self.addDirectory(self.list)
+            return self.list
+        except:
+            pass
+
     def foreign(self):
         try:
             regex.clear()
@@ -1967,11 +1980,15 @@ class player(xbmc.Player):
 
     def play(self, url, content=None):
         try:
-            base = url
             try:
-                url = base64.b64decode(base)
+                if url.startswith('http'):
+                    url = resolver().get(url)
+                else:
+                    url = url.decode('base64')
             except:
-                url = resolver().get(url)
+                pass
+            if url.endswith('?a=view'):
+                url = url.split('?a=view')[0]
             if url is False:
                 return
             control.execute('ActivateWindow(busydialog)')

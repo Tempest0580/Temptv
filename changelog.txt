@@ -2,6 +2,12 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.81
+- Updated UstvGo (Thanks jigoop1)
+- Removed Myustv
+- Added Allsprk
+- Minor Update
+
 2.0.80
 - Updated UstvGo (Thanks jigoop1)
 

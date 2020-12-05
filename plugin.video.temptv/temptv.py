@@ -46,6 +46,10 @@ if action == 'entertainment':
     from resources.lib.indexers import lists
     lists.indexer().entertainment()
 
+if action == 'allsprk':
+    from resources.lib.indexers import lists
+    lists.indexer().allsprk()
+
 if action == 'movies':
     from resources.lib.indexers import lists
     lists.indexer().movies()
@@ -326,7 +330,7 @@ elif action == 'radioPlay':
     from resources.lib.indexers import radio
     radio.radio().play(url)
 
-if action == '123tvnowNavigator':
+elif action == '123tvnowNavigator':
     from resources.lib.indexers import lists
     lists.indexer().tvnow()
 
