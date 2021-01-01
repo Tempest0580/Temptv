@@ -2,6 +2,10 @@
 [COLOR gold]If You Would like to Contribute vist https://github.com/Tempest0580/Temptv[/COLOR]
 Repo https://tempest0580.github.io/
 
+2.0.82
+- Fixed UstvGo
+- Updated UstvGo Art
+
 2.0.81
 - Updated UstvGo (Thanks jigoop1)
 - Removed Myustv

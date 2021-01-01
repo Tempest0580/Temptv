@@ -2,9 +2,10 @@
 # --[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib, base64
+import re, os, sys, urllib, json, urlparse
 import xbmc, xbmcgui, xbmcplugin
 import js2py
+from resources.lib.modules import log_utils
 from resources.lib.modules import client
 from resources.lib.modules import control
 
@@ -15,14 +16,35 @@ class ustvgo:
         self.base_link = 'https://ustvgo.tv'
         self.headers = {'User-Agent': client.agent(), 'Referer': self.base_link}
         self.icon = 'https://github.com/Tempest0580/xml/blob/master/icons/channels.png?raw=true'
+        addon_dir = control.addonPath #xbmc.translatePath('special://home/addons/plugin.video.tempest')
+        self.ustv_chennel = os.path.join(addon_dir, "resources", "lib", "indexers", "ustvgo_new.json")
 
     def root(self):
+        def get_dict_per_name(list_of_dict, key_value):
+            for item in list_of_dict:
+                if item['name'] == key_value:
+                    my_item = item
+                    list_of_dict.remove(item)
+                    break
+            else:
+                my_item = None
+            return list_of_dict, my_item
+        with open(self.ustv_chennel) as f:
+            list_of_dict = json.load(f)
         urls = [self.base_link]
         for url in urls:
-            url = client.request(url, headers =self.headers)
-            url = re.findall('<li><strong><a href="(.+?)">(.+?)</a>', url)
-            for item in url:
-                self.list.append({'name': item[1].replace('#038;', ''), 'url': item[0], 'image': self.icon, 'action': 'ustvgoPlay'})
+            url = client.request(url, headers=self.headers)
+            url = client.parseDOM(url, 'div', attrs={'class': 'entry-content clearfix'})
+            for url in url:
+                url = re.findall('><a href="(.+?)">(.+?)</a>', url)
+                for item in url:
+                    ch_name = item[1].replace('</strong>', '').replace('<strong>', '').replace('#038;', '').replace('&amp;', '&').replace('Animal', 'Animal Planet').replace('CW', 'The CW').strip()
+                    list_of_dict, ch_dict = get_dict_per_name(list_of_dict, ch_name)
+                    if ch_dict:
+                        ch_dict.update({'url': item[0]})
+                        self.list.append(ch_dict)
+                    else:
+                        self.list.append({'name': ch_name, 'url': item[0], 'image': self.icon, 'action': 'ustvgoPlay'})
         self.addDirectory(self.list)
         return self.list
 
@@ -30,6 +52,9 @@ class ustvgo:
         try:
             link = client.request(url, headers=self.headers)
             link = str([i for i in re.findall("<iframe src='(.+?)'", link)][0].split("'")[0])
+            if link.startswith('/'):
+                link = urlparse.urljoin(self.base_link, link)
+            log_utils.log('---2EMBED Testing - Exception: \n' + str(link))
             link = client.request(link, headers=self.headers)
             try:
                 code = link[link.find("encrypted"):]
@@ -97,3 +122,4 @@ class ustvgo:
         control.sortMethod(syshandle, sortMethod)
         control.content(syshandle, 'addons')
         control.directory(syshandle, cacheToDisc=True)
+
