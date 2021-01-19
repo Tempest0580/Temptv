@@ -1,17 +1,15 @@
-Version 5.1.18 (December 19, 2020)
+Version 5.1.22 (January 18, 2021)
 - Code Base Changes:
     - None
 
 - Resolvers Added:
-    - None
+    - jetload
  
 - Resolvers Fixed/Updated:
-    - Dailymotion
-    - Fembed
-    - Streamz
-    - Upstream
-    - Vidlox
-    - Youdbox 
+    - videossh
+    - voe.sx
+    - evoload
+    - doodstream
 
 - Resolvers Removed
     - None

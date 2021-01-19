@@ -2,9 +2,8 @@
 # --[ From JewBMX & Tempest ]--
 # IPTV Indexer made just for the one site as of now.
 
-import re, os, sys, urllib, json, urlparse
+import re, os, sys, urllib, json, urlparse, base64
 import xbmc, xbmcgui, xbmcplugin
-import js2py
 from resources.lib.modules import log_utils
 from resources.lib.modules import client
 from resources.lib.modules import control
@@ -57,18 +56,8 @@ class ustvgo:
             log_utils.log('---2EMBED Testing - Exception: \n' + str(link))
             link = client.request(link, headers=self.headers)
             try:
-                code = link[link.find("encrypted"):]
-                code = code[:code.find("</script>")]
-                file_code = re.findall(r"file.+", code)[0]
-                file_code = "var link = " + file_code[file_code.find(":") + 1: file_code.find(",")]
-                code = code[:code.find("var player")]
-                code = code + file_code
-                crypto_min = self.base_link + "/Crypto/crypto.min.js"
-                addional_code = client.request(crypto_min, headers=self.headers)
-                code = addional_code + code
-                context = js2py.EvalJs(enable_require=True)
-                link = context.eval(code)
-                link = link.replace("\r", "").replace("\n", "")
+                code = re.findall('atob\(\'(.+?)\'', link)[0]
+                link = base64.b64decode(code)
                 link = '%s|User-Agent=%s&Referer=%s' % (link, client.agent(), self.base_link)
                 control.execute('PlayMedia(%s)' % link)
             except:

@@ -77,7 +77,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.temptv" version="2.0.82" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
+<addon id="plugin.video.temptv" version="2.0.83" name="[COLOR fuchsia]TempTV[/COLOR]" provider-name="Tempest, JewBMX">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.temptv.artwork" />
@@ -102,7 +102,7 @@
 			<fanart>fanart.jpg</fanart>
 		</assets>
 		<news>
-			v2.0.82
+			v2.0.83
 - Fixed UstvGo
 		</news>
 	</extension>
@@ -120,7 +120,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.18" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.22" provider-name="gujal">
     <requires>
         <!-- <import addon="xbmc.python" version="3.0.0" /> -->
         <import addon="script.module.six" />
